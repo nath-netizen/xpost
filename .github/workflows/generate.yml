@@ -1,0 +1,56 @@
+name: generate-drafts
+
+# Runs the harness on a schedule and opens a PR with the new drafts.
+# Reviewing/merging the PR is your approval gate — nothing posts automatically.
+on:
+  schedule:
+    # Times are UTC. GitHub may delay scheduled runs by a few minutes.
+    - cron: "0 13 * * *" # ~morning (US)
+    - cron: "0 19 * * *" # ~midday (US)
+    - cron: "0 1 * * *" # ~evening (US)
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: "How many drafts to generate (1-20)"
+        required: false
+        default: "12"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Generate drafts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          STP_MODEL: ${{ vars.STP_MODEL }}
+          STP_POST_COUNT: ${{ github.event.inputs.post_count || vars.STP_POST_COUNT || '12' }}
+          STP_LOOKBACK_HOURS: ${{ vars.STP_LOOKBACK_HOURS || '24' }}
+        run: npm run generate
+
+      - name: Open review PR with new drafts
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: drafts/run-${{ github.run_id }}
+          commit-message: "drafts: batch from ${{ github.run_id }}"
+          title: "Draft posts — ${{ github.run_id }}"
+          body: |
+            Fresh batch of candidate posts from the harness.
+
+            **Review them in the `queue/*.md` file in this PR.** To approve a draft,
+            set its `status` to `approved` in the matching `queue/*.json`, then run
+            `npm run post` (locally or via the post workflow). Merge when you're happy.
+          add-paths: |
+            queue/

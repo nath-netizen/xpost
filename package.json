@@ -1,0 +1,25 @@
+{
+  "name": "signal-to-post",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Agentic harness that scans trending neurodivergence/autism/PDA/mental-health discourse and drafts short, engaging posts into a review queue.",
+  "scripts": {
+    "generate": "tsx src/index.ts",
+    "approve": "tsx src/approve.ts",
+    "post": "tsx src/post.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
+    "zod": "^3.25.76"
+  },
+  "optionalDependencies": {
+    "twitter-api-v2": "^1.27.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

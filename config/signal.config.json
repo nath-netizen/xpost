@@ -1,0 +1,36 @@
+{
+  "//": "Edit this file to steer what the harness pays attention to. No code changes needed.",
+
+  "topics": [
+    "autism in adults (late-diagnosed, masking, burnout)",
+    "PDA (Pathological Demand Avoidance / Persistent Drive for Autonomy)",
+    "neurodivergence at work and accommodations",
+    "ADHD and executive function",
+    "autistic/AuDHD parenting and PDA kids",
+    "mental health, nervous-system regulation, and autistic burnout",
+    "demand avoidance, autonomy, and low-demand parenting approaches"
+  ],
+
+  "accounts": [
+    "Add the @handles of people you follow whose framing you want to echo.",
+    "These are used as *style and theme cues* for web-search discovery — the harness",
+    "does NOT log into X. Example: @AutsdViking, @ProfMattLerner, @kieranrose7"
+  ],
+
+  "avoid": [
+    "Functioning labels (high/low functioning)",
+    "Person-first 'person with autism' framing — prefer identity-first 'autistic person' unless a source clearly prefers otherwise",
+    "Cure/treatment framing for autism itself",
+    "Inspiration-porn and pity angles",
+    "Medical claims, diagnosis-by-tweet, or anything that reads as clinical advice",
+    "Engagement-bait outrage and dunking on individuals"
+  ],
+
+  "preferred_post_shapes": [
+    "reframe (challenge a common misconception with a kinder, truer frame)",
+    "validation (name an experience the community rarely sees named)",
+    "micro-insight (one sharp, quotable idea)",
+    "practical (one concrete, low-demand strategy)",
+    "question (an honest, discussion-opening question)"
+  ]
+}
