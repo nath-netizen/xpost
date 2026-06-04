@@ -4,8 +4,9 @@ An agentic harness that scans what the **autism / PDA / neurodivergence / mental
 corner of the internet is talking about right now, and drafts **5–20 short, engaging posts**
 into a review queue — several times a day, automatically. Nothing posts without your approval.
 
-It runs on **Claude** (the only required credential) with Claude's **built-in web search**,
-so it needs **no paid X/Twitter API** to find trends.
+It runs on your **Claude Code subscription** (Pro/Max) via the **Claude Agent SDK** with
+Claude's **built-in web search** — so it needs **no Anthropic API key** (no per-token
+billing) and **no paid X/Twitter API** to find trends.
 
 ---
 
@@ -53,9 +54,13 @@ typed data. Separating them makes each cheaper to run, easier to tune, and easie
 
 ```bash
 npm install
-cp .env.example .env        # add your ANTHROPIC_API_KEY
+claude login                # one-time: authenticate with your Claude subscription
 npm run generate            # scan + draft a batch into queue/
 ```
+
+The harness authenticates through the Claude Agent SDK using your Claude Code login —
+**no `ANTHROPIC_API_KEY` required.** (If `ANTHROPIC_API_KEY` is set in your environment it
+takes precedence over the subscription, so `unset` it if you want to run on your plan.)
 
 Open the newest `queue/*.md`, read the drafts, then:
 
@@ -75,12 +80,22 @@ _would_ post, so you can use the whole loop today without ever connecting to X.
 **pull request** with each new batch. The PR _is_ your review surface — read the drafts in
 the PR, approve the ones you want, merge.
 
+The workflow runs on your subscription too — it authenticates with a long-lived OAuth token
+minted from your plan, not an API key.
+
 After pushing this repo to GitHub:
 
-1. **Settings → Secrets and variables → Actions → New repository secret**
-   - `ANTHROPIC_API_KEY` = your key
-2. (Optional) add repository **variables**: `STP_MODEL`, `STP_POST_COUNT`, `STP_LOOKBACK_HOURS`.
-3. Adjust the `cron:` lines to the times/frequency you want (they're in UTC).
+1. Mint a subscription token locally:
+   ```bash
+   claude setup-token
+   ```
+2. **Settings → Secrets and variables → Actions → New repository secret**
+   - `CLAUDE_CODE_OAUTH_TOKEN` = the token from step 1
+3. (Optional) add repository **variables**: `STP_MODEL`, `STP_POST_COUNT`, `STP_LOOKBACK_HOURS`.
+4. Adjust the `cron:` lines to the times/frequency you want (they're in UTC).
+
+> The OAuth token is long-lived but not permanent — if scheduled runs start failing with an
+> auth error down the line, re-run `claude setup-token` and update the secret.
 
 You can also trigger a run by hand from the **Actions** tab (workflow_dispatch).
 
@@ -112,16 +127,16 @@ refuses to publish over-280-character drafts and skips anything not explicitly a
 
 ## Configuration reference
 
-| Env var              | Default           | Meaning                                        |
-| -------------------- | ----------------- | ---------------------------------------------- |
-| `ANTHROPIC_API_KEY`  | —  (required)     | Your Claude API key.                           |
-| `STP_MODEL`          | `claude-opus-4-8` | Set to `claude-sonnet-4-6` for ~⅔ lower cost.  |
-| `STP_POST_COUNT`     | `12`              | Drafts per run (clamped 1–20).                 |
-| `STP_LOOKBACK_HOURS` | `24`              | How far back the trend scan looks.             |
+| Env var                   | Default           | Meaning                                                         |
+| ------------------------- | ----------------- | --------------------------------------------------------------- |
+| `CLAUDE_CODE_OAUTH_TOKEN` | —                 | Subscription token for CI (`claude setup-token`). Not needed locally if you've run `claude login`. |
+| `STP_MODEL`               | `claude-opus-4-8` | Set to `claude-sonnet-4-6` for a lighter, faster run.           |
+| `STP_POST_COUNT`          | `12`              | Drafts per run (clamped 1–20).                                  |
+| `STP_LOOKBACK_HOURS`      | `24`              | How far back the trend scan looks.                              |
 
-**Cost note:** each run is two Claude calls (one with web search). On Opus that's roughly a
-few cents to ~$0.20/run depending on how much it searches; on Sonnet, less. Three runs/day is
-cheap — but set `STP_MODEL=claude-sonnet-4-6` if you want to keep it minimal.
+**Cost note:** each run is two Claude calls (one with web search), billed against your Claude
+**subscription** rather than per-token API usage — so three runs/day costs nothing extra
+beyond your plan. Use `STP_MODEL=claude-sonnet-4-6` if you'd rather the runs be lighter.
 
 ---
 

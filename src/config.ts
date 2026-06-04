@@ -25,13 +25,9 @@ function clamp(n: number, lo: number, hi: number): number {
 }
 
 export function loadConfig(): RunConfig {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) {
-    throw new Error(
-      "ANTHROPIC_API_KEY is not set. Copy .env.example to .env and fill it in.",
-    );
-  }
-
+  // Auth is handled by the Claude Agent SDK via your Claude Code subscription:
+  // an interactive `claude` login locally, or CLAUDE_CODE_OAUTH_TOKEN in CI.
+  // No ANTHROPIC_API_KEY required.
   const signalRaw = readFileSync(join(root, "config", "signal.config.json"), "utf8");
   const signal = JSON.parse(signalRaw) as SignalConfig;
   const voice = readFileSync(join(root, "config", "voice.md"), "utf8");
