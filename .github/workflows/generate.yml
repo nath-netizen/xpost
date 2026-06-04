@@ -28,13 +28,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-          cache: "npm"
 
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
 
       - name: Generate drafts
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Subscription auth (no API key). Mint with `claude setup-token` and
+          # store as the CLAUDE_CODE_OAUTH_TOKEN repo secret.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           STP_MODEL: ${{ vars.STP_MODEL }}
           STP_POST_COUNT: ${{ github.event.inputs.post_count || vars.STP_POST_COUNT || '12' }}
           STP_LOOKBACK_HOURS: ${{ vars.STP_LOOKBACK_HOURS || '24' }}

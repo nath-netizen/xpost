@@ -1,65 +1,47 @@
-import Anthropic from "@anthropic-ai/sdk";
+import { query } from "@anthropic-ai/claude-agent-sdk";
 import type { RunConfig } from "./config.js";
 import { researchSystemPrompt, researchUserPrompt } from "./prompts.js";
 
 /**
- * Stage 1 — scan current discourse via web search and return a free-form
- * "angle briefing" the writer stage consumes. Web search runs server-side;
- * we stream (to avoid HTTP timeouts on long search loops) and resume on
- * `pause_turn` until the model finishes.
+ * Stage 1 — scan current discourse via the Agent SDK's web search and return a
+ * free-form "angle briefing" the writer stage consumes.
+ *
+ * Runs on your Claude Code subscription (no API key): the SDK picks up your
+ * interactive `claude` login locally, or `CLAUDE_CODE_OAUTH_TOKEN` in CI. The
+ * SDK manages the server-side search/tool loop internally, so we just collect
+ * the final result.
  */
-export async function research(client: Anthropic, cfg: RunConfig): Promise<string> {
-  const system: Anthropic.TextBlockParam[] = [
-    {
-      type: "text",
-      text: researchSystemPrompt(cfg),
-      cache_control: { type: "ephemeral" },
-    },
-  ];
+export async function research(cfg: RunConfig): Promise<string> {
+  let result = "";
 
-  const messages: Anthropic.MessageParam[] = [
-    { role: "user", content: researchUserPrompt(cfg) },
-  ];
-
-  let lastUsage: Anthropic.Usage | undefined;
-
-  for (let i = 0; i < 6; i++) {
-    const stream = client.messages.stream({
+  for await (const message of query({
+    prompt: researchUserPrompt(cfg),
+    options: {
       model: cfg.model,
-      max_tokens: 8000,
-      system,
-      messages,
-      tools: [{ type: "web_search_20260209", name: "web_search" }],
-    });
-    const message = await stream.finalMessage();
-    lastUsage = message.usage;
-
-    if (message.stop_reason === "pause_turn") {
-      // Server-side tool loop hit its iteration cap — append and resume.
-      messages.push({ role: "assistant", content: message.content });
-      continue;
+      systemPrompt: researchSystemPrompt(cfg),
+      // Pre-approve only the search tools so the run is fully unattended
+      // without `--dangerously-skip-permissions` (which refuses to run as root).
+      allowedTools: ["WebSearch", "WebFetch"],
+      permissionMode: "default",
+      maxTurns: 30,
+    },
+  })) {
+    if (message.type === "result") {
+      if (message.subtype === "success") {
+        result = message.result.trim();
+        console.log(`[research] turns=${message.num_turns}`);
+      } else {
+        throw new Error(
+          `Research stage failed (${message.subtype}). Check Claude Code auth / web search access.`,
+        );
+      }
     }
-
-    const text = message.content
-      .filter((b): b is Anthropic.TextBlock => b.type === "text")
-      .map((b) => b.text)
-      .join("\n")
-      .trim();
-
-    if (!text) {
-      throw new Error("Research stage returned no text. Check API access / web search availability.");
-    }
-    logUsage("research", lastUsage);
-    return text;
   }
 
-  throw new Error("Research stage did not converge after 6 continuations.");
-}
-
-function logUsage(stage: string, usage?: Anthropic.Usage): void {
-  if (!usage) return;
-  const cached = usage.cache_read_input_tokens ?? 0;
-  console.log(
-    `[${stage}] in=${usage.input_tokens} cached=${cached} out=${usage.output_tokens}`,
-  );
+  if (!result) {
+    throw new Error(
+      "Research stage returned no text. Check Claude Code auth / web search availability.",
+    );
+  }
+  return result;
 }
