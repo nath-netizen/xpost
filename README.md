@@ -130,13 +130,14 @@ refuses to publish over-280-character drafts and skips anything not explicitly a
 | Env var                   | Default           | Meaning                                                         |
 | ------------------------- | ----------------- | --------------------------------------------------------------- |
 | `CLAUDE_CODE_OAUTH_TOKEN` | —                 | Subscription token for CI (`claude setup-token`). Not needed locally if you've run `claude login`. |
-| `STP_MODEL`               | `claude-opus-4-8` | Set to `claude-sonnet-4-6` for a lighter, faster run.           |
+| `STP_MODEL`               | `claude-sonnet-4-6` | Lighter on your subscription. Set to `claude-opus-4-8` for the most capable (heavier) model. |
 | `STP_POST_COUNT`          | `12`              | Drafts per run (clamped 1–20).                                  |
 | `STP_LOOKBACK_HOURS`      | `24`              | How far back the trend scan looks.                              |
 
-**Cost note:** each run is two Claude calls (one with web search), billed against your Claude
-**subscription** rather than per-token API usage — so three runs/day costs nothing extra
-beyond your plan. Use `STP_MODEL=claude-sonnet-4-6` if you'd rather the runs be lighter.
+**Usage note:** each run is two Claude calls (one with web search), drawn from your Claude
+**subscription** rather than per-token API usage. The default is Sonnet to keep within your
+plan's usage limits across multiple runs a day; switch to `STP_MODEL=claude-opus-4-8` for
+higher quality if your plan has the headroom.
 
 ---
 

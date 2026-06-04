@@ -38,7 +38,7 @@ export function loadConfig(): RunConfig {
   );
 
   return {
-    model: process.env.STP_MODEL?.trim() || "claude-opus-4-8",
+    model: process.env.STP_MODEL?.trim() || "claude-sonnet-4-6",
     postCount: clamp(Number(process.env.STP_POST_COUNT ?? 12) || 12, 1, 20),
     lookbackHours: clamp(Number(process.env.STP_LOOKBACK_HOURS ?? 24) || 24, 1, 168),
     signal: { ...signal, accounts },
