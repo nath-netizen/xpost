@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-06-04T17:37:30.747Z",
+  "model": "claude-opus-4-8",
+  "items": [
+    {
+      "text": "No single mask breaks you. Masking debt is the interest — years of overriding your real responses to fit a world that wasn't built for you. People who \"seemed fine for decades\" aren't suddenly fragile. The bill just came due.",
+      "shape": "reframe",
+      "rationale": "Turns the 'debt' metaphor from the briefing into a quotable reframe that explains the late-onset burnout collapse without pathologizing. Identity-neutral, no advice, high recognition for late-diagnosed adults.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T17-37-30-01",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "For a lot of ADHDers, bracing for rejection hurts worse than the rejection itself. You flinch harder than the moment actually lands. Being told you're \"oversensitive\" just deepens it. That's a sensitization pattern, not drama.",
+      "shape": "validation",
+      "rationale": "Names the precise anticipation>event mechanism from the 2026 RSD study. Kept experiential to avoid clinical overreach; counters the 'oversensitive' shame the study itself flags.",
+      "source_url": "https://www.psychologytoday.com/us/blog/if-i-be-waspish/202604/rejection-sensitivity-dysphoria-the-actual-research",
+      "sensitivity_flag": "Describes an emotional pattern, not a diagnosis or treatment — kept first-person/experiential to stay clear of medical-claim territory; confident it's within the rules.",
+      "id": "2026-06-04T17-37-30-02",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "What if \"poor social skills\" was never the whole story? The communication gap between autistic and non-autistic people runs both ways — and autistic people often connect easily with each other. So who's really missing whom?",
+      "shape": "question",
+      "rationale": "Poses the double empathy problem as genuine inquiry, matching the live Milton/Fellowes debate. 'Often' hedges the autistic-autistic claim per the source; opens conversation rather than baiting.",
+      "source_url": "https://neurodivergentinsights.com/the-double-empathy-problem-in-medicine/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T17-37-30-03",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    }
+  ]
+}
