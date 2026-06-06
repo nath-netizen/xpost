@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-06T20:12:02.695Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "PDA demand avoidance isn't defiance. It's a system of learned protector parts keeping something vulnerable safe. That's not a behaviour to manage — it's a history to understand.",
+      "shape": "reframe",
+      "rationale": "Challenges the 'won't vs. can't' binary using the IFS protector-parts frame from the May 2026 Psychology Today piece. Centres the PDAer's dignity without pathologising the avoidance. Short and quotable.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-01",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "If autistic burnout recovery still feels flat after rest, you might be missing the other half. What actually shifts things: sensory nourishment, special-interest time — small signals that it's safe to exist again.",
+      "shape": "practical",
+      "rationale": "Names the specific gap in rest-only burnout advice without making anyone feel they're recovering wrong. Gives concrete language for what's actually missing — earns its place as practical rather than preachy.",
+      "source_url": "https://neurodivergentinsights.com/managing-burnout-with-rest-and-pleasure/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-02",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis grief isn't grief about being autistic. It's grief about time lost to a world that couldn't see you — and memories that now need reordering. Relief and grief can coexist in the same moment.",
+      "shape": "validation",
+      "rationale": "Names the 'grief of revisiting the past' theme from the 2026 SAGE peer-reviewed study without overgeneralising. Reframes diagnosis as neither tidy resolution nor tragedy — captures the coexistence that mainstream coverage almost always misses.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-03",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "'Just start' assumes your nervous system treats the task as a nuisance. For demand-avoidant AuDHD adults, it can register as a threat. The advice isn't just unhelpful — it can trigger freeze.",
+      "shape": "micro-insight",
+      "rationale": "One sharp, quotable idea that explains why the productivity industry fails demand-avoidant profiles. High recognition factor for people who have blamed themselves for failing every system. Self-contained; no setup needed.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-04",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 University of Hertfordshire study found sensory reactivity predicted demand avoidance in PDA profiles even after controlling for anxiety. In children without PDA profiles, sensory variables added nothing. The body is doing something anxiety doesn't fully explain.",
+      "shape": "reframe",
+      "rationale": "Leads with peer-reviewed research (n=795) to challenge the dominant 'PDA is anxiety-driven' clinical frame. Science catching up to what advocates have argued from lived experience — strong reshare candidate among both community members and clinicians.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S3050656526000301",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-05",
+      "status": "draft",
+      "char_count": 270,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout: the autistic nervous system needs predictability to recover. The ADHD nervous system needs novelty to feel alive. In burnout, both needs intensify at once. That's not a personal failure — it's the neurotype.",
+      "shape": "micro-insight",
+      "rationale": "Names the specific paradox that makes AuDHD burnout recovery so underserved by standard advice. Validates the experience without being saccharine; explains why both rest-only and stimulation-based approaches can simultaneously feel wrong.",
+      "source_url": "https://neurodivergentinsights.com/managing-burnout-with-rest-and-pleasure/",
+      "sensitivity_flag": "Slight generalisation: 'the autistic nervous system' and 'the ADHD nervous system' describe tendencies, not universals. The claim is grounded in inertia research and community writing but is broad. Consider softening to 'many AuDHD people find...' if the account typically hedges neurotype-level claims.",
+      "id": "2026-06-06T20-12-02-06",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "Neurodivergent disclosure is supposedly more normalised. So why does 70% of neurodivergent Gen Z workers fear it will hurt their career — up from 59% two years ago? The culture shifted. The institutions haven't.",
+      "shape": "question",
+      "rationale": "Surfaces real survey data that validates a felt community grievance, then ends on a sharp tension rather than a manufactured cliffhanger. Opens genuine discussion without outrage bait. The final two sentences land as statement, not lecture.",
+      "source_url": "https://www.understood.org/en/press-releases/neurodiversity-at-work-survey-reveals-persistent-stigma-and-role-for-ai-in-the-workplace",
+      "sensitivity_flag": "Statistics drawn directly from the Understood.org 2026 'Neurodiversity at Work' survey as cited in the briefing. Verify the exact figures (70%, 59% baseline year) against the primary source before posting.",
+      "id": "2026-06-06T20-12-02-07",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting can be transformative for PDA families. But it doesn't always work in isolation — school trauma and parental burnout can stall it. What did you need alongside it?",
+      "shape": "question",
+      "rationale": "Opens a community discussion on the gap between low-demand philosophy and real implementation conditions. Non-judgmental toward the approach; honest about its limits. Invites practical wisdom-sharing rather than debate about the concept itself.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-08",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis doesn't just answer questions. It sends you back through your life re-reading every memory with new eyes. That disorientation is real, and most mainstream spaces still don't have a name for it.",
+      "shape": "validation",
+      "rationale": "Captures the 'shock of the new self' theme from the SAGE 2026 study in accessible language. Names the experience without resolving it — leaves space for readers to locate themselves in it without prescribing how they should feel.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-09",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    },
+    {
+      "text": "'I've been resting but I still feel empty' is a real experience in autistic burnout — not a sign you're doing it wrong. Rest reduces depletion. Pleasure and aliveness signal to the nervous system that it's safe to come back.",
+      "shape": "validation",
+      "rationale": "Directly names the guilt loop the briefing identifies — 'I rested, so why don't I feel better?' — and reframes it as structural, not personal. Introduces the rest-plus-pleasure distinction without prescribing a programme.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-10",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "When a PDAer avoids a demand, the useful question isn't 'why won't they?' It's: what is this system protecting — and is that protection still necessary? Compliance-based framing skips the question entirely.",
+      "shape": "practical",
+      "rationale": "Translates the IFS protector-parts frame into a concrete shift in orientation for caregivers and clinicians. Offers an alternative move rather than just criticising existing approaches — practical without being prescriptive.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": "'Compliance-based framing skips the question entirely' is a strong claim that could read as dismissive toward caregivers or clinicians doing their best. Defensible from the source, but worth flagging if the account has a significant professional readership.",
+      "id": "2026-06-06T20-12-02-11",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "Before reading a PDA child's response as refusal, check the sensory environment. New research suggests tactile sensitivity predicts demand avoidance independently of anxiety.",
+      "shape": "practical",
+      "rationale": "Translates the 2026 University of Hertfordshire finding into a single actionable shift for parents and educators. Shortest post in the set — earned brevity, not under-baked. The implication ('look before you label') does the heavy lifting.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S3050656526000301",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T20-12-02-12",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    }
+  ]
+}
