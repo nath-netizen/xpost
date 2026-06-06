@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-06T09:39:12.587Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "If your burnout felt more permanent and more total than anything you'd heard described — there's a reason. Research shows autistic adults diagnosed in adulthood experience burnout as more chronic and more confusing. You weren't being dramatic.",
+      "shape": "validation",
+      "rationale": "Names the 'permanent, total' quality of late-diagnosed burnout that many autistic adults recognise but rarely see validated. Draws directly on the Ali, Mandy & Happé (2026) qualitative study. Closes with a single sentence of recognition rather than a call to action.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-01",
+      "status": "draft",
+      "char_count": 243,
+      "over_limit": false
+    },
+    {
+      "text": "'Regression' implies you're losing ground you'll never get back. That's not what's happening. Autistic capacity fluctuates — it's not a slope, it's a spiky profile. What looks like loss is often burnout. It can come back.",
+      "shape": "reframe",
+      "rationale": "Challenges the ominous clinical weight of 'regression' with the more accurate and kinder 'fluctuating capacity' framing. The spiky profile language lands with autistic readers. Ends on a factual note of possibility without overpromising.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-02",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    },
+    {
+      "text": "'I can't get started' and 'this demand feels threatening' both look like avoidance. They need opposite responses. Pressing harder sometimes helps executive dysfunction. It almost always worsens demand avoidance.",
+      "shape": "micro-insight",
+      "rationale": "Delivers the executive dysfunction vs. demand avoidance distinction in its most economical form. 'Opposite responses' is the quotable hook; the final sentence is the actionable takeaway that earns the share.",
+      "source_url": "https://www.scienceworkshealth.com/post/executive-dysfunction-vs-demand-avoidance-how-evaluations-tell-them-apart",
+      "sensitivity_flag": "The line 'pressing harder sometimes helps executive dysfunction' risks being read as endorsing pressure on autistic or ADHD people broadly. The 'sometimes' hedge is present but 'can help with initiation for some people' would be safer and still punchy.",
+      "id": "2026-06-06T09-39-12-03",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD means carrying two recovery protocols that contradict each other. The autistic side needs stillness. The ADHD side needs movement. The friction of that conflict — before you've done anything — is its own form of exhaustion.",
+      "shape": "micro-insight",
+      "rationale": "Names the contradiction load concept precisely and concretely. The insight that the friction itself is exhausting — independent of any task — is the emotional and intellectual hook for AuDHD readers who rarely see this named.",
+      "source_url": "https://sensoryoverload.info/audhd/audhd-burnout-why-the-contradiction-load-hits-so-hard-and-what-helps/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-04",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "Things you're allowed to ask for at work that nobody tells you: written instructions instead of verbal. Async check-ins. A no-camera option. Buffer time between tasks. Over two thirds of neurodivergent employees didn't know these were options.",
+      "shape": "practical",
+      "rationale": "Reframes the accommodation knowledge gap as systemic ignorance rather than individual failure. The list is concrete and low-demand to absorb; the closing stat lands the point that 'why didn't I know?' is a structural problem, not a personal oversight.",
+      "source_url": "https://employu.org/2026/03/06/accommodations-that-work-real-world-strategies-for-neurodivergent-employees/",
+      "sensitivity_flag": "The '⅔ didn't know' statistic should be verified against the EmployU source directly — the briefing paraphrases it as awareness of accommodations broadly, and 'these were options' narrows the referent to the specific list above.",
+      "id": "2026-06-06T09-39-12-05",
+      "status": "draft",
+      "char_count": 243,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting changed our family. So why do some days still feel impossible? Not a critique — a real question about what happens when the approach is working and the plateau still hits.",
+      "shape": "question",
+      "rationale": "Opens space for PDA parenting communities to discuss the second layer of shame when low-demand approaches plateau. The explicit 'not a critique' framing protects against being read as undermining a hard-won community framework.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-06",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "Most autism parenting support assumes a neurotypical parent. If you're autistic, in burnout, and also the person your autistic child needs — that collision is real and almost never talked about.",
+      "shape": "validation",
+      "rationale": "Names an underserved experience with no excess framing. The word 'collision' does the work — precise without being melodramatic. Recognition potential is high because this specific overlap is almost never addressed in either autistic adult or parenting content.",
+      "source_url": "https://autismspectrumnews.org/navigating-autistic-burnout-as-an-autistic-parent/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-07",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "'Just rest' is the default burnout advice. Many autistic people have followed it, still not recovered, and blamed themselves. Burnout often needs replenishment — low-demand things that are genuinely pleasurable — not just an absence of demands.",
+      "shape": "reframe",
+      "rationale": "Challenges 'rest = lying still doing nothing' with the more accurate replenishment framing. The self-blame sentence is the validation hook; the reframe gives readers a different lens for what recovery actually requires rather than prescribing a method.",
+      "source_url": "https://neurodivergentinsights.com/managing-burnout-with-rest-and-pleasure/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-08",
+      "status": "draft",
+      "char_count": 244,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance often eases when a demand is reframed as a choice. Executive dysfunction doesn't care how it's framed — it just can't initiate. Looks the same from outside. Completely different problem.",
+      "shape": "micro-insight",
+      "rationale": "A practical companion to the 'opposite responses' post — this one gives readers an internal heuristic rather than describing the problem from outside. The blunt closing sentence is intentional and fits the voice.",
+      "source_url": "https://www.commonwealthautism.org/demand-avoidance/",
+      "sensitivity_flag": "Reframing as 'a choice' easing demand avoidance is useful but not universal across PDAers — 'often eases' hedges this, but 'can ease' would be more defensible if challenged.",
+      "id": "2026-06-06T09-39-12-09",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed autistic adults describe burnout as more total, more confusing — and more dangerous — than those diagnosed in childhood. Without a framework for what was happening, there was no way to protect yourself from it.",
+      "shape": "validation",
+      "rationale": "A harder-hitting companion to the first post. 'More dangerous' does the work — it alludes to the study's serious downstream findings without naming them explicitly, respecting the audience without sanitising the reality.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": "'More dangerous' alludes to the study's findings on suicidality and substance use — real and sourced, but unnamed. Check whether the ambiguity reads as validating or as alarmist without context, and whether the source URL accompanying the post is enough to anchor it.",
+      "id": "2026-06-06T09-39-12-10",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "What does co-regulation look like when both people need it at the same time? Not rhetorical — asking for every autistic parent of an autistic child who's ever hit capacity in the same moment.",
+      "shape": "question",
+      "rationale": "Opens a genuine question the community hasn't answered. The dry aside 'not rhetorical' signals an invitation to respond rather than a conversation-stopper, which fits the voice guide's 'could start a genuine conversation' criterion.",
+      "source_url": "https://autismspectrumnews.org/navigating-autistic-burnout-as-an-autistic-parent/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-11",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "If a skill you had seems harder now, the question isn't 'what did I lose?' It's 'what's the load on my nervous system right now?' Capacity isn't fixed. It fluctuates. That framing changes everything.",
+      "shape": "reframe",
+      "rationale": "Provides a practical internal prompt for autistic people experiencing what feels like decline. Replaces the loss frame with a conditions frame — a shift that is both kinder and more useful. Short final sentences give it a punchy, quotable cadence.",
+      "source_url": "https://www.neurorebelpodcast.com/blog/when-your-life-map-changes-the-reality-of-late-diagnosed-autism-burnout-and-skill-regression/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T09-39-12-12",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    }
+  ]
+}
