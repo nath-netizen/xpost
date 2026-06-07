@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-07T17:55:06.041Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "\"Grelief.\" Grief and relief, fused into one word by a late-diagnosed autistic research participant, because nothing else existed to name what a late diagnosis actually feels like. It's now in the academic literature.",
+      "shape": "micro-insight",
+      "rationale": "The word itself is the post. Names a genuinely unnamed emotional experience with a sourced, peer-reviewed origin. Self-contained — reader either recognises it or learns something real.",
+      "source_url": "https://sciety.org/articles/activity/10.31234/osf.io/yf8xj_v1",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-01",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis can hit with two things at once: relief that it finally makes sense, and grief for the years spent not knowing. A research participant coined a word for that: grelief. Because nothing else held both.",
+      "shape": "validation",
+      "rationale": "Leads with the felt experience before the word, so readers recognise themselves first. Different entry point from post 1 — emotional before lexical. Sourced to 2026 SAGE paper on Australian women's late diagnosis experiences.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-02",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "New IFS frame for PDA: the demand avoidance isn't the disorder. It's a protective part that grew up around an autonomy-threat neurology in a world that met it badly. The neurology came first.",
+      "shape": "reframe",
+      "rationale": "Flips the shame direction entirely — from 'what's wrong with you' to 'what is your system protecting'. Grounded in a sourced May 2026 Psychology Today piece. Avoids clinical advice framing by describing the frame, not prescribing treatment.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to-protect-it",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-03",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "What if the question isn't \"how do we reduce PDA avoidance\" but \"what is the avoidance protecting, and why does it still need to?\"",
+      "shape": "question",
+      "rationale": "Sharpened version of the PDA reframe as an open question. Shifts the intervention target without stating a clinical position. Short, invites genuine reply without manufactured tension.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to-protect-it",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-04",
+      "status": "draft",
+      "char_count": 130,
+      "over_limit": false
+    },
+    {
+      "text": "\"You seemed totally fine.\" That sentence, said to an autistic person mid-shutdown, has its own particular loneliness. Shutdown looks like calm from the outside. That's not what it is from the inside.",
+      "shape": "validation",
+      "rationale": "Names the gap between external appearance and internal reality during autistic shutdown. The 'you seemed fine' framing mirrors the specific pain point in community discourse — being blamed for character rather than understood physiologically.",
+      "source_url": "https://sensoryoverload.info/neurodiversity/shutdown-vs-meltdown-in-neurodivergent-adults/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-05",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "Shutdown and meltdown aren't the same thing. One is externally visible. The other looks like calm. That's the entire problem — and why \"you seemed fine\" gets said so often.",
+      "shape": "micro-insight",
+      "rationale": "Crisp distinction that many people conflate. Educational without being clinical. Different angle from the shutdown validation post — that one names the loneliness; this one names the mechanism.",
+      "source_url": "https://neurosparkhealth.com/autism/functional-freeze-state",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-06",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "The double empathy model said misunderstanding goes both ways. A 2026 paper goes further — calling it mutual erases the power differential. Autistic people are the ones penalised for the gap. That's not symmetry.",
+      "shape": "reframe",
+      "rationale": "Advances the double empathy conversation in a direction the community is ready for. Framed as the paper's argument, not established consensus — appropriate given paywall limitations noted in the briefing.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/09515089.2026.2651512",
+      "sensitivity_flag": "Source article is paywalled. Argument confirmed via abstract and search results but full text was not independently verified. Recommend confirming the paper's exact framing before publishing to ensure the 'affective injustice' characterisation is not overstated.",
+      "id": "2026-06-07T17-55-06-07",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Under the ADA, you don't have to name your diagnosis to request a workplace accommodation. \"I need an adjustment for a medical reason\" is enough. You can protect your privacy and still ask for what you need.",
+      "shape": "practical",
+      "rationale": "Immediately actionable, addresses a documented knowledge gap. Self-contained and shareable. The claim is legally defensible and grounded in the sourced ADA guidance. Speaks to a real fear — disclosure as vulnerability — and offers a concrete alternative.",
+      "source_url": "https://brettwhitmarsh.com/do-you-have-to-tell-hr-your-diagnosis-to-get-workplace-accommodations/",
+      "sensitivity_flag": "ADA is US-specific legislation. Accurate for a US audience but may not apply in other jurisdictions. Consider adding '(US)' or a brief note if posting to a global audience.",
+      "id": "2026-06-07T17-55-06-08",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "Executive function isn't a skill you train — it's a context problem you redesign. An April 2026 OT piece makes the case that targeting EF directly was always the wrong aim. Years of \"try harder\" was always aimed at the wrong thing.",
+      "shape": "reframe",
+      "rationale": "Cuts against decades of EF skills training messaging. Sourced to a 2026 OT4ADHD piece. The 'years of try harder' line earns the emotional weight without being outrage bait — it reflects a documented lived experience, not hyperbole.",
+      "source_url": "https://ot4adhd.com/2026/04/09/no-one-is-working-on-executive-function/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-09",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "One late-diagnosed autistic person put it simply: \"I'm a normal autistic person, not an abnormal neurotypical.\" Diagnosis doesn't rewrite the past. It reframes it. Every experience still happened. It just makes more sense now.",
+      "shape": "reframe",
+      "rationale": "The biographical illumination concept made accessible through a single quotable line from the research literature. Actively healing frame for people who feel late diagnosis has shattered their sense of self. Quote is attributed to a research participant, not claimed as universal.",
+      "source_url": "https://www.sciencedirect.com/article/abs/pii/S0277953617307384",
+      "sensitivity_flag": "The foundational study cited is from 2017. The concept is gaining renewed attention in 2026 late-diagnosis discourse (per SAGE 2026 paper), but the ScienceDirect URL leads to a paywalled older study. Consider citing the 2026 SAGE source instead for freshness and accessibility.",
+      "id": "2026-06-07T17-55-06-10",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting can be working exactly as designed and still be exhausting. You can be doing everything right and still be running on empty. Those aren't contradictory. The approach has real limits. You're allowed to say so.",
+      "shape": "validation",
+      "rationale": "Names an experience PDA parents rarely see validated: the strategy works and the life is still hard. Avoids abandoning or undermining the approach while making space for honest carers who have been performing okayness.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-11",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "Something almost no one says out loud about PDA family life: the approach is right, you're implementing it right, and it's still incredibly hard. What would it look like if parents were actually allowed to say that?",
+      "shape": "question",
+      "rationale": "Opens a genuine conversation about the gap between strategy and lived reality for PDA families. The question is real, not rhetorical bait. Complements the direct validation post by inviting community response rather than closing the subject.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-07T17-55-06-12",
+      "status": "draft",
+      "char_count": 215,
+      "over_limit": false
+    }
+  ]
+}
