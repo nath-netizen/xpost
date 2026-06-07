@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-07T22:52:13.374Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a mood disorder. It's a nervous system collapse from chronic overload. That's not a semantic difference — it matters for what actually helps.",
+      "shape": "reframe",
+      "rationale": "Opens with the hard distinction, avoids clinical prescription, ends on a consequence that makes the reframe feel urgent without telling anyone what to do. Clean entry point for the whole burnout conversation.",
+      "source_url": "https://theautismdoctor.substack.com/p/why-burnout-is-misdiagnosed-as-depression",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-01",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "Being told you're depressed when you're burned out means spending years treating the wrong thing. The autistic community has been naming this mismatch for a long time. It's finally getting clearer language.",
+      "shape": "validation",
+      "rationale": "Centres the community's lived experience of misidentification without diagnosing or prescribing — the observation is systemic, not clinical. Validates the frustration and the timing of the discourse arriving now.",
+      "source_url": "https://theautismdoctor.substack.com/p/why-burnout-is-misdiagnosed-as-depression",
+      "sensitivity_flag": "\"Treating the wrong thing\" is descriptive of a systemic mismatch, not a prescriptive treatment claim — but the phrasing sits close to the line. As written it should hold; watch if pulled out of context.",
+      "id": "2026-06-07T22-52-13-02",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "If you spent years being called defiant, difficult, self-sabotaging — and then found PDA as a framework — that recognition isn't you finding an excuse. It's you finding the actual mechanism.",
+      "shape": "validation",
+      "rationale": "Names the specific shame attached to PDA labels before the framework existed for a person, then reframes the discovery as mechanistic truth rather than excuse-making. Self-contained, no cliffhanger.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-03",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "New debate in the PDA world: is anxiety what drives avoidance, or is it what avoidance produces? One framing calls anxiety the engine. Another says it's just the exhaust. Which lands truer for you?",
+      "shape": "question",
+      "rationale": "Presents a live, genuine intellectual disagreement without settling it. The engine/exhaust metaphor is sharp enough to anchor real discussion. Invites the community in without manufacturing controversy.",
+      "source_url": "https://www.psychologytoday.com/us/blog/mental-health-reimagined/202604/its-time-to-rethink-the-anxiety-drives-pda-narrative",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-04",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism identification brings a specific grief nobody talks about: not the lost years, but watching the whole self-story you built come apart. The sensitive one. The high-achiever who keeps crashing. Who was that, really?",
+      "shape": "validation",
+      "rationale": "Names the under-discussed identity-dissolution grief rather than the more common relief-or-anger framing. Three recognisable archetypes without being exhaustive. Ends open, not despairing — earns its engagement honestly.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-05",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "The grief after a late diagnosis isn't about mourning autism. It's the vertigo of realising who you were was built around masking, not around you. That's disorienting. It's also the beginning of building something closer to who you actually are.",
+      "shape": "reframe",
+      "rationale": "Distinguishes identity-dissolution grief from pathologising autism, then moves toward reconstruction without minimising the disorientation. Doesn't promise resolution — just opens the door. Pairs well with the grief-naming validation post.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-06",
+      "status": "draft",
+      "char_count": 245,
+      "over_limit": false
+    },
+    {
+      "text": "For a lot of autistic and ADHD workers, remote work wasn't a perk. It was the only accommodation that actually worked — and it worked without anyone having to call it that. RTO ends it quietly.",
+      "shape": "reframe",
+      "rationale": "\"Accidental accommodation\" is the live insight — names why losing WFH hits differently than losing a comfort, without requiring anyone to have formally disclosed. Defensible and factual; sourced from May 2026 coverage.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-07",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "If an RTO mandate just landed: you can ask for written communication preference, async alternatives for meetings, and workspace sensory modifications. Specific, documented, real requests — not edge cases.",
+      "shape": "practical",
+      "rationale": "Follows the reframe with three concrete, actionable items drawn from the sourced list. Framed as empowering, not as legal guidance. Specific enough to be useful; short enough to be read in full.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-08",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of autistic and AuDHD people don't get the warning ramp. Hunger is fine, fine, fine — then urgent. Fatigue is manageable — then a wall. There's no middle. That's not being dramatic. It's an interoception difference.",
+      "shape": "micro-insight",
+      "rationale": "The three-beat rhythm (fine, fine, fine — then urgent) mimics the experience in its own form. Closes with a reframe that validates without diagnosing. The recognition itself is the value; no practical ask needed here.",
+      "source_url": "https://www.kelly-mahler.com/resources/blog/autistic-burnout-what-it-is-why-it-happens-and-how-interoception-can-help/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-09",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting doesn't mean no expectations. It means removing unnecessary control friction so a PDA nervous system can actually access its own capacity. Most conventional approaches do the opposite — and wonder why it's not working.",
+      "shape": "reframe",
+      "rationale": "Takes the permissive-parent charge head-on and explains the mechanism without jargon. Centres the parent's experience of watching conventional wisdom detonate. \"A PDA nervous system\" keeps it specific, not a universal claim.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-10",
+      "status": "draft",
+      "char_count": 239,
+      "over_limit": false
+    },
+    {
+      "text": "Accountability buddies, streaks, deadlines, eating the frog. For demand avoidance, these don't just fail — they generate shame that deepens the avoidance. The problem isn't willpower. The approach is wrong.",
+      "shape": "practical",
+      "rationale": "Names the specific tools that backfire and the mechanism (shame → more avoidance) without dwelling in failure. Short, punchy, pairs naturally with the follow-up post about what actually works.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "\"The approach is wrong\" is a conceptual fit-mismatch statement about tool-to-profile match, not a clinical claim — but could read as dismissing all conventional productivity support broadly. Scope is clear in context; acceptable as written.",
+      "id": "2026-06-07T22-52-13-11",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "What actually moves for demand avoidance: self-chosen entry points, interest-led tasks, removing the \"have to\" wrapper. Not because there are no expectations. Because the nervous system responds to autonomy, not pressure.",
+      "shape": "practical",
+      "rationale": "Offers the alternative logic after the critique post — these two are designed to pair. Reframes autonomy-first not as permissiveness but as a different mechanism. Concrete enough to be useful, no jargon, stays inside 280.",
+      "source_url": "https://www.scienceworkshealth.com/post/pda-and-adhd-when-demand-avoidance-shows-up-in-an-adhd-brain",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T22-52-13-12",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    }
+  ]
+}
