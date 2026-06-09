@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-09T23:59:51.062Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "If standard depression treatment never quite worked for you — behavioural activation, push through, get out more — you weren't failing it. It may have been treating the wrong thing entirely.",
+      "shape": "reframe",
+      "rationale": "Opens with an experience many late-diagnosed autistic adults will recognise and reframes long-held self-blame. 'May have been' keeps it from being a diagnostic claim while still landing the point.",
+      "source_url": "https://theautismdoctor.substack.com/p/why-burnout-is-misdiagnosed-as-depression",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-01",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout and depression look similar on the outside. They have different causes and different needs — which is part of why so many autistic adults have long histories of 'treatment-resistant depression.'",
+      "shape": "micro-insight",
+      "rationale": "Makes the clinical distinction concrete without prescribing treatment. The quoted phrase will hit with recognition for many late-diagnosed readers — it names a label they were given, not a judgment they deserve.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-vs-depression/",
+      "sensitivity_flag": "Uses 'treatment-resistant depression' in quotes as a named clinical pattern readers may recognise from their own records, not as a diagnosis. Framing is descriptive of a systemic issue, not prescriptive — low risk, but confirm the team is comfortable with the specificity.",
+      "id": "2026-06-09T23-59-51-02",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Being treated as an unreliable witness to your own experience — by doctors, teachers, family — has a name: epistemic injustice. You weren't imagining it. The system was built to disbelieve you.",
+      "shape": "validation",
+      "rationale": "Gives language to a harm the community feels acutely but often can't articulate. Named things can be contested. The closing line is sharp without being melodramatic.",
+      "source_url": "https://www.psychologytoday.com/us/blog/positively-different/202603/epistemic-injustice-the-great-gaslighting-of-autistic-lives",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-03",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic self-reports routinely get overridden by clinicians who've observed you for minutes, not years. Researchers call it epistemic injustice. The community has other words for it.",
+      "shape": "reframe",
+      "rationale": "A drier, more wry angle on the same concept. The final line invites recognition without spelling it out — generates engagement more honestly than listing those words would.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12665047/",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-04",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD craves novelty. Autism craves predictability. When you're both, the tension isn't a contradiction or a design flaw — it's a built-in weather system, and some days it just storms.",
+      "shape": "micro-insight",
+      "rationale": "Precise without being clinical. The weather-system metaphor gives the internal experience a concrete frame that isn't pathologising. Strong recognition value for the fast-growing AuDHD self-identification group.",
+      "source_url": "https://audhdjoy.substack.com/p/what-if-the-audhd-novelty-vs-predictability",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-05",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "PDA — Persistent Drive for Autonomy. Not pathological. The avoidance isn't defiance. It's a nervous system that's learned that losing control means danger. The alarm is working as designed.",
+      "shape": "reframe",
+      "rationale": "Moves efficiently from old framing to new without a lecture. 'The alarm is working as designed' repositions the behaviour as a logical response rather than a disorder — more accurate and more compassionate.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-06",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "To get accommodations at work, you have to disclose. To disclose safely, you need to trust your workplace. What do you do when you need both and only have one?",
+      "shape": "question",
+      "rationale": "States the bind plainly without pretending to resolve it. The structure mirrors the catch-22 it describes. Designed to start a real conversation, not collect agreement.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12137293/",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-07",
+      "status": "draft",
+      "char_count": 159,
+      "over_limit": false
+    },
+    {
+      "text": "Not all masking lands in the same place. Building workarounds for your differences is adaptive. Trying to convince yourself the differences aren't real — that's where the harm lives.",
+      "shape": "micro-insight",
+      "rationale": "Shifts the masking conversation from a binary (mask/unmask) to a meaningful distinction that gives people a way to assess their own situation. Actionable without being prescriptive.",
+      "source_url": "https://www.heyasd.com/blogs/autism/masking-across-the-lifespan",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-08",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "'Stop masking' is complicated advice when masking keeps you safe or employed. What research points to more precisely: it's the assimilation — trying to become someone you're not — that does the deepest damage.",
+      "shape": "reframe",
+      "rationale": "Acknowledges real-world constraints that make blanket unmasking advice impractical, then offers a more specific and useful framing grounded in the research distinction between compensation and assimilation.",
+      "source_url": "https://www.heyasd.com/blogs/autism/masking-across-the-lifespan",
+      "sensitivity_flag": "'Deepest damage' is strong. It is defensible — sources link assimilation-type masking specifically to depression, identity erosion, and elevated suicidality — but the post itself does not cite those specifics. Confirm the team is comfortable with the strength of language given what a reader can verify from the post alone.",
+      "id": "2026-06-09T23-59-51-09",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "A late diagnosis can hold relief and grief in the same moment. Relief at finally having a name. Grief for years spent fighting without the right map. You're not ungrateful for feeling both.",
+      "shape": "validation",
+      "rationale": "The closing line does the work — it pre-empts the 'but you should be grateful' response that late-diagnosed adults often receive. Doesn't resolve the tension; just makes room for it.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-10",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't no parenting. It's redirecting your energy from compliance to connection and co-regulation. If you've tried it, you already know: it's the more demanding approach, not the easier one.",
+      "shape": "practical",
+      "rationale": "Speaks directly to parents who are routinely judged for this approach. Validates their effort while explaining the strategy's logic plainly. The closing reversal is the line most likely to get shared.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-11",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic Pride Day is June 18. Not awareness. Not tolerance. Pride — the kind that doesn't come with conditions or ask to be grateful for being included.",
+      "shape": "validation",
+      "rationale": "Timely for Neurodiversity Pride Week (June 16–18, 2026 theme: Strength in Community). Distinguishes Pride from the more qualified framings the community is routinely offered. Short, confident, no throat-clearing.",
+      "source_url": "https://www.autisticadultsnyc.org/events/autistic-pride-day-2026",
+      "sensitivity_flag": null,
+      "id": "2026-06-09T23-59-51-12",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    }
+  ]
+}
