@@ -5,9 +5,7 @@ name: generate-drafts
 on:
   schedule:
     # Times are UTC. GitHub may delay scheduled runs by a few minutes.
-    - cron: "0 13 * * *" # ~morning (US)
-    - cron: "0 19 * * *" # ~midday (US)
-    - cron: "0 1 * * *" # ~evening (US)
+    - cron: "0 13 */2 * *" # once every 2 days ~morning (US)
   workflow_dispatch:
     inputs:
       post_count:
