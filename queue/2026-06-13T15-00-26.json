@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-13T15:00:26.746Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout research used to stop at 'chronic exhaustion.' A new peer-reviewed study names what many already knew: the core wound is shame. And the feeling of not recognising yourself anymore.",
+      "shape": "reframe",
+      "rationale": "Opens with where the clinical frame was, lands on what the community already knows but rarely sees named in research. 'What many already knew' avoids universalising. Short punchy sentences keep it self-contained.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-01",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "The hardest part of autistic burnout isn't the tiredness. It's looking in the mirror and not knowing who that person is. That's not a metaphor. Research is now calling it 'identity disruption.' The community named it first.",
+      "shape": "validation",
+      "rationale": "Takes the same study angle and pivots to the recognition experience — people seeing their inner reality reflected in clinical language for the first time. 'The community named it first' is a gesture of respect without being sycophantic.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": "'The hardest part' reads as universalising — the study names identity disruption as a core feature but not necessarily the hardest feature for every individual. Consider softening to 'For many, the hardest part...' before posting.",
+      "id": "2026-06-13T15-00-26-02",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout that takes away your ability to read, cook, or leave the house is terrifying — it can feel like something new and permanent is wrong. It isn't new. It's what deep autistic burnout can do to the skills you compensate with daily.",
+      "shape": "validation",
+      "rationale": "Names a specific fear ('something permanent is wrong') and reframes it without dismissing the severity. 'Skills you compensate with daily' implies the underlying ND reality without over-explaining. Panic reduction, self-contained.",
+      "source_url": "https://medium.com/@higgoraraujo/7-disturbing-signs-your-autistic-burnout-caused-skill-regression-bdc89335eb87",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-03",
+      "status": "draft",
+      "char_count": 235,
+      "over_limit": false
+    },
+    {
+      "text": "Skills lost in autistic burnout aren't gone the way you lose a language from disuse. They're suppressed — the nervous system ran out of bandwidth to run the compensatory systems that made them possible. That distinction matters.",
+      "shape": "micro-insight",
+      "rationale": "The analogy (language disuse vs. suppression) makes the distinction concrete and carries implicit hope without promising recovery. 'That distinction matters' earns the close without over-explaining why.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-skill-regression",
+      "sensitivity_flag": "Framing skills as 'suppressed' rather than 'gone' implies reversibility — accurate in the source material and generally supported, but individual experience varies widely. Not a rule violation; worth holding lightly.",
+      "id": "2026-06-13T15-00-26-04",
+      "status": "draft",
+      "char_count": 228,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD in practice: autism says this routine is safe, keep it. ADHD says you're already bored, abandon it. Neither wins. That friction isn't a mood problem or a discipline problem. It's two neurotypes running competing drives.",
+      "shape": "micro-insight",
+      "rationale": "Internal-dialogue format makes an abstract neurological conflict immediately legible. Closes by naming what it isn't — a blame-removal move — without over-claiming what it is.",
+      "source_url": "https://medicalxpress.com/news/2026-04-audhd-autistic-adhd-diagnosis.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-05",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and can't figure out why you want structure but can't keep it: you're not lazy and you're not failing at adulting. You have two neurotypes with genuinely incompatible drives. The exhaustion is load-bearing, not weakness.",
+      "shape": "validation",
+      "rationale": "Speaks directly to someone mid-confusion about their own patterns. 'Load-bearing' is precise — the exhaustion is structural, doing real work, not a character deficit. Avoids inspiration-porn close.",
+      "source_url": "https://medicalxpress.com/news/2026-04-audhd-autistic-adhd-diagnosis.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-06",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "For some PDAers, hunger feels like a demand the nervous system refuses to comply with — same as an external command. That's not stubbornness or disordered eating. It's the autonomy drive working exactly as it always does. Just turned inward.",
+      "shape": "reframe",
+      "rationale": "'For some PDAers' avoids universalising within the PDA community. Names what it is NOT before landing the reframe. 'Just turned inward' carries the entire insight in three words.",
+      "source_url": "https://www.wholebodynutrition.com.au/blog/the-persistent-drive-for-autonomy-pda-food-and-eating-cycle",
+      "sensitivity_flag": "References 'disordered eating' in a negating frame — intentional destigmatising, but confirm the source draws a clear distinction between PDA-driven food refusal and clinical eating disorders before posting.",
+      "id": "2026-06-13T15-00-26-07",
+      "status": "draft",
+      "char_count": 241,
+      "over_limit": false
+    },
+    {
+      "text": "'I know I need to sleep but I can't make myself' lands differently when you understand that for PDA folks, the body itself can feel like an authority issuing demands. Not broken. A nervous system with no off switch for threat.",
+      "shape": "validation",
+      "rationale": "Opens with a highly recognisable quote to create immediate identification, then reframes it. Short declarative close ('Not broken.') gives an unsentimental landing. The quote format invites recognition without requiring the reader to have the exact words.",
+      "source_url": "https://bridgettehamstead.substack.com/p/pda-they-called-it-pathological-we",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-08",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't failing because you're doing it wrong. It's that six hours of daily overwhelm at school can't be undone by six hours of therapeutic parenting at home. Where's the conversation about changing the six hours in between?",
+      "shape": "question",
+      "rationale": "Removes blame from parents cleanly in two sentences, then redirects to the systemic gap with a genuine question. The repeated 'six hours' parallel structure makes the argument land without moralising. Invites real conversation.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-09",
+      "status": "draft",
+      "char_count": 243,
+      "over_limit": false
+    },
+    {
+      "text": "'You need this by Friday' and 'does Friday work?' are neurologically different sentences for a PDA nervous system. One is a command. One is a question with a real answer. Workplaces that can't tell the difference will keep managing PDA people out.",
+      "shape": "practical",
+      "rationale": "The two-sentence contrast is a concrete, immediately actionable tool a manager can take away today. The close names the consequence without moralising. Self-contained, no thread needed.",
+      "source_url": "https://www.thrivelaw.co.uk/2026/05/20/the-neurodivergent-profile-most-workplaces-are-getting-wrong/",
+      "sensitivity_flag": "'Neurologically different' is accurate as lived-experience shorthand but a simplification — some readers may want clinical precision. Not a rule violation; a minor tone consideration.",
+      "id": "2026-06-13T15-00-26-10",
+      "status": "draft",
+      "char_count": 247,
+      "over_limit": false
+    },
+    {
+      "text": "New research tracked masking in real time across people's actual days. The finding: masking costs more when you don't feel safe. The question isn't 'why do autistic people mask so much?' It's 'why are so many environments still unsafe?'",
+      "shape": "reframe",
+      "rationale": "Leads with the methodology (real-time EMA) as a credibility signal before the finding. The reframe at the close shifts accountability from the person to the context — this is exactly what the study supports and it lands hard in a short space.",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12618727/",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-11",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "The grief after a late autism diagnosis is the correct response. Not an overreaction. You spent decades explaining yourself with the wrong map, blaming yourself for things that were never about character. Of course that deserves mourning.",
+      "shape": "validation",
+      "rationale": "Opens with a direct, unsentimental validation of grief — resisting the common 'you should feel relieved' expectation. 'The wrong map' is a precise and evocative image. 'Of course' in the final sentence makes mourning feel obvious and earned, not indulgent.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-06-13T15-00-26-12",
+      "status": "draft",
+      "char_count": 238,
+      "over_limit": false
+    }
+  ]
+}
