@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-15T17:55:23.175Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You didn't regress. You ran out of resources. The skills are still there — the capacity to run them isn't. Burnout isn't going backward. It's what happens when the external load was never sustainable.",
+      "shape": "reframe",
+      "rationale": "Opens on the shame the community actually carries — 'regression' — and immediately flips it in two moves: the skills survived, the support system didn't. Closes by placing responsibility on external demands, not the person.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-15T17-55-23-01",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "'Regression' was borrowed from child development. It was never the right word for what autistic adults experience in burnout. Fluctuating capacity puts the blame where it belongs — on unsustainable demands.",
+      "shape": "reframe",
+      "rationale": "Sibling to post 1 but leads with the linguistic argument — useful for people who want to push back on clinical framing with clinicians or employers. Stands fully alone.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-15T17-55-23-02",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "The dominant story is: unmask and you'll feel free. What people don't say: after decades of masking to survive, the self underneath is unknown and unprotected. That can feel more like danger than liberation.",
+      "shape": "validation",
+      "rationale": "Leads with the public narrative before naming the honest experience. The contrast earns the point without invalidating hope — it makes room for a reality many people have never seen said aloud.",
+      "source_url": "https://thereframediaries.substack.com/p/before-the-mask-why-unmasking-feels",
+      "sensitivity_flag": "Source returned 403 on direct fetch — verify framing against original before publishing.",
+      "id": "2026-06-15T17-55-23-03",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking isn't always relief. For a lot of late-diagnosed people it's disorienting — you masked so long you no longer know what's mask and what's you. That's not failure. That's identity reconstruction.",
+      "shape": "validation",
+      "rationale": "More intimate than post 3 — second-person, focused on the disorientation of not knowing your own self rather than the fear of exposure. Different angle on the same source material; stands alone.",
+      "source_url": "https://thereframediaries.substack.com/p/before-the-mask-why-unmasking-feels",
+      "sensitivity_flag": "Source returned 403 on direct fetch — paraphrase only; verify wording before publishing.",
+      "id": "2026-06-15T17-55-23-04",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't willful defiance. It's an involuntary threat response. The nervous system treats loss of autonomy as equivalent to physical danger. That's not a character flaw. It's not even a choice.",
+      "shape": "reframe",
+      "rationale": "Three declarative moves: name what it isn't, name what it is, strip the moral weight. Short rhythm mirrors the directness the voice guide calls for. Useful for adults explaining their experience to others.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-15T17-55-23-05",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "If you can't feel 'tired' until you're already flattened, you can't pace. That's not laziness. That's the interoception gap — and it's why 'rest when you're tired' is functionally inaccessible advice.",
+      "shape": "micro-insight",
+      "rationale": "Single causal mechanism: if the signal doesn't arrive reliably, the strategy built on that signal fails. Names the gap without overpromising a fix — keeps it honest to the research and opens space for follow-up conversation.",
+      "source_url": "https://audhd.org.au/2026/04/05/the-interoception-gap-why-your-body-whispers-and-your-audhd-brain-shouts-too-late/",
+      "sensitivity_flag": null,
+      "id": "2026-06-15T17-55-23-06",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "Self-care becomes avoidance bait the moment your brain tags it as an obligation. The fix isn't willpower — it's de-demanding the task. No deadline, free sequence, indirect framing. Works with the avoidance, not against it.",
+      "shape": "practical",
+      "rationale": "Names the mechanism then pivots immediately to concrete strategy. 'De-demanding' is doing real work — specific enough to be useful, open enough not to prescribe one exact solution.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "Source returned 403 on direct fetch — verify 'de-demanding' framing is consistent with original before publishing.",
+      "id": "2026-06-15T17-55-23-07",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance doesn't care that you want to do the thing. It fires on the structure of the demand, not its content. Showering, eating, hobbies — anything can get tagged. That's not a character issue.",
+      "shape": "practical",
+      "rationale": "Companion to post 7 but focused on recognition, not strategy — useful for people who haven't yet named the mechanism. The list makes it concrete fast. 'Character issue' closes the loop on the shame.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "Source returned 403 on direct fetch — verify framing before publishing.",
+      "id": "2026-06-15T17-55-23-08",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "56% of managers say they lack the confidence to support neurodivergent colleagues. What does your workplace actually have — beyond a policy on the intranet?",
+      "shape": "question",
+      "rationale": "The stat does the setup; the question invites honest, grounded replies rather than outrage. 'Beyond a policy on the intranet' names a real gap without accusing anyone personally. High relevance for late-diagnosed adults navigating accommodation conversations.",
+      "source_url": "https://neurobridge.co.uk/the-state-of-neurodiversity-in-the-workplace-2026/",
+      "sensitivity_flag": "Stat from NeuroBridge 2026 report — verify exact figure is 56% before publishing.",
+      "id": "2026-06-15T17-55-23-09",
+      "status": "draft",
+      "char_count": 156,
+      "over_limit": false
+    },
+    {
+      "text": "Neurodiversity tribunal claims are up 164% in four years. So what changed — the people, or the gap between what organisations promise and what they actually build?",
+      "shape": "question",
+      "rationale": "The rhetorical question makes the argument without stating it: nothing changed about the people. More pointed than post 9 but earns it — the stat is the proof, and the framing is fair rather than hostile.",
+      "source_url": "https://neurobridge.co.uk/the-state-of-neurodiversity-in-the-workplace-2026/",
+      "sensitivity_flag": "Stat from NeuroBridge 2026 report — verify 164% figure and four-year window before publishing.",
+      "id": "2026-06-15T17-55-23-10",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't just having two things. It's two systems actively in conflict. Autistic nervous system craves routine; ADHD brain demands novelty. No clean rest strategy exists because rest from one is deprivation for the other.",
+      "shape": "validation",
+      "rationale": "The routine/novelty contrast does the work before the payoff line. Validates why every standard self-regulation script feels like it only half-applies — which is what AuDHD people actually live with, not just a sum of two profiles.",
+      "source_url": "https://sachscenter.com/what-is-audhd-the-comprehensive-2026-guide-to-having-both-adhd-and-autism/",
+      "sensitivity_flag": "Routine/novelty framing is a generalisation of common AuDHD experience, not universal — if tightening, 'many AuDHD people find' rather than absolute phrasing reduces overgeneralisation risk.",
+      "id": "2026-06-15T17-55-23-11",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis isn't finding out you were broken. It's realising you spent decades navigating with a map made for different terrain. Every dead end makes sense now. You weren't lost — you had the wrong map.",
+      "shape": "micro-insight",
+      "rationale": "The map metaphor holds both relief and grief in one image without naming either word. The closing line is the quotable payoff. Evergreen framing — defensible from lived-experience discourse, no stat required.",
+      "source_url": "https://www.neurorebelpodcast.com/blog/when-your-life-map-changes-the-reality-of-late-diagnosed-autism-burnout-and-skill-regression/",
+      "sensitivity_flag": null,
+      "id": "2026-06-15T17-55-23-12",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    }
+  ]
+}
