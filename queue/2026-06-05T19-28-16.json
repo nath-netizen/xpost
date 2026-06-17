@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-05T19:28:16.407Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You weren't spending energy you had. You were borrowing it. Masking debt is real — and burnout is just the moment the interest comes due.",
+      "shape": "micro-insight",
+      "rationale": "Punchy encapsulation of the masking-debt frame. The borrowing metaphor does the conceptual work without over-explaining. Lands as recognition, not lecture. Quote-card ready.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-01",
+      "status": "draft",
+      "char_count": 137,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout isn't a personal failure. It's the predictable outcome when the cost of masking outpaces what rest and safety put back. The math always catches up.",
+      "shape": "reframe",
+      "rationale": "Extends the masking-debt angle without repeating it — shifts from metaphor to structural logic. Removes blame explicitly while staying dry and unsentimental.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-02",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "We keep asking why autistic people struggle at work. Better question: why are workplaces designed so only some brains have to pay a second, invisible salary to belong?",
+      "shape": "reframe",
+      "rationale": "Shifts the problem from individual to structural with a concrete image ('second salary'). Meets real frustration without outrage-bait because it stays analytical. Directly sourced from Feb 2026 piece.",
+      "source_url": "https://www.asdkings.com/2026/02/the-neurotypical-tax-why-modern.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-03",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "Wanting to do the thing. Knowing you want to do the thing. Still hitting an invisible wall the moment it starts to feel like a demand. That's not willpower failure. That's a threat response.",
+      "shape": "validation",
+      "rationale": "Names the specific PDA experience — wanting the goal but blocked by the demand structure — with precision most content never achieves. 'Threat response' is the key reframe from the sourced clinical framing.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": "Definitive 'That's a threat response' reads as near-clinical. Defensible given the therapy source explicitly uses this frame, but consider softening to 'can be a threat response' if the platform applies strict health-content review.",
+      "id": "2026-06-05T19-28-16-04",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "When the accommodation that finally worked gets quietly removed — is that just a policy change? What did remote work actually give you that the office couldn't?",
+      "shape": "question",
+      "rationale": "Embeds the reframe ('accommodation that finally worked') inside the question itself so the framing lands even if readers don't engage. Opens genuine testimony threads without manufacturing outrage.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-05",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "Biographical illumination: when a late diagnosis doesn't change who you were — it finally explains it. Every chapter you thought you'd misread suddenly makes sense.",
+      "shape": "micro-insight",
+      "rationale": "Introduces a named concept from peer-reviewed research that the community doesn't widely have language for yet. High originality, strong recognition potential for late-diagnosed readers. The term does the work; no over-explanation needed.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-06",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout and depression overlap — but they're not the same. Burnout often lifts when demands drop. Depression doesn't work that way. Treating one as the other can make both worse.",
+      "shape": "practical",
+      "rationale": "Directly useful community health literacy: gives people a clean differentiator to inform self-advocacy and conversations with clinicians. Names concrete harm without blame. Stays at pattern level, not personal instruction.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-burnout-vs-depression",
+      "sensitivity_flag": "Draws a functional distinction between conditions — acceptable as community-level literacy, not treatment advice, but worth a second look if the platform has strict health-content policies. Both-can-be-true nuance is implied but could be made explicit.",
+      "id": "2026-06-05T19-28-16-07",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and feel like you fall between both communities rather than fully in either — that's not you failing to fit the labels. It's the labels failing to fit you.",
+      "shape": "validation",
+      "rationale": "Directly addresses the under-named experience of partial belonging in both ADHD and autism spaces. Challenges siloed framing without being combative. High recognition potential; backed by 2026 SAGE research.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13634593251336163",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-08",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Low demand parenting doesn't mean no demands. It means asking: is this demand load-bearing, or is it just habit? One is worth the effort. One isn't.",
+      "shape": "reframe",
+      "rationale": "Addresses the most common and damaging misread of the approach directly. Validates the labour of precision parenting without being defensive. Clean enough to screenshot and share with a skeptical family member.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-09",
+      "status": "draft",
+      "char_count": 148,
+      "over_limit": false
+    },
+    {
+      "text": "Stimming isn't dysregulation. For many autistic people, it's how the nervous system gets accurate information about itself.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the reframe, lets the interoception mechanism do the work without naming jargon. Short, quote-card ready. Shifts the stimming narrative from something to manage to something that serves a function.",
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.02.19.706737v1.full",
+      "sensitivity_flag": "Source is a bioRxiv preprint — not yet peer-reviewed. The stimming-heartbeat-detection finding is specific and quotable but should be framed as 'research suggests' or caveated as preliminary before publishing.",
+      "id": "2026-06-05T19-28-16-10",
+      "status": "draft",
+      "char_count": 123,
+      "over_limit": false
+    },
+    {
+      "text": "Your brain needs to know someone is present — not necessarily who. Research is catching up to what the community already knew: AI body doubles can work just as well.",
+      "shape": "practical",
+      "rationale": "Community-discovery-before-science narrative is reliably engaging. Immediately actionable takeaway (AI tools and virtual co-working count). 'Can work just as well' is appropriately hedged rather than absolute.",
+      "source_url": "https://dl.acm.org/doi/full/10.1145/3689648",
+      "sensitivity_flag": "Equivalence claim is based on a single ACM study with limited scope. 'Can work just as well' is defensible but verify sample size and conditions before publishing — avoid upgrading to 'works just as well' in any caption copy.",
+      "id": "2026-06-05T19-28-16-11",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    },
+    {
+      "text": "For many neurodivergent workers, remote work wasn't a perk. It was the first workplace accommodation that actually worked. RTO doesn't just change where people sit.",
+      "shape": "reframe",
+      "rationale": "Reframes the RTO debate from productivity to access without producing outrage. The last sentence lands as understatement — which hits harder than a more explicit conclusion. Shareable by community members and HR readers alike.",
+      "source_url": "https://www.washingtonpost.com/business/2025/04/21/rto-mandates-neurodivergent-workers/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T19-28-16-12",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    }
+  ]
+}
