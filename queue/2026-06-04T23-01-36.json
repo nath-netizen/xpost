@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-04T23:01:36.774Z",
+  "model": "claude-opus-4-8",
+  "items": [
+    {
+      "text": "Autistic burnout isn't one bad day. It's the compounding interest on years of overriding your own responses. That's why it collapses at transitions — a new job, a new baby — when the quiet scaffolding that held you up suddenly isn't there anymore.",
+      "shape": "reframe",
+      "rationale": "Reframes burnout from personal failure to a structural cost (masking debt), and names the 'why now' that late-diagnosed adults can't otherwise explain at life transitions.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-01",
+      "status": "draft",
+      "char_count": 247,
+      "over_limit": false
+    },
+    {
+      "text": "PDA was named 'pathological demand avoidance.' More of us call it a persistent drive for autonomy. The avoidance isn't defiance — it's a nervous system reading a demand as a threat. Same behaviour, a completely different assumption about the person under it.",
+      "shape": "reframe",
+      "rationale": "Captures a live, community-led terminology shift; high recognition, low outrage. Defensible mechanistic framing drawn from advocacy sources.",
+      "source_url": "https://reframingautism.org.au/pathological-demand-avoidance-pda-and-autism-guide-for-allies/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-02",
+      "status": "draft",
+      "char_count": 258,
+      "over_limit": false
+    },
+    {
+      "text": "The maddening part of PDA: a task you genuinely wanted to do turns impossible the moment it feels imposed. You're not avoiding the activity. You're avoiding the loss of control that arrived with it. That's why 'but I chose this' never fixes it.",
+      "shape": "micro-insight",
+      "rationale": "Razor-sharp, under-named experience that adults blame themselves for. Isolates the trigger (perceived autonomy loss) from the task.",
+      "source_url": "https://iepfocus.com/pathological-demand-avoidance-in-adults/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-03",
+      "status": "draft",
+      "char_count": 244,
+      "over_limit": false
+    },
+    {
+      "text": "When you unmask and suddenly can't manage routines you used to, clinicians may call it regression. It isn't. You didn't lose a skill — you stopped overextending past a limit you'd been ignoring for years. The crash is the bill coming due, not the failure.",
+      "shape": "reframe",
+      "rationale": "Directly counters a clinical framing that shames people mid-recovery; validating and reframing in one move. Very current.",
+      "source_url": "https://www.additudemag.com/unmasking-autism-adhd-not-skill-regression/",
+      "sensitivity_flag": "Lightly contests a clinical term ('regression'); framed as a community reframe, not a diagnostic or treatment claim — defensible.",
+      "id": "2026-06-04T23-01-36-04",
+      "status": "draft",
+      "char_count": 255,
+      "over_limit": false
+    },
+    {
+      "text": "Masking means pointing all your attention outward — am I making sense, is my face doing the right thing. So the signals from inside (hunger, fatigue, overwhelm) never get through. That's why it feels like you were fine, and then suddenly weren't.",
+      "shape": "validation",
+      "rationale": "Gives a body-level, mechanistic explanation for the 'sudden' crash via interoception; validating with an insight backbone.",
+      "source_url": "https://www.kelly-mahler.com/resources/blog/autistic-burnout-what-it-is-why-it-happens-and-how-interoception-can-help/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-05",
+      "status": "draft",
+      "char_count": 246,
+      "over_limit": false
+    },
+    {
+      "text": "Task paralysis isn't laziness. It's an emotional wall built from every past time that task went badly. You don't have to demolish it — just build a small door: lower the stakes, change the room, add novelty, bring an ally. Doors are cheaper than walls.",
+      "shape": "practical",
+      "rationale": "Uses the 'Wall of Awful' metaphor but adds the concrete, low-demand 'door not demolition' move — a strategy, not just a name for the problem.",
+      "source_url": "https://thawly.ai/blog/adhd-task-paralysis",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-06",
+      "status": "draft",
+      "char_count": 252,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting gets read as giving up. It's the opposite of careless. Every demand you drop is a unit of autonomy you hand back to your kid. It isn't 'no expectations' — it's choosing connection over compliance when the two are about to collide.",
+      "shape": "reframe",
+      "rationale": "Speaks to PDA/AuDHD parents drowning in judgment; defends against the 'permissiveness' misread that is the live tension in that corner.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-07",
+      "status": "draft",
+      "char_count": 251,
+      "over_limit": false
+    },
+    {
+      "text": "Rejection sensitivity isn't fragility. It's a nervous system that grew up under steady correction and learned to scan for rejection everywhere. Honest part: the research base is still small. But the cause has a history, and so does the feeling. You're not inventing it.",
+      "shape": "validation",
+      "rationale": "Reframes self-blame into something with a cause, while being upfront that the evidence base is thin — itself a fresh, honest 2026 conversation.",
+      "source_url": "https://www.psychologytoday.com/us/blog/if-i-be-waspish/202604/rejection-sensitivity-dysphoria-the-actual-research",
+      "sensitivity_flag": "Asserts a developmental origin for RSD; the post itself flags the thin research base, framing it as a lived-experience pattern rather than a clinical claim — defensible, but worth a human eye.",
+      "id": "2026-06-04T23-01-36-08",
+      "status": "draft",
+      "char_count": 269,
+      "over_limit": false
+    },
+    {
+      "text": "Glimmers are the opposite of triggers: small sensory or special-interest moments that drop you back into yourself. They're regulation, not rewards you have to earn first. What's one that landed for you this week?",
+      "shape": "question",
+      "rationale": "A rare positive, non-deficit angle; ties special interests, monotropism and joy together and opens a genuine, low-outrage conversation.",
+      "source_url": "https://autisticrealms.com/glimmers-autistic-joy-and-monotropism/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-09",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Most 'neurodiversity at work' advice stops at headphones and quiet rooms. The accommodation that actually prevents shutdowns is control — over your schedule, your sequence, how the work gets done. Agency moves the needle more than equipment ever will.",
+      "shape": "practical",
+      "rationale": "Connects the autonomy thread to a practical work context; reframes accommodations from special equipment to giving people agency.",
+      "source_url": "https://employu.org/2026/03/06/accommodations-that-work-real-world-strategies-for-neurodivergent-employees/",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-10",
+      "status": "draft",
+      "char_count": 251,
+      "over_limit": false
+    },
+    {
+      "text": "For neurodivergent folks who work: what's done more for you — the quiet room and the headphones, or real control over your schedule and how you do the job? I have a hunch, but I'd rather hear yours.",
+      "shape": "question",
+      "rationale": "Invites working ND adults into an honest discussion on the autonomy-vs-equipment framing; self-contained and conversation-starting, not bait.",
+      "source_url": "https://askearn.org/page/neurodiversity-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-06-04T23-01-36-11",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Notice how often the answer is the same word. PDA adults need it. Low-demand parenting hands it over. Workplace accommodations live or die on it. For many neurodivergent people, autonomy isn't a personality preference — it's closer to a safety need.",
+      "shape": "micro-insight",
+      "rationale": "Names the editorial through-line (autonomy as safety need) traveling from self to kids to work; evergreen synthesis, so no single source.",
+      "source_url": null,
+      "sensitivity_flag": "Generalizes across the community; softened with 'many' and 'closer to' to speak to a shared experience rather than for everyone.",
+      "id": "2026-06-04T23-01-36-12",
+      "status": "draft",
+      "char_count": 249,
+      "over_limit": false
+    }
+  ]
+}
