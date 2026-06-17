@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-08T21:21:31.453Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "They called it defiance for 30 years. It wasn't. When autonomy feels threatened, the body responds like it's in danger. That's not a personality flaw. That's a nervous system doing exactly what nervous systems do.",
+      "shape": "reframe",
+      "rationale": "Leads with the lived experience ('defiance') before pivoting to the mechanism. Delivers the PDA nervous-system reframe without clinical jargon. High recognition for PDAers who've been repeatedly pathologised.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-01",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "You didn't fall apart. The scaffolding ran out. Years of masking burns through internal resources — it was always going to hit a limit. The collapse isn't personal failure. It was structural.",
+      "shape": "validation",
+      "rationale": "Reframes autistic burnout collapse as a predictable structural outcome, not personal failure. Directly addresses the 'but you seemed fine!' pain point that late-diagnosed autistic adults encounter constantly.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-02",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD. It's often autism versus ADHD — in the same body, at the same time. Wanting rigid order while being unable to maintain it isn't a quirk. It's a war.",
+      "shape": "micro-insight",
+      "rationale": "Names the internal conflict specific to AuDHD that neither diagnosis alone captures. Validates the 'I fit neither community' experience concisely. 'It's a war' lands without melodrama because the setup earns it.",
+      "source_url": "https://theconversation.com/audhd-means-being-autistic-and-having-adhd-and-it-can-look-very-different-to-a-single-diagnosis-278095",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-03",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "You dropped the demands. Stayed regulated. Repaired the relationship. Your kid is still struggling. That's not you failing the approach. That's a world that hasn't caught up yet.",
+      "shape": "validation",
+      "rationale": "Directly names the PDA parenting shame spiral and separates parental execution from systemic barriers. Staccato sentence rhythm mirrors the exhaustion. Delivers exactly the validation this community needs most.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-04",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "Time blindness is real. But the sharper frame: future blindness. The deadline doesn't feel neurologically real yet — so it can't generate urgency. That's not laziness. That's how the brain is wired.",
+      "shape": "micro-insight",
+      "rationale": "Upgrades a familiar concept with a more precise one. 'Future blindness' is quotable and the distinction is immediately recognisable to ADHD communities. Short closing pair lands the reframe cleanly.",
+      "source_url": "https://www.simplypsychology.org/adhd-future-blindness.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-05",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout just had its own two-day conference — autistic-led, with structured recovery programmes. Which stage are you in right now: surviving it, recovering, or trying to prevent the next one?",
+      "shape": "question",
+      "rationale": "Anchors on genuinely timely news (conference closed 48 hours ago) and opens real community conversation. Three-option frame gives people distinct entry points without being prescriptive about what they 'should' feel.",
+      "source_url": "https://www.eventbrite.co.uk/e/the-autistic-burnout-virtual-conference-2026-tickets-1983718936740",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-06",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "If you can only focus when someone else is in the room, your brain isn't broken. It's built for witnessed work. Stop trying to fix the need. Build your environment around it instead.",
+      "shape": "practical",
+      "rationale": "Reframes body doubling from embarrassing workaround to valid cognitive mode. 'Build your environment around it instead' is the practical payoff — gives people something to do with the insight, not just feel better.",
+      "source_url": "https://add.org/the-body-double/",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-07",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Do you use PDA — Pathological Demand Avoidance — or Persistent Drive for Autonomy? The name shapes how schools and workplaces respond. That's not a semantics debate. That's strategy.",
+      "shape": "question",
+      "rationale": "Frames a live terminology debate as consequential rather than academic. Will draw in people who might disengage from 'just semantics' framing. Short closing pair sharpens the stakes without editorialising heavily.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-08",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Framing demand avoidance as a nervous-system threat response — not defiance — changes the whole picture. You can't reason someone out of a danger signal with consequences.",
+      "shape": "reframe",
+      "rationale": "Companion to the first PDA post, but pivots from identity validation to practical implication. Tighter and more pointed — good for different reach than the longer version.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": "Final sentence ('you can't reason someone out of a danger signal with consequences') edges toward support advice. Defensible as mechanism reframe rather than prescription, but worth one more read before posting.",
+      "id": "2026-06-08T21-21-31-09",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed autistic people weren't fine before and broken now. They were masking at a cost that was always going to come due. The timing was never a mystery. Just hidden.",
+      "shape": "reframe",
+      "rationale": "Addresses the masking collapse from the outside view — challenges the 'sudden breakdown' narrative as perceived by people around late-diagnosed adults. Different entry point than the first masking post; both earn their place.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-10",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling works. What that tells you: for some brains, a witness isn't a comfort mechanism — it's how the regulation system actually runs. Virtual or in-person doesn't matter much. Use it.",
+      "shape": "practical",
+      "rationale": "Extends the body doubling angle with the deeper implication before closing on permission to act. 'For some brains' maintains appropriate scope. 'Use it' is a clean, direct close that earns its brevity.",
+      "source_url": "https://add.org/the-body-double/",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-11",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "Being dismissed from autism spaces for being 'too impulsive' and ADHD spaces for being 'too rigid' — that's not a you problem. That's the shape of AuDHD.",
+      "shape": "validation",
+      "rationale": "Shortest post in the set. Names a specific, live grievance in AuDHD communities with zero setup required — the community will clock it immediately. The brevity is the point; nothing needs adding.",
+      "source_url": "https://theconversation.com/audhd-means-being-autistic-and-having-adhd-and-it-can-look-very-different-to-a-single-diagnosis-278095",
+      "sensitivity_flag": null,
+      "id": "2026-06-08T21-21-31-12",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    }
+  ]
+}
