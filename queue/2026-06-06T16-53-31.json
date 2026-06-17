@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-06T16:53:31.175Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Standard depression treatment — more activity, more people, push through — can make autistic burnout worse. The interventions add load to a nervous system that needs less. Worth knowing if nothing has been helping.",
+      "shape": "reframe",
+      "rationale": "Names the clinical mismatch directly without diagnosing; 'worth knowing' frames it as awareness not prescription. Draws from the briefing's core reframe and earns the claim through the sourced article.",
+      "source_url": "https://resilientmindcounseling.com/autistic-burnout-vs-depression-therapy/",
+      "sensitivity_flag": "Mild medical-adjacent concern: 'can make burnout worse' is a causal claim about treatment. Defensible because it is framed as general awareness and sourced to a clinical article, not a personal recommendation. Does not say 'stop your antidepressants' or imply self-diagnosis.",
+      "id": "2026-06-06T16-53-31-01",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "For the first time, there's a validated clinical tool that distinguishes autistic burnout from depression. That distinction has always mattered. Now it's harder to miss.",
+      "shape": "reframe",
+      "rationale": "Leads with the concrete 2025 AASPIRE news peg and translates its significance without jargon. Structural critique of clinical practice, not individuals. Short and confident — the brevity is the point.",
+      "source_url": "https://theautismdoctor.substack.com/p/why-burnout-is-misdiagnosed-as-depression",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-02",
+      "status": "draft",
+      "char_count": 169,
+      "over_limit": false
+    },
+    {
+      "text": "You're not ignoring your body. Your body isn't sending the memo in time. For many autistic and AuDHD people, hunger, thirst, and fatigue don't register until the system is already in crisis.",
+      "shape": "validation",
+      "rationale": "Opens with the exact reframe the community needs — redirects attribution from character to neurology. 'Many' not 'all' respects individual variation. Fresh April 2026 angle with wide recognition potential.",
+      "source_url": "https://audhd.org.au/2026/04/05/the-interoception-gap-why-your-body-whispers-and-your-audhd-brain-shouts-too-late/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-03",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Scheduled eating and hydration aren't about discipline. For autistic and AuDHD people with interoception differences, body signals often arrive late or not at all. The external prompt is the workaround.",
+      "shape": "practical",
+      "rationale": "Converts the interoception insight into a concrete, actionable frame without prescribing it to anyone. 'The workaround' reframes accommodation as practical ingenuity rather than compensation for failure.",
+      "source_url": "https://audhd.org.au/2026/04/05/the-interoception-gap-why-your-body-whispers-and-your-audhd-brain-shouts-too-late/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-04",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance can turn inward. Hungry? That's a demand. Thirsty? Demand. Tired? Still a demand. Calling it self-neglect misses what's actually happening — it's the nervous system doing what it learned to do.",
+      "shape": "validation",
+      "rationale": "Names the least-discussed dimension of the PDA experience with rhythm that mirrors the experience itself. Reframes 'self-neglect' without excusing or moralising. High recognition potential in PDA communities.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-05",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis grief isn't only about lost years. It's about discovering the identity you held together for decades was a performance. Relief and grief in the same breath, for completely different reasons.",
+      "shape": "validation",
+      "rationale": "Sharpens 'diagnosis grief' from the generic to the specific: grief for the self-story, not just the time gap. The relief-and-grief coexistence frame is quotable and resonant without being saccharine.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-06",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "If you got a late autism diagnosis and felt relief and grief at the same time — both are accurate. The grief isn't ingratitude. It's for the self-story that never quite fit but took everything to maintain.",
+      "shape": "validation",
+      "rationale": "Different angle on the same grief: speaks directly to the confusion people feel when relief and grief coexist. 'Took everything to maintain' earns the emotional weight without dramatising. Evergreen enough to stand without a current stat.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-07",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "Wanting routine and novelty. Quiet and stimulation. Structure and freedom. The internal contradiction of being autistic and ADHD isn't a failure to know yourself. It's the most honest map available.",
+      "shape": "micro-insight",
+      "rationale": "Names the AuDHD paradox in concrete paired examples before delivering the reframe. 'Most honest map available' validates the contradiction as information rather than a problem to fix. No jargon, high recognition.",
+      "source_url": "https://medicalxpress.com/news/2026-04-audhd-autistic-adhd-diagnosis.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-08",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "100 tabs open. One won't stop refreshing. AuDHD isn't two diagnoses stacked — the internal friction is the diagnosis, described accurately.",
+      "shape": "micro-insight",
+      "rationale": "Shareable metaphor delivered as a tight standalone. At 139 characters it leaves room to breathe. Invites recognition and sharing without asking for it — earns the engagement rather than prompting it.",
+      "source_url": "https://medicalxpress.com/news/2026-04-audhd-autistic-adhd-diagnosis.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-09",
+      "status": "draft",
+      "char_count": 139,
+      "over_limit": false
+    },
+    {
+      "text": "Employer confidence in neurodiversity support is at a record high. Neurodivergent employees report lower psychological safety than ever. Awareness events are creating the impression the work is done. It isn't.",
+      "shape": "reframe",
+      "rationale": "Leads with the data contrast from the 2026 Neurodiversity Index before delivering the structural critique. Not outrage bait — a precise observation about what awareness alone produces. The final two-word sentence earns its weight.",
+      "source_url": "https://cityandguildsfoundation.org/what-we-offer/campaigning/neurodiversity-index/",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-10",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting and no-demand parenting aren't the same thing. What does it actually look like when genuine safety needs a response? The people doing this work have thought hard about it — worth the conversation.",
+      "shape": "question",
+      "rationale": "Opens a live debate without taking a side. Assumes competence in PDA-aware parents rather than adjudicating between them. Invites genuine knowledge-sharing rather than argument.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": "Mild: the Inclusive Teach source argues low-demand approaches fail, while PDA North America defends them. The post takes no position — but source attribution to the critical piece could read as an implicit lean. Consider monitoring early replies; if it tips into a pile-on of low-demand families, pull.",
+      "id": "2026-06-06T16-53-31-11",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' tells you to reduce avoidance. 'Persistent Drive for Autonomy' tells you to support connection and safety. Same person, different map. The name determines the destination.",
+      "shape": "micro-insight",
+      "rationale": "Reframes the naming debate from semantics to practical consequence — the name shapes the intervention logic. 'Same person, different map' is quotable and precise. Sidesteps the terminology war by focusing on what the language actually produces.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-06-06T16-53-31-12",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    }
+  ]
+}
