@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-05T12:27:42.883Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't laziness. It's a nervous system that ran out of capacity. That distinction isn't semantic — it changes what recovery actually looks like.",
+      "shape": "reframe",
+      "rationale": "Directly contradicts the internalized 'I just need to push harder' narrative many late-diagnosed adults carry. Short, quotable, and grounded in the neurological framing from the InFocus Counselling source.",
+      "source_url": "https://www.infocuscounselling.com/resources/autistic-burnout-when-the-nervous-system-can-no-longer-adapt",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-01",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "What if the years of 'I just need to push harder' weren't about willpower at all — and always about capacity the nervous system didn't have?",
+      "shape": "question",
+      "rationale": "Opens the burnout angle as an introspective question rather than a declaration. Invites self-recognition without telling people what to conclude. Evergreen reframe — no source required.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-02",
+      "status": "draft",
+      "char_count": 140,
+      "over_limit": false
+    },
+    {
+      "text": "Defiance is a choice. A threat response isn't. PDA avoidance isn't oppositional — it's a nervous system that involuntarily reads demand as danger.",
+      "shape": "reframe",
+      "rationale": "Punchy two-sentence contrast. Removes blame from both child and parent without minimising the real difficulty. The 'involuntarily' is load-bearing and defensible from the Baltimore Therapy Group source.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-03",
+      "status": "draft",
+      "char_count": 146,
+      "over_limit": false
+    },
+    {
+      "text": "The interoception gap: you don't notice hunger until you're shaking, or exhaustion until you've crashed, or overwhelm until you're already in shutdown. Your body whispered. Your brain missed it.",
+      "shape": "micro-insight",
+      "rationale": "Three concrete daily examples make an abstract neurological concept immediately recognisable. The closing line is a paraphrase of the AuDHD Australia framing, not a verbatim lift.",
+      "source_url": "https://audhd.org.au/2026/04/05/the-interoception-gap-why-your-body-whispers-and-your-audhd-brain-shouts-too-late/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-04",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work was the first accommodation that actually worked for a lot of us. Now the policy is reversing. What are people doing?",
+      "shape": "question",
+      "rationale": "Frames RTO as a live community problem with real stakes. Opens a genuine discussion without prescribing answers or centring coping advice. 'A lot of us' avoids overclaiming universality.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-05",
+      "status": "draft",
+      "char_count": 129,
+      "over_limit": false
+    },
+    {
+      "text": "Return-to-office isn't neutral for neurodivergent workers. For many, remote work was the first time the job fit the brain. That's not a preference. That's a structural story.",
+      "shape": "reframe",
+      "rationale": "Names RTO as a systemic equity issue, not an individual coping challenge. 'The job fit the brain' inverts the usual accommodation framing in a memorable, discussable way.",
+      "source_url": "https://www.washingtonpost.com/business/2025/04/21/rto-mandates-neurodivergent-workers/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-06",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "There's a specific grief after a late autism diagnosis that doesn't get named enough: mourning the version of yourself who survived for years without support, without knowing why everything was so hard.",
+      "shape": "validation",
+      "rationale": "Names the grief with the precision the SAGE 2026 study earns it. The phrase 'without knowing why everything was so hard' is where recognition lands. No premature pivot to relief or positivity.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-07",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "Being diagnosed late doesn't mean you should feel instant relief. The anger — at years lost, at dismissals, at what could have been different — is normal. Not something to rush through.",
+      "shape": "validation",
+      "rationale": "Validates the anger phase directly, drawn from the SAGE study's emotional themes. The final sentence does the work: it refuses the rush to positivity without denying that resolution exists.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-08",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't just autism plus ADHD. The ADHD impulsivity can break you out of autistic rigidity — and then the ADHD chaos crashes straight into your need for certainty. Two systems, one body.",
+      "shape": "micro-insight",
+      "rationale": "The internal contradiction is the key insight from The Conversation piece. The two-panel structure mirrors how AuDHD people often describe the experience back to themselves. Community-generated term used accurately.",
+      "source_url": "https://theconversation.com/audhd-means-being-autistic-and-having-adhd-and-it-can-look-very-different-to-a-single-diagnosis-278095",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-09",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't no expectations. It's choosing which ones the nervous system can actually hold right now. Fewer demands now, more capacity later. That's not giving up.",
+      "shape": "reframe",
+      "rationale": "Addresses the core accusation before the reader thinks it. The counterintuitive 'less now, more later' logic is the shareable hook and is defensible from the research-grounded sources.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-10",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "For autistic adults, self-compassion isn't a personality trait — research shows it's a skill. When the self-critical voice gets loud, try naming it: 'my nervous system trying to protect me.'",
+      "shape": "practical",
+      "rationale": "Grounds the 2026 Autism Research finding in one concrete micro-practice. Reframing self-criticism as protection rather than truth sidesteps both inspiration-porn and treatment-claim territory.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/aur.70150",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T12-27-42-11",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Decades of masking can wire in self-criticism so deep it feels like your own voice. It isn't. And unlike a personality trait, it's something that can actually shift.",
+      "shape": "validation",
+      "rationale": "Validates the masking-to-self-criticism pipeline for late-diagnosed adults and closes with the research-backed learnable-skill framing — possibility, not prescription.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/aur.70150",
+      "sensitivity_flag": "Mild flag: 'can actually shift' draws on the learnable-skill finding and is defensible, but read back-to-back with post 11 the pair could edge toward implying a treatment promise. Works cleanly as a standalone.",
+      "id": "2026-06-05T12-27-42-12",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    }
+  ]
+}
