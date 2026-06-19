@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-19T16:00:33.301Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout doesn't just exhaust you. It can temporarily take skills back — driving, cooking, reading, speaking. That's not regression. That's a system out of fuel. The skill isn't gone; the resources that ran it are spent.",
+      "shape": "validation",
+      "rationale": "Names the most frightening and least-understood feature of autistic burnout — skill regression — and reframes it as reversible resource depletion, not permanent decline. Anchored to the 2026 AASPIRE peer-reviewed study for defensibility. Delivers validation and relief in a single move.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12717295/",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-01",
+      "status": "draft",
+      "char_count": 228,
+      "over_limit": false
+    },
+    {
+      "text": "Masking debt compounds like interest, not like a tab. You can run on deficit for years and feel fine — until life gets 15% harder and suddenly you're in freefall. The crash doesn't come out of nowhere. It was accumulating the whole time.",
+      "shape": "micro-insight",
+      "rationale": "The compound-interest metaphor does what the exhaustion frame can't: it explains the lag between sustained masking and eventual crash. Immediately legible to late-diagnosed adults mapping their twenties and thirties in retrospect. Evergreen frame requiring no current-source citation.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-02",
+      "status": "draft",
+      "char_count": 237,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of autistic people don't get hungry gradually. The body stays quiet, then hits a wall. That's not self-neglect — it's interoception without a volume dial. You weren't ignoring the signal. There wasn't one.",
+      "shape": "validation",
+      "rationale": "Names the interoceptive on/off switch with the precision most content on this topic lacks. The final line is the exonerating pivot — it reframes years of self-blame in eight words. Speaks to an experience, not a diagnostic category.",
+      "source_url": "https://medium.com/@higgoraraujo/4-signs-you-might-have-autistic-interoception-problems-without-knowing-it-323a05ab1bdf",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-03",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Changing 'Pathological Demand Avoidance' to 'Pervasive Drive for Autonomy' isn't just semantics. 'Pathological' puts the problem in the person. 'Drive for Autonomy' puts it where it belongs: in the mismatch between need and environment.",
+      "shape": "reframe",
+      "rationale": "The rename is a values argument disguised as a terminology debate. The post makes that explicit without choosing sides aggressively — it shows what each framing implies about where the problem lives. Grounded in live advocacy discourse across UK and North American orgs.",
+      "source_url": "https://reframingautism.org.au/reframing-pda-the-power-of-an-autistic-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-04",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of neurodivergent people built their own accommodations at home — noise, light, breaks, no commute — without ever needing to disclose. What happens to those workers when RTO goes mandatory?",
+      "shape": "question",
+      "rationale": "Opens the disclosure dilemma at the heart of RTO mandates as a genuine question rather than an accusation. Self-contained, invites real community response, and stays well clear of outrage framing by naming the dilemma rather than assigning blame.",
+      "source_url": "https://enna.org/why-neurodivergent-employees-prefer-hybrid-work-and-why-strict-return-to-office-policies-are-driving-them-away/",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-05",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis doesn't end with relief. It starts a second process: going back through your whole life and re-reading it. That can take months. The grief of revisiting the past is real, and almost nobody prepares you for it.",
+      "shape": "validation",
+      "rationale": "Names the painful, protracted emotional work that follows late diagnosis — the part after the relief — which a 2026 SAGE qualitative study explicitly calls 'grief of revisiting the past.' Validates an experience the community is actively in, not just at the moment of diagnosis.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-06",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "'School refusal' makes it sound like a choice. For a lot of autistic kids, it's a nervous system saying it cannot, not won't. The language matters because it determines whether families get support or blame.",
+      "shape": "reframe",
+      "rationale": "The can't-vs-won't axis is the core of an active UK advocacy debate backed by a 2025 SAGE qualitative study. Reframes a stigmatised behaviour as a nervous-system signal without making any treatment claim or speaking for all children. High utility for parents of PDA and demand-avoidant kids.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/27546330251385325",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-07",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "With ADHD, the problem usually isn't wanting to start. It's that the neurochemistry needed to start isn't available yet. You're not waiting for motivation. You're waiting for activation. Those require completely different responses.",
+      "shape": "micro-insight",
+      "rationale": "The motivation/activation distinction is both shame-reducing and practically redirective — it moves the reader away from willpower solutions toward activation strategies, without prescribing any specific treatment. Final line is the sharpest carry.",
+      "source_url": "https://adhdwithai.substack.com/p/youre-not-lazy-youre-waiting-for",
+      "sensitivity_flag": "Uses 'neurochemistry' in a descriptive frame — well-established in ADHD discourse and defensible from cited sources, but slightly clinical in register. Not a medical claim; acceptable here, worth watching if audience skews broad or clinical.",
+      "id": "2026-06-19T16-00-33-08",
+      "status": "draft",
+      "char_count": 232,
+      "over_limit": false
+    },
+    {
+      "text": "A calming environment isn't a visual aesthetic — it's a relationship between a specific space and a specific nervous system. What quiets one person's system can silently drain another's. Beige walls don't know your sensory profile.",
+      "shape": "micro-insight",
+      "rationale": "The sharpest quotable angle from the June 2026 Psychology Today piece. Challenges the assumption that sensory calm is universal and names something the sensory design world routinely ignores. The dry closer earns the laugh without undermining the point.",
+      "source_url": "https://www.psychologytoday.com/us/blog/deeper-empathy-lasting-change/202606/environmental-calm-for-the-autistic-nervous-system",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-09",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "Getting both an autism and ADHD diagnosis doesn't always clarify who you are. Sometimes it fragments it. The clinical stereotypes pull in opposite directions, and neither one fully fits. That's not ingratitude. That's the reality.",
+      "shape": "validation",
+      "rationale": "Names the underserved experience of AuDHD diagnosis creating more confusion than clarity — validated by a 2026 SAGE study on women diagnosed in adulthood. Holds the experience without catastrophising, and the closing two sentences do the validating work efficiently.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13634593251336163",
+      "sensitivity_flag": null,
+      "id": "2026-06-19T16-00-33-10",
+      "status": "draft",
+      "char_count": 230,
+      "over_limit": false
+    },
+    {
+      "text": "Return-to-office mandates aren't a productivity debate for a lot of neurodivergent workers. They're an accommodation removal — just one that was never formally named, so no one has to formally justify taking it away.",
+      "shape": "reframe",
+      "rationale": "The 'accommodation removal' frame is the most precise way to articulate what RTO does to neurodivergent workers who built bespoke home environments without disclosing. Names the mechanism rather than assigning blame, keeping it from reading as outrage-bait.",
+      "source_url": "https://enna.org/why-neurodivergent-employees-prefer-hybrid-work-and-why-strict-return-to-office-policies-are-driving-them-away/",
+      "sensitivity_flag": "The clause 'so no one has to formally justify taking it away' is the sharpest edge — accurate and defensible, but pointed enough to attract bad-faith readings. Framing is clean overall; worth monitoring engagement context before posting.",
+      "id": "2026-06-19T16-00-33-11",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "If 'just start' doesn't work for you, it's not a character flaw. ADHD brains often need activation from outside: novelty, a body double, real stakes, a timer with presence. Willpower isn't the substrate. Dopamine is.",
+      "shape": "practical",
+      "rationale": "Translates the activation-vs-motivation insight into usable form — names specific external activation strategies and closes with a punchy biological reframe. Shame-reducing opener, concrete middle, memorable close. Complements the micro-insight post on this angle with a different register.",
+      "source_url": "https://psychscenehub.com/video/procrastination-dopamine-timing/",
+      "sensitivity_flag": "'Willpower isn't the substrate. Dopamine is.' is a near-causal neurobiological claim — defensible from the cited dopamine-timing source and standard in ADHD community discourse, but absolutist in tone. Acceptable for this audience; flag if repurposed for clinical or general contexts.",
+      "id": "2026-06-19T16-00-33-12",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    }
+  ]
+}
