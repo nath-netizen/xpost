@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-05T22:54:18.651Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Masking isn't free. It's a loan with compound interest. And some of us have been borrowing since we were four.",
+      "shape": "micro-insight",
+      "rationale": "The finance metaphor makes an invisible, contested experience structurally legible in one sentence. No jargon needed — late-diagnosed adults will recognise it immediately.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-01",
+      "status": "draft",
+      "char_count": 110,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout doesn't hit suddenly. It's the moment the bank calls in decades of masking debt you didn't know you were accumulating.",
+      "shape": "reframe",
+      "rationale": "Extends the masking-debt metaphor but shifts emphasis from the individual to the structural — burnout as an inevitable reckoning, not a personal failure. Distinct enough from post 1 to run separately.",
+      "source_url": "https://embrace-autism.com/when-masking-debt-comes-due-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-02",
+      "status": "draft",
+      "char_count": 135,
+      "over_limit": false
+    },
+    {
+      "text": "RTO mandate hitting you? Under the 2026 EEOC guidance, your employer must conduct an individualized assessment before requiring you back. Sensory and predictability needs are accommodation grounds, not preferences.",
+      "shape": "practical",
+      "rationale": "Names a live legal right at the moment people need it most. Shifts narrative from guilt ('WFH privilege') to rights without being preachy. Actionable without crossing into legal advice.",
+      "source_url": "https://www.consultils.com/post/ada-telework-accommodation-rto-2026",
+      "sensitivity_flag": "Verify that 'individualized assessment' matches the exact EEOC guidance language before posting — overstatement of the legal obligation would undermine trust.",
+      "id": "2026-06-05T22-54-18-03",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of autistic people aren't resisting RTO out of laziness. They're resisting the sensory load, the energy math, the loss of the only work setup that didn't cost them their evenings to recover from.",
+      "shape": "validation",
+      "rationale": "Names the internal experience before the reader has to explain it themselves. Works as a softer companion to the practical post — no legal framing required, just recognition.",
+      "source_url": "https://askjan.org/articles/Managing-Accommodations-During-the-Great-Return-to-Office.cfm",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-04",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and permanently exhausted: the exhaustion isn't from having two conditions. It's from arbitrating between them. Your autistic brain needs sameness. Your ADHD brain needs novelty. Neither wins.",
+      "shape": "validation",
+      "rationale": "Names the specific internal conflict AuDHD people describe feeling but rarely see articulated. 'Neither wins' lands hard in two words. Speaks to an experience, not a population.",
+      "source_url": "https://mindfullofit.substack.com/p/audhd-explained-why-autism-and-adhd",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-05",
+      "status": "draft",
+      "char_count": 208,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD. It's autism vs. ADHD. The two systems are in constant negotiation, and you're the only one in the room.",
+      "shape": "micro-insight",
+      "rationale": "The 'plus vs. versus' reframe is compact enough to screenshot and share. Creates the recognition moment without over-explaining — a different angle from post 5, sharper and pithier.",
+      "source_url": "https://theprivatetherapyclinic.co.uk/blog/autism-and-adhd-overlap/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-06",
+      "status": "draft",
+      "char_count": 133,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout doesn't just exhaust you. It borrows your skills — language, executive function, daily tasks you've had for years. That's not regression. It's a documented feature of burnout. And it can be temporary.",
+      "shape": "reframe",
+      "rationale": "Addresses a gap in mainstream mental health content — skill loss in burnout is real, documented, and rarely named. 'Can be temporary' offers genuine hope without false promise.",
+      "source_url": "https://www.simplypsychology.org/autistic-regression-in-adults.html",
+      "sensitivity_flag": "'Can be temporary' is load-bearing — confirm the cited research explicitly supports potential skill recovery with structural change, not just rest, before posting.",
+      "id": "2026-06-05T22-54-18-07",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    },
+    {
+      "text": "You don't lose skills you've had for years because you're getting worse. You lose them because your brain is in debt. That's autistic burnout. It has a name.",
+      "shape": "micro-insight",
+      "rationale": "'It has a name' does what naming does — relieves isolation. Approaches the same skill-loss territory as post 7 but centres recognition over recovery, making the two complementary not redundant.",
+      "source_url": "https://www.neurorebelpodcast.com/blog/when-your-life-map-changes-the-reality-of-late-diagnosed-autism-burnout-and-skill-regression/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-08",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    },
+    {
+      "text": "Still exhausted after 10 hours of sleep? You might be resting from the wrong thing. Autistic burnout is often sensory or social depletion — sleep doesn't touch that. What kind of tired is this, actually?",
+      "shape": "practical",
+      "rationale": "Reframes a specific, shameful experience ('I rested and I'm still destroyed') as diagnostic information, not a character flaw. The closing question invites self-investigation rather than self-criticism.",
+      "source_url": "https://www.curiouslydivergent.co.uk/blog/recover-from-burnout-when-rest-isnt-enough/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-09",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't a personality flaw or a willpower failure. It's your nervous system reading demand as threat. The avoidance is protection. 'Just do it' doesn't work because it was never about motivation.",
+      "shape": "reframe",
+      "rationale": "Addresses the backlog of shame PDA adults carry. Mechanism-first framing ('threat response') replaces moral framing ('lazy, difficult') without requiring clinical jargon.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-10",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "What if low-demand parenting isn't the thing that's failing? What if it's the 6 hours of daily school-as-threat that home strategies can't offset — and the fact that parents doing it have no support of their own?",
+      "shape": "question",
+      "rationale": "Enters the live LDP debate without taking a polarising side. Redirects blame from the approach or the family toward systemic under-resourcing. Opens a real conversation without prescribing answers.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-05T22-54-18-11",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Polyvagal theory isn't debunked — but there's a more important question for this community: is the framework being used to understand autistic nervous systems, or to pathologise them?",
+      "shape": "reframe",
+      "rationale": "Navigates a live, confusing scientific controversy without overclaiming either way. Pivots to the community-specific concern — pathologising framing — that predates the current debate and remains valid regardless of how the neuroscience settles.",
+      "source_url": "https://autietraumageek.medium.com/a-neurodiversity-paradigm-lens-on-polyvagal-theory-pvt-7f9495cffbd8",
+      "sensitivity_flag": "The 'not debunked' framing rests primarily on one Psychology Today piece amid an active scientific dispute. Consider softening to 'the science is actively contested' if the debate has moved on since the briefing was written.",
+      "id": "2026-06-05T22-54-18-12",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    }
+  ]
+}
