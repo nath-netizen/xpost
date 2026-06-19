@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-10T12:52:16.576Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "PDA avoidance fires before the person decides anything. It's an automatic alarm, not a choice. Calling it defiance is like calling a flinch disobedience.",
+      "shape": "reframe",
+      "rationale": "Replaces moral language ('won't', 'defiant') with neurological framing via a concrete analogy. The flinch comparison makes the involuntary mechanism immediately legible without jargon.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-01",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis didn't make you worse. It removed the anesthesia. What looks like decline is decades of unsustainable demands finally becoming visible.",
+      "shape": "validation",
+      "rationale": "The anesthesia metaphor is evocative and accurate to the source's argument. Reframes post-diagnosis 'dip' as exposure rather than regression — immediately relieving for anyone who's heard 'you were doing so well.'",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-02",
+      "status": "draft",
+      "char_count": 150,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout didn't take your skills. It took the energy you need to reach them. That's a different problem — and a recoverable one.",
+      "shape": "micro-insight",
+      "rationale": "Sharp distinction between skill loss and skill inaccessibility in two sentences. 'Recoverable' is defensible against the source's burnout-as-load framing, though it should not be read as universal.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": "'Recoverable' could land as a promise to someone in severe or prolonged burnout. The source supports the framing as contextual rather than permanent — monitor replies from people for whom this hasn't been true.",
+      "id": "2026-06-10T12-52-16-03",
+      "status": "draft",
+      "char_count": 127,
+      "over_limit": false
+    },
+    {
+      "text": "Masking isn't just tiring. It holds your nervous system in continuous alarm. The crash after a social day isn't weakness — it's the bill arriving.",
+      "shape": "micro-insight",
+      "rationale": "Translates allostatic-load research into plain language without naming the term. 'The bill arriving' makes the delayed physiological cost viscerally legible.",
+      "source_url": "https://horkan.com/2026/01/01/the-hidden-costs-of-masking-what-research-and-autistic-voices-reveal",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-04",
+      "status": "draft",
+      "char_count": 146,
+      "over_limit": false
+    },
+    {
+      "text": "Does your autism and ADHD feel like two parts of your brain in conflict? A 2026 study named that exact experience in AuDHD adults. The fragmentation is real — and it's a gap in the diagnostic system, not in you.",
+      "shape": "question",
+      "rationale": "Validates a specific internal experience the AuDHD community has described for years without research backing. Opens genuine conversation rather than broadcasting. 'Not in you' cleanly redirects blame.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13634593251336163",
+      "sensitivity_flag": "The Craddock study focused specifically on women diagnosed in adulthood; this post generalizes to AuDHD adults broadly, which slightly outpaces the study's stated scope. Defensible as a community-recognition post, but worth noting if challenged on generalizability.",
+      "id": "2026-06-10T12-52-16-05",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "The part of you that refuses every demand isn't broken. It learned that was the only safe move. The goal isn't to silence it — it's to give it some backup.",
+      "shape": "validation",
+      "rationale": "Applies IFS framing without naming the framework, keeping it accessible. Shifts from elimination of the defense to relieving its burden — non-shaming and non-coercive throughout.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-06",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD isn't a motivation problem. Your brain runs on interest, not importance — and most environments were designed for the other kind. That's a mismatch, not a flaw.",
+      "shape": "reframe",
+      "rationale": "Shifts the locus of 'problem' from the person to environment and design. The mismatch frame is immediately relieving for anyone who has internalized the laziness narrative from childhood.",
+      "source_url": "https://neurodivergentinsights.com/interest-based-nervous-system/",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-07",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't saying yes to everything. It's triaging — stop burning your kid's nervous system on the battles that don't matter so you have something left for the ones that do.",
+      "shape": "practical",
+      "rationale": "Directly counters the 'permissive parenting' misread without becoming defensive. 'Triaging' reframes the approach as skilled discernment, not passivity. Closes with the practical payoff.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-08",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "New research traced a loneliness pathway into masking — not just a safety one. Sometimes the mask isn't about hiding who you are. It's about desperately trying to belong after rejection has already happened.",
+      "shape": "validation",
+      "rationale": "Names the social pain behind assimilation masking, which is distinct and less-often named than the safety rationale. 'After rejection has already happened' is the precise gut-punch that earns recognition.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41351454/",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-09",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "What if the word 'defiant' is doing real harm? For PDAers, avoidance is automatic — a threat response that fires before any decision is made. Moral language for a neurological event isn't just wrong. It's cruel.",
+      "shape": "question",
+      "rationale": "Second PDA take; escalates the stakes of mislabeling from 'inaccurate' to 'harmful.' The rhetorical opening invites the reader to reach the conclusion themselves rather than being told it.",
+      "source_url": "https://pdanorthamerica.org/",
+      "sensitivity_flag": "'It's cruel' is a strong closing word — defensible given documented harm of the defiance label on autistic people and parents, but likely to attract pushback from those who read it as an attack. Not a reason to soften it, just expect the friction.",
+      "id": "2026-06-10T12-52-16-10",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "'Regression' implies something permanent is being lost. 'Burnout' implies the load is too high. One word is accurate — and it changes everything about how you respond.",
+      "shape": "micro-insight",
+      "rationale": "Foregrounds how word choice determines the response. Pithy and practical; quietly shifts the focus from the autistic person as the locus of the problem to the conditions surrounding them.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-11",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "If you were told 'you were doing so well' right before burnout — what were they actually measuring? Your performance, or your capacity?",
+      "shape": "question",
+      "rationale": "Reframes a memory many late-diagnosed autistic people carry as a measurement error, not evidence of a better period. Short, genuinely invites reflection, and opens conversation without manufacturing drama.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-06-10T12-52-16-12",
+      "status": "draft",
+      "char_count": 135,
+      "over_limit": false
+    }
+  ]
+}
