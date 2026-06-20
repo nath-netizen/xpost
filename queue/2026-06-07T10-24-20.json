@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-07T10:24:20.330Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "If you've rested through burnout and returned to the same demands, the same masking requirements, the same environment — that's not recovery. That's a pause before the next cycle.",
+      "shape": "reframe",
+      "rationale": "Directly names why rest alone fails autistic people in burnout. Reframes relapse as a predictable system outcome rather than individual failure. The parallel structure ('same demands, same masking, same environment') earns the landing.",
+      "source_url": "https://www.creativesolutionscoaching.com/insights/autistic-burnout-cycles-7f8br-xpaec",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-01",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "Rest doesn't cure autistic burnout. It pauses it. Recovery means changing what you return to — not just building the stamina to face it again.",
+      "shape": "practical",
+      "rationale": "Strips the burnout-rest relationship to its plainest form and pivots to the actionable implication: structural change, not endurance. Different angle from post 1 — this is the prescription, not the diagnosis.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-recovery-signs-timelines-and-how-to-rebuild-capacity",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-02",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "It was never the last straw. It was every straw, for thirty years, arriving together on the same statement. That's what late-diagnosed autistic burnout actually looks like.",
+      "shape": "micro-insight",
+      "rationale": "The bank-statement metaphor explains the seemingly disproportionate collapse — why something small can finally break a person who 'seemed fine for decades.' Late-diagnosed readers will recognize this immediately.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-03",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "Most late-diagnosed autistic people spent decades masking without knowing they were spending anything. By the time the balance was checked, the account was empty.",
+      "shape": "validation",
+      "rationale": "'Most' qualifier avoids speaking for all. The expenditure metaphor is vivid without being clinical. Validates the late-diagnosis experience — the collapse feels sudden because no one knew to track the deficit.",
+      "source_url": "https://www.heyasd.com/blogs/autism/masking-across-the-lifespan",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-04",
+      "status": "draft",
+      "char_count": 162,
+      "over_limit": false
+    },
+    {
+      "text": "When the demand hits, the thinking brain doesn't slow down — it goes offline. That's not defiance. That's the PDA profile.",
+      "shape": "reframe",
+      "rationale": "Gives PDA individuals and their families a neurologically grounded reframe for a behaviour constantly misread as wilful opposition. Short and confident — built to be screenshot and shared with someone who needs to hear it.",
+      "source_url": "https://www.sagebrushcounseling.com/blog/pda-demand-avoidance-adults-relationships",
+      "sensitivity_flag": "'Thinking brain goes offline' is a simplification of the amygdala-prefrontal mechanism described in the source. Defensible as an approximation, but not a clinical claim — framed correctly as profile description, not diagnosis.",
+      "id": "2026-06-07T10-24-20-05",
+      "status": "draft",
+      "char_count": 122,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting doesn't mean no demands. It means being deliberate about which demands are worth the cost — and letting go of the ones that aren't.",
+      "shape": "practical",
+      "rationale": "Names the specific conflation that derails families and provides the corrective in a single sentence. Practical and discussion-generating without shaming anyone on either side of the debate.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-06",
+      "status": "draft",
+      "char_count": 152,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting and zero-demand parenting aren't the same thing. Treating them as identical is exactly why the approach fails — and why families get blamed for it.",
+      "shape": "reframe",
+      "rationale": "Shifts blame for approach failure from families onto the conceptual confusion. Distinct from post 6: this is the structural critique, not the definition. Relevant to the March 2026 discourse actively circulating.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-07",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work accidentally became the most effective workplace accommodation many autistic people ever had. Nobody designed it that way. Is undoing it with an RTO mandate a neutral business decision?",
+      "shape": "question",
+      "rationale": "Reframes the RTO debate from productivity to access. The 'nobody designed it' line names a structural irony; the question forces a genuine reckoning without being agitprop. Timely — May 2026 HR discourse is live.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-08",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Having to choose between disclosing your neurodivergence or losing a work setup that actually functions isn't a personal problem to solve. That's a structural one.",
+      "shape": "validation",
+      "rationale": "Validates the specific RTO bind without prescribing disclosure. Moves responsibility from individual to system. Uses 'neurodivergence' deliberately — broader than autism, relevant to more readers facing this exact situation.",
+      "source_url": "https://enna.org/why-neurodivergent-employees-prefer-hybrid-work-and-why-strict-return-to-office-policies-are-driving-them-away/",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-09",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "Getting a late diagnosis doesn't always quiet the inner voice. Sometimes the first thing it says is: 'but surely you're not as autistic as a real autistic person.'",
+      "shape": "validation",
+      "rationale": "Names post-diagnosis imposter syndrome by quoting the internalized thought itself — so readers feel seen rather than lectured. The harmful phrase is framed as 'the inner voice,' not as a statement of fact.",
+      "source_url": "https://www.sagebrushcounseling.com/blog/internalized-ableism-autism-adhd",
+      "sensitivity_flag": "Deliberately quotes an internalized ableist thought to name and validate the experience. Could be misread stripped of context — 'the inner voice' framing is the guardrail. Low risk; worth monitoring how it lands in replies.",
+      "id": "2026-06-07T10-24-20-10",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "For AuDHD people, demand avoidance doesn't only fire when someone else makes a request. Your own to-do list can trigger the same alarm. 'Just start' can make it worse.",
+      "shape": "micro-insight",
+      "rationale": "Articulates something AuDHD people experience constantly but rarely see named: self-directed demands firing the same avoidance response as external ones. The practical implication is embedded without moralizing.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": null,
+      "id": "2026-06-07T10-24-20-11",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "For autistic adults whose burnout cycles are getting shorter: what actually changed? Research suggests the common thread is self-knowledge — not a new treatment or medication.",
+      "shape": "question",
+      "rationale": "Opens a genuine discussion prompt anchored in a research-backed finding. The question invites personal responses; 'Research suggests' hedges appropriately without diluting the insight. Hopeful without being cure-framed.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": "'Not a new treatment or medication' reflects source data accurately but could be misread as dismissing professional support. Phrasing is comparative, not prescriptive — not medical advice. Low risk; worth ensuring the post stands alone without anti-treatment readings.",
+      "id": "2026-06-07T10-24-20-12",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    }
+  ]
+}
