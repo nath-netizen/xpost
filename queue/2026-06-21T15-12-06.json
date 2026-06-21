@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-21T15:12:06.574Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Burnout and depression share a surface — fatigue, withdrawal, low mood. But autistic burnout takes skills you had and makes familiar sounds unbearable again. That's a different nervous-system signal, not a mood disorder.",
+      "shape": "reframe",
+      "rationale": "Opens with the surface resemblance before pivoting to the specific markers that distinguish autistic burnout — skill loss and sensory backslide — giving people vocabulary to advocate in clinical settings without making a diagnostic claim.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": "'Not a mood disorder' edges toward diagnostic framing. Kept defensible by positioning it as a distinction in kind, not a clinical verdict. Monitor for replies seeking medical guidance.",
+      "id": "2026-06-21T15-12-06-01",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "In autistic burnout, skills come back in patches, not all at once. That's not permanent loss. That's not laziness. That's what nervous-system recovery looks like when the overdraft ran deep.",
+      "shape": "validation",
+      "rationale": "Directly addresses the fear that skill regression is permanent — the 'in patches' detail is both consoling and precise, sourced from the HeyASD skill-regression piece.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-skill-regression",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-02",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout isn't caused by today. It's the bill for every year you spent performing 'fine' without knowing the account had a limit.",
+      "shape": "micro-insight",
+      "rationale": "Bank-account metaphor externalises the cause and explains why late-diagnosed autistic people hit the wall without a visible trigger — tight, re-shareable, and evergreen.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-03",
+      "status": "draft",
+      "char_count": 128,
+      "over_limit": false
+    },
+    {
+      "text": "Relentless negotiation isn't low-demand. To a PDA nervous system, every bargaining round is still a claim on autonomy — just quieter. The siege doesn't stop because the volume does.",
+      "shape": "micro-insight",
+      "rationale": "Names an invisible demand source that undermines well-intentioned low-demand practice. 'Siege' describes the nervous-system experience without assigning blame to the parent.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-04",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "PDA: the P doesn't have to stand for Pathological. Persistent Drive for Autonomy describes the same nervous system — but tells a completely different story about the person inside it.",
+      "shape": "reframe",
+      "rationale": "The naming debate carries real stakes — school and clinical framing flows from whichever label is in use. Post opens that conversation without prescribing which term people must adopt.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-05",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "Being AuDHD isn't autism plus ADHD bolted together. It's one nervous system where the pull toward sameness and the pull toward novelty run simultaneously. Not confusion — a third thing entirely.",
+      "shape": "validation",
+      "rationale": "Names AuDHD as a distinct phenomenon grounded in 2026 PMC qualitative research; resists the reductive 'both conditions added together' framing that underserves this community.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923626/",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-06",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "'I need routine' and 'routine feels like a trap' — at the same time, in the same nervous system. AuDHD isn't mixed signals. Both signals are real.",
+      "shape": "micro-insight",
+      "rationale": "Distills the AuDHD internal conflict to its most recognisable form without resolving it or offering a fix. The lack of resolution is the point — recognition, not advice.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-07",
+      "status": "draft",
+      "char_count": 146,
+      "over_limit": false
+    },
+    {
+      "text": "No single moment caused your burnout. It was accumulated — years of masking without knowing the account had a balance. Late-diagnosed autistic adults often hit the wall without a visible trigger. That's masking debt.",
+      "shape": "reframe",
+      "rationale": "Targets the specific late-diagnosis bewilderment of 'why now?' — reframes the absence of a visible cause as expected rather than mysterious, which reduces self-blame without minimising the experience.",
+      "source_url": "https://stimpunks.org/burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-08",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "After your autism diagnosis, did grief and relief arrive at the same time? Grieving your past self isn't the same as rejecting who you are now. What did that look like for you?",
+      "shape": "question",
+      "rationale": "2026 Tandfonline research on autistic self-identity confirms the co-occurrence of recognition and destabilisation post-diagnosis. The question invites people to articulate an experience without prescribing what it should feel like.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/17482631.2026.2682104",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-09",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "37% of neurodivergent workers don't disclose. 28% who did feared retaliation. The problem isn't individual courage — it's a system that requires self-disclosure before granting support. Universal design doesn't ask you to out yourself first.",
+      "shape": "practical",
+      "rationale": "Grounds a systemic argument in concrete figures from the cited sources, shifts frame from individual failing to structural design flaw, and gives 'universal design' as a specific ask rather than vague advocacy.",
+      "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1547877/full",
+      "sensitivity_flag": "Stats (37%, 28%) are drawn from the briefing's cited sources — verify directly against the Frontiers and Stanton House pieces before posting. 'Out yourself' is standard community disclosure language but flag if platform moderation treats it as sensitive.",
+      "id": "2026-06-21T15-12-06-10",
+      "status": "draft",
+      "char_count": 241,
+      "over_limit": false
+    },
+    {
+      "text": "You're not ignoring your body. Autistic interoception means signals arrive late, scrambled, or so loud they register as threat before you can name them. You're not failing to listen. You're receiving interference.",
+      "shape": "validation",
+      "rationale": "Draws on the 2026 Simply Psychology finding that autistic adults more often perceive interoceptive signals as threatening — reframes a lived frustration as a mechanism, not a character flaw.",
+      "source_url": "https://www.simplypsychology.org/news/how-autistic-people-interpret-internal-body-signals",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-11",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "Hunger that arrives as irritability. Exhaustion that lands as overwhelm. If your body's signals come in the wrong order or all at once, that's interoception — not self-neglect. Naming the mechanism helps.",
+      "shape": "practical",
+      "rationale": "Gives concrete, day-to-day examples of scrambled interoception so the abstract concept becomes immediately recognisable — closes on utility ('naming the mechanism helps') without drifting into treatment territory.",
+      "source_url": "https://neurodivergentinsights.com/autism-interoception/",
+      "sensitivity_flag": null,
+      "id": "2026-06-21T15-12-06-12",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    }
+  ]
+}
