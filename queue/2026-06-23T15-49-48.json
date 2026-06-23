@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-23T15:49:48.213Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Burnout doesn't take your skills. It takes your *access* to them. When the words stop or the familiar route goes blank — the ability is still there. The bandwidth isn't. That's a different problem with a different solution.",
+      "shape": "reframe",
+      "rationale": "Names the regression/access distinction head-on. 'Regression' implies permanent decline; the reframe converts fear into accurate understanding and points toward the right intervention: reduce load, not alarm.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-01",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "'Regression' implies you went backwards. Burnout means the route is blocked. The destination hasn't moved — and neither have you.",
+      "shape": "micro-insight",
+      "rationale": "Tighter, single-metaphor take on the same angle — different enough from post 1 to run separately. The 'neither have you' close lands the reassurance without sentimentality.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-02",
+      "status": "draft",
+      "char_count": 129,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic women often seek a first assessment during perimenopause. Not because something new is happening — because estrogen withdrawal depletes the cognitive resources that powered masking for decades.",
+      "shape": "validation",
+      "rationale": "Names the specific mechanism behind midlife first-diagnosis without pathologizing it. 'Often' is accurate and non-totalizing. Reframes 'falling apart in midlife' as a systems-capacity story.",
+      "source_url": "https://www.psychologytoday.com/us/blog/women-with-autism-spectrum-disorder/202604/why-perimenopause-is-when-women-seek-out-an-autism",
+      "sensitivity_flag": "References a hormonal mechanism (estrogen withdrawal → cognitive depletion) drawn from Frontiers in Reproductive Health 2026 and Psychology Today Apr 2026 — defensible, but confirm the phrasing doesn't read as medical advice or treatment claim before posting.",
+      "id": "2026-06-23T15-49-48-03",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "In PDA, anxiety isn't the engine — it's the exhaust. If you treat anxiety without reducing demands, you're fixing the smoke alarm while the fire runs.",
+      "shape": "reframe",
+      "rationale": "One crisp analogy does the heavy lifting. Speaks directly to parents and clinicians who've tried anxiety-first interventions without results. No prescription — the implication is structural.",
+      "source_url": "https://www.psychologytoday.com/us/blog/mental-health-reimagined/202604/its-time-to-rethink-the-anxiety-drives-pda-narrative",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-04",
+      "status": "draft",
+      "char_count": 150,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found sensory over-reactivity predicts demand avoidance in PDA kids even after controlling for anxiety. The sensory load is upstream. Anxiety is downstream. That order matters.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the data, distills the implication without prescribing treatment. 'That order matters' invites the reader to fill in the why — works for both parents and clinicians.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S3050656526000301",
+      "sensitivity_flag": "'Upstream/downstream' implies causation; the study shows predictive relationship after controlling for anxiety, which supports the framing but doesn't prove causation. The language is directional rather than absolute — acceptable, but worth a second read against the primary source.",
+      "id": "2026-06-23T15-49-48-05",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work was never a perk for many autistic and ADHD workers. It was a de facto accommodation. RTO mandates are revoking it without going through any accommodation process.",
+      "shape": "reframe",
+      "rationale": "Shifts the RTO debate from preference/culture to access/rights without being combative. Gives neurodivergent workers concrete language for what's actually at stake.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-06",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis brings relief. It also brings grief, and they don't cancel each other out. Part of what you're mourning is who you had to become to survive without a map for 30 or 40 years.",
+      "shape": "validation",
+      "rationale": "Names the coexistence of relief and grief without artificially resolving it. 'Who you had to become' is the specific, less-named layer — the grief about the adaptive self, not just the missed diagnosis.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-grief-no-one-warns-you-about",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-07",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling isn't a weird workaround. A 2025 VR study found ADHD participants finished tasks 27–30% faster with someone present. External social presence fills the self-activation gap the brain can't reliably fill alone.",
+      "shape": "practical",
+      "rationale": "Leads with permission, delivers the data, names the mechanism. Converts embarrassment about needing someone in the room into understanding. Immediately usable.",
+      "source_url": "https://www.simplypsychology.com/articles/body-doubling-adhd",
+      "sensitivity_flag": "The 27–30% figure is cited in Simply Psychology 2026 summarizing the VR study — verify against the primary source before posting.",
+      "id": "2026-06-23T15-49-48-08",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "'I can only focus if someone's in the room' isn't a character flaw. It's your nervous system borrowing a regulatory signal it can't reliably generate on its own.",
+      "shape": "micro-insight",
+      "rationale": "Evergreen shame-removal post built on the body-doubling mechanism. No stat required — the framing does the work. Runs well independently or as a complement to post 8.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-09",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "81% of neurodivergent employees mask at work. The intervention target isn't the employee. It's managers who inadvertently enforce neurotypical performance norms — like treating eye contact as proof of engagement.",
+      "shape": "reframe",
+      "rationale": "Stat as entry point, immediate pivot to structural. The concrete example (eye contact) makes it legible to neurotypical allies and gives managers something specific to examine.",
+      "source_url": "https://www.curiouslydivergent.co.uk/blog/masking-in-the-workplace/",
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-10",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Psychological safety has to come before disclosure — not the other way around. What would that actually look like in your workplace?",
+      "shape": "question",
+      "rationale": "Opens the structural conversation without demanding an answer. The question is genuinely open and invites employers, managers, and HR to think rather than defend. Short, clean, genuinely discussable.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-11",
+      "status": "draft",
+      "char_count": 132,
+      "over_limit": false
+    },
+    {
+      "text": "There's a lot written on low-demand parenting for PDA kids. Almost nothing on doing it as a neurodivergent parent who's already in burnout. Who's regulating *your* nervous system?",
+      "shape": "question",
+      "rationale": "Names a gap that exists in lived experience but not yet in published writing. No prescription — just the missing question. The closing line is the whole post. Should generate significant recognition in AuDHD parent communities.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-23T15-49-48-12",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    }
+  ]
+}
