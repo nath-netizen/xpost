@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-25T15:43:49.603Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Resting and still feeling worse isn't a failure. If nothing structural changes — same demands, same sensory load — rest can tip into numbness rather than recovery. That's not a character flaw. It's a predictable outcome.",
+      "shape": "reframe",
+      "rationale": "Names the 'lethargy cycle' without using the jargon, so it lands as recognition. The pivot from self-blame ('failure') to systemic cause ('predictable outcome') does the emotional work cleanly.",
+      "source_url": "https://neurodivergentinsights.com/managing-burnout-with-rest-and-pleasure/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-01",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout recovery needs more than rest. What actually helps: reduce demands, add sensory nourishment, build a minimal structure that feels chosen. Rest is part of it — not the whole thing.",
+      "shape": "practical",
+      "rationale": "The three-part model is concrete enough to screenshot without crossing into medical advice. 'Chosen' carries the autonomy principle without requiring a lecture on it.",
+      "source_url": "https://embrace-autism.com/why-rest-alone-may-not-help-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-02",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD, burnout recovery advice almost never fits. Autistic recovery pulls toward stillness. ADHD recovery pulls toward novelty. Most guidance feeds one side and starves the other. You're not doing it wrong.",
+      "shape": "validation",
+      "rationale": "The 'competing operating systems' experience is widely shared and almost never named in mainstream burnout content. Closing on 'you're not doing it wrong' earns the emotional resolution without going saccharine.",
+      "source_url": "https://neurodiverge.app/audhd-burnout",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-03",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "The AuDHD recovery sweet spot: safe novelty. New playlist. Different walk route. Stimulation that doesn't bring new commitments or social demands. Small enough to be low-demand. New enough to keep you present.",
+      "shape": "micro-insight",
+      "rationale": "'Safe novelty' is immediately actionable and specific to AuDHD experience. The parallel structure (small enough / new enough) makes it punchy and screenshot-ready. Stands alone even without Post 3 context.",
+      "source_url": "https://neurodiverge.app/audhd-burnout",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-04",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 review of 48 studies found: performing a different identity is more consistently linked to depression and burnout than hiding individual traits. It's not the masked stim that does the damage. It's the erased self.",
+      "shape": "micro-insight",
+      "rationale": "Gives the community a precise, research-backed distinction most masking conversations never reach. The final line earns its punch because the setup justified it with evidence rather than assertion.",
+      "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1701615/full",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-05",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis grief often isn't about the label. It's about realizing you spent years being wrong about yourself — performing a person who wasn't you. The grief is for all the time you didn't know you were paying.",
+      "shape": "reframe",
+      "rationale": "Evergreen reframe grounded in the Frontiers 2026 assimilation finding but written in lived-experience language. Validates a specific kind of grief that gets flattened as 'just identity stuff' in clinical spaces.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-06",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "We've been told anxiety drives demand avoidance. But what if demands come first and anxiety is what they leave behind — exhaust, not engine? Curious what resonates for those of you living this.",
+      "shape": "question",
+      "rationale": "Holds an open scientific question without resolving it, which is honest and respects lived experience. 'Exhaust, not engine' is a memorable contrast that sticks without requiring jargon.",
+      "source_url": "https://www.psychologytoday.com/us/blog/mental-health-reimagined/202604/its-time-to-rethink-the-anxiety-drives-pda-narrative",
+      "sensitivity_flag": "The source piece recommends Parent Management Training, which is contested within neurodiversity-affirming practice. This post holds only the open question and does not amplify any clinical claim about low-demand approaches being ineffective.",
+      "id": "2026-06-25T15-43-49-07",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "91% of neurodivergent workers mask at work. 1 in 3 fear being fired if they stop. 1 in 4 report bullying after disclosing. 'Just be yourself' is advice that ignores what's actually at stake.",
+      "shape": "validation",
+      "rationale": "The stats land as validation rather than shock — anyone who has faced the disclosure decision already knows the fear is grounded. The closing line names what the figures mean without editorializing.",
+      "source_url": "https://neurobridge.co.uk/the-state-of-neurodiversity-in-the-workplace-2026/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-08",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Deciding whether to disclose at work is one of the loneliest calls many neurodivergent people make. Have you ever had to make it? What tipped you either way?",
+      "shape": "question",
+      "rationale": "Pairs with the stats post but works entirely on its own. The disclosure decision is universal enough to pull in people across neurotypes, and 'what tipped you' invites specific replies rather than vague reactions.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-09",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'anything goes.' It's one question before every request: is this actually necessary right now? The answer is often no. That's not permissiveness. That's precision.",
+      "shape": "practical",
+      "rationale": "Gives parents a concrete, articulable principle that defends the approach without requiring a lecture on autonomy theory. 'Precision' reframes the practice as skilled rather than passive.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-10",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Edinburgh research found autistic-to-autistic information transfer is highly effective. The social difficulty isn't intrinsic to autistic people — it's specific to cross-neurotype interaction. The problem was never your capacity.",
+      "shape": "reframe",
+      "rationale": "Uses the research's own language so the claim is fully defensible. The three-step structure moves from finding to interpretation to validation, landing the emotional payload on solid ground.",
+      "source_url": "https://www.research.ed.ac.uk/en/publications/autistic-peer-to-peer-information-transfer-is-highly-effective/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-11",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "Masking debt works like compound interest. No single day causes the crash — it accrues quietly, often before you knew you were paying. The breaking point isn't a moment. It's a reckoning.",
+      "shape": "micro-insight",
+      "rationale": "The financial metaphor is new enough to stop a scroll and precise enough to explain what many people couldn't name. 'Before you knew you were paying' specifically validates late-diagnosed people whose debt predates their awareness of it.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-06-25T15-43-49-12",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    }
+  ]
+}
