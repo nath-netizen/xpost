@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-27T14:29:09.930Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "The exhaustion of AuDHD isn't autism or ADHD. It's the constant negotiation between two nervous systems that want completely opposite things. Neither ever wins. That's the whole problem.",
+      "shape": "validation",
+      "rationale": "Names the negotiation cost as the precise mechanism of AuDHD exhaustion — an insight underserved by content that addresses either condition alone. Community members will recognise this immediately and screenshot it.",
+      "source_url": "https://sachscenter.com/what-is-audhd-the-comprehensive-2026-guide-to-having-both-adhd-and-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-01",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "Autism wants the plan. ADHD wants to ditch the plan. AuDHD is the 3 hours you spend arguing with yourself about the plan before doing neither.",
+      "shape": "micro-insight",
+      "rationale": "Dry humour encodes the same negotiation insight but is immediately shareable and more broadly accessible. Different register reaches a different slice of the AuDHD community without repeating the first post.",
+      "source_url": "https://sachscenter.com/what-is-audhd-the-comprehensive-2026-guide-to-having-both-adhd-and-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-02",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "Perimenopause didn't break you. Falling oestrogen degrades the same systems that power masking. For many autistic women, midlife is when decades of coping quietly stop working.",
+      "shape": "reframe",
+      "rationale": "Reframes perimenopause from personal failure to a biologically grounded unmasking event, echoing language from the 2026 Frontiers review. 'Quietly stop working' is precise and validates a specific lived experience without pity.",
+      "source_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1762773/full",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-03",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "If you're an autistic woman who 'fell apart' in midlife, you didn't fall apart. The biological conditions that made masking possible changed. That's not failure — it's information.",
+      "shape": "validation",
+      "rationale": "Second perimenopause angle with direct personal address. Meets the reader inside their own internal narrative ('fell apart') and reframes it cleanly without dismissing the difficulty or veering into inspiration framing.",
+      "source_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1762773/full",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-04",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "What looks like refusal is a part of you that learned, very early, that demands meant danger. That's not defiance. That's protection.",
+      "shape": "reframe",
+      "rationale": "Applies the IFS 'protective part' framing to PDA demand avoidance without requiring the reader to know IFS. Crisp three-beat structure — observation, reframe, single-word naming — makes it quotable and emotionally resonant.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-05",
+      "status": "draft",
+      "char_count": 133,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout recovery isn't returning to who you were before. That person was running on empty. The goal is building something that doesn't require running on empty.",
+      "shape": "reframe",
+      "rationale": "Direct three-sentence reframe of the most common autistic burnout fear. The repeated 'running on empty' creates a deliberate pivot. Lifts shame from people who cannot 'bounce back' by naming the old baseline as the actual problem.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-06",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "'Will I get those skills back?' Sometimes the honest answer is: some of what felt like skills was masking. Losing them isn't failure. It's the nervous system refusing to go back.",
+      "shape": "validation",
+      "rationale": "Opens with the exact question the community asks post-burnout, then answers it honestly. 'Sometimes' prevents overgeneralisation. Reframing loss as the nervous system refusing to go back is a genuinely different way to hold the same reality.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-07",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "'Put your shoes on' → demand. 'Shoes are by the door when you're ready' → information. Same outcome, different nervous-system response. Declarative language works at any age.",
+      "shape": "practical",
+      "rationale": "Classic before/after format using the canonical example from the declarative language literature. The closing line ('any age') is the fresh angle — most sources focus on children; this opens the frame to adult PDAers and their partners or managers.",
+      "source_url": "https://www.gentleally.com/blog/declarative-language-examples.html",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-08",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "The adult version of declarative language: 'The report's ready whenever you want to look at it' hits differently than 'Can you review this?' Small shift. Real difference for a PDA nervous system.",
+      "shape": "micro-insight",
+      "rationale": "Pairs with the practical post but targets workplace and relationship contexts where PDA adults actually operate. The example is concrete and immediately transferable by colleagues, partners, or managers who want to get it right.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-09",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "Does the name shape the treatment? 'Pathological demand avoidance' and 'persistent drive for autonomy' describe the same profile. But they don't lead to the same classroom.",
+      "shape": "question",
+      "rationale": "Opens the live terminology debate without taking a side, anchoring it to real-world stakes — classroom outcomes — rather than pure semantics. Invites discussion from parents, educators, and autistic adults without being outrage-bait.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-10",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "School avoidance isn't defiance. A 2026 study found burnout markers in every child in the sample presenting with school refusal. The behaviour looks like a choice. The body is in collapse.",
+      "shape": "reframe",
+      "rationale": "Cites the specific 2026 PMC finding to ground the reframe in evidence. 'The body is in collapse' is precise and non-metaphorical. Enormously validating for parents who've been told their child is choosing to be difficult.",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11738850/",
+      "sensitivity_flag": "'Every child in the sample' is accurate per the 100% reported finding, but the sample size is not stated in the post. Worth monitoring for replies that challenge the scope; response would be to clarify this is within-sample, not a universal claim.",
+      "id": "2026-06-27T14-29-09-11",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Gen Z grew up with IEPs and 504s. They're the most likely generation to ask for neurodivergent accommodations at work. Are companies ready — or just legally compliant?",
+      "shape": "question",
+      "rationale": "Frames a 2026 data point as a generational shift question, inviting working neurodivergent people to reflect on their own experience. 'Legally compliant' versus 'ready' sets up a genuine and specific distinction without being inflammatory.",
+      "source_url": "https://absencesoft.com/resources/top-accommodations-for-employees-with-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-06-27T14-29-09-12",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    }
+  ]
+}
