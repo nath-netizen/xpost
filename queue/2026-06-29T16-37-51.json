@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-06-29T16:37:51.704Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Losing speech or cooking skills during burnout isn't regression. The skill isn't gone — the system ran out of fuel to fire it. That's a recovery story, not a deterioration story.",
+      "shape": "reframe",
+      "rationale": "Names the regression-vs-burnout distinction directly and reframes skill loss as inaccessibility rather than deterioration — kinder, more accurate, and immediately less frightening for anyone in or near burnout.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-01",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout doesn't erase skills. It cuts off access to them. The distinction matters more than it sounds — one says you're getting worse, the other says you're running on empty. Those point to very different roads out.",
+      "shape": "validation",
+      "rationale": "Validates the experience of skill loss by anchoring on the practical difference between two framings — 'different roads out' gives the reader something to hold onto rather than just naming the problem.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-02",
+      "status": "draft",
+      "char_count": 215,
+      "over_limit": false
+    },
+    {
+      "text": "PDA avoidance isn't defiance. It's a protection system that learned its job when demands felt genuinely dangerous. The question isn't how to override it — it's what would make it safe enough to stand down.",
+      "shape": "reframe",
+      "rationale": "Applies the IFS lens from the May 2026 Psychology Today piece to reframe PDA avoidance as protective rather than oppositional — shifts the intervention frame without dismissing real difficulty or implying a simple fix.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-03",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "If you're spending 40% of your cognitive capacity performing neurotypicality, you have 60% left for actual work. Masking isn't a quirk. It's a structural resource drain — and it triples burnout risk.",
+      "shape": "validation",
+      "rationale": "Translates workplace masking data into concrete capacity terms — shifts the frame from 'struggling employee' to 'systematically under-resourced person.' The 40% framing is quotable and immediately validates an experience most masking workers have never had named economically.",
+      "source_url": "https://neurobridge.co.uk/the-state-of-neurodiversity-in-the-workplace-2026/",
+      "sensitivity_flag": "The 40% figure and 'triples burnout risk' stat come from the NeuroBridge 2026 workplace report — defensible as reported data, but present as sourced findings not universal law. Verify the exact figures hold if challenged.",
+      "id": "2026-06-29T16-37-51-04",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't double the traits. It's a specific internal friction: craving routine and novelty at the same time. Wanting deep focus while being pulled away from it. Many AuDHD people spent years feeling half-right in both spaces.",
+      "shape": "validation",
+      "rationale": "Names the specific lived friction of AuDHD rather than treating it as simply additive — 'half-right in both spaces' is the recognition hook that speaks directly to an underserved community identity.",
+      "source_url": "https://www.nationalgeographic.com/health/article/what-is-audhd-adhd-autism-overlap-adults",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-05",
+      "status": "draft",
+      "char_count": 228,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD — the part that craves routine or the part that needs something new: which one won today? Which one are you most tired of losing to?",
+      "shape": "question",
+      "rationale": "Opens genuine conversation about the AuDHD tug-of-war without making claims — the two-part question creates recognition without assuming a single experience fits everyone.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-06",
+      "status": "draft",
+      "char_count": 148,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic parent burnout coverage almost always assumes the parent is neurotypical. But an autistic adult who needs space to regulate, raising a child who needs closeness — that's a structurally different kind of exhausted.",
+      "shape": "validation",
+      "rationale": "Names a genuinely underserved experience with structural clarity — no pity, no cure framing, just an honest description of incompatible needs that the existing discourse ignores entirely.",
+      "source_url": "https://autismspectrumnews.org/navigating-autistic-burnout-as-an-autistic-parent/",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-07",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "If you're a neurodivergent parent of a neurodivergent kid: what actually fills your cup when your child needs everything you don't currently have?",
+      "shape": "question",
+      "rationale": "Invites genuine community exchange around a rarely-asked question — warm and specific without assuming what the answer should look like or implying there's an obvious fix.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-08",
+      "status": "draft",
+      "char_count": 146,
+      "over_limit": false
+    },
+    {
+      "text": "Procrastination means avoiding something you don't want to do. ADHD task initiation difficulty hits things you desperately want to do just as hard. You can't start the project you've been excited about for weeks. That's not laziness.",
+      "shape": "reframe",
+      "rationale": "The 'can't start things I love' dimension is the most shame-generating part of task initiation difficulty and the least named — it's logically incompatible with laziness as the explanation, which cuts through the 'just try harder' noise cleanly.",
+      "source_url": "https://flown.com/blog/adhd/task-initiation",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-09",
+      "status": "draft",
+      "char_count": 233,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't saying yes to everything. It's triage. Before every request: is this demand genuinely necessary right now? If not, drop it. If yes, reframe it collaboratively. That's not removing structure — it's removing unnecessary threat load.",
+      "shape": "practical",
+      "rationale": "Gives parents of PDA kids a clear, defensible counter to professional pushback — 'demand triage' is immediately usable and reframes the approach accurately without dismissing structure or implying unlimited permissiveness.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-10",
+      "status": "draft",
+      "char_count": 257,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis doesn't change what happened to you. It recontextualises it. Decades of 'why is everything harder for me?' finally have a coherent answer. You weren't failing the terrain. You were navigating it with the wrong map.",
+      "shape": "micro-insight",
+      "rationale": "The map/terrain metaphor is emotionally true and highly quotable — speaks directly to late-diagnosed adults without clinical framing. High recognition, no pity, genuine comfort that respects the hard miles already walked.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005893/",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-11",
+      "status": "draft",
+      "char_count": 238,
+      "over_limit": false
+    },
+    {
+      "text": "Asking 'how do we stop the avoidance?' is the wrong question for PDA. The avoidance isn't the problem — it's the solution a nervous system developed. Ask what made demands feel like threats, and the path changes.",
+      "shape": "micro-insight",
+      "rationale": "A sharper, more distilled PDA angle than post 3 — strips the IFS framing down to its core insight and ends on a practical pivot ('the path changes') that keeps it from reading as dismissive of real difficulty.",
+      "source_url": "https://divergentdialogues.substack.com/p/inside-the-nervous-system-reframing",
+      "sensitivity_flag": null,
+      "id": "2026-06-29T16-37-51-12",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    }
+  ]
+}
