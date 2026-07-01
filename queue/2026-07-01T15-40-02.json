@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-01T15:40:02.285Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Getting a late autism diagnosis can feel like relief and grief at once. Not one, then the other. Both, simultaneously. The relief makes sense. So does the grief.",
+      "shape": "validation",
+      "rationale": "Names the simultaneous dual emotional experience of late diagnosis — a precise, rarely articulated validation. Short declarative rhythm mirrors the abruptness of the realisation.",
+      "source_url": "https://www.heyasd.com/blogs/autism/grieving-your-late-autism-diagnosis",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-01",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "'I should feel happy — why am I crying?' Late diagnosis can do that. Relief that your life finally makes sense. Grief for the years spent masking without knowing why. Both are real.",
+      "shape": "validation",
+      "rationale": "Second take on the relief-grief angle, opening with a recognisable internal monologue to create immediate identification before naming the dual experience. Complements post 1's more declarative structure with a quoted-voice entry point.",
+      "source_url": "https://www.drlanaferris.com/blogs/late-diagnosed-audhd-survival-guide",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-02",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking after decades isn't changing a habit. It's dismantling an entire identity — the one that held your career, relationships, and social self together for years. No wonder it destabilises.",
+      "shape": "reframe",
+      "rationale": "Reframes 'just be yourself' advice by naming the real stakes of late-diagnosed unmasking: identity, not behaviour. 'No wonder it destabilises' validates the fear without prescribing how anyone should feel or whether they should unmask.",
+      "source_url": "https://www.heyasd.com/blogs/autism/unmasking-after-late-diagnosis",
+      "sensitivity_flag": "'No wonder it destabilises' could read to some as implying unmasking is always destabilising — true for many late-diagnosed adults, but monitor replies from those who found it straightforward or positive.",
+      "id": "2026-07-01T15-40-02-03",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD: one nervous system needs routine to feel safe. The other needs novelty to stay regulated. Both run simultaneously. Neither wins. Neither quiets. That's not inconsistency — it's structural conflict.",
+      "shape": "micro-insight",
+      "rationale": "Flagship AuDHD post: clean parallel structure, quotable phrasing, names the internal experience as structural rather than personal. 'Neither wins. Neither quiets.' mirrors the experience rhythmically and lands as recognition rather than explanation.",
+      "source_url": "https://www.thriveautismcoaching.com/post/autism-and-adhd-overlap-audhd-part-2",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-04",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "'Just make a routine.' The autistic side wants to. 'Just follow your curiosity.' The ADHD side wants to. AuDHD is both instructions running at once — both failing at once.",
+      "shape": "micro-insight",
+      "rationale": "Second AuDHD take using the familiar advice-that-doesn't-land structure. Shareable because it names the failure mode behind two conflicting pieces of well-meaning guidance without needing to explain AuDHD from scratch.",
+      "source_url": "https://liemdr.com/the-inner-conflict-of-audhd/",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-05",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Masking isn't a preference. It's the brain running continuous monitoring, suppression, prediction, and performance simultaneously. Burnout is the predictable outcome of that labour — not a failure of willpower.",
+      "shape": "reframe",
+      "rationale": "Reframes masking as cognitively costly labour rather than a style choice, and burnout as a logical consequence rather than personal weakness. Directly rebuts the 'just stop masking' assumption without being preachy.",
+      "source_url": "https://www.thewmhi.com/mental-health/neurodivergent-masking/",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-06",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout recovery usually isn't returning to where you were. It's building a life that fits your actual nervous system — a different goal, on a timeline measured in months or years, not weeks.",
+      "shape": "reframe",
+      "rationale": "Reframes burnout recovery from 'bouncing back' to 'rebuilding differently.' The word 'usually' carries appropriate hedging without diluting the point. The months-to-years timeline is directly supported by the cited sources.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-07",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "'Persistent Drive for Autonomy' isn't a kinder name for PDA — it changes the strategy. Name the goal as autonomy, not avoidance, and support looks like real choice rather than reduced friction on the way to compliance.",
+      "shape": "reframe",
+      "rationale": "The naming-changes-strategy argument is the sharpest insight in the PDA reframe angle. Ends on 'compliance,' which lands harder than ending on 'choice' — it names what the old framing was implicitly pointing toward.",
+      "source_url": "https://reframingautism.org.au/pathological-demand-avoidance-pda-and-autism-guide-for-allies/",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-08",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "Employers rate their neurodiversity readiness at around 70%. About a third of neurodivergent employees actually feel safe disclosing. Awareness training alone hasn't moved that gap. What would?",
+      "shape": "question",
+      "rationale": "Data-grounded structural critique that ends in a genuine open question rather than a conclusion. 'What would?' earns engagement via curiosity, not outrage. Numbers are rounded from NeuroBridge 2026 ranges (70–75% employer / 32–38% employee).",
+      "source_url": "https://neurobridge.co.uk/the-state-of-neurodiversity-in-the-workplace-2026/",
+      "sensitivity_flag": "Figures are rounded approximations of the published ranges. Defensible as stated, but do not sharpen to specific decimals without verifying the exact published stat in the NeuroBridge report.",
+      "id": "2026-07-01T15-40-02-09",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of adult PDAers spent decades labeled 'difficult,' 'flaky,' or 'unreliable.' Avoidance wasn't laziness — it was an anxiety-driven autonomy response. And managing it quietly became a second full-time job.",
+      "shape": "validation",
+      "rationale": "High-recognition validation for adults who lived with PDA without a name for it. Lists actual labels they received, reframes those labels accurately, and ends on 'second full-time job' — wry, accurate, and shareable without trivialising the burden.",
+      "source_url": "https://www.scienceworkshealth.com/post/autism-demand-avoidance-in-adults-when-pda-is-not-just-defiance",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-10",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD routines that last: not rigid schedules (ADHD will eventually detonate them) and not pure spontaneity (the autistic side can't hold it). Flexible anchors — fixed points, variable filling.",
+      "shape": "practical",
+      "rationale": "Actionable framing that introduces 'flexible anchors' as a self-contained concept — no product or professional required. 'ADHD will eventually detonate them' breaks the clinical register with dry accuracy and makes the post more shareable.",
+      "source_url": "https://www.neurodiversion.org/audhd-routines",
+      "sensitivity_flag": null,
+      "id": "2026-07-01T15-40-02-11",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Honest question for PDA parents: does low-demand parenting protect your child's nervous system now, or leave them without tools for a world that won't lower its demands? Both concerns feel real to me.",
+      "shape": "question",
+      "rationale": "Names the live tension in PDA parenting communities without resolving it. 'Both concerns feel real to me' signals good faith rather than a gotcha. Refuses to pretend there's an obvious answer, which is what opens genuine rather than performative discussion.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": "'A world that won't lower its demands' implicitly accepts ableist framing — that the child must adapt rather than the environment. Some in the community will read this critically. Consider a follow-up reply or slight reframe if engagement skews adversarial.",
+      "id": "2026-07-01T15-40-02-12",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    }
+  ]
+}
