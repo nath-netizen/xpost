@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-03T15:07:22.749Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You didn't suddenly burn out. You've been overdrawn for years. Every sustained mask is a withdrawal. There's no mystery in the math.",
+      "shape": "micro-insight",
+      "rationale": "The debt/overdraft metaphor makes burnout timing legible in a way 'exhaustion' can't — it answers the common late-diagnosis question 'why did I fall apart over something small?' in one tight frame. High screenshot and save rate.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-01",
+      "status": "draft",
+      "char_count": 132,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout after a 'small' thing isn't overreaction. It's just when the account finally hit zero. The overdraft started years ago.",
+      "shape": "reframe",
+      "rationale": "A second entry point into masking debt from a different angle — the 'why did a small thing break me' puzzle — with tighter compression. Pairs with post 1 or stands cleanly alone.",
+      "source_url": "https://stimpunks.org/burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-02",
+      "status": "draft",
+      "char_count": 127,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological demand avoidance' tells a school to look for defiance. 'Pervasive drive for autonomy' tells them to look for anxiety. Same person. Completely different support.",
+      "shape": "reframe",
+      "rationale": "Shows the real-world consequence of naming by contrasting what each label signals to an institution. Does not claim clinical consensus — accurately represents an active community and advocacy debate about PDA framing.",
+      "source_url": "https://inkblotdoc.com/understanding-the-pervasive-drive-for-autonomy-pda-beyond-pathological-demand-avoidance/",
+      "sensitivity_flag": "Accurately represents an ongoing naming debate; the 'defiance vs. anxiety' contrast is the core of the advocacy argument, not a clinical finding. Defensible as advocacy framing, but should not be presented as established clinical consensus.",
+      "id": "2026-07-03T15-07-22-03",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "You're not bad at routine. You crave it and you sabotage it because your brain is negotiating two real, opposing needs simultaneously. That's AuDHD, not failure.",
+      "shape": "validation",
+      "rationale": "Names the specific AuDHD internal contradiction and attributes the resulting behavior to neurological friction rather than character. Mirrors the highest-share experience in AuDHD community spaces without overclaiming mechanistically.",
+      "source_url": "https://www.additudemag.com/audhd-autism-adhd-experience/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-04",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "The AuDHD exhaustion people don't mention: it's not only executive function. It's the constant internal negotiation between the part that needs sameness and the part that can't tolerate it.",
+      "shape": "micro-insight",
+      "rationale": "Opens a second, mechanism-first entry into AuDHD exhaustion that goes beneath the usual executive-function framing — useful for readers who know they're tired but don't yet have language for why.",
+      "source_url": "https://sensoryoverload.info/neurodivergent-burnout/audhd-burnout-why-the-contradiction-load-hits-so-hard-and-what-helps/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-05",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis can feel like relief and grief arriving at the same time. You're not contradicting yourself. Both are real. Neither cancels the other.",
+      "shape": "validation",
+      "rationale": "Gives explicit permission to hold two contradictory emotional responses simultaneously — an underserved and emotionally high-stakes moment for late-diagnosed autistic adults. Drawn from 2026 peer-reviewed qualitative research on older adults.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12526855/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-06",
+      "status": "draft",
+      "char_count": 158,
+      "over_limit": false
+    },
+    {
+      "text": "The minimalist calm aesthetic wasn't built for your nervous system. If decluttering made things worse, that's not a failure of willpower. It's information.",
+      "shape": "reframe",
+      "rationale": "Challenges the mainstream 'minimalism = calm' wellness narrative with a source-grounded counter that validates autistic adults who found decluttering made things worse. Very fresh source (Psychology Today, June 2026).",
+      "source_url": "https://www.psychologytoday.com/us/blog/deeper-empathy-lasting-change/202606/environmental-calm-for-the-autistic-nervous-system",
+      "sensitivity_flag": "Opening clause 'wasn't built for your nervous system' reads as universal; the conditional 'if decluttering made things worse' partially mitigates this, but some autistic people do find minimalism regulating. Worth monitoring comment response for push-back.",
+      "id": "2026-07-03T15-07-22-07",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent workers don't know what accommodations they're entitled to. What's one you didn't know you could ask for — until you did?",
+      "shape": "question",
+      "rationale": "Leads with a fresh, specific stat (Forbes, June 24 2026) and turns it into a community knowledge-share prompt. Frames the problem as structural opacity, not individual failure — invites comments without engineering outrage.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "Stat sourced from a Forbes-cited survey (June 24 2026); survey sample size and methodology not disclosed in the briefing. Verify before posting.",
+      "id": "2026-07-03T15-07-22-08",
+      "status": "draft",
+      "char_count": 143,
+      "over_limit": false
+    },
+    {
+      "text": "Workplace accommodations worth asking about: written over verbal instructions, async communication, noise-canceling approved, flexible start times, a designated low-stimulus space. More of these are available than people realize.",
+      "shape": "practical",
+      "rationale": "Concrete, paste-ready list of lesser-known accommodations. Follows naturally after the question post or stands alone. 'More of these are available than people realize' is hedged and defensible without overclaiming on legal entitlement.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-09",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "You were fine, then suddenly you weren't — with nothing in between. That gap has a name: interoception. For many autistic people, the body's internal distress signals don't arrive until the system is already flooded.",
+      "shape": "micro-insight",
+      "rationale": "Names the exact mechanism behind the 'suddenly gone' experience the community recognizes nearly universally. Gives readers a search term and a framework without implying self-diagnosis. 'Many autistic people' correctly avoids universalizing.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/25739581251414545",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-10",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "Interoception — your body's internal signal system — can be practiced. Scheduled body check-ins before overwhelm hits, not after, are one place to start.",
+      "shape": "practical",
+      "rationale": "Translates interoception from a concept into a single, concrete, low-pressure starting point. 'One place to start' keeps it non-prescriptive. Pairs naturally with post 10 or stands alone.",
+      "source_url": "https://neurodivergentinsights.com/autism-interoception/",
+      "sensitivity_flag": "'Can be practiced' is supported by Palser et al. 2026 framing interoception as trainable, but the clinical evidence base for interoceptive training interventions is still developing. The hedge 'one place to start' is appropriate — do not strengthen the claim.",
+      "id": "2026-07-03T15-07-22-11",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't just a quieter tone. If you're still negotiating constantly — even warmly, even playfully — the demand hasn't dropped. It's just changed shape.",
+      "shape": "reframe",
+      "rationale": "Non-blaming but precise challenge for PDA parents who've softened their tone without changing structural pressure. 'Even warmly, even playfully' validates the effort while naming the specific trap. Community-specific enough to land with the right audience.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-07-03T15-07-22-12",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    }
+  ]
+}
