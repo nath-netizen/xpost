@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-05T14:29:31.499Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "ADHD task paralysis and autistic inertia are different mechanisms. AuDHD people get both at once — which is why 'just use a timer' and 'reduce transitions' both fail. Each tip was built for one condition, not the collision.",
+      "shape": "micro-insight",
+      "rationale": "Names the AuDHD collision precisely — 'two distinct mechanisms' gives people a handle that 'I can't start anything' never has. Quotable, reduces self-blame, earns engagement through recognition rather than outrage.",
+      "source_url": "https://sachscenter.com/autistic-inertia-vs-adhd-paralysis-why-you-can-t-get-started-2026-research-updat/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-01",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and 'I can't start anything' is a daily reality: you may be contending with two distinct stuck mechanisms at once, not one. That distinction matters more than the next productivity tip.",
+      "shape": "validation",
+      "rationale": "Same angle as post 1 but lands as recognition rather than insight — speaks to the exhaustion of trying tips that don't account for the actual dynamic. Softer entry point for someone already depleted.",
+      "source_url": "https://alipress.uk/2026/02/26/autistic-inertia-vs-adhd-task-paralysis/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-02",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "The year you stopped functioning wasn't when things went wrong. It's when the cost finally got visible enough to seek help. The invoice was always accumulating.",
+      "shape": "reframe",
+      "rationale": "Condenses the 'mask failing = reckoning, not breakdown' insight into a single clean image. The invoice metaphor makes the timeline viscerally clear without clinical language. Opens space for grief and recognition simultaneously.",
+      "source_url": "https://www.neurodiversitypress.com/2026/02/05/when-the-mask-fails-late-autism-identification-and-the-cost-of-functioning/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-03",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "The better an autistic person masked, the harder their autism was to detect. Research now confirms it. The system rewarded the behavior that hid the need — then dismissed the struggles as imaginary.",
+      "shape": "reframe",
+      "rationale": "Names the diagnostic system's structural failure rather than the individual's. 'Research now confirms it' elevates from anecdote to evidence. Strong recognition moment for high-maskers dismissed for years. Doesn't imply diagnosis.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-04",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Losing speech, cooking ability, or basic executive function during burnout isn't your brain breaking. Research frames it as triage — the brain rationing resources under chronic overload. And it can be reversible.",
+      "shape": "validation",
+      "rationale": "Directly addresses the catastrophizing autistic people in burnout commonly experience. 'Triage' reframes without minimizing. Grounded in the 2026 Sagepub qualitative study. Reduces panic, which is the whole point.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": "'Can be reversible' is meaningful and defensible from the cited study but could read as a guarantee. Consider softening to 'often reversible' if the absoluteness feels risky for your audience.",
+      "id": "2026-07-05T14-29-31-05",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "'Autistic regression' and 'skill loss during burnout' get conflated constantly. They're not the same. One is a pathologizing frame. The other describes what exhausted brains do. The label you use changes what you expect next.",
+      "shape": "micro-insight",
+      "rationale": "Gives people a precision tool. The distinction between the two framings is genuinely useful for how someone interprets their own experience and decides what to do. Not alarmist, doesn't diagnose.",
+      "source_url": "https://medium.com/the-unexpected-autistic-life/autistic-regression-vs-burnout-9ba6215067c1",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-06",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "What did working from home quietly fix that you never had words for at the time? For a lot of autistic and ADHD people, it was a de facto accommodation that was never named.",
+      "shape": "question",
+      "rationale": "Opens a genuine conversation rather than collecting likes. The question does the reframing — people arrive at the insight by answering it. Timely and self-contained. Will surface real, varied responses.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-07",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Learning to say 'I need X' isn't a personality upgrade. It's nervous system maintenance. Research links self-advocacy to better wellbeing outcomes for autistic people — and it only works if the environment changes to receive it too.",
+      "shape": "practical",
+      "rationale": "Elevates self-advocacy from soft skill to something concrete. The second sentence is load-bearing: it refuses to leave the burden entirely on the individual, which 'just communicate better' advice always does.",
+      "source_url": "https://www.frontiersin.org/journals/child-and-adolescent-psychiatry/articles/10.3389/frcha.2025.1542543/full",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-08",
+      "status": "draft",
+      "char_count": 232,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting is the best approach we have for autistic PDA kids. It's not a guarantee. The parents doing everything right and still watching their child struggle — that grief is real, and it deserves to be named.",
+      "shape": "validation",
+      "rationale": "Holds two true things at once: the approach is right AND it sometimes isn't enough. The silence around that second part is exactly what this post breaks. Careful framing avoids undermining the method while naming the grief.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": "'Best approach we have' is a strong claim; defensible as consensus framing but 'most widely supported approach' may be more precise if caution is warranted.",
+      "id": "2026-07-05T14-29-31-09",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' puts the disorder inside the person. 'Persistent Drive for Autonomy' names what's actually happening. Same initials. The second one tells you something useful about how to respond.",
+      "shape": "reframe",
+      "rationale": "Clean logical structure: the reframe isn't rhetorical — it genuinely changes the practical question downstream. Useful for sharing with professionals and family members still using the older framing.",
+      "source_url": "https://pdanorthamerica.org/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-10",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Being good at school didn't protect autistic people. It masked them. High academic performance and strong masking are linked — which is how a person can spend decades being told their struggles aren't real.",
+      "shape": "micro-insight",
+      "rationale": "Tight, arresting opening. The research finding lands as revelation for high-achievers who spent years doubting themselves. Speaks to an experience without diagnosing or universalizing. Very shareable.",
+      "source_url": "https://josihealth.com/autism-masking/",
+      "sensitivity_flag": "Claim draws on a 2025 meta-analysis as reported in a 2026 Psych Today piece; verify the original study citation before publishing to ensure 'research confirms' framing holds against scrutiny.",
+      "id": "2026-07-05T14-29-31-11",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "If RTO is disrupting your ability to work and you're not sure why: remote work may have been acting as an accommodation you never formally named. That framing matters when you're deciding whether to ask for adjustments.",
+      "shape": "practical",
+      "rationale": "Gives a concrete cognitive tool for someone mid-struggle. 'May have been acting as an accommodation' is carefully hedged. Actionable without prescribing a specific course of action. Avoids overreach.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-07-05T14-29-31-12",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    }
+  ]
+}
