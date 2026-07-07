@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-07T15:43:55.159Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Masking isn't a single act. It's cumulative debt. The collapse doesn't mean you're weak — it means the account finally hit zero.",
+      "shape": "micro-insight",
+      "rationale": "Sharp, quotable frame that replaces shame with a structural explanation. The energy-account metaphor is immediately legible with zero clinical framing required.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-01",
+      "status": "draft",
+      "char_count": 128,
+      "over_limit": false
+    },
+    {
+      "text": "It's not that you can't cope. It's that no one told you the account was empty — or that you'd been borrowing from it since childhood.",
+      "shape": "reframe",
+      "rationale": "Second variation on the masking-debt angle; opens with the internal narrative autistic adults carry ('can't cope') and redirects immediately to structural cause. Evergreen, no stat needed.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-02",
+      "status": "draft",
+      "char_count": 133,
+      "over_limit": false
+    },
+    {
+      "text": "Rest doesn't end autistic burnout if nothing that caused it changes. Rest is a pause between cycles. Structural change is the exit.",
+      "shape": "reframe",
+      "rationale": "Directly challenges 'have you tried resting?' without dismissing rest itself; gives people a frame to bring to therapists, partners, or employers. Grounded in 2026 active discourse.",
+      "source_url": "https://www.creativesolutionscoaching.com/insights/autistic-burnout-cycles-7f8br-xpaec",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-03",
+      "status": "draft",
+      "char_count": 131,
+      "over_limit": false
+    },
+    {
+      "text": "'Listen to your body' is genuinely, neurologically hard for some autistic people. The signals don't arrive on time — or at all. That's not self-neglect. That's interoception.",
+      "shape": "validation",
+      "rationale": "Names something the community experiences intensely but rarely sees articulated outside clinical settings. 'Some autistic people' keeps it properly scoped rather than universalising.",
+      "source_url": "https://www.sagebrushcounseling.com/blog/interoception-autism-adhd-adults",
+      "sensitivity_flag": "'Neurologically hard' reads slightly clinical; it's accurate and defensible but worth checking it doesn't land as a diagnostic claim in isolation.",
+      "id": "2026-07-07T15-43-55-04",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "If you can't reliably read your own hunger, fatigue, or overwhelm — external cues aren't a crutch. Alarms, check-ins, prompts: they're scaffolding for what your nervous system doesn't send automatically.",
+      "shape": "practical",
+      "rationale": "Translates the interoception insight into immediate, usable guidance. 'Scaffolding' reframes accommodation as architecture rather than weakness.",
+      "source_url": "https://medium.com/@higgoraraujo/4-signs-you-might-have-autistic-interoception-problems-without-knowing-it-323a05ab1bdf",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-05",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' vs. 'Persistent Drive for Autonomy' — same child, different lens. Does the name you use change how you show up?",
+      "shape": "question",
+      "rationale": "Presents both terms neutrally and asks a practical question that invites reflection without dunking on either camp. Self-contained and opens genuine conversation.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-06",
+      "status": "draft",
+      "char_count": 143,
+      "over_limit": false
+    },
+    {
+      "text": "One name frames the child as the problem. The other frames an unmet need. That distinction isn't just semantics — it changes what you're actually trying to solve.",
+      "shape": "reframe",
+      "rationale": "Makes the stakes of the naming debate concrete and actionable for parents and educators without prescribing which term to adopt.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-07",
+      "status": "draft",
+      "char_count": 162,
+      "over_limit": false
+    },
+    {
+      "text": "Have you ever not asked for an accommodation because of what it might cost you? You're not alone — 70% of neurodivergent employees fear workplace disclosure despite legal protections.",
+      "shape": "question",
+      "rationale": "Uses the freshest data point in the briefing (Forbes, June 24 2026) to invite low-risk disclosure in replies. Question form lowers the engagement barrier.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "The 70% figure comes from a Forbes-cited survey; verify exact methodology and sample size before posting — the stat is defensible from the briefing but confirm it isn't rounded or recontextualised.",
+      "id": "2026-07-07T15-43-55-08",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "Knowing your rights and feeling safe to use them aren't the same thing. For a lot of neurodivergent people at work, that gap is the whole problem.",
+      "shape": "validation",
+      "rationale": "Evergreen reframe of the disclosure-safety gap — high recognition, no stat required. Pairs naturally with the question post if scheduling both from this angle.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-09",
+      "status": "draft",
+      "char_count": 146,
+      "over_limit": false
+    },
+    {
+      "text": "You had a genuinely good time. And you're wrecked for days afterward. That's not a failure to recover — that's the cost of real-time decoding, masking, and sensory management for hours.",
+      "shape": "validation",
+      "rationale": "Opens with the paradox the community lives and names the mechanism precisely, giving people language to explain it to others without moralising about recovery speed.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-social-hangover",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-10",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout isn't double the burnout. It's two systems in direct conflict — one revving, one shutting down, at the same time.",
+      "shape": "micro-insight",
+      "rationale": "Short, quotable, extremely high recognition for the AuDHD audience. Describes an under-named experience that neither ADHD nor autism content alone captures.",
+      "source_url": "https://neurodiverge.app/audhd-burnout",
+      "sensitivity_flag": null,
+      "id": "2026-07-07T15-43-55-11",
+      "status": "draft",
+      "char_count": 127,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting works. A 2026 study found parental stress stays dangerously high even when it does. You're doing the right thing. What helps you regulate while you do that for someone else?",
+      "shape": "question",
+      "rationale": "Validates PDA parents with published research, then opens a practical conversation — fills a real gap where community advice rarely acknowledges the personal cost of the approach.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11747059/",
+      "sensitivity_flag": "'Dangerously high' is the briefing's characterisation of the PMC study's language; verify the paper's exact wording before posting to confirm the claim isn't inadvertently exaggerated.",
+      "id": "2026-07-07T15-43-55-12",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    }
+  ]
+}
