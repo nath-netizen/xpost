@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-09T15:55:58.638Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You weren't lazy. Your nervous system reached the limit of what it could carry and did what overloaded systems do: it stopped. Burnout is a capacity problem, not a character problem.",
+      "shape": "reframe",
+      "rationale": "Leads with the accusation autistic people have internalized ('lazy'), then reframes it as physiology. Ends on the sharpest distinction — capacity vs. character — rather than trailing into explanation.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-01",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "If your diagnosis felt like grief and relief at the same time — sometimes in the same hour — there's a word for that now. 'Grelief.' Researchers are using it. The community coined it first.",
+      "shape": "validation",
+      "rationale": "Naming an unnamed experience is the entire point. The beat 'researchers are using it / community coined it first' flips the usual credibility order in a way that respects where the knowledge actually came from.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41933478/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-02",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "For a PDA nervous system, a demand is a threat — even if it's something you want to do. 'Just push through' doesn't work because wanting and feeling safe enough to start are two different things.",
+      "shape": "reframe",
+      "rationale": "The core insight — wanting ≠ safe enough to start — is the sharpest line in this angle. Positions 'just push through' as named bad advice without dunking on whoever gave it.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-03",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "If becoming a character is the only way your brain will let you show up, that's not avoidance. That's accommodation. The character earns the dopamine the demand would block.",
+      "shape": "micro-insight",
+      "rationale": "Lands the mechanism in one sentence without requiring the reader to already know the ADHD-PDA framework. Validates a behavior many people feel sheepish about by naming why it works.",
+      "source_url": "https://wtfpda.substack.com/p/with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-04",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "What you're calling procrastination might be autistic inertia — wanting to move and still not being able to shift states. That's a different thing from ADHD task paralysis. The difference changes what helps.",
+      "shape": "question",
+      "rationale": "Opens with the word people already use ('procrastination'), introduces the distinction, closes on the practical implication. The question lives in the reframe rather than a literal '?' — it invites people to place themselves.",
+      "source_url": "https://www.nature.com/articles/s44271-025-00386-4",
+      "sensitivity_flag": "Uses 'might be' appropriately, but a minority of readers could read this as nudging toward self-diagnosis. The hedge is sufficient; watch replies for misreads.",
+      "id": "2026-07-09T15-55-58-05",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent workers still fear disclosing at work in 2026. What would actually need to change for that number to move?",
+      "shape": "question",
+      "rationale": "The stat does the setup cleanly. The question is genuinely open — no implied answer — which separates it from engagement bait. Short on purpose; the question is the whole post.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-06",
+      "status": "draft",
+      "char_count": 128,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis emotions: relief, grief, and — for a lot of people — fury. Decades of being misread, dismissed, misdiagnosed. The anger is valid. It doesn't mean you're not also grateful.",
+      "shape": "validation",
+      "rationale": "Names the emotion the dominant late-diagnosis narrative leaves out. The last line pre-empts the 'but you should be thankful' redirect without being defensive about it.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-07",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "'Put your shoes on' is a demand. 'The shoes are by the door and we leave at 4' is information. That difference is everything for a PDA nervous system.",
+      "shape": "practical",
+      "rationale": "Concrete before/after does more work than any explanation. Immediately usable today, no diagnosis or professional needed. The specificity is exactly why practical posts like this get saved.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-08",
+      "status": "draft",
+      "char_count": 150,
+      "over_limit": false
+    },
+    {
+      "text": "What if demand avoidance isn't defiance — it's a part of you that learned the only way to stay safe was to stay in control? That reframe changes how you work with it rather than against it.",
+      "shape": "reframe",
+      "rationale": "Carries the IFS 'protective parts' framing without requiring the reader to know IFS. The pivot from 'against it' to 'with it' lands the therapeutic implication without prescribing a treatment path.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-09",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout can strip away skills you've had for years — conversation, cooking, getting to work. That's not laziness returning. That's the nervous system rationing what's left.",
+      "shape": "validation",
+      "rationale": "Targets the specific, under-discussed feature of autistic burnout — skill regression — that many people don't expect and can't explain. Concrete examples make it recognizable rather than abstract.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-10",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent workers fear disclosing. 70% don't know what they're entitled to. Those aren't separate problems. You can't ask for what you don't know you're allowed to have.",
+      "shape": "micro-insight",
+      "rationale": "The parallel 70%/70% stat is striking on its own. The final line draws the connection explicitly without editorializing. Different angle on the same source as post 6 — pairs without repeating.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-11",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "Declarative language works on yourself too. 'I need to write this report' is a demand. 'It's 2pm and the doc is open' is just information. Smaller ask, lower threat, more access.",
+      "shape": "practical",
+      "rationale": "Extends the declarative language concept beyond parenting into adult self-support — a less-covered application. Keeps the before/after structure that makes the parenting version immediately useful.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-09T15-55-58-12",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    }
+  ]
+}
