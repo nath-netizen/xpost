@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-11T14:22:49.302Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "ADHD needs novelty to engage. Autism resists transition to stay safe. In one body, those aren't quirks that balance each other out — they're two survival drives pulling in opposite directions at the same time.",
+      "shape": "micro-insight",
+      "rationale": "Names the specific mechanism behind AuDHD paralysis — novelty-seeking colliding with transition-resistance — rather than just naming the symptom. Quotable and precise; will land for AuDHD people who have never seen the collision described this cleanly.",
+      "source_url": "https://sachscenter.com/autistic-inertia-vs-adhd-paralysis-why-you-can-t-get-started-2026-research-updat/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-01",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and rest doesn't restore you but stimulation doesn't help either — you're not broken. You're caught between two sets of neurological needs that pull in opposite directions. That's not a failure of willpower.",
+      "shape": "validation",
+      "rationale": "Validates the 'no win state' experience without offering a tidy fix, which respects the complexity. Ends on attribution to neurology rather than character. Stands alone as a different emotional entry point from the micro-insight on the same angle.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-02",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "Researchers are using the word 'grelief' for what a lot of people feel after a late autism diagnosis: grief and relief arriving at the same time, not in stages. You can cry with relief and cry with grief in the same breath. Both are real.",
+      "shape": "validation",
+      "rationale": "Delivers the 'grelief' concept through an emotional image rather than a clinical definition. 'Both are real' lands the validation without overclaiming. Self-contained, high recognition potential for late-diagnosed adults.",
+      "source_url": "https://www.heyasd.com/blogs/autism/grieving-your-late-autism-diagnosis",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-03",
+      "status": "draft",
+      "char_count": 238,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis doesn't give you answers so much as it reorganises the questions. 'Why am I like this?' becomes 'my nervous system was doing its best without a map.' That shift is grief and relief at once.",
+      "shape": "reframe",
+      "rationale": "Evergreen reframe of diagnosis as a reorganisation of meaning rather than a delivery of answers. Pairs with the grelief angle but takes a more interior emotional approach. A defensible lived-experience observation requiring no specific source.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-04",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic inertia is baseline — the normal friction of your nervous system. Autistic burnout is something collapsing. They feel similar but need opposite responses. Treating one like the other makes it worse.",
+      "shape": "reframe",
+      "rationale": "Draws a clean line between two commonly conflated states and gives the practical stake without prescribing a protocol. Distinction is genuinely new to mainstream awareness and directly useful as a triage frame.",
+      "source_url": "https://lifeskillsadvocate.com/blog/autistic-inertia-start-stop-switch/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-05",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "Quick triage if you're not sure what you're dealing with: Is this the heaviness that's always there, or does it feel like something's actually broken? Inertia is chronic. Burnout is acute. The wrong response makes both worse.",
+      "shape": "practical",
+      "rationale": "Gives readers an immediately usable internal question. Speaks to a specific experience rather than prescribing treatment — empowering without crossing into medical advice. Complements the inertia/burnout reframe with a different, action-oriented shape.",
+      "source_url": "https://sensoryoverload.info/neurodivergent-burnout/neurodivergent-burnout-a-deep-introduction-for-autistic-adhd-and-audhd-adults/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-06",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "The old framing: PDA is defiance. The accurate one: the nervous system is registering a threat and responding to it. You can't reason someone out of a threat response. Changing the framing changes what actually helps.",
+      "shape": "reframe",
+      "rationale": "Leads with the old framing for recognition before delivering the turn. The payoff — 'changing the framing changes what actually helps' — is both validating and practically useful. Very quotable; multiple clinicians are publishing this exact reframe in mid-2026.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-07",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't manipulation. It isn't a choice. It's a nervous system that treats demands as threat signals. That makes complete sense once you understand what's actually happening underneath.",
+      "shape": "micro-insight",
+      "rationale": "Punchy declarative companion to post 7 — different entry point into the same reframe, useful as a standalone share for people wanting something direct to send. The three-beat opening (not manipulation / not a choice / is a threat response) builds rhythm and quotability.",
+      "source_url": "https://aane.org/autism-info-faqs/library/when-autonomy-feels-like-survival-a-view-of-pda-for-families/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-08",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting for PDA kids isn't permissive. The tools most parents reach for first — sticker charts, reward systems, routines — tend to increase distress in PDA profiles. That's not soft parenting. It's nervous-system biology.",
+      "shape": "reframe",
+      "rationale": "Addresses the 'permissive' misread directly and hands parents an exact sentence to use with sceptical relatives or schools. 'Tend to increase distress' is appropriately hedged. Avoids overpromising on specific outcomes while still being practically useful.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-09",
+      "status": "draft",
+      "char_count": 234,
+      "over_limit": false
+    },
+    {
+      "text": "Neurodivergent workers who thrived remotely are now being asked to justify their sensory and cognitive needs in open-plan offices. RTO isn't a neutral policy shift. For a lot of autistic and ADHD people, it's quietly an exit.",
+      "shape": "question",
+      "rationale": "'Quietly an exit' is pointed and honest without being outrage-bait. Opens space for community response — people will share their own RTO situations in replies. Frames a live policy issue in personal terms without overgeneralising.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-10",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found chronic autistic burnout combined with pressure to keep masking can produce what suicidology calls psychological entrapment. The community named this long before research did. Unmasking — even in small ways — matters.",
+      "shape": "validation",
+      "rationale": "Names the research finding accurately, credits the community for naming it first, and ends on a direction rather than leaving readers only with the heavy finding. Warmth and grounding are structural — the post moves toward relief, not toward the abyss.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": "References suicidology terminology ('psychological entrapment') drawn directly from peer-reviewed research. Framing is grounding and forward-looking, not distress-centred, but review before scheduling — avoid pairing with other heavy content on the same posting day.",
+      "id": "2026-07-11T14-22-49-11",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "What's the question you finally stopped asking yourself after diagnosis? 'Why can't I just—' or 'why is everyone else fine with this?' One line is enough.",
+      "shape": "question",
+      "rationale": "Pure community participation with zero performativity. 'One line is enough' signals low-demand engagement and invites specificity without narrowing the prompt. Sidesteps clinical framing entirely and centres lived voice. The example phrases seed replies without prescribing them.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-11T14-22-49-12",
+      "status": "draft",
+      "char_count": 154,
+      "over_limit": false
+    }
+  ]
+}
