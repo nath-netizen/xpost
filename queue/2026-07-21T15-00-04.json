@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-21T15:00:04.664Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "In AuDHD burnout you can crave rest and novelty at the same time. That's not confusion — it's two nervous systems with genuinely opposite recovery needs, both real, both urgent, in the same body.",
+      "shape": "validation",
+      "rationale": "Names the AuDHD burnout paradox directly and speaks to the person experiencing it; 'you can' grounds it in lived experience rather than universal claim. The final phrase lands the insight without overstating it.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-01",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout involves two neurological needs with opposite recovery requirements: the autistic nervous system needs predictability; the ADHD nervous system needs novelty. Both real. Neither waits for the other.",
+      "shape": "micro-insight",
+      "rationale": "Structural companion to the validation post — frames the same insight as a learnable distinction rather than personal reassurance, reaching people who prefer information over affirmation.",
+      "source_url": "https://bridgettehamstead.substack.com/p/the-audhd-guide-to-burnout",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-02",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "There's a word for it: grelief. Grief and relief arriving together after a late autism diagnosis. Research confirms this is the norm, not a contradiction. Your grief isn't ingratitude for finally having a name.",
+      "shape": "validation",
+      "rationale": "Introduces the community term with research backing and lands on the implicit permission people most need — that grief does not cancel gratitude. The final sentence does the real work.",
+      "source_url": "https://sciety.org/articles/activity/10.31234/osf.io/yf8xj_v1",
+      "sensitivity_flag": "The cited source is a Sciety preprint, not a fully peer-reviewed published article. The claim that this is 'the norm' reflects study findings but verify current publication status before posting.",
+      "id": "2026-07-21T15-00-04-03",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis: relief that the confusion finally has a name. Grief for the time spent without one. What does it look like to hold both without having to choose?",
+      "shape": "question",
+      "rationale": "Evergreen companion to the grelief post — no citation needed because no specific fact is claimed. Opens genuine conversation by posing the tension as a question rather than answering it.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-04",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' is a clinician's framing from the outside. 'Persistent Drive for Autonomy' is what it actually is from the inside. The name shapes the response. That's why advocates are pushing for the change.",
+      "shape": "reframe",
+      "rationale": "The two-line parallel contrast earns the conclusion rather than asserting it; 'advocates are pushing' is accurate and avoids claiming the shift is settled or universal.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-05",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "Lowering your voice isn't low-demand. Removing punishments isn't low-demand. If every request becomes a prolonged negotiation, that's still a demand. For a PDA nervous system, the ongoing pressure reads as threat.",
+      "shape": "reframe",
+      "rationale": "Parallel sentence structure makes the reframe land with precision; 'reads as threat' is accurate to PDA threat-response framing without pathologising the child or blaming the parent.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-06",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "If you're trying low-demand with a PDA child: fewer demands, not quieter ones. Negotiation is still a demand. The question isn't 'how am I asking?' — it's 'how many asks am I running at once?'",
+      "shape": "practical",
+      "rationale": "Converts the reframe into a concrete self-audit question usable in real time; the 'how many' framing is actionable without being prescriptive or evaluative about parenting quality.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-07",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "Rest removes the acute load of autistic burnout. It doesn't restore anything by itself. Recovery also needs tiny, low-pressure moments of genuine aliveness — a special interest, something sensory, anything that reminds your nervous system it's not only surviving.",
+      "shape": "practical",
+      "rationale": "The rest/restore distinction is the key clinical insight, but the post earns it through plain language. 'Not only surviving' is resonant without veering into inspirational-poster territory.",
+      "source_url": "https://neurodivergentinsights.com/managing-burnout-with-rest-and-pleasure/",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-08",
+      "status": "draft",
+      "char_count": 263,
+      "over_limit": false
+    },
+    {
+      "text": "After years of masking, the mask can fuse with identity so completely that unmasking feels like disappearing — not like relief. The exhaustion is real. So is not knowing what self you'd be going back to.",
+      "shape": "validation",
+      "rationale": "Names psychological entrapment without clinical jargon; the final sentence validates the disorientation without offering a false resolution or implying the person is broken.",
+      "source_url": "https://formepsychologyau.com.au/insights/burnout-and-masking-in-late-diagnosed-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-09",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "What do you unmask to, if the mask was there before you had a clear sense of who you were underneath it? That's the actual question a lot of late-diagnosed people are sitting with.",
+      "shape": "question",
+      "rationale": "Opens the existential dimension of unmasking without claiming to answer it; 'a lot of late-diagnosed people' signals community recognition without speaking for everyone.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-21T15-00-04-10",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Task initiation difficulty is neurological: the brain's 'start' signal doesn't fire reliably. PDA demand avoidance is a threat response — closer to a panic reflex. They look identical from the outside. The fix for one makes the other worse.",
+      "shape": "micro-insight",
+      "rationale": "The 'identical outside, different underneath' structure teaches the distinction efficiently and shifts the frame from blame to curiosity about what's actually happening.",
+      "source_url": "https://neurodivergentinsights.com/pda-or-demand-avoidance/",
+      "sensitivity_flag": "'Closer to a panic reflex' is a lay analogy for threat response, not a clinical claim — consider softening to 'closer to a threat response' to stay clearly in experiential rather than diagnostic territory.",
+      "id": "2026-07-21T15-00-04-11",
+      "status": "draft",
+      "char_count": 240,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting at home can't absorb six-plus hours of high-demand school. When a child still escalates despite everything, that's not a parenting failure. That's a mismatch too large for one environment to close.",
+      "shape": "reframe",
+      "rationale": "Shifts attribution from parental failure to systemic mismatch without assigning blame to school specifically; 'too large for one environment to close' is accurate and invites discussion rather than outrage.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": "This angle is in active tension in practitioner communities — expect pushback from both traditionalist and strong-advocate sides. Frame in any caption as opening a conversation, not settled evidence.",
+      "id": "2026-07-21T15-00-04-12",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    }
+  ]
+}
