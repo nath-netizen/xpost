@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-27T15:40:43.678Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't tired. It's your nervous system saying the math doesn't work anymore. Sleep won't fix a mismatch between demands and what you have left.",
+      "shape": "reframe",
+      "rationale": "Names the demand-resource mechanism plainly and gives people vocabulary for an experience that's been dismissed with 'just rest more.' The math metaphor makes it quotable and sidesteps clinical language.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-01",
+      "status": "draft",
+      "char_count": 159,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout recovery isn't about sleeping more. It's about reducing what's draining you. Better coping isn't the goal — fewer demands is.",
+      "shape": "practical",
+      "rationale": "Turns the reframe into a directional pointer without giving medical advice. Corrects a widespread misconception and lands somewhere useful in one breath.",
+      "source_url": "https://indiaautismcenter.org/blog/why-rest-doesnt-help-autistic-burnout-what-actually-works/",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-02",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "'Didn't realize I was starving until I was shaking.' That has a name: interoception differences. Your body wasn't skipping signals. It just doesn't send the medium ones.",
+      "shape": "validation",
+      "rationale": "Leads with the lived experience before naming it — recognition first, explanation second. Reframes a common self-blame pattern without veering into diagnostic territory.",
+      "source_url": "https://medium.com/@higgoraraujo/4-signs-you-might-have-autistic-interoception-problems-without-knowing-it-323a05ab1bdf",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-03",
+      "status": "draft",
+      "char_count": 169,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of autistic people go straight from fine to crisis. Not because they ignore warning signs — because the warning signs don't show up.",
+      "shape": "micro-insight",
+      "rationale": "Short and specific. The mechanism (absent signals, not ignored ones) reframes what looks like self-neglect without requiring any clinical vocabulary.",
+      "source_url": "https://neurodivergentinsights.com/autism-adhd-homeostasis/",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-04",
+      "status": "draft",
+      "char_count": 138,
+      "over_limit": false
+    },
+    {
+      "text": "The mask doesn't fall when things get hard. It falls when the structure holding it up disappears — a new job, a baby, a life that's suddenly just different.",
+      "shape": "micro-insight",
+      "rationale": "Answers 'why now?' for people in the middle of an unplanned identity collapse they don't have words for. Names the timing mechanism precisely without moralizing.",
+      "source_url": "https://sachscenter.com/high-masking-autism-in-adults-why-you-keep-getting-missed-and-what-to-do-in-2026/",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-05",
+      "status": "draft",
+      "char_count": 156,
+      "over_limit": false
+    },
+    {
+      "text": "Late autistic diagnosis usually isn't random. It often follows a major life transition — because transitions strip away the external scaffolding that made masking possible.",
+      "shape": "reframe",
+      "rationale": "Explains the timing of late diagnosis structurally rather than as luck or coincidence. Offers a framework people rarely have for their own story and invites sharing.",
+      "source_url": "https://thecognitiveecologist.substack.com/p/late-discovered-autism-and-the-developmental",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-06",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "Nobody warns you that a late diagnosis can make you grieve a life you were already living. Every memory looks different through the new lens. That's not dysfunction. It's your history getting truer.",
+      "shape": "validation",
+      "rationale": "Anchored by a 2026 peer-reviewed systematic review (Meldrum et al., Autism in Adulthood). Names the relief-then-grief arc the community has described for years but rarely seen validated from research.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/25739581261427260",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-07",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "69% of neurodivergent employees say their manager gets it. 79% still feel stigma when asking for accommodations. That gap is the whole problem. Have you felt it?",
+      "shape": "question",
+      "rationale": "The contradiction in the stats is genuine and discussable, not manufactured outrage. 'Have you felt it?' opens the comments honestly and points toward shared experience rather than blame.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "Stats drawn directly from the cited Forbes June 2026 piece — defensible, but worth verifying exact figures if the article sits behind a paywall before posting.",
+      "id": "2026-07-27T15-40-43-08",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "PDA adults aren't refusing to cooperate. The demand registers as a threat signal — even when it comes from someone they love. Not defiance. Survival.",
+      "shape": "reframe",
+      "rationale": "Shifts the 'won't vs. can't' frame to a nervous-system explanation that's non-blaming toward the PDA person and the people around them. Tight and quotable.",
+      "source_url": "https://www.sagebrushcounseling.com/blog/pda-demand-avoidance-adults-relationships",
+      "sensitivity_flag": "'Threat signal' is established language in PDA clinical and community literature — low risk, slightly mechanistic. Comfortable given the sourcing.",
+      "id": "2026-07-27T15-40-43-09",
+      "status": "draft",
+      "char_count": 149,
+      "over_limit": false
+    },
+    {
+      "text": "For a PDA nervous system, a request can land as a real alarm — not a mood, not a preference. Needing control isn't stubbornness. It's how safety works.",
+      "shape": "validation",
+      "rationale": "Different angle on PDA: speaks directly to the person experiencing it rather than explaining them to others. Reframes self-blame as neurological reality without clinical jargon.",
+      "source_url": "https://peelautismresourceblog.wordpress.com/2026/07/22/link-roundup-pda-pathological-demand-avoidance-or-persistent-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-10",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout is two needs failing in opposite directions at once. ADHD brain craving novelty. Autistic nervous system begging nothing to change. Neither gets met.",
+      "shape": "micro-insight",
+      "rationale": "Names the AuDHD-specific contradiction load precisely — not just 'ADHD plus autism' but the internal conflict between two incompatible needs. The parallelism makes it land as recognition.",
+      "source_url": "https://sensoryoverload.info/audhd/audhd-burnout-why-the-contradiction-load-hits-so-hard-and-what-helps/",
+      "sensitivity_flag": null,
+      "id": "2026-07-27T15-40-43-11",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting makes sense for PDA kids. Nobody talks about what happens when the parent is in burnout too. How do you protect your kid's nervous system when yours is already at the limit?",
+      "shape": "question",
+      "rationale": "Opens the conversation the community is actually having without undermining the approach or turning it into a critique. Validates parental burnout as structural, not a personal failure.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": "Treads close to parenting advice territory. Framed as genuine curiosity, not prescription — but monitor comments for people asking for direct clinical guidance, which should be redirected to appropriate support.",
+      "id": "2026-07-27T15-40-43-12",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    }
+  ]
+}
