@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-29T15:09:26.382Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't job stress you forgot to manage. Research suggests it's a different physiological state — driven by chronic masking, not overwork. Treating them the same is why 'take a holiday' doesn't help.",
+      "shape": "reframe",
+      "rationale": "Names the core misconception and offers the mechanism without overclaiming. Validates why generic advice fails without prescribing treatment or speaking for all autistic people.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005893/",
+      "sensitivity_flag": "The 2026 Ali/Mandy/Happé study is qualitative — it captures lived experience rather than proving distinct physiology via biomarkers. 'Research suggests' hedges this appropriately, but verify the source supports this specific framing before posting.",
+      "id": "2026-07-29T15-09-26-01",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed autistic adults describe a layer of burnout that earlier-diagnosed people don't report in the same way: retrospective grief. Understanding why you suffered doesn't erase it. For many, it deepens it.",
+      "shape": "validation",
+      "rationale": "Draws directly on the 2026 qualitative study's finding and names the grief dimension with precision. Speaks to an experience rather than universalising across all autistic people.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-02",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "The system didn't miss you. It mislabeled you. Neurodivergent wiring that's well-resourced looks like giftedness — until the compensatory system runs out and everyone's confused.",
+      "shape": "micro-insight",
+      "rationale": "Reframes the 'why didn't anyone catch this?' question by shifting blame from personal failure to structural mislabeling. Punchy without speaking for all neurodivergent people.",
+      "source_url": "https://lindseymackereth.substack.com/p/is-later-in-life-diagnosis-of-autism",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-03",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "'You don't seem autistic' is not a compliment. It's a receipt. Proof the disappearing act worked — and post-diagnosis, that praise becomes its own kind of wound.",
+      "shape": "validation",
+      "rationale": "Names the precise mechanism by which masking compliments become painful after diagnosis. Quotable and specific without being exploitative or pitying.",
+      "source_url": "https://neurotribe.substack.com/p/the-weight-of-being-well-masked",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-04",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "There's a specific grief in realizing you've been praised your whole life for how well you could disappear. The compliments were always about the mask.",
+      "shape": "micro-insight",
+      "rationale": "Softer register than the 'receipt' post — grief-forward rather than reframe-forward. Different entry point to the same insight for people at different stages of processing their diagnosis.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-05",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't two conditions sitting side by side. It's a constant internal negotiation — needing sameness and novelty about the exact same situation at the exact same moment.",
+      "shape": "validation",
+      "rationale": "Names the 'half-right in both spaces' experience with enough precision to generate strong recognition. Speaks to an experience rather than defining all AuDHD people.",
+      "source_url": "https://www.nationalgeographic.com/health/article/what-is-audhd-adhd-autism-overlap-adults",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-06",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Almost all PDA literature is written for parents of children. Autistic adults with a PDA profile are navigating hierarchical workplaces and authority relationships without a map.",
+      "shape": "reframe",
+      "rationale": "States a structural gap plainly. Opens the conversation to adults who may never have seen themselves in the parenting-focused literature, without making clinical claims.",
+      "source_url": "https://www.scienceworkshealth.com/post/autism-demand-avoidance-in-adults-when-pda-is-not-just-defiance",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-07",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "If a manager's instruction feels disproportionately threatening — not defiance, not immaturity — it may be a nervous system wired to register constraint as danger.",
+      "shape": "reframe",
+      "rationale": "Reframes the PDA workplace experience without requiring a diagnosis label. 'May be' is deliberately tentative. Shifts the story from character flaw to nervous-system difference.",
+      "source_url": "https://aane.org/autism-info-faqs/library/when-autonomy-feels-like-survival-a-view-of-pda-for-families/",
+      "sensitivity_flag": "Nervous-system language is experiential community framing, not a clinical claim — but 'wired to register constraint as danger' could read as causal-biological to some readers. Verify this framing is defensible from the source before posting.",
+      "id": "2026-07-29T15-09-26-08",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "Research now names what PDA parents have said privately for years: they feel systematically dismissed by the professionals meant to help them. That's not a personal failing. It's a structural one.",
+      "shape": "validation",
+      "rationale": "Validates a specific experience with research backing. The pivot from private feeling to structural failure reframes isolation without dwelling in resentment or assigning blame to individuals.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-09",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting principles — fewer unnecessary demands, genuine choice, connection over compliance — work on yourself too. Not a parenting style. A nervous-system strategy.",
+      "shape": "practical",
+      "rationale": "Makes the crossover from parenting framework to adult self-management immediately practical and accessible to non-parents. Short enough to be actionable; doesn't prescribe specific behaviors or claim therapeutic effect.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-10",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "The collapse — job loss, a new baby, a health crisis — looks like a breakdown from the outside. It's often just the moment the compensatory system finally ran out of fuel.",
+      "shape": "micro-insight",
+      "rationale": "Names the specific trigger point for late-diagnosis recognition without framing it as a personal failure. 'Finally ran out of fuel' is mechanical and non-pathologizing — describes a system, not a character.",
+      "source_url": "https://sachscenter.com/high-masking-autism-in-adults-why-you-keep-getting-missed-and-what-to-do-in-2026/",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-11",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "The post-diagnosis immersion phase has a recognizable shape. What comes after is less mapped. What did integration look like for you — and how did you know you'd arrived?",
+      "shape": "question",
+      "rationale": "Opens a forward-looking conversation without pathologizing any phase of the identity arc. Genuine gap in community discourse — invites honest replies from people at different stages without manufactured stakes.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/neurodivergent-identity-arcs",
+      "sensitivity_flag": null,
+      "id": "2026-07-29T15-09-26-12",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    }
+  ]
+}
