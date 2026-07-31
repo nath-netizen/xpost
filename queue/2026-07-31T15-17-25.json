@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-07-31T15:17:25.809Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "The double empathy problem isn't really about empathy. It's about whose emotional style gets to count as 'normal' — and whose gets pathologised for not matching it.",
+      "shape": "reframe",
+      "rationale": "Upgrades a concept the community already knows into something sharper — naming structural injustice rather than individual misunderstanding. Recognition plus reframe in one move, directly supported by the 2026 Tandfonline paper.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/09515089.2026.2651512",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-01",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "Half-understood in autistic spaces, half-understood in ADHD spaces — that's not you being too complicated. That's you having a neurotype the system hadn't built a word for yet.",
+      "shape": "validation",
+      "rationale": "Names the AuDHD liminal experience a fast-growing community has described for years without clinical language. 'Many' and 'you' framing keeps it appropriately scoped; high recognition, no exaggeration.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13634593251336163",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-02",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout isn't a motivation problem. It's a capacity problem. When demand exceeds capacity, the nervous system stops the output. That's not giving up. That's how nervous systems work.",
+      "shape": "reframe",
+      "rationale": "Directly counters the 'lazy/no willpower' read that late-diagnosed autistic adults carry longest. Clinical enough to feel grounded without making a diagnostic claim. Phrasing is tight and quotable.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-03",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "Rest alone doesn't fix autistic burnout. You also have to reduce load. The nervous system can't recover while the demand that caused the crash is still in place.",
+      "shape": "micro-insight",
+      "rationale": "Practical sub-point that stands fully alone. Useful, not preachy. The 'rest isn't enough' claim is directly drawn from the linked source and adds something genuinely actionable.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-04",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "Many autistic people coped — until university. Or a new baby. Or a bereavement. These aren't random breakdowns. They're predictable moments where compensation hits its limit.",
+      "shape": "validation",
+      "rationale": "Names the shape of late-diagnosis stories. Reduces self-blame for 'why now?' without requiring anyone to justify themselves. 'Many' is appropriately scoped; the examples are concrete without being prescriptive.",
+      "source_url": "https://formepsychologyau.com.au/insights/burnout-and-masking-in-late-diagnosed-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-05",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosis grief isn't one undifferentiated fog. It's specific: the younger self who thought they were broken. The friendships that didn't survive burnout. The paths never offered.",
+      "shape": "validation",
+      "rationale": "Reframes grief as plural and specific rather than vague — which is both more accurate and more workable. The list structure earns its length; each item will hit differently for different readers.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/late-diagnosis-audhd-and-the-grief",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-06",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "For a PDA-profile nervous system, a demand registers as a threat to safety or autonomy. 'Just comply' isn't available — the same way 'just calm down' isn't during a fire alarm. That's wiring, not defiance.",
+      "shape": "reframe",
+      "rationale": "Gives parents and PDA adults a reframe that is both visceral and clean. The fire alarm analogy communicates involuntary nature without requiring the reader to know the clinical literature.",
+      "source_url": "https://newgladecounselling.co.uk/2026/01/09/working-with-pda-in-the-therapy-room/",
+      "sensitivity_flag": "PDA is not universally recognised as a standalone clinical category; 'PDA-profile' language is appropriate but this framing sits within neurodiversity-affirming practice rather than mainstream diagnostic consensus — worth knowing before quoting it in clinical contexts.",
+      "id": "2026-07-31T15-17-25-07",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'no rules.' It's asking 'is this genuinely necessary?' before anything gets added to the pile. The non-negotiables stay. Everything else gets triaged.",
+      "shape": "practical",
+      "rationale": "Addresses parent guilt directly by drawing the distinction between low-demand and permissive in terms any sceptical relative could actually hear. Crisp, usable, and sourced to Amanda Diekman's explicit framing.",
+      "source_url": "https://www.amandadiekman.com/blog/Permissive-Parenting",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-08",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "Needing co-regulation to return to baseline isn't immaturity. For many autistic nervous systems, that's how regulation works. Self-regulation is the outcome — not the prerequisite.",
+      "shape": "validation",
+      "rationale": "Counters shame around needing external support to regulate. 'Many' appropriately scopes the claim. Practically useful and emotionally validating without being prescriptive or implying this is universal.",
+      "source_url": "https://autisticrealms.com/neurodivergent-co-regulation/",
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-09",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "What actually helps your nervous system land? Not what's supposed to work — what does, for you.",
+      "shape": "question",
+      "rationale": "Opens a genuine discussion rather than collecting passive likes. Deliberately short. No correct answer implied; invites the audience to share lived strategies without any prescriptive framing from the post itself.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-10",
+      "status": "draft",
+      "char_count": 95,
+      "over_limit": false
+    },
+    {
+      "text": "Neurodivergent accommodations are now the third most common reason Gen Z employees ask HR for help. The question has shifted from 'can I ask for this' to 'what happens when I do.'",
+      "shape": "micro-insight",
+      "rationale": "Grounds a real structural shift in a concrete stat without overselling it. The second sentence adds genuine tension that invites engagement from people who've had both good and bad experiences at work.",
+      "source_url": "https://claveprep.com/blog/neurodivergent-candidates-interview-accommodations-2026",
+      "sensitivity_flag": "Stat is drawn from a single 2026 HR industry survey, not peer-reviewed research. Accurately reported per the briefing, but should not be presented as settled population-level data if quoted elsewhere.",
+      "id": "2026-07-31T15-17-25-11",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "If you were diagnosed late, which loss hit hardest? Not 'the years' in general — the specific thing. The friendship. The degree. The version of yourself you couldn't be.",
+      "shape": "question",
+      "rationale": "Takes the specific-grief insight from Angle 5 and turns it into a discussion opener that earns replies rather than just affirmations. Invites people to name something real; the examples model the specificity without limiting it.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-07-31T15-17-25-12",
+      "status": "draft",
+      "char_count": 169,
+      "over_limit": false
+    }
+  ]
+}
