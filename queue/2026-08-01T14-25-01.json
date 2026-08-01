@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-01T14:25:01.271Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Before the diagnosis, every burnout just felt like being broken again. The diagnosis didn't stop the burnout. It just meant I could finally stop blaming my character for it.",
+      "shape": "validation",
+      "rationale": "Names the mechanism — absence of language compounds harm — in a way late-diagnosed autistic readers will immediately recognise. Grounded in Ali/Mandy/Happé 2026 without overclaiming the findings.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-01",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD doesn't make you unreliable. It makes self-agreements physiologically weaker than they are for other people. That's not a character flaw. That's neurology.",
+      "shape": "micro-insight",
+      "rationale": "Converts the value-action gap framing into a clean structural reframe. Shifts locus from character to neurology. Immediately quotable, self-contained, zero clinical advice.",
+      "source_url": "https://www.brillacounseling.io/blog/-adhd-amp-relationships-part-1-the-self-trust-crisis-and-the-value-action-gap",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-02",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "If PDA were just anxiety, anxiety treatments would help. For many people, they don't. So what's actually driving it — and does the framing matter for the support you get?",
+      "shape": "question",
+      "rationale": "Opens the live clinical debate without settling it. Respects the community's sophistication; invites genuine responses from PDAers, parents, and practitioners without baiting outrage.",
+      "source_url": "https://www.psychologytoday.com/us/blog/mental-health-reimagined/202604/its-time-to-rethink-the-anxiety-drives-pda-narrative",
+      "sensitivity_flag": "PDA framing is actively contested; post deliberately surfaces the debate rather than resolving it — appropriate per voice guide, but expect strong responses from both camps.",
+      "id": "2026-08-01T14-25-01-03",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting works. It just can't compensate for six hours a day in a high-demand school that doesn't know what PDA is. The gap isn't at home.",
+      "shape": "reframe",
+      "rationale": "Redirects blame away from parents toward the systemic variable — the school environment. Validating and advocacy-pointing without pity framing or implying parents need to try harder.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-04",
+      "status": "draft",
+      "char_count": 150,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking doesn't go in a straight line. Some days you feel more yourself than ever. Some days the mask goes back on and you don't notice until later. Both are part of it.",
+      "shape": "validation",
+      "rationale": "Counters the implied linear 'stages of unmasking' format. Meets people in the actual non-linear experience without prescribing a journey or framing re-masking as failure. No clinical advice.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-05",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "'Notice how your body feels' is solid advice — unless your interoception doesn't send clear signals. Alarms, visuals, a trusted person: not cheating. The actual tool.",
+      "shape": "practical",
+      "rationale": "Names the specific reason standard mindfulness advice can fail autistic people, then pivots immediately to a concrete alternative. Reframe plus actionable takeaway in one tight post.",
+      "source_url": "https://reframingautism.org.au/interoception-knowing-yourself-inside-and-out/",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-06",
+      "status": "draft",
+      "char_count": 166,
+      "over_limit": false
+    },
+    {
+      "text": "Getting the AuDHD diagnosis felt like finally having a decoder key. Then I used it. Some of those doors opened rooms I wasn't ready to grieve.",
+      "shape": "validation",
+      "rationale": "Names the underrepresented post-relief grief arc without making it a pity story. The 'rooms' metaphor lands concretely without being overwrought. AuDHD community is large and underserved by this framing.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-07",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "42% of neurodivergent employees get no workplace adjustments unless they ask. And asking means disclosing. The 'just ask for what you need' advice ignores who bears the cost of asking.",
+      "shape": "reframe",
+      "rationale": "Converts a concrete statistic into a structural critique. Centres systemic reality rather than individual failure. No inspiration-porn framing; no pity.",
+      "source_url": "https://www.thewmhi.com/mental-health/neurodivergent-masking/",
+      "sensitivity_flag": "The 42% figure is drawn from the WMHI source; verify exact methodology and sample size before publishing — may derive from a survey rather than a controlled study.",
+      "id": "2026-08-01T14-25-01-08",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "'Persistent drive for autonomy' feels truer than 'pathological demand avoidance.' Genuinely curious: has the new name changed anything about the support you or your child actually receives?",
+      "shape": "question",
+      "rationale": "Holds the naming debate and its limits simultaneously — the honest next question after the initial reframe. Generates real discussion without manufacturing controversy.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-09",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found late-diagnosed autistic adults experience burnout as more disabling — partly because without a name for it, every collapse read as personal failure rather than a recognised pattern.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the peer-reviewed finding rather than a first-person frame. Distinct from the validation post: useful for readers who want shareable evidence, not just resonance.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005893/",
+      "sensitivity_flag": "Cites Ali/Mandy/Happé 2026 qualitative study — verify that 'more disabling' accurately reflects the study's language; qualitative findings should not be overstated as population-level data.",
+      "id": "2026-08-01T14-25-01-10",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD shame isn't just collateral damage. It becomes its own secondary disability. You spend as much energy managing the shame as managing the symptoms. That's what stays invisible.",
+      "shape": "reframe",
+      "rationale": "Reframes ADHD shame as a structural sequela rather than an incidental feeling. Opens space for people to name the shame loop as a real and distinct problem worth addressing, not just tolerating.",
+      "source_url": "https://www.brillacounseling.io/blog/-adhd-amp-relationships-part-1-the-self-trust-crisis-and-the-value-action-gap",
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-11",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed AuDHD folks: what happened in the months after the relief? I hear a lot about the decoder-key moment. Less about the rooms it opened that you weren't ready to grieve.",
+      "shape": "question",
+      "rationale": "Community-facing version of the decoder-key angle. Invites the grief-and-vertigo arc to surface in replies rather than asserting it — opens a conversation that post-diagnosis content almost never centres.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-01T14-25-01-12",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    }
+  ]
+}
