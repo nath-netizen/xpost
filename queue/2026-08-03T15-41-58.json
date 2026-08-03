@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-03T15:41:58.375Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout doesn't just drain energy. It takes skills. Driving. Cooking. Texting back. Things you've done for years, gone. That's not laziness or decline. That's a known burnout symptom.",
+      "shape": "reframe",
+      "rationale": "The staccato list of lost skills lands before the reframe, sharpening the pivot from wrong interpretation to correct one. Naming skill regression as a documented symptom — not a character flaw — is the reframe the community needs to hear first.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-skill-regression",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-01",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "If burnout took skills you thought were permanent losses — that's a named burnout pattern, not a verdict on who you are.",
+      "shape": "validation",
+      "rationale": "Speaks directly to the terror underneath skill regression without overpromising recovery outcomes. Validates the fear while reframing the meaning — clean validation that makes no clinical claim about trajectory.",
+      "source_url": "https://medium.com/@higgoraraujo/7-disturbing-signs-your-autistic-burnout-caused-skill-regression-bdc89335eb87",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-02",
+      "status": "draft",
+      "char_count": 120,
+      "over_limit": false
+    },
+    {
+      "text": "Many autistic people can't reliably feel hunger, fatigue, or rising anxiety until they're already past the limit. 'Just listen to your body' assumes the warning system fires. It often doesn't.",
+      "shape": "micro-insight",
+      "rationale": "Names the interoception blindspot as structural, not personal — turning a perceived failure ('why didn't I catch this?') into a nervous-system explanation. The quoted advice sets up the pivot perfectly without editorialising.",
+      "source_url": "https://www.kelly-mahler.com/resources/blog/autistic-burnout-what-it-is-why-it-happens-and-how-interoception-can-help/",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-03",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "When an autistic person 'should have rested sooner' — often the signal just wasn't there. Interoception works differently for many autistic people. That's not negligence. That's neurology.",
+      "shape": "micro-insight",
+      "rationale": "Targets a specific guilt-script and dismantles it in two sentences. The 'not negligence / that's neurology' close is tight, quotable, and resists any reading as medical advice while still being informative.",
+      "source_url": "https://www.dralicenicholls.com/interception-in-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-04",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "What it looks like from outside: defiance, won't comply. What's actually happening inside: a nervous system treating the demand as a threat. PDA isn't attitude. It's a threat response.",
+      "shape": "reframe",
+      "rationale": "The parallel before/after structure gives readers a tool they can actually use to explain PDA to others — or to themselves. Keeps the reframe concrete and non-clinical while naming the real mechanism.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-05",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "Pathological Demand Avoidance or Persistent Drive for Autonomy — same initials, completely different frames. Both are being used right now. Which resonates with your experience?",
+      "shape": "question",
+      "rationale": "Genuinely open — 'both are being used right now' establishes live relevance without steering toward either name. Invites community voice without editorialising. An earlier draft said 'one pathologises, one explains' which leaned too hard toward PDA; revised to neutral.",
+      "source_url": "https://peelautismresourceblog.wordpress.com/2026/07/22/link-roundup-pda-pathological-demand-avoidance-or-persistent-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-06",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism softened by ADHD. It's both drives running simultaneously. Craving routine and novelty at the same time. Needing the same mug in the same spot AND wanting to rearrange everything by Tuesday.",
+      "shape": "validation",
+      "rationale": "The mug/rearranging example is specific enough to generate 'this is literally me' recognition — the kind of concrete detail that earns comments, not just likes. Tackles the 'they cancel out' misconception through felt experience rather than argument.",
+      "source_url": "https://www.lovepsychotherapy.com/blog/audhd-paradox-brain-argues-with-itself",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-07",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD is often described as 'autism with ADHD' — as if one softens the other. It doesn't. Both sets of needs are real, simultaneous, and often contradictory. That's the actual load.",
+      "shape": "reframe",
+      "rationale": "Attacks the same misconception as Post 7 from the conceptual angle rather than the personal/concrete one — the two posts complement without repeating. 'That's the actual load' is terse and specific without being dramatic.",
+      "source_url": "https://www.drlanaferris.com/blogs/what-audhd-actually-feels-like-the-internal-civil-war-lived",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-08",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis brings real relief. Then something quieter arrives — grief not for being autistic, but for all the years spent performing someone you were never actually going to be.",
+      "shape": "validation",
+      "rationale": "Names the post-diagnosis grief with precision: it's for the performed self, not for autism. The distinction matters enormously and is rarely stated this cleanly. Voice and specificity carry this one — no information density needed.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask",
+      "sensitivity_flag": null,
+      "id": "2026-08-03T15-41-58-09",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "7 in 10 neurodivergent employees are too afraid to disclose at work. 68% don't know what accommodations they could even ask for. That's not a personal failing. That's a broken system.",
+      "shape": "reframe",
+      "rationale": "Two data points open with credibility, and the reframe lands in two short sentences that shift blame from individuals to systems. Validates the fear without pathologising it — exactly the register this community needs on workplace content.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "The 70% and 68% figures may come from different studies within the briefing — verify both appear in the Forbes piece before attributing them together, or source each stat separately.",
+      "id": "2026-08-03T15-41-58-10",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "You don't have to formally disclose to get adjustments. 'I focus better with headphones' or 'Can I get meeting notes in writing?' are low-risk asks that don't require paperwork or labels.",
+      "shape": "practical",
+      "rationale": "The quoted examples are concrete, non-stigmatising, and require no self-disclosure of diagnosis. Pairs naturally with the reframe post on disclosure fear — moves from validation to a genuinely usable first step.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": "Informal adjustment strategies may not be legally sufficient in all workplace contexts or jurisdictions — consider pairing with a caveat or resource if the account reaches an international audience where formal disclosure processes differ.",
+      "id": "2026-08-03T15-41-58-11",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found that ADHD community terms like 'executive dysfunction,' 'rejection sensitivity,' and 'masking' do real psychological work — collective meaning-making, not just jargon. Which term first changed how you understood yourself?",
+      "shape": "question",
+      "rationale": "Uses actual research to legitimise community language against the 'labels as excuses' critique, then pivots to a personal reflection that invites sharing. The data earns the question; the question generates the conversation.",
+      "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1820248/full",
+      "sensitivity_flag": "The Frontiers study focuses on ADHD Reddit communities — verify that 'masking' is explicitly named in its findings before using it as an example, since masking is more commonly associated with autistic experience and may not appear in this particular dataset.",
+      "id": "2026-08-03T15-41-58-12",
+      "status": "draft",
+      "char_count": 240,
+      "over_limit": false
+    }
+  ]
+}
