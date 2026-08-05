@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-05T15:13:29.859Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You're not failing at rest. You're resting while the thing that broke you is still running. Recovery means reducing demands — not just pausing from them.",
+      "shape": "reframe",
+      "rationale": "Uses the briefing's strongest hook and sharpens it with the structural point. De-shames people who rested without recovering — a common, privately held shame. Self-contained and quotable, drawn directly from the cited Substack sources.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-01",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "There's grief for the younger self blamed for being 'too much.' For the self-story that no longer holds. For every year you explained yourself through the wrong frame. A late diagnosis doesn't resolve that — it names it.",
+      "shape": "validation",
+      "rationale": "Moves past the relief/grief binary to name specific grief layers. Each clause targets a distinct carried experience; the closing reframe earns the post without tipping into pity. High 'finally someone said it' potential for the late-diagnosed community.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-grief-no-one-warns-you-about",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-02",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological demand avoidance' tells you what's wrong. 'Persistent drive for autonomy' tells you what the nervous system is protecting. Different words open genuinely different responses.",
+      "shape": "reframe",
+      "rationale": "Language reframes perform well because they're immediately actionable — someone can change their words today. The contrast structure makes the point without padding. Drawn from AANE and PDA North America advocacy discourse, both cited in briefing.",
+      "source_url": "https://aane.org/autism-info-faqs/library/do-i-have-a-pervasive-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-03",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't giving up on structure. It's asking: which demands are genuinely necessary? That question is harder, not easier, than just enforcing everything.",
+      "shape": "reframe",
+      "rationale": "Directly addresses the most damaging mischaracterisation of low-demand parenting by flipping the framing: it demands more deliberate thought, not less. Short enough to screenshot and share, specific enough to defend from the cited sources.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-04",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Honest question: have you ever decided not to disclose or ask for accommodations at work because the risk felt too high? What were you weighing?",
+      "shape": "question",
+      "rationale": "Opens genuine discussion without leading the witness. 'What were you weighing' invites substantive answers, not binary reactions. Draws on the Forbes disclosure-fear angle without needing to state the statistic — the question carries the weight.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-05",
+      "status": "draft",
+      "char_count": 144,
+      "over_limit": false
+    },
+    {
+      "text": "AI body doubling works for many ADHDers not because it's smart — because it never raises an eyebrow. No small-talk tax. No silent judgment. That's a real accommodation.",
+      "shape": "micro-insight",
+      "rationale": "Counter-intuitive enough to stop the scroll. Reframes AI-as-productivity-hack as AI-as-nervous-system-accommodation — more honest and dignity-preserving. The three-beat rhythm (no eyebrow, no small talk, no judgment) earns its brevity. Uses identity-first 'ADHDers.'",
+      "source_url": "https://arxiv.org/html/2605.07851v1",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-06",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "No one talks about what happens when the parent supposed to co-regulate their autistic child is also in nervous-system shutdown. Both of you are in the room. Both of you are real.",
+      "shape": "validation",
+      "rationale": "Names an experience that parenting advice for ND kids almost never accounts for. The closing two lines resist pity framing while affirming the parent's own nervous system as legitimate — not a failing. High recognition-response potential for an underserved group.",
+      "source_url": "https://sendinmama.substack.com/p/holding-it-all-self-regulation-in",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-07",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "Stimming isn't a bad habit. It's your nervous system doing exactly what it was built to do. The question isn't how to stop — it's what it's telling you.",
+      "shape": "practical",
+      "rationale": "Reframes the function of stimming without being prescriptive. 'What it's telling you' invites curiosity instead of compliance. Opens space for a 'what does your stim look like?' comment prompt. Clean science framing, source-backed from AANE. No cure framing.",
+      "source_url": "https://aane.org/autism-info-faqs/library/restoring-the-autistic-nervous-system-a-gentle-path-to-regulation/",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-08",
+      "status": "draft",
+      "char_count": 152,
+      "over_limit": false
+    },
+    {
+      "text": "The shame of 'I rested but still didn't get better' is real. And it makes sense — rest doesn't reach what caused burnout if the masking, sensory load, and performing neurotypicality are still running.",
+      "shape": "validation",
+      "rationale": "Leads with shame-naming to disarm it, then lands the structural reframe. The specific trio of causes (masking, sensory load, performing neurotypicality) gives people language for what they've been living and keeps the post from reading as vague.",
+      "source_url": "https://embrace-autism.com/why-rest-alone-may-not-help-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-09",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis reorganises meaning, not just identity. The grief that follows has its own texture — specific, layered, rarely warned about. It deserves its own name.",
+      "shape": "micro-insight",
+      "rationale": "Draws on the Springer 2026 identity-building paper to make a sharper claim: this grief is categorically distinct, not a subtype of something already named. Giving it its own name is itself the act of recognition the post is performing.",
+      "source_url": "https://link.springer.com/article/10.1007/s12144-026-09629-x",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-10",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Parents using low-demand approaches for PDA kids are often told they're 'just not parenting.' Many came to it after trying everything else first.",
+      "shape": "validation",
+      "rationale": "Short, sharp validation for an isolated and frequently misunderstood group. The closing clause implies struggle and persistence without requiring the parent to justify themselves. High comment potential from parents who want to be seen.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": "'Many' is a generalization not quantified in the source; hedged appropriately and defensible from PDA North America community reporting, but worth monitoring if pushback emerges from those who arrived at low-demand parenting another way.",
+      "id": "2026-08-05T15-13-29-11",
+      "status": "draft",
+      "char_count": 145,
+      "over_limit": false
+    },
+    {
+      "text": "If you're an autistic or AuDHD parent raising a neurodivergent child: when both of you are dysregulated at the same time, what actually helps? Genuinely asking.",
+      "shape": "question",
+      "rationale": "Opens a practical community conversation that mainstream parenting discourse almost never touches. 'Genuinely asking' signals this isn't a rhetorical setup with a pre-loaded answer. Low barrier to respond, high potential for honest peer exchange.",
+      "source_url": "https://sendinmama.substack.com/p/holding-it-all-self-regulation-in",
+      "sensitivity_flag": null,
+      "id": "2026-08-05T15-13-29-12",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    }
+  ]
+}
