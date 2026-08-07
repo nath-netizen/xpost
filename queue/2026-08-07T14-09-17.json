@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-07T14:09:17.704Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't depression with a different label. A clinical differentiator: burnout often leaves special interests intact. Depression tends to diminish them. Treating one as the other means treating the wrong thing.",
+      "shape": "reframe",
+      "rationale": "Names a specific, verifiable clinical distinction that the community has known experientially for years. Stakes are clear without overstating — misidentification has real consequences.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-clinical",
+      "sensitivity_flag": "The claim that depression 'tends to diminish' special interests is a clinical generalization drawn from the source — defensible but not universal. 'Treating the wrong thing' frames a consequence of misidentification, not medical advice. Fine as written.",
+      "id": "2026-08-07T14-09-17-01",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "A new burnout-specific measure outperforms standard depression screeners at identifying autistic burnout. The community has known for years these were different things. It's useful when the data finally agrees.",
+      "shape": "validation",
+      "rationale": "Leads with the evidence, lands on the validation — 'you were right.' Dry last line avoids saccharine. Appeals to autistic adults who've had their experience dismissed clinically.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-clinical",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-02",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "There's a name for the exhaustion that hits after a late diagnosis. Researchers call it post-diagnosis burnout. You finally got the answers — and then collapsed. That's not weakness. It's a recognizable stage.",
+      "shape": "validation",
+      "rationale": "Names something almost no support structure acknowledges. Peer-reviewed framing (Arcari Mair et al., Autism, 2026) makes the claim defensible. Short, direct, self-contained.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41933478/",
+      "sensitivity_flag": "'Recognizable stage' is supported by the 2026 study; phrasing avoids overclaiming a formal diagnostic category or universal experience.",
+      "id": "2026-08-07T14-09-17-03",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "Getting a late diagnosis brings relief. It also brings grief — for your younger self, the years unaccounted for. And then, for many, a crash. Most support structures don't acknowledge that last part exists.",
+      "shape": "micro-insight",
+      "rationale": "Maps the post-diagnosis emotional arc without overexplaining it. 'For many, a crash' is appropriately hedged. Final sentence names the structural gap cleanly and opens space for recognition.",
+      "source_url": "https://www.psychologytoday.com/us/blog/brain-curiosities/202604/neurodivergence-and-post-diagnosis-grief-among-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-04",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological demand avoidance' and 'persistent drive for autonomy' share an acronym. The name change isn't cosmetic. It changes what you think the problem is — and what you try to do about it.",
+      "shape": "reframe",
+      "rationale": "Articulates the stakes of the naming debate without overstating it. 'Changes what you think the problem is' is the key move — concise and arguable. Doesn't speak for the entire community.",
+      "source_url": "https://www.sensationaltutors.co.uk/persistent-drive-for-autonomy-new-term-for-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-05",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'anything goes.' It's asking which demands are actually necessary right now. That question is harder than it looks — and the answer is almost always fewer than you'd assume.",
+      "shape": "reframe",
+      "rationale": "Directly addresses the most common objection PDA families face from outside observers. Validates parents already doing this work while reframing it for skeptics. No clinical claims, no advice.",
+      "source_url": "https://www.amandadiekman.com/blog/Permissive-Parenting",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-06",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "42% of neurodivergent employees receive no workplace adjustments. The math of disclosure — weighing possible accommodations against stigma and career risk — is brutal. Did you disclose at work? What tipped it?",
+      "shape": "question",
+      "rationale": "Leads with a sourced, striking stat, names the structural problem plainly, then opens a genuine question. Invites real conversation without manufacturing outrage or answering for the community.",
+      "source_url": "https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/article/devil-you-know-versus-the-devil-you-dont-disclosure-versus-masking-in-the-workplace/9C269F06C93A56FFB05CA990798B572A",
+      "sensitivity_flag": "The 42% figure is drawn from the briefing as verified; confirm this exact figure appears in the Cambridge Core source before publishing.",
+      "id": "2026-08-07T14-09-17-07",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "'Just ask for what you need' assumes asking is free. For many neurodivergent people at work, it isn't — stigma, being seen differently, permanently. The structural problem is the structure. Not you.",
+      "shape": "validation",
+      "rationale": "Validates the internal calculation that late-diagnosed adults are running right now. Final line ('Not you') is brief enough to avoid self-help territory. Locates blame accurately without offering advice.",
+      "source_url": "https://www.mentra.com/article-unmasking-in-the-workplace",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-08",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD descriptions felt 80% right. Autism descriptions felt 80% right. 80 + 80 doesn't equal 100 — it equals AuDHD.",
+      "shape": "micro-insight",
+      "rationale": "The '80% right' framing is a metaphor for lived experience, not a statistic — clearly read as such. Tight, high-recognition, identity-affirming without making any diagnostic claim or speaking for all.",
+      "source_url": "https://sachscenter.com/what-is-audhd-understanding-the-overlap-between-autism-and-adhd-in-2026/",
+      "sensitivity_flag": "The '80%' figures are illustrative metaphors, not data. On a platform where context collapses, someone could read them as statistics. Low risk, but worth being aware of in replies.",
+      "id": "2026-08-07T14-09-17-09",
+      "status": "draft",
+      "char_count": 114,
+      "over_limit": false
+    },
+    {
+      "text": "'But you managed fine last week.' Capacity fluctuates — with cumulative load, sensory history, sleep, transitions. That variability isn't inconsistency. It's your nervous system doing math that isn't visible from the outside.",
+      "shape": "validation",
+      "rationale": "Opens with the most exhausting thing to hear, then reframes it with precision. 'Doing math that isn't visible' is specific enough to feel true without making a clinical claim. High recognition across autistic and ADHD communities.",
+      "source_url": "https://www.littlepuddins.ie/autism-pda/window-of-tolerance-fluctuating-capacity-autism-pda",
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-10",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "Tuesday's capacity isn't Friday's capacity — especially if something hard happened Wednesday. Planning around capacity rather than tasks isn't pessimism. It's more accurate.",
+      "shape": "practical",
+      "rationale": "Gives a concrete, actionable reframe for variable performance without a medical frame — just a plainspoken observation with self-compassion built in. Short, specific, paste-ready.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-07T14-09-17-11",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling works not because someone's watching you. The presence of another person shifts something — enough to start. That's not a productivity hack. It's co-regulation.",
+      "shape": "micro-insight",
+      "rationale": "Names the mechanism without requiring the audience to already know the term 'co-regulation.' Validates an experience that's endlessly relatable and endlessly misunderstood outside these communities.",
+      "source_url": "https://neurodivergentinsights.com/executive-function-helpers/",
+      "sensitivity_flag": "Co-regulation is adjacent to polyvagal framing, which the briefing flags as high noise/low signal clinically. The word 'shifts something' deliberately avoids over-mechanizing the claim; 'co-regulation' alone is widely accepted outside polyvagal contexts and is defensible as written.",
+      "id": "2026-08-07T14-09-17-12",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    }
+  ]
+}
