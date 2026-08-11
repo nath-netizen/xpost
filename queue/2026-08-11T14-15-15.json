@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-11T14:15:15.680Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout can take skills you've had for years — speech, cooking, driving, replying to a text. That's not regression. That's depletion. Skills on loan, not skills gone.",
+      "shape": "validation",
+      "rationale": "Names the specific, rarely-validated experience of skill loss during burnout. 'Skills on loan' reframes it as temporary depletion rather than permanent deterioration — the kind of precision that generates deep recognition.",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-skill-regression",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-01",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "If you've lost abilities during autistic burnout and quietly wondered if you're broken — you're not. The skills didn't leave. The system ran out of power to run them.",
+      "shape": "reframe",
+      "rationale": "Shifts the internal narrative from 'I am deteriorating' to 'I am depleted'. A second angle on the same phenomenon that lands differently — more personal, more direct address.",
+      "source_url": "https://medium.com/@higgoraraujo/7-disturbing-signs-your-autistic-burnout-caused-skill-regression-bdc89335eb87",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-02",
+      "status": "draft",
+      "char_count": 166,
+      "over_limit": false
+    },
+    {
+      "text": "It's not the task. It's the demand shape wrapped around it. A PDAer can desperately want that concert — the fixed time slot is still unbearable. 'Just do what you enjoy' misses this entirely.",
+      "shape": "micro-insight",
+      "rationale": "Delivers the demand-sensitivity insight via a single vivid example. Quotable and portable. Gives non-PDA readers a genuinely new mental model without requiring prior vocabulary.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-03",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "If your nervous system is running an autonomy-protection programme, is 'pathological' even the right word? The PDA community is actively rethinking the name — and the argument isn't just semantic.",
+      "shape": "question",
+      "rationale": "Opens a live, unresolved community debate without taking a side. Language debates draw genuine engagement in neurodivergent spaces because naming shapes self-understanding and clinical treatment.",
+      "source_url": "https://aane.org/autism-info-faqs/library/do-i-have-a-pervasive-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-04",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work wasn't a perk for autistic workers. It was an accommodation that existed briefly by accident. Now it's being taken away — and UK employment tribunals are documenting the harm.",
+      "shape": "reframe",
+      "rationale": "'Accommodation by accident' is precise and non-hyperbolic. Grounds the systemic critique in documented legal evidence rather than anecdote. Wide reach beyond already-diagnosed readers.",
+      "source_url": "https://www.hrmagazine.co.uk/content/comment/return-to-office-policies-must-work-for-neurodivergent-staff",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-05",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "45% of neurodivergent employees are exhausted at work always or often. 30% of neurotypical peers say the same. That gap isn't attitude. It's what masking all day costs.",
+      "shape": "micro-insight",
+      "rationale": "Hard data makes the masking cost concrete and shareable. The closing line reframes the number as mechanistic, not moral — removing the 'trying hard enough' accusation.",
+      "source_url": "https://www.hrmagazine.co.uk/content/comment/return-to-office-policies-must-work-for-neurodivergent-staff",
+      "sensitivity_flag": "Verify the CIPD figures (45% / 30%) directly in the HR Magazine source before publishing — cited via briefing summary, not primary CIPD document.",
+      "id": "2026-08-11T14-15-15-06",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism or ADHD diagnosis doesn't give you an answer. It gives you a hundred new questions about your own history. The relief is real. So is the grief. Both make sense.",
+      "shape": "validation",
+      "rationale": "Names the relief-and-grief duality that public discourse almost never articulates clearly. Self-contained, deeply recognisable to late-diagnosed adults, and invites rather than closes conversation.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-07",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Getting diagnosed at 35 isn't like learning new information. It forces a reread of every job you lost, every relationship that frayed. Researchers call it developmental reorganisation. That tracks.",
+      "shape": "reframe",
+      "rationale": "Validates the destabilising nature of late diagnosis without calling the diagnosis itself bad. 'That tracks' grounds the scientific framing without overstating it.",
+      "source_url": "https://thecognitiveecologist.substack.com/p/late-discovered-autism-and-the-developmental",
+      "sensitivity_flag": "Source is practitioner Substack, not a peer-reviewed journal. 'Developmental reorganisation' is their framing. Consider softening to 'some researchers describe it as' if posting to an audience likely to scrutinise citations.",
+      "id": "2026-08-11T14-15-15-08",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Rest is necessary for autistic burnout recovery — not sufficient. If you're still masking at home, the load doesn't actually drop. Recovery needs reduced masking, not just reduced activity.",
+      "shape": "practical",
+      "rationale": "Gives people who've tried resting and found it didn't work a specific, named explanation. Removes self-blame and points toward something actionable without prescribing a protocol.",
+      "source_url": "https://embrace-autism.com/what-is-autistic-burnout/",
+      "sensitivity_flag": "This is practitioner consensus, not RCT-level evidence. The post is appropriately hedged ('necessary but not sufficient') but avoid language that implies this is a complete or guaranteed recovery framework.",
+      "id": "2026-08-11T14-15-15-09",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "'Put your shoes on' can register as a threat in a PDA nervous system. That's not defiance. That's a body running a survival programme. Naughty is the wrong frame entirely.",
+      "shape": "reframe",
+      "rationale": "Shifts a parent's entire reading of PDA behaviour in two sentences. The survival-programme frame is the community's preferred explanatory layer and maps cleanly to what the research supports.",
+      "source_url": "https://pdanorthamerica.org/what-is-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-10",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "The sick-day paradox: the day you're officially allowed to do nothing is often the day you can finally do something. That's not laziness. That's what happens when demand pressure drops.",
+      "shape": "micro-insight",
+      "rationale": "Shareable, punchy, and directly rebuts 'you can do it when you want to'. Maps to demand-sensitivity without requiring readers to already know the terminology.",
+      "source_url": "https://morganaclementine.substack.com/p/why-i-get-more-done-on-a-sick-day",
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-11",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "If you were diagnosed autistic or ADHD as an adult: was it more relief, more grief, or something the word 'diagnosis' doesn't quite capture? Asking because that complexity rarely gets named.",
+      "shape": "question",
+      "rationale": "Invites genuine conversation rather than passive engagement. 'Something the word doesn't quite capture' signals that complicated, ambivalent, or contradictory answers are equally welcome.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-11T14-15-15-12",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    }
+  ]
+}
