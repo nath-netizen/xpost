@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-13T14:18:39.023Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Rest addresses depletion. It doesn't reduce the demands that caused it. You can't rest your way out of burnout while the structural load stays the same.",
+      "shape": "reframe",
+      "rationale": "Plainspoken reframe that names the core distinction — rest vs. demand reduction — without clinical language. Validates the burnout survivor's experience that 'just rest more' keeps failing them.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-01",
+      "status": "draft",
+      "char_count": 152,
+      "over_limit": false
+    },
+    {
+      "text": "If rest alone could fix autistic burnout, a good holiday would do it. What's actually changed when burnout finally lifts — and what had to give?",
+      "shape": "question",
+      "rationale": "Opens a genuine community conversation about what demand reduction looks like in practice. The holiday framing is concrete and instantly recognisable to burnout survivors without making any claims.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/is-rest-enough-to-recover-from-autistic-burnout",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-02",
+      "status": "draft",
+      "char_count": 144,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance in adults isn't laziness or attitude. It's a nervous system firing a genuine threat signal. Can't, not won't. That difference matters.",
+      "shape": "reframe",
+      "rationale": "Delivers the 'can't not won't' reframe in its most direct form. Uses community-validated framing from the May 2026 PDA discourse without overstating mechanism as medical fact.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-03",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of late-diagnosed people expect relief and get grief instead. Grief for every year you didn't have a name for it. That's not ingratitude. It's what happens when a system fails you early.",
+      "shape": "validation",
+      "rationale": "Names the post-diagnosis grief experience precisely and places the failure on the system, not the person. No advice, no silver lining — pure validation of an under-named experience.",
+      "source_url": "https://www.psychologytoday.com/us/blog/brain-curiosities/202604/neurodivergence-and-post-diagnosis-grief-among-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-04",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "The ADHD part craves novelty. The autistic part needs sameness. That's not a personality quirk — it's two nervous-system drives in direct opposition, every single day.",
+      "shape": "validation",
+      "rationale": "The most compressed version of the AuDHD internal-conflict framing. 'Every single day' lands the exhaustion without elaboration. Drawn directly from the NatGeo and Substack framing in the briefing.",
+      "source_url": "https://www.nationalgeographic.com/health/article/what-is-audhd-adhd-autism-overlap-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-05",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't just 'both at once.' It's ADHD pulling toward novelty while autism braces for change — a conflict that runs in the background every waking hour and drains energy outsiders can't see.",
+      "shape": "micro-insight",
+      "rationale": "Builds on the validation angle with a more specific mechanical description. 'Outsiders can't see' names the invisibility of the burden, a key source of non-recognition for AuDHD people.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/why-am-i-always-at-odds-with-myself",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-06",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Interoception works differently in many autistic people — hunger, pain, fatigue often don't signal clearly until they tip over. The burnout wasn't sudden. The warning system just didn't deliver on time.",
+      "shape": "micro-insight",
+      "rationale": "Introduces the interoception mechanism concretely without jargon overload. 'Didn't deliver on time' frames it as a data failure, not a personal failure, without requiring the reader to understand neuroscience.",
+      "source_url": "https://www.kelly-mahler.com/resources/blog/autistic-burnout-what-it-is-why-it-happens-and-how-interoception-can-help/",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-07",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "The story is 'you should have noticed sooner.' But if your interoceptive signals aren't arriving clearly, you weren't ignoring your body. Your body wasn't giving you reliable data.",
+      "shape": "reframe",
+      "rationale": "Reframes the 'should have known better' self-blame as a data-delivery failure, not a character failure. Works standalone and pairs naturally with the post above without being a thread.",
+      "source_url": "https://www.dralicenicholls.com/interception-in-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-08",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting means reducing unnecessary demands, not all of them. Predictability, routines, collaborative choice — those aren't optional extras. They're what actually keeps the nervous system calmer.",
+      "shape": "practical",
+      "rationale": "Gives PDA parents the precise distinction they need without being prescriptive or preachy. Addresses the live debate around misapplication of low-demand approaches by naming what the approach actually requires.",
+      "source_url": "https://www.amandadiekman.com/blog/Permissive-Parenting",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-09",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "81% of neurodivergent employees mask at work — and burnout risk is three times higher for those who do. Masking isn't a soft concern. It's an occupational hazard that just hasn't been named as one yet.",
+      "shape": "micro-insight",
+      "rationale": "Pairs the concrete stat with structural framing ('occupational hazard') to shift masking from a personal-resilience conversation to a systems one. The final sentence is the sharpest part.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": "The 81% and 3x burnout figures appear in secondary 2026 coverage; verify the primary research source before posting to ensure the specific numbers are accurate.",
+      "id": "2026-08-13T14-18-39-10",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "If 81% of neurodivergent employees are masking at work, what would it actually take to make one fewer mask necessary?",
+      "shape": "question",
+      "rationale": "Tight question that redirects the masking conversation from individual coping to structural accountability. Short format increases shareability and invites genuine responses without baiting outrage.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": "The 81% figure is drawn from secondary coverage; verify the primary research source before posting.",
+      "id": "2026-08-13T14-18-39-11",
+      "status": "draft",
+      "char_count": 117,
+      "over_limit": false
+    },
+    {
+      "text": "For many PDAers, the 'just do it for yourself, nobody's watching' advice still doesn't work. The freeze hits your own to-do list just as hard. A demand is a demand even when you wrote it.",
+      "shape": "validation",
+      "rationale": "Names a highly specific and isolating PDA experience that almost no mainstream content addresses. 'A demand is a demand even when you wrote it' is the quotable line. No fix offered — just the naming.",
+      "source_url": "https://www.scienceworkshealth.com/post/demand-avoidance-in-adults-when-everyday-tasks-feel-like-threats",
+      "sensitivity_flag": null,
+      "id": "2026-08-13T14-18-39-12",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    }
+  ]
+}
