@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-15T13:26:54.991Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a motivation problem. It's a capacity problem. The difference matters: rest alone won't fix capacity collapse. Neither will trying harder.",
+      "shape": "reframe",
+      "rationale": "Delivers the core reframe from Angle 1 in three declarative beats — names the misread, corrects the mechanism, closes the loop. No sentiment, no throat-clearing. Cuts the shame at the root.",
+      "source_url": "https://neurodivergentrebel.substack.com/p/autistic-burnout-the-mystery-illness",
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-01",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "Doctors called it depression. Friends called it laziness. It was neither. Autistic burnout is what happens when your nervous system runs out of capacity — not will.",
+      "shape": "validation",
+      "rationale": "Opens with the misdiagnosis experience late-identified autistic adults will recognize instantly, then names the corrective frame without moralizing. Scene-setting plus pivot — different shape from post 1 despite shared Angle 1 source.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-isn-t-laziness-how-autistic-burnout-therapy-can-help-you-recover-without-more-pres",
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-02",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "For AuDHD brains with a PDA profile, 'just do it' doesn't build momentum. It registers as a threat. The anxiety goes up, not down. That's not weakness — it's mechanism.",
+      "shape": "reframe",
+      "rationale": "Delivers the backfire logic from Angle 2 in a causality chain short enough to screenshot. 'PDA profile' used deliberately rather than 'PDA diagnosis' to stay accurate to how the term circulates in community and clinical writing.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "PDA is not formally recognized in DSM-5. 'PDA profile' framing is used deliberately. Mechanism claim is drawn from community and clinical writing, not a controlled RCT — flag if clinical sourcing is requested.",
+      "id": "2026-08-15T13-26-54-03",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found sensory over-reactivity — not anxiety, not intolerance of uncertainty — was the only factor that uniquely distinguished PDA profiles in autistic kids. That changes where you look first.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the counterintuitive finding from the peer-reviewed Research in Autism study (n=795, ages 4–17). Posts the genuine surprise, then implies practical utility in one sentence rather than spelling it out. Claim is specific and defensible.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S3050656526000301",
+      "sensitivity_flag": "Study population is children ages 4–17; post specifies 'autistic kids,' which is accurate to the research scope. Do not extrapolate to adults without additional sourcing.",
+      "id": "2026-08-15T13-26-54-04",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "What looks like defiance in a PDA child is a nervous system protecting something it treats as survival: autonomy. The adult's job shifts from 'gain control' to 'create safety.'",
+      "shape": "reframe",
+      "rationale": "Gives parents the gut-level frame shift from Angle 4 in two sentences. Names the mechanism, then immediately repoints the adult's role — practical redirect embedded in the reframe. Validates the child without dismissing the adult's struggle.",
+      "source_url": "https://aane.org/autism-info-faqs/library/when-autonomy-feels-like-survival-a-view-of-pda-for-families/",
+      "sensitivity_flag": "PDA recognition varies by country and clinical framework. 'PDA child' is community shorthand; no diagnostic claim is made. Sensitivity is low but worth noting for international audiences.",
+      "id": "2026-08-15T13-26-54-05",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "If getting your diagnosis brought up grief before relief, you're not doing it wrong. The rage, the mourning — they're for a younger you who deserved a map and didn't get one.",
+      "shape": "validation",
+      "rationale": "Addresses the under-discussed grief arc from Angle 5 without pivoting to inspiration framing. Opens with the feeling, names what's underneath, closes in a way that honors the emotion rather than rushing past it. No cure framing, no pity.",
+      "source_url": "https://neurodivergentrebel.substack.com/p/the-rage-that-saved-me-and-the-pain",
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-06",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "82% of employed neurodivergent adults say stigma forces them to mask at work. That's a second, invisible job — no job description, no pay, no end time.",
+      "shape": "validation",
+      "rationale": "Grounds the masking-as-labor insight from Angle 6 in a defensible statistic, then makes the mechanism vivid with the 'second job' metaphor. Concise; the image does the emotional work without requiring explanation.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "82% figure is from a Frontiers in Psychology 2026 study as cited in Forbes — not a nationally representative probability sample. Stat is defensible but should not be presented as population prevalence if challenged.",
+      "id": "2026-08-15T13-26-54-07",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "45% of neurodivergent employees report exhaustion at work always or often. If your company issued an RTO mandate this year, what accommodations did they offer — and did any of them actually help?",
+      "shape": "question",
+      "rationale": "Grounds the RTO discussion-opener from Angle 7 in a concrete stat before asking the question, so the ask feels earned rather than abstract. Genuine experience-gathering framing, not outrage bait. Stat-first structure differentiates from the accommodation question post.",
+      "source_url": "https://www.hrmagazine.co.uk/content/comment/return-to-office-policies-must-work-for-neurodivergent-staff",
+      "sensitivity_flag": "45% exhaustion stat is cited via HR Magazine; verify the underlying study source if challenged. Comparative 30% neurotypical figure omitted for space — present if asked to substantiate.",
+      "id": "2026-08-15T13-26-54-08",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "Rest doesn't fix AuDHD burnout alone. But it also doesn't need to be earned first. Start with rest. Then reduce demands. You don't have to justify either.",
+      "shape": "practical",
+      "rationale": "Holds both stuck points from Angle 8 in one tight post — 'rest alone isn't enough' and 'rest doesn't need to be earned.' Two-part structure, plain language, no moralizing. Useful without being prescriptive or implying a recovery protocol.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-09",
+      "status": "draft",
+      "char_count": 154,
+      "over_limit": false
+    },
+    {
+      "text": "What accommodation would actually change your workday — not in theory, but right now? Written instructions instead of verbal, async check-ins, somewhere quiet to reset? Genuinely curious what's working.",
+      "shape": "question",
+      "rationale": "Surfaces the real-world accommodation gap from Angle 9 as community intelligence-gathering. Two concrete examples lower the threshold for responding without prescribing answers. Direct question; no stat required as a lead-in here.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-10",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "Many autistic people have reduced interoceptive awareness — the body's early signals for fatigue and overwhelm don't register clearly. Burnout arrives as a cliff, not a slope. That's neurology, not neglect.",
+      "shape": "micro-insight",
+      "rationale": "Names the interoception mechanism from Angle 10 in a way that reframes a common self-blame story. 'Cliff not a slope' is a vivid, accurate image. 'Many' is the correct hedge — interoception differences vary across individuals. Closes with reframe, not prescription.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/25739581251414545",
+      "sensitivity_flag": null,
+      "id": "2026-08-15T13-26-54-11",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD avoidance = dopamine deficit. PDA avoidance = autonomy threat. Same surface, different engine. They need different responses — which means 'try harder' is the wrong tool for both.",
+      "shape": "reframe",
+      "rationale": "Distils the mechanism distinction from Angle 2 into its sharpest form. Equation format is punchy and scannable. Closes with a practical implication without prescribing a specific intervention. Differentiated from post 3 by framing both mechanisms side-by-side rather than focusing on backfire alone.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "'ADHD avoidance = dopamine deficit' is a mechanistic simplification accurate for a 280-char post but reductive of the fuller executive-function picture. Flag if readers with clinical training push back. PDA not DSM-recognized; used here as accepted community shorthand.",
+      "id": "2026-08-15T13-26-54-12",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    }
+  ]
+}
