@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-17T13:35:41.234Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "AuDHD isn't autism plus ADHD added together. Red and blue don't sit side by side in tie-dye — they create new patterns. The internal tug-of-war isn't contradiction. It's a third thing entirely.",
+      "shape": "reframe",
+      "rationale": "Uses the tie-dye metaphor from the TPGA piece to make a sharp neurological reframe feel immediately tangible. Targets the 'they cancel each other out' dismissal without needing to name it directly. Self-contained, no setup required.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-01",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "'Your autism and ADHD cancel each other out.' One of the most common — and least useful — things an AuDHD person hears. Neuroimaging shows co-occurring brains have distinct connectivity patterns, not a blended average.",
+      "shape": "micro-insight",
+      "rationale": "Opens with a recognizable dismissal, then lands a research-backed counter. A second Angle 1 post that leads with lived experience before the science — different entry point, different shareable moment.",
+      "source_url": "https://sachscenter.com/what-is-audhd-understanding-the-overlap-between-autism-and-adhd-in-2026/",
+      "sensitivity_flag": "References a single 2025 neuroimaging study per the briefing. 'Shows' rather than 'proves' keeps the claim appropriately hedged, but this should not be read as settled scientific consensus. Acceptable level of precision for the format.",
+      "id": "2026-08-17T13-35-41-02",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "Rest alone doesn't recover autistic burnout. The masking demands, sensory overload, and unpredictability that caused it are still there when you go back online. What helps: rest plus genuinely reducing the load itself.",
+      "shape": "practical",
+      "rationale": "Validates the failure of 'just rest more' advice with a structural explanation, then offers a direction without being prescriptive. Ends with a concrete signal rather than a vague call to action.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-03",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "The grief after a late autism diagnosis isn't grief about being autistic. It's grief for the younger self who was told they were failing — and every year of accommodations that never came.",
+      "shape": "validation",
+      "rationale": "States the key distinction cleanly and collapses the 'but why are you sad — you got answers!' dismissal without needing to name it. Short, precise, emotionally accurate.",
+      "source_url": "https://www.heyasd.com/blogs/autism/grieving-your-late-autism-diagnosis",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-04",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "The diagnosis is relief. The backward look is loss. Both are true at once. 'But why are you sad — you got answers!' misses the point entirely.",
+      "shape": "validation",
+      "rationale": "A punchier, more quotable take on the same late-diagnosis grief angle. Leads with the paradox and ends by naming the dismissal. Pairs with Post 4 without duplicating it — different register, different shareable hook.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-05",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' is the outside observer's frustration named as fact. 'Persistent Drive for Autonomy' is the same nervous system, named from the inside. Same acronym. Completely different story.",
+      "shape": "reframe",
+      "rationale": "The 'whose perspective counts' angle is the sharpest entry into the PDA naming debate. Avoids taking a prescriptive side while making the stakes of naming viscerally clear in one tight move.",
+      "source_url": "https://peelautismresourceblog.wordpress.com/2026/07/22/link-roundup-pda-pathological-demand-avoidance-or-persistent-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-06",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "For demand-avoidant brains, urgency and pressure don't motivate — they activate the threat system. Willpower can't override a threat response. That's not a character flaw. It's how the load works.",
+      "shape": "reframe",
+      "rationale": "Reframes 'laziness' and 'defiance' as a neurological process without making a clinical claim. 'That's not a character flaw' does real work in one short clause. Ends on a frame that opens conversation rather than closing it.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-07",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "In most jurisdictions you don't need to disclose your diagnosis to request workplace accommodations. 'I work better with written instructions' is often enough. The law asks what you need, not why.",
+      "shape": "practical",
+      "rationale": "Immediately actionable for late-diagnosed adults who haven't disclosed. The 'law asks what, not why' closer is memorable and reframes disclosure as a choice, not a prerequisite. Hedged with 'most' and 'often' throughout.",
+      "source_url": "https://sachscenter.com/accommodations-for-adhd-autism-in-the-workplace/",
+      "sensitivity_flag": "Could be read as legal advice. 'Most jurisdictions' and 'often' hedge appropriately; the claim is defensible for ADA/UK Equality Act/EU contexts per briefing sources. Individual situations vary — the post does not claim otherwise, but readers should verify for their own context.",
+      "id": "2026-08-17T13-35-41-08",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting often genuinely helps. And it's not the whole answer. Can we hold both — and offer some real support to parents who are doing everything 'right' and are still struggling?",
+      "shape": "question",
+      "rationale": "Opens a both/and conversation without abandoning the neuroaffirmative frame. Validates exhausted parents without positioning low-demand approaches as wrong. Invites genuine replies rather than manufactured outrage.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-09",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "Your nervous system doesn't respond to your reassurances that everything is fine. It responds to the actual load. Recovery isn't thinking more positively. It's genuinely reducing load.",
+      "shape": "micro-insight",
+      "rationale": "Decouples burnout recovery from willpower and positivity in one tight, quotable move. 'The actual load' is concrete where most mental health discourse stays abstract. High lift-and-share potential.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/autistic-burnout-and-the-neurodivergent",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-10",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "Many people expect unmasking to feel like finally being themselves. It often feels like discovering the costume is your personality — worn so long there's no obvious 'underneath.' That disorientation is a stage, not a failure.",
+      "shape": "validation",
+      "rationale": "Names a painful paradox that mainstream unmasking content consistently skips. 'Stage, not a failure' reframes without minimizing the difficulty. Gently counters the 'just unmask!' advice that circulates as though the process is simple.",
+      "source_url": "https://www.heyasd.com/blogs/autism/masking-across-the-lifespan",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-11",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "Why do so many demand-avoidant and AuDHD people report getting more done on sick days — when external expectations vanish? Is it the pressure lifting? Permission? Something else? Genuinely curious.",
+      "shape": "question",
+      "rationale": "A shareable 'wait, me too?' recognition moment that invites real conversation. Honest about not having a tidy answer, which is exactly right for a genuine open question. Low stakes, high reply potential.",
+      "source_url": "https://morganaclementine.substack.com/p/why-i-get-more-done-on-a-sick-day",
+      "sensitivity_flag": null,
+      "id": "2026-08-17T13-35-41-12",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    }
+  ]
+}
