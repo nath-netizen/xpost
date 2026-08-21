@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-21T13:43:00.195Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Depression doesn't take away skills you've had for decades. Autistic burnout can — including speech. Treating one like the other doesn't just miss. Some of those interventions actively make burnout worse.",
+      "shape": "reframe",
+      "rationale": "Opens with the single most concrete clinical tell — skill regression — that separates burnout from depression. Ends on stakes (wrong intervention = harm), not just taxonomy. 'Speech' does the heaviest recognition work.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-01",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "Depression doesn't usually take away skills you've held for decades. If that happened to you — the words going quiet, the cooking disappearing — burnout may be a more honest frame than you've been given.",
+      "shape": "micro-insight",
+      "rationale": "Personalises the clinical distinction with embodied, everyday examples. 'May be a more honest frame' is correctly hedged — recognition, not diagnosis. Designed to generate 'this is me' responses. Distinct angle from Post 1.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-clinical",
+      "sensitivity_flag": "'Burnout may be a more honest frame' is hedged but could still read as implicit diagnostic guidance to vulnerable readers. Keep 'may be' intact; do not sharpen to 'this is' in any edits.",
+      "id": "2026-08-21T13-43-00-02",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "'Everything's a battle' is the description. Here's the mechanism: demand → perceived autonomy threat → nervous system fires. Not defiance. Not choice. Survival. That changes what helping looks like.",
+      "shape": "reframe",
+      "rationale": "Old frame → mechanism → implication arc. Arrow notation compresses the causal chain without jargon. Ends on the practical pivot without prescribing what helping should be, leaving space for different readers.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-03",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "'Oversensitive' assumes there's a fixed correct baseline. There isn't. An autistic nervous system flagging eye contact or transitions is doing exactly what it was calibrated to do. Different spec. Not broken.",
+      "shape": "reframe",
+      "rationale": "Polyvagal-informed reframe in plain language. 'Different spec. Not broken.' is deliberately terse and quotable. Two concrete examples ground the abstraction without making it clinical.",
+      "source_url": "https://www.traumatherapistinstitute.com/trauma-therapist-institute-blog/exploring-polyvagal-theory-and-autism-cultivating-safety-and-connection",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-04",
+      "status": "draft",
+      "char_count": 208,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking is the right call. It's also an incomplete one. You're not wrong to want to. You're not wrong to be afraid of what it costs. Anyone giving you only one half of that is missing something real.",
+      "shape": "validation",
+      "rationale": "Holds the paradox without resolving it cheaply — the both/and structure is the point. The final line gently challenges oversimplified advice without naming or dunking on anyone.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-forgotten-women/202512/living-authentically-and-unmasking-autism-can-come-at-a-cost",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-05",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "When did 'just be yourself' stop feeling like permission and start feeling like a calculation? Safe context, who's watching, what it costs. Curious what shifted that for you.",
+      "shape": "question",
+      "rationale": "Opens on the experiential shift from unmasking-as-freedom to unmasking-as-risk-assessment. Invites personal stories without framing any position as right. Compact and conversational — distinct angle from the validation post on the same briefing item.",
+      "source_url": "http://www.markpalmerwriter.co.uk/index.php/2026/04/24/autism-explained-the-cost-of-unmasking/",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-06",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Co-regulation requires a regulated nervous system to draw from. If yours is already running on empty, you're not withholding from your PDA child — you're depleted. That's a structural collision, not a parenting failure.",
+      "shape": "validation",
+      "rationale": "Names the mechanism so AuDHD parents can stop self-blaming. 'Structural collision' reframes the problem as design incompatibility, not character. Niche but high resonance for that specific audience.",
+      "source_url": "https://elevenreader.io/audiobooks/when-you-re-audhd-and-your-child-has-pda-audiobook/publishdrive:6610001167707",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-07",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    },
+    {
+      "text": "82% of neurodivergent employees mask at work to avoid stigma. 42% are offered no accommodations unless they ask. The entire risk sits with the individual. Have you decided not to disclose? What would have had to change?",
+      "shape": "question",
+      "rationale": "Data frame sets structural stakes before the personal question lands. Avoids preachiness by inviting experience-sharing rather than making an argument. High comment-generation potential — disclosure stories are frequent and specific.",
+      "source_url": "https://mma.prnewswire.com/media/2688007/Understood_2025_Neurodiversity_at_Work_Survey_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-08",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    },
+    {
+      "text": "Voice note it immediately. Sticky on the door. A visible list, not a mental one. If you need to externalise everything — that's the right tool for working memory that runs differently, not a character flaw.",
+      "shape": "practical",
+      "rationale": "Leads with concrete actions then delivers the shame-dissolving reframe, so readers who skim get utility and readers who finish get insight. 'Runs differently' avoids deficit language without euphemism.",
+      "source_url": "https://arxiv.org/pdf/2603.22609",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-09",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "Regulation support isn't about calming you down. It's about expanding what your nervous system considers safe enough to function in. 'Just relax' fails because that's not the actual mechanism.",
+      "shape": "micro-insight",
+      "rationale": "Reframes what regulation actually does in one compact sentence, then names why the common lay response fails — without moralising. Standalone insight that needs no call to action.",
+      "source_url": "https://pubs.asha.org/doi/10.1044/2025_PERSP-24-00322",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-10",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "For a lot of late-diagnosed people, it didn't start with curiosity. It started with collapse. Mask holds for years, then fails. Crisis first, answers second. The collapse wasn't failure — it was honesty at full volume.",
+      "shape": "validation",
+      "rationale": "Names the specific sequence most late-diagnosed people lived but rarely see articulated. 'Honesty at full volume' reframes the worst period of their life as signal, not failure. Avoids inspiration-porn framing by staying plain.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-08-21T13-43-00-11",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout isn't dramatic. The research on masking and mental health takes it seriously. Your experience isn't an overreaction. If you're in crisis right now: 988 (US) / Samaritans 116 123 (UK).",
+      "shape": "validation",
+      "rationale": "Validates without statistics or clinical framing. Crisis resources integrated naturally rather than appended. Stays firmly in 'your experience is real' territory and makes no treatment claims.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S3050656525000124",
+      "sensitivity_flag": "Angle 9 carries elevated sensitivity — the briefing explicitly flags it for extra editorial review before publishing. This draft avoids specific statistics, includes crisis resources, and makes no clinical claims. Recommend a human editorial pass before scheduling.",
+      "id": "2026-08-21T13-43-00-12",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    }
+  ]
+}
