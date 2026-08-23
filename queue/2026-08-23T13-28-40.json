@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-23T13:28:40.248Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Masking didn't fool other people. It fooled the system. The support you didn't get wasn't because you didn't need it — it's because the system was built to see traits you'd learned to hide.",
+      "shape": "reframe",
+      "rationale": "Converts personal shame into structural critique in three sentences. No jargon, no hedging — the double-bind lands hardest when stated plainly.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/09687599.2026.2659101",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-01",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "There's a term for it now: 'visibility logic.' Support systems respond to visible autistic traits. If masking made you invisible to those systems, that's a structural flaw — not a personal one.",
+      "shape": "micro-insight",
+      "rationale": "Names the 2026 academic concept in plain language, giving community members vocabulary for something they've felt but couldn't articulate. Distinct from draft 1 in that it leads with the term.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/09687599.2026.2659101",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-02",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "The problem was never that autistic people lack empathy. It's that neurotypical emotional expression was quietly made into the definition of empathy itself.",
+      "shape": "micro-insight",
+      "rationale": "Moves the DEP conversation from individual defence to systemic critique in two sentences. Tight and quotable; the word 'quietly' does heavy lifting without overstating.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/09515089.2026.2651512",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-03",
+      "status": "draft",
+      "char_count": 156,
+      "over_limit": false
+    },
+    {
+      "text": "You're not failing at burnout recovery. You're rebuilding a self that was constructed around a role you didn't know you were playing. That takes longer than rest.",
+      "shape": "reframe",
+      "rationale": "Directly addresses the 'just rest' advice and the shame of slow recovery. Plainspoken and short — the rhythm of three sentences mirrors the deliberateness the post is advocating for.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-recovery-signs-timelines-and-how-to-rebuild-capacity",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-04",
+      "status": "draft",
+      "char_count": 162,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed burnout recovery is slow not because something's wrong with you. It's because recovery isn't just rest — it's figuring out who you are when you're not masking. That's a different project entirely.",
+      "shape": "validation",
+      "rationale": "Companion to the reframe draft but opens on explicit exoneration. Different rhythm and entry point; reaches people who need the validation stated first before the reframe.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-05",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis grief isn't one wave. There's grief for younger you. For relationships. For the self-story you built to survive. And it resurfaces at milestones years later. That's not being stuck. The losses were real.",
+      "shape": "validation",
+      "rationale": "Names the layered, non-linear structure most content skips over. The list rhythm does the work of 'here are the layers' without becoming a listicle. Final line is exoneration, not pep talk.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12526855/",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-06",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "If the strategies that help your child are the exact ones that wreck you, that's not a parenting failure. That's two nervous systems with incompatible needs in the same house — and it needs its own playbook.",
+      "shape": "validation",
+      "rationale": "Names the AuDHD parent/PDA child double-depletion bind without blame. Closes by legitimising the gap in existing resources rather than pretending a solution exists, which builds more trust.",
+      "source_url": "https://www.amazon.com/When-Youre-AuDHD-Your-Child/dp/1764563743",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-07",
+      "status": "draft",
+      "char_count": 207,
+      "over_limit": false
+    },
+    {
+      "text": "Do you prefer 'Pathological Demand Avoidance' or 'Persistent Drive for Autonomy'? Not just semantics — what the name implies shapes how people respond to you.",
+      "shape": "question",
+      "rationale": "Opens a live, consequential community debate without manufacturing conflict. Short and direct; the naming question is genuinely unsettled and the stakes are real.",
+      "source_url": "https://pdanorthamerica.org/what-is-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-08",
+      "status": "draft",
+      "char_count": 158,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't defiance. For many PDAers, the demand itself registers as danger. That distinction changes everything about what actually helps.",
+      "shape": "reframe",
+      "rationale": "'For many PDAers' hedges correctly — no claim about all PDA experiences. Short and punchy; answers both the exhausted parent question and the PDA adult's internal one in the same frame.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-09",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling isn't a productivity hack. It's outsourcing the part of executive function that neurotypical brains handle internally. A 2024 study found 85% of neurodivergent participants completed more tasks with it. Free options exist.",
+      "shape": "practical",
+      "rationale": "Grounds a community-discovered practice in a reframe and a concrete data point, then closes with the most actionable word possible. Earns its length by being genuinely useful.",
+      "source_url": "https://adhdfocustimer.com/blog/body-doubling-groups-virtual-adhd",
+      "sensitivity_flag": "The 85%/2024 study figure is reported only via secondary sources in the briefing; the primary study is not directly linked. Verify the citation and sample context before publishing — the figure is plausible but the methodology is unconfirmed here.",
+      "id": "2026-08-23T13-28-40-10",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "You don't have to disclose a diagnosis to ask for a workplace accommodation. Describe the barrier: 'I lose track of verbal-only instructions.' In many jurisdictions, that's enough to require a response.",
+      "shape": "practical",
+      "rationale": "Directly addresses fear-of-disclosure as a barrier. 'In many jurisdictions' is honest about limits without undercutting the central empowering claim. Specific example grounds it immediately.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": "Legal accuracy varies significantly by country and employer size. 'In many jurisdictions, enough to require a response' is hedged but should be reviewed by someone with employment law knowledge before publishing — particularly for UK/US/AU audiences where the rules differ.",
+      "id": "2026-08-23T13-28-40-11",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "If you were diagnosed autistic as an adult, which hit harder — the diagnosis itself, or slowly realising what it explains about the years before? I think the answer says a lot about which layer of grief you're in.",
+      "shape": "question",
+      "rationale": "Opens the late-diagnosis grief conversation as a genuine invitation rather than a statement. Seeds the 'layered grief' concept without requiring a full explanation, inviting comment-thread depth.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-grief-no-one-warns-you-about",
+      "sensitivity_flag": null,
+      "id": "2026-08-23T13-28-40-12",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    }
+  ]
+}
