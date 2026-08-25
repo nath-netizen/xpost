@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-25T13:45:56.832Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Going nonverbal, losing the ability to cook, stopping driving — that's not regression. That's your nervous system pulling resources from non-essential functions to protect the core. Adaptive, not pathological.",
+      "shape": "reframe",
+      "rationale": "Directly names the terrifying experience of losing capacities and immediately reframes the shame spiral. The biological mechanism ('pulling resources to protect the core') is more accurate and more compassionate than 'regression.'",
+      "source_url": "https://www.heyasd.com/blogs/autism/autistic-skill-regression",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-01",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "Rest is necessary but not sufficient. If the conditions that caused autistic burnout haven't changed — the masking, the sensory load, the demands — you'll rest and still not recover. The problem isn't rest deficit. It's demand overload.",
+      "shape": "micro-insight",
+      "rationale": "Validates the deeply painful experience of resting without improving and names the actual mechanism. Reframes self-blame ('I'm not recovering right') as a systems problem, not a personal failure.",
+      "source_url": "https://www.simplypsychology.com/articles/autistic-burnout-guide",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-02",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 systematic review describes late autism diagnosis as 'biographical illumination' — not a narrative shattered by a new label, but one that finally makes sense. The past doesn't change. The lens does.",
+      "shape": "reframe",
+      "rationale": "Leads with a research-backed phrase that reframes late diagnosis from disruption to clarity. Sharper and kinder than the dominant grief narrative, directly sourced from peer-reviewed work, and self-contained.",
+      "source_url": "https://journals.sagepub.com/doi/abs/10.1177/25739581261427260",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-03",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "PDA avoidance isn't defiance. It's a nervous system that learned to treat demands as genuine threats. You can't consequence your way out of a threat response. You have to lower the perceived danger.",
+      "shape": "reframe",
+      "rationale": "Three-move reframe: defiance → threat response → practical implication. No jargon, high recognition value for PDAers and their caregivers alike. The intervention implication is environmental, not clinical.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-04",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'no rules.' It's treating your child as a collaborative agent rather than a compliance object. It requires more intentionality from the parent, not less.",
+      "shape": "reframe",
+      "rationale": "Directly inverts the most common pushback PDA parents face. Concise enough to copy-paste to a skeptical relative or school. The closing flip ('more, not less') lands the point cleanly.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-05",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't just two conditions stacked on each other. Needing structure but being neurologically unable to maintain it. Craving stimulation while being overwhelmed by it. That's a coherent profile, not personal inconsistency.",
+      "shape": "validation",
+      "rationale": "Names the internal contradictions of AuDHD as a coherent, research-supported profile. Validates the 'neither community quite fits' experience without framing it as disorder or deficit.",
+      "source_url": "https://www.rtor.org/2026/08/13/autism-adhd-audhd-different-profiles/",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-06",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "The moments that demand the most co-regulation from you are the exact moments your system is already at capacity. For neurodivergent parents, that's not a skill gap. It's a nervous system timing problem.",
+      "shape": "validation",
+      "rationale": "Names the structural double-bind for neurodivergent parents with precision. Reframes the experience as a systems problem rather than personal failure — opens a completely different conversation about what support actually looks like.",
+      "source_url": "https://sendinmama.substack.com/p/holding-it-all-self-regulation-in",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-07",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "68% of neurodivergent employees don't know what workplace accommodations exist — per Understood.org's 2025 Neurodiversity at Work survey. 51% don't know who to ask. The gap isn't mostly refusal. It's structural invisibility.",
+      "shape": "micro-insight",
+      "rationale": "Uses the survey stat to reframe the accommodation gap as systemic rather than individual — shifts the question from 'why don't people ask?' to 'why doesn't the system make asking possible?'",
+      "source_url": "https://embrace-autism.com/workplace-accommodations-for-autism-and-audhd/",
+      "sensitivity_flag": "Stat attributed to Understood.org's 2025 Neurodiversity at Work survey per the briefing; the linked source URL (Embrace Autism) does not directly host the survey data. Verify the statistic is accurately sourced before posting.",
+      "id": "2026-08-25T13-45-56-08",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "Three accommodations worth knowing you can ask for: written instructions instead of verbal, noise-reducing headphones, flexible task-switching time. Most cost nothing. Most managers don't offer them unprompted.",
+      "shape": "practical",
+      "rationale": "Practical follow-on to the accommodation-gap stat. Names three low-cost, concrete, askable accommodations without being prescriptive or implying any one person needs all of them.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-09",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "When did you first realise you were masking — and what gave it away? For a lot of people it's something surprisingly small.",
+      "shape": "question",
+      "rationale": "Evergreen discussion-opener with no rhetorical pressure. Generates genuinely diverse responses (a burnout, a diagnosis, a meme, a conversation) and builds community intimacy around a near-universal but rarely named experience.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-10",
+      "status": "draft",
+      "char_count": 123,
+      "over_limit": false
+    },
+    {
+      "text": "'Regression' implies failure. Losing skills during burnout is your nervous system making triage decisions. It's protecting what matters most. That framing deserves to replace the one we've been given.",
+      "shape": "reframe",
+      "rationale": "Leaner, more metaphorical take on the skill-regression reframe than Post 1. 'Triage decisions' is visceral and precise; the closing line invites readers into the reframe rather than just presenting it.",
+      "source_url": "https://thereframediaries.substack.com/p/when-the-mind-says-i-cant-stay-part-cae",
+      "sensitivity_flag": null,
+      "id": "2026-08-25T13-45-56-11",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout recovery isn't about more rest. It's about less masking, fewer demands, lower sensory load. Rest helps — but if what exhausted you is still there, rest is just treading water.",
+      "shape": "practical",
+      "rationale": "Practical distillation of the burnout load-reduction mechanism with a memorable closing metaphor. Structurally distinct from the micro-insight post on the same angle — leans toward the actionable rather than the explanatory.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": "Naming specific recovery steps (less masking, fewer demands, lower sensory load) is borderline prescriptive. These are structural and environmental changes, not medical treatments, and are well-grounded in both community experience and research — defensible, but worth a team read before posting.",
+      "id": "2026-08-25T13-45-56-12",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    }
+  ]
+}
