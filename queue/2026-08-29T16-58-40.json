@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-29T16:58:40.291Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "'Just rest' doesn't work for many autistic people in burnout. The nervous system doesn't restore through diffuse downtime — it restores through depth. Focused, interest-led engagement. Monotropic flow is the mechanism.",
+      "shape": "reframe",
+      "rationale": "Directly challenges the ubiquitous 'just rest' advice, supplies the monotropic-flow explanation as both validation and insight, and is instantly recognisable to anyone who tried passive rest and felt worse. Short declarative sentences mirror the clarity the post is offering.",
+      "source_url": "https://autisticrealms.com/going-deeper-rest-burnout-and-monotropic-flow/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-01",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism + ADHD stacked on top of each other. The two blend into something neither diagnosis fully describes. One wants predictability. One craves novelty. What you get is a third thing.",
+      "shape": "micro-insight",
+      "rationale": "The tie-dye framing reframes AuDHD as a distinct profile rather than a broken combination. The parallel one-sentence structure mirrors the internal tension the post is describing — an intentional formal choice. Sourced to May 2026 piece still in active circulation.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-02",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological' locates the problem in you. 'Persistent Drive for Autonomy' locates it in how the nervous system responds to threat. Same acronym. Completely different story.",
+      "shape": "reframe",
+      "rationale": "Distils the live PDA naming debate into a single sharp contrast. Quotable, self-contained, tied to the July 2026 advocacy roundup. No clinical claims — framed throughout as a language and framing shift, which is accurate to the source.",
+      "source_url": "https://peelautismresourceblog.wordpress.com/2026/07/22/link-roundup-pda-pathological-demand-avoidance-or-persistent-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-03",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work wasn't just convenient for a lot of autistic and ADHD people — it was quietly the best accommodation they'd ever had. RTO mandates are removing that with nothing offered in its place.",
+      "shape": "validation",
+      "rationale": "Reframes RTO as a structural equity issue rather than a preference debate. Names a concrete loss without hyperbole or policy prescription. Likely to land with affected workers and the managers or HR teams who follow neurodivergent discourse.",
+      "source_url": "https://adasoutheast.org/the-workers-who-feel-left-behind-by-return-to-office-policies/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-04",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "If your company has announced RTO and you have a neurodivergent condition, you likely have ADA accommodation rights — before you step back into that office. Request before you comply, not after.",
+      "shape": "practical",
+      "rationale": "Converts the RTO equity angle into one actionable step. 'Request before you comply — not after' changes real behaviour. Hedged with 'likely' to avoid overstatement. US-jurisdiction note below.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": "ADA is US law — this post is US-specific. For broader audiences, softening to 'workplace accommodation rights' is safer. Not legal advice, but reads adjacent; the 'likely' hedge is load-bearing and must stay.",
+      "id": "2026-08-29T16-58-40-05",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't permissive. The axis is compliance-focused vs. connection-focused — not strict vs. lenient. Safety before engagement isn't giving in. It's what makes regulation possible at all.",
+      "shape": "reframe",
+      "rationale": "Directly names the mischaracterisation PDA parents face constantly. 'Compliance-focused vs. connection-focused' gives parents precise language to use when their approach is challenged. High vindication potential without speaking for all families.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-06",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis brings relief, yes. It also brings grief — for the masked years, the support that never came, the version of yourself you built to survive. Both can be true. They don't cancel each other out.",
+      "shape": "validation",
+      "rationale": "Names the grief that goes largely unsupported after late diagnosis, without erasing the relief. 'The version of yourself you built to survive' is specific enough to feel seen without claiming to speak for all late-diagnosed people. Evergreen and under-covered.",
+      "source_url": "https://www.heyasd.com/blogs/autism/grieving-your-late-autism-diagnosis",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-07",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "Masking isn't a coping skill. It's a tax. Chronic cognitive labour the nervous system pays — with interest. And eventually, for a lot of autistic people, the account empties.",
+      "shape": "reframe",
+      "rationale": "Rejects the 'superpower' framing of masking without being heavy-handed or using inspiration-porn language. The tax metaphor is precise and memorable. Short closing sentence lands the point with economy. Avoids speaking for all autistic people ('a lot of').",
+      "source_url": "https://stimpunks.org/burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-08",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    },
+    {
+      "text": "Most PDA research focuses on children. Adults with PDA often spent years masking it in ways that don't match childhood profiles at all. The clinical literature barely describes you. Your experience is still real.",
+      "shape": "validation",
+      "rationale": "Directly addresses adult PDA self-identifiers who find clinical framing doesn't fit their experience. 'The literature barely describes you. Your experience is still real.' is the validation this audience needs and rarely hears from any clinical-adjacent source.",
+      "source_url": "https://www.sagebrushcounseling.com/blog/pda-demand-avoidance-adults-relationships",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-09",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "What does PDA look like for you as an adult? Most clinical literature still focuses on children. The community is years ahead of the research — curious what others have found that actually fits.",
+      "shape": "question",
+      "rationale": "Opens genuine discussion without manufacturing a take. Acknowledges the research gap honestly, positions community knowledge as legitimate, and invites replies without manufactured cliffhangers or baiting. Distinct from the validation post in that it faces outward.",
+      "source_url": "https://blog.jkp.com/2026/01/the-hidden-side-of-pda-struggles-often-missed-or-misunderstood/",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-10",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Gen Z is disclosing neurodivergence at work at rates older neurodivergent workers never had permission for. If you masked through your whole career while younger colleagues expect to be accommodated from day one — what does that feel like?",
+      "shape": "question",
+      "rationale": "Opens an intergenerational conversation without framing either cohort as right or wrong. Neither experience is minimised. High discussion potential; avoids being a hot take. The factual claim ('rates older workers never had permission for') is defensible and does not rely on the specific stat from the briefing.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-08-29T16-58-40-11",
+      "status": "draft",
+      "char_count": 239,
+      "over_limit": false
+    },
+    {
+      "text": "One way to understand PDA: the nervous system builds protective parts that learn to resist demands before they can become threats. Not opposition. Anticipatory protection. That reframe changes a lot.",
+      "shape": "micro-insight",
+      "rationale": "Draws on the IFS/C-PTSD overlap angle in an accessible, destigmatising way without making clinical claims. 'One way to understand' keeps it framed as a lens, not a diagnosis. 'Anticipatory protection' is the key term to surface. Formally varied — three fragments in sequence mirror the layered nature of the insight.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": "Invokes IFS 'parts' framing and the C-PTSD/PDA overlap. Psychoeducational, not clinical, but verify the Psychology Today source supports 'anticipatory protection' framing before posting. The 'one way to understand' hedge is essential and must not be edited out.",
+      "id": "2026-08-29T16-58-40-12",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    }
+  ]
+}
