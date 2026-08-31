@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-08-31T19:23:46.227Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Work burnout takes your productivity. Autistic burnout can take your ability to shower, eat, or speak. They share a name. They are not the same thing, and that gap is why the usual advice keeps failing.",
+      "shape": "reframe",
+      "rationale": "Names the core disconnect between mainstream burnout discourse and autistic burnout. The 2026 SAGE study directly supports the qualitative difference claim. Should produce strong recognition among people who've watched wellness content and felt invisible. 'Keeps failing' is active and personal, not clinical.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-01",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "You didn't fall apart at university, or parenthood, or that promotion, because you got weaker. The scaffolding that was quietly holding your masking together changed. Nobody warned you it would.",
+      "shape": "reframe",
+      "rationale": "Turns a shame narrative into a structural explanation without dismissing the experience. 'Scaffolding changed' vs. 'you failed' is the entire reframe. This pattern is named constantly in private community spaces and almost never in public content without a deficit framing.",
+      "source_url": "https://formepsychologyau.com.au/insights/burnout-and-masking-in-late-diagnosed-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-02",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis isn't just 'finally having an answer.' It's also sitting with the question of who you might have been if you'd had that answer sooner. Both are part of it.",
+      "shape": "reframe",
+      "rationale": "Holds grief and relief simultaneously without collapsing one into the other. Names the counterfactual grief specifically — 'who might I have been' — which is distinct from the broader validation post. Evergreen community truth; no factual claim requiring a source.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-03",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "'Rest when you're tired' assumes your body is reliably sending that signal. Autistic burnout can turn interoception off — hunger, thirst, exhaustion all going quiet at once.",
+      "shape": "validation",
+      "rationale": "Validates why standard recovery advice fails at the worst moments by naming the mechanism in plain language. Leads with the failed advice so the reader feels seen before the explanation arrives. 'Can turn' keeps it appropriately hedged. Directly supported by Dr Nicholls' interoception work.",
+      "source_url": "https://www.dralicenicholls.com/interception-in-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-04",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "There isn't a stage where the relief cancels out the grief. A late autism diagnosis can give you both, at the same time, indefinitely.",
+      "shape": "validation",
+      "rationale": "Pure validation for an experience that rarely gets held without being prematurely resolved. The 'both/and' framing is the point. 'Can give' keeps it hedged rather than speaking for all late-diagnosed people. Evergreen — no specific study claim needed.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-05",
+      "status": "draft",
+      "char_count": 134,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting was designed for your child's nervous system. Nobody mentioned it might be the opposite of what yours needs.",
+      "shape": "validation",
+      "rationale": "Names the AuDHD parent/PDA child double bind in a single tight exchange — the tension between what the child needs and what depletes the parent. The 2026 book grounds the topic in current discourse. Should land as a lifeline for a community that almost never sees this named publicly.",
+      "source_url": "https://www.amazon.com/When-Youre-AuDHD-Your-Child/dp/1764563743",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-06",
+      "status": "draft",
+      "char_count": 129,
+      "over_limit": false
+    },
+    {
+      "text": "The word 'pathological' in 'pathological demand avoidance' locates the problem inside the person. That's not a neutral naming choice. Language shapes identity — especially for children.",
+      "shape": "reframe",
+      "rationale": "Reframes the PDA naming debate around where harm is located, rather than which term is clinically accurate. Doesn't advocate for the rename but names why the word matters. Tight and defensible.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": "Implicitly leans toward the renaming position in an active, unresolved community debate. The post stops short of advocating explicitly, but may read as taking a side. Monitor for pushback from those who retain the clinical term for diagnostic specificity.",
+      "id": "2026-08-31T19-23-46-07",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "During autistic burnout, interoception often goes offline. The signals for hunger, thirst, and exhaustion stop arriving reliably. 'Just listen to your body' is advice for a working system.",
+      "shape": "micro-insight",
+      "rationale": "Names the mechanism (interoception going offline) as the insight, rather than leading with the failed advice. Different rhetorical move from Post 4, which opens with the advice gap. 'Often' and 'reliably' both hedge appropriately. The closing line earns its sharpness.",
+      "source_url": "https://www.dralicenicholls.com/interception-in-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-08",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "No planner, timer, or habit stack works on a nervous system in survival mode. Regulation isn't a bonus step. It's step one.",
+      "shape": "micro-insight",
+      "rationale": "The sharpest formulation of the regulation-before-executive-function insight. The specific list ('planner, timer, habit stack') names the exact tools ADHD people are sold. Near-universal experience — failed systems during overwhelm — finally explained in one sequence. Highly quotable.",
+      "source_url": "https://www.additudemag.com/nervous-system-regulation-techniques-adhd/",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-09",
+      "status": "draft",
+      "char_count": 123,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological demand avoidance' or 'persistent drive for autonomy' — does the name change how you see yourself, or your child? Does the softer framing feel truer, or like it's hiding something real?",
+      "shape": "question",
+      "rationale": "Opens the naming debate without resolving it. The second question explicitly holds space for those who resist the rename — 'hiding something real' — making this genuinely balanced rather than a leading question. Should produce substantive replies from parents, PDAers, and clinicians.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-10",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Neurodivergence is now the third most common reason Gen Z workers request workplace accommodations. The gap between legal protections and lived reality is still wide. What's your experience been?",
+      "shape": "question",
+      "rationale": "Anchors the post in the precise 2026 HR data claim (third most common, not 'record numbers' which would overstate), then opens to lived experience without prescribing what that experience should be. The statistic earns the question rather than baiting for engagement.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-11",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "Workplace disclosure can unlock real accommodations and legal protections. It can also change how you're perceived and managed, informally, forever. Both are true. The calculation is yours to make.",
+      "shape": "practical",
+      "rationale": "Names the actual trade-off — gains vs. informal risk — without prescribing a choice or catastrophising. Neither a scare post nor empty 'know your rights' content. 'The calculation is yours to make' closes by respecting autonomy rather than advising. Distinct from Post 11 in that it states the stakes rather than asking for experience.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-08-31T19-23-46-12",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    }
+  ]
+}
