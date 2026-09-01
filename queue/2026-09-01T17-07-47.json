@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-01T17:07:47.753Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "For PDAers, the drive for autonomy isn't stubbornness. It's a survival signal. Demands register as genuine threat at the nervous system level. That's not defiance. That's wiring.",
+      "shape": "reframe",
+      "rationale": "Names the neurological reality plainly for a community that constantly hears 'defiant.' Shifts the frame from behaviour to nervous system without clinical jargon. Short punchy sentences match the voice guide's rhythm.",
+      "source_url": "https://aane.org/autism-info-faqs/library/when-autonomy-feels-like-survival-a-view-of-pda-for-families/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-01",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "PDA: Pathological Demand Avoidance, or Pervasive Drive for Autonomy? Same letters. Very different story about who you are. Which framing actually fits your experience?",
+      "shape": "question",
+      "rationale": "The naming debate is live and genuinely discussable right now. Invites first-person replies without manufacturing outrage. Self-contained — the question carries all the context needed.",
+      "source_url": "https://reframingautism.org.au/reframing-pda-the-power-of-an-autistic-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-02",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't giving up. It's deliberate. Reducing demands to protect the relationship — so connection can stay intact when compliance-first approaches would have destroyed it.",
+      "shape": "reframe",
+      "rationale": "Directly rebuts the 'permissive' accusation PDA parents face from schools, extended family, and partners. Names the intent as strategic, not surrender. Gives parents a phrase they can actually use when challenged.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-03",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout often hits right when life changes for the better — new job, a move, a promotion. The structure that held the mask together just shifted. That's not a coincidence.",
+      "shape": "micro-insight",
+      "rationale": "Names a specific pattern most people have lived but never had language for. 'Often' hedges appropriately. Concrete examples (new job, move, promotion) make the abstract mechanism immediately recognisable.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-04",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "'Why did I fall apart when things were finally going well?' Because the external structure that was compensating for you just changed. Burnout follows transitions. It's not random.",
+      "shape": "micro-insight",
+      "rationale": "Opens with the confused internal question the community actually asks themselves. Answers it plainly without jargon. Distinct from the previous burnout post — this one starts from the disorienting lived experience, not the external pattern.",
+      "source_url": "https://formepsychologyau.com.au/insights/burnout-and-masking-in-late-diagnosed-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-05",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling works because a calm nervous system nearby can help entrain a dysregulated one. You're not borrowing motivation. You're borrowing state. That's a real mechanism.",
+      "shape": "micro-insight",
+      "rationale": "Reframes body doubling from 'cute ADHD trick' to neurologically grounded practice. 'Can help entrain' is appropriately hedged. The 'motivation vs. state' contrast is quotable and makes it shareable by anyone who does this and has been embarrassed to admit it.",
+      "source_url": "https://midtownpsychotherapy.org/blog/the-science-behind-body-doubling-why-it-helps-adhd-brains-regulate-and-focus",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-06",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "Body doubling works over video for the same reason it works in person — your nervous system doesn't need someone physically present to co-regulate. Worth knowing if you work remotely.",
+      "shape": "practical",
+      "rationale": "Extends the co-regulation mechanism into an immediately actionable point for remote workers and housebound community members. Validates a practice people might skip because it 'feels weird' to call in via video just to work.",
+      "source_url": "https://www.simplypsychology.com/articles/body-doubling-adhd",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-07",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "After an AuDHD diagnosis, getting noticeably worse isn't the same as failing. For some people, it's the brain releasing a performance it was sustaining for years. Recovery starts there.",
+      "shape": "validation",
+      "rationale": "Centres the lived experience first, not the clinical explanation. 'For some people' avoids overgeneralising. 'Recovery starts there' closes on agency, not pity. Kept as accessible metaphor rather than medical claim — highest-risk angle handled with care.",
+      "source_url": "https://sachscenter.com/the-rise-of-audhd-why-high-masking-women-are-finally-getting-the-right-diagnosis/",
+      "sensitivity_flag": "The 'brain releasing a performance' is a simplified metaphor for a complex process. Verify the framing with a clinician before publishing to ensure it won't lead someone to misattribute a genuine clinical deterioration as expected recovery.",
+      "id": "2026-09-01T17-07-47-08",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosis grief isn't 'I missed support.' It's grieving a self that never got to exist. Not lost — never found. That's a distinct loss. It deserves its own language.",
+      "shape": "validation",
+      "rationale": "Names a specific grief the late-diagnosed community rarely hears named accurately. The 'not lost — never found' contrast is precise and quotable. Avoids pity by centring the particularity of the loss rather than what anyone should have done differently.",
+      "source_url": "https://theautisticcoach.substack.com/p/you-are-not-behind-you-are-rebuilding",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-09",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "'They just want control' misses the point. For PDAers, autonomy is where felt safety lives. The goal isn't to win — it's to survive the sensation of having their agency taken.",
+      "shape": "reframe",
+      "rationale": "Opens with the common misread of PDA behaviour, then corrects it plainly from a nervous system frame. 'Felt safety' and 'survive the sensation' are precise without being clinical. Sufficiently distinct from Post 1 — this one addresses the manipulation accusation specifically.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-10",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "When RTO mandates land, who quietly loses an accommodation they built themselves — the quiet home, the flexible start, the sensory control they never had to ask HR for?",
+      "shape": "question",
+      "rationale": "Opens the RTO conversation through a question that invites personal answers rather than a declarative that triggers defensiveness. The concrete specifics (quiet home, flexible start, sensory control) generate real replies from people naming their own situation.",
+      "source_url": "https://enna.org/why-neurodivergent-employees-prefer-hybrid-work-and-why-strict-return-to-office-policies-are-driving-them-away/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-11",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "Requiring five days in-office isn't a neutral policy reset. For many neurodivergent employees, it removes accommodations they built themselves — ones that were never in any paperwork.",
+      "shape": "reframe",
+      "rationale": "Reframes RTO as de facto accommodation removal rather than routine management. 'For many' hedges against overgeneralising. Gives the community a clear, repeatable frame for conversations with employers and HR — practical without being prescriptive.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-09-01T17-07-47-12",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    }
+  ]
+}
