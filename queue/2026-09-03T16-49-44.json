@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-03T16:49:44.842Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "AuDHD isn't autism plus ADHD. Research suggests they interact — producing a third neurotype with its own texture. Needing novelty AND predictability at once isn't contradiction. It's just AuDHD.",
+      "shape": "reframe",
+      "rationale": "Names the Tie Dye Model without using the term — gives AuDHD people the reframe they've been missing without jargon. 'Research suggests' and 'third neurotype' are defensible against the TPGtoA source and 2025 neuroimaging work.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-01",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "For some PDA people, hunger feels like a demand. So does needing sleep. Your nervous system doesn't distinguish internal from external pressure — and that's not a character flaw.",
+      "shape": "validation",
+      "rationale": "Surfaces the underserved internal-demands angle. 'For some PDA people' hedges appropriately. The closing line reframes shame as physiology without making a clinical claim.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/pda-what-are-demands",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-02",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "If you got a late autism diagnosis and felt grief instead of just relief — a 2026 study named that. Grief for the past. Anger at being dismissed. Both documented parts of the process, not a sign something's wrong.",
+      "shape": "validation",
+      "rationale": "Translates the 2026 SAGE peer-reviewed finding into a recognition moment for late-diagnosed adults. Conditional framing ('if you') avoids universalizing. Stays descriptive, not prescriptive.",
+      "source_url": "https://doi.org/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-03",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "Burnout doesn't end with rest. It ends when the conditions that caused it change. Rest helps you survive until then.",
+      "shape": "micro-insight",
+      "rationale": "The editorial-note one-liner rendered as a standalone post. Corrects the 'just rest' advice loop without moralizing. Self-contained and punchy — highly shareable at 115 chars.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-04",
+      "status": "draft",
+      "char_count": 116,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' is an observer's label. From the inside, it's a profound need for self-determination. Which name actually fits what you live?",
+      "shape": "question",
+      "rationale": "Opens the naming debate without taking a side — lets the community answer. The question earns genuine replies without manufacturing outrage. Stays at reframe level, not political stance.",
+      "source_url": "https://peelautismresourceblog.wordpress.com/2026/07/22/link-roundup-pda-pathological-demand-avoidance-or-persistent-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-05",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    },
+    {
+      "text": "68% of neurodivergent employees didn't know what accommodations they could request. Of those who did ask, 56% said it meaningfully improved their work life. The gap is information, not entitlement.",
+      "shape": "practical",
+      "rationale": "Both statistics are from the 2025 Neurodiversity at Work survey cited in the briefing — defensible. The closing line reframes the psychological barrier around asking. High circulation potential.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-06",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting: reduce unnecessary demands, offer real choices, prioritize connection. The 2026 conversation: what if you applied that framework to your own nervous system too?",
+      "shape": "reframe",
+      "rationale": "Bridges a well-established parenting concept to adult self-management without overclaiming efficacy. Question structure invites reflection rather than prescribing behavior.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-07",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Did you choose to mask, or did you not know another option existed? There's a difference — and research suggests many autistic people were shaped into it before they had words for what was happening.",
+      "shape": "question",
+      "rationale": "Opens the masking-cost discussion reflectively rather than as a hot take. 'Research suggests' and 'many autistic people' keep it defensible and non-universalizing. Designed to generate genuine conversation, not outrage.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11317797/",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-08",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "Passive rest alone doesn't resolve autistic burnout — the root causes are still there. What actually helps alongside rest: low-pressure sensory nourishment, special-interest time. Small doses of alive.",
+      "shape": "practical",
+      "rationale": "Expands the burnout one-liner into an actionable frame with specifics from the Neurodivergent Insights and Embrace Autism sources. Closing phrase is evocative without being saccharine.",
+      "source_url": "https://embrace-autism.com/why-rest-alone-may-not-help-autistic-burnout/",
+      "sensitivity_flag": "'What actually helps' edges toward advice territory. Framed as research-and-community insight rather than prescription, but worth watching if this angle is repeated across posts.",
+      "id": "2026-09-03T16-49-44-09",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "The grief after a late diagnosis isn't confusion about whether the diagnosis is right. It's information — about how long you went without answers, and what that cost.",
+      "shape": "reframe",
+      "rationale": "Companion reframe to the validation post on late-diagnosis grief. Where that post names the phenomenon, this one reframes what the emotion means — a natural editorial pair for consecutive days.",
+      "source_url": "https://doi.org/10.1177/13623613251386983",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-10",
+      "status": "draft",
+      "char_count": 166,
+      "over_limit": false
+    },
+    {
+      "text": "Needing quiet and craving stimulation in the same afternoon isn't inconsistency. For AuDHD people, sensory seeking and sensory avoidance can run at the same time. The paradox is the profile.",
+      "shape": "micro-insight",
+      "rationale": "Makes the Tie Dye Model concrete without naming it — the lived experience, not the theory. 'Can run' hedges appropriately. Gives AuDHD readers an 'exactly this' moment without speaking for all.",
+      "source_url": "https://www.rtor.org/2026/08/13/autism-adhd-audhd-different-profiles/",
+      "sensitivity_flag": null,
+      "id": "2026-09-03T16-49-44-11",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Masking predicts higher anxiety, depression, and burnout — consistently. That's not a moral argument against it. It's data about what hiding yourself costs over time.",
+      "shape": "micro-insight",
+      "rationale": "Presents the PMC meta-synthesis finding plainly, then immediately deflects the moralizing read. Respects reader autonomy — the data is offered, not weaponized.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11317797/",
+      "sensitivity_flag": "Names anxiety, depression, and burnout. Framed as research statistics, not clinical advice — low concern, but noted for completeness.",
+      "id": "2026-09-03T16-49-44-12",
+      "status": "draft",
+      "char_count": 166,
+      "over_limit": false
+    }
+  ]
+}
