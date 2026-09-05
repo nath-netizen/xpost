@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-05T15:46:56.163Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Late autism diagnosis has a name for what happens after: biographical illumination. Your whole past reorganises. Relief and grief arrive together. Neither cancels the other. What part of yours rewrote itself first?",
+      "shape": "validation",
+      "rationale": "Names the PubMed 2026-sourced concept precisely, which does the emotional legitimising work automatically — especially for the grief, which people suppress because they feel they should just be grateful. The closing question earns engagement honestly.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41933478/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-01",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "The grief after a late autism diagnosis doesn't mean you're ungrateful. It means you're mourning years lived without context. Both are true. You're allowed to hold them at the same time.",
+      "shape": "validation",
+      "rationale": "Targets the guilt that shadows post-diagnosis grief — a specific emotional trap rarely named directly. Distinct from the first post by focusing on the grief/gratitude tension rather than the biographical-reorganisation concept.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-02",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "91% of neurodivergent workers mask at work. That's not social awkwardness management — it's a second job. No pay, no breaks, no sick days. Running on top of the actual job.",
+      "shape": "reframe",
+      "rationale": "Opens with the sourced stat, then delivers the sharpest labour-frame reframe of masking in the briefing. Each clause earns its place. Immediately quotable without exaggerating the claim.",
+      "source_url": "https://techrseries.com/guest-posts/91-of-neurodivergent-people-mask-their-symptoms-at-work-study-shows/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-03",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "Masking draws from the same cognitive pool as executive function. Every hour spent managing how you appear is an hour your brain can't spend on the actual work. That's not a personal failing — that's just math.",
+      "shape": "micro-insight",
+      "rationale": "Deepens the masking angle with a mechanism, not a stat — explains why masking is exhausting rather than asserting that it is. The 'that's just math' close removes self-blame cleanly without being dismissive.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-04",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "Spending years feeling half-right in ADHD spaces and half-right in autistic spaces — too impulsive for one, too rigid for the other — that dissonance has a name. AuDHD isn't additive. It's its own profile.",
+      "shape": "validation",
+      "rationale": "Directly names the 'half-right' identity experience without reducing it to a clinical list. The research-backed final claim that the profile is genuinely distinct gives the validation something solid to stand on.",
+      "source_url": "https://www.rtor.org/2026/08/13/autism-adhd-audhd-different-profiles/",
+      "sensitivity_flag": "'Too impulsive / too rigid' uses deficit-adjacent descriptors — framed here as subjective felt experience, not clinical judgment. Monitor responses; could soften to 'too scattered / too structured' in a follow-up if the framing gets pushback.",
+      "id": "2026-09-05T15-46-56-05",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "Not all demand avoidance is PDA. Demand avoidance can come from anxiety, executive dysfunction, or trauma. PDA is a specific profile. The distinction matters — different experiences call for different support.",
+      "shape": "micro-insight",
+      "rationale": "Stays purely clarifying — no sides taken, no dismissal of PDA, no suggestion demand avoidance is trivial. Short, declarative, and practically useful for self-understanding and for parents trying to understand their kids.",
+      "source_url": "https://neurodivergentinsights.com/pda-or-demand-avoidance/",
+      "sensitivity_flag": "PDA has contested standing in some professional and community circles. Post takes no position on diagnostic validity, only distinguishes concepts — but the topic may attract debate. Watch replies and don't wade in defensively.",
+      "id": "2026-09-05T15-46-56-06",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "Your nervous system isn't fragile. It has a narrower window of tolerance — that's wiring, not weakness. Dysregulation isn't a character flaw. It's neurology. And neurology responds to environment, not willpower.",
+      "shape": "reframe",
+      "rationale": "Counters the internalised 'why can't I just handle this?' shame loop directly. The final clause pivots from explanation to agency — environment can be shaped — without tipping into self-improvement or fix-yourself framing.",
+      "source_url": "https://aane.org/autism-info-faqs/library/restoring-the-autistic-nervous-system-a-gentle-path-to-regulation/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-07",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Regulation tools aren't self-improvement exercises. For an autistic nervous system, they're infrastructure. You're not trying to be better — you're making the environment carry a load it was always supposed to share.",
+      "shape": "reframe",
+      "rationale": "A second Angle 5 post with a distinct frame: shifts from 'your wiring isn't a flaw' to 'these tools aren't about fixing you.' Removes the self-improvement connotation that makes many autistic people resistant to regulation strategies.",
+      "source_url": "https://neurodivergentinsights.com/soothe-autistic-nervous-system/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-08",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't giving up. For PDA kids, conventional compliance-based approaches activate a genuine threat response. Reducing demands is how you bring the system back online. That's strategy, not surrender.",
+      "shape": "reframe",
+      "rationale": "Addresses the 'you're capitulating' criticism PDA parents face head-on, then flips it with a mechanism, not just a slogan. The sourced finding about threat response gives the reframe something concrete to stand on.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-09",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "One change that costs nothing: ditch overhead lighting when you can. Lamps at eye level or below. Your nervous system processes that light as input, not ambience. Let the room carry some of the load.",
+      "shape": "practical",
+      "rationale": "Concrete, low-demand, immediately actionable. Frames the tweak as nervous-system support, not productivity advice. The final line echoes the broader environmental-load theme without over-explaining it.",
+      "source_url": "https://www.psychologytoday.com/us/blog/deeper-empathy-lasting-change/202606/environmental-calm-for-the-autistic-nervous-system",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-10",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "The disclosure decision doesn't happen once. It reopens every new job, every new manager, every new team. That ongoing calculus is its own burnout driver. How do you carry it?",
+      "shape": "question",
+      "rationale": "Names a specific, under-articulated cognitive and emotional load without overstating it. The closing question is open enough to generate genuine responses across different disclosure strategies — not a poll, a conversation.",
+      "source_url": "https://www.stacyfinch.com/blog/what-determines-whether-neurodivergent-disclosure-helps-or-hurts/",
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-11",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "What's the one environmental change that made the biggest difference for your nervous system — at home or at work? Lighting, sound, layout, temperature. Genuinely curious what's worked.",
+      "shape": "question",
+      "rationale": "Opens a practical community exchange without manufacturing urgency or a cliffhanger. Pairs with the two practical posts to seed replies with real-world knowledge — which also directly informs future content angles.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-05T15-46-56-12",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    }
+  ]
+}
