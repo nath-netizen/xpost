@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-07T18:04:01.976Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Occupational burnout recovery means returning to previous performance. Autistic burnout recovery might mean never going back — because the way you were functioning before may be what caused it.",
+      "shape": "reframe",
+      "rationale": "Names the core tension of autistic burnout without catastrophizing — gives permission to build something new rather than restore what was. The contrast with occupational burnout frames it cleanly for any reader.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13187221/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-01",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Many autistic people mask their burnout the same way they mask their autism — keep showing up, keep performing. By the time the mask drops, the burnout is already severe. Shame is the mechanism that keeps it hidden.",
+      "shape": "micro-insight",
+      "rationale": "Pins down 'I didn't know I was burning out' with real precision — not lack of self-awareness but the same masking mechanism that caused the burnout now concealing it. Quotable and specific.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13187221/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-02",
+      "status": "draft",
+      "char_count": 215,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking isn't a switch. A 2026 study models it as a slow, non-linear process that needs safety, time, and seeing other unmasked autistic people. You can't will it faster than your nervous system allows.",
+      "shape": "reframe",
+      "rationale": "Directly counters the prescriptive 'just unmask' discourse with peer-reviewed framing. Reassures autistic adults who feel stuck mid-process that the difficulty is structural, not personal failure.",
+      "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1929738/full",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-03",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological' describes demand avoidance from outside — through the eyes of people being refused. 'Persistent Drive for Autonomy' describes it from inside. Same reality. Completely different verdict.",
+      "shape": "reframe",
+      "rationale": "Makes the PDA naming debate legible and personal without requiring any clinical background. The outside/inside contrast lands even for readers encountering this for the first time.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-04",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis grief and relief don't take turns. A 2026 study found they coexist and recur — you can feel both in the same afternoon, and one doesn't erase the other. That's not confusion. That's accurate.",
+      "shape": "validation",
+      "rationale": "Names the specific emotional texture people are living but rarely see articulated — simultaneous grief and relief as a recurring pattern, not a tidy sequence.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087149/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-05",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "Getting a late diagnosis gives you language for your past. It doesn't automatically give you a new story about yourself. The rebuilding part takes longer, and almost nobody warns you about that.",
+      "shape": "validation",
+      "rationale": "Separates the immediate relief of having language from the longer identity reconstruction work — the 'belief' leg of the grief-relief-belief cycle that gets the least airtime.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087149/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-06",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD can mean building the routine your autistic brain needs and watching your ADHD brain dismantle it within a week. Then the shame. It's not a discipline failure. It's two systems in genuine conflict.",
+      "shape": "validation",
+      "rationale": "Goes past 'both conditions at once' to name the specific double bind — structure as both necessity and casualty. The shame callout is what makes it real rather than clinical.",
+      "source_url": "https://www.rtor.org/2026/08/13/autism-adhd-audhd-different-profiles/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-07",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "Half-right in ADHD spaces. Half-right in autistic spaces. The AuDHD experience of not quite fitting either community's map is its own kind of lonely.",
+      "shape": "micro-insight",
+      "rationale": "Short, punchy, instantly recognizable. Speaks to an experience without making a factual claim, so no sourcing needed. The compression is the whole point — this is the shareable version.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-08",
+      "status": "draft",
+      "char_count": 149,
+      "over_limit": false
+    },
+    {
+      "text": "68% of neurodivergent employees don't know what workplace accommodations they can request. Among those who did ask, 56% said it helped. The barrier isn't reluctance. It's information.",
+      "shape": "practical",
+      "rationale": "Leads with the striking stat and ends on a solvable frame. Works standalone and opens the door to follow-up content on specific accommodations without requiring it.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": "Stats originate from Understood.org's 2025 Neurodiversity at Work survey, cited here via Simply Psychology 2026. Verify that the 68% and 56% figures trace cleanly to that primary source before posting.",
+      "id": "2026-09-07T18-04-01-09",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "For a PDA nervous system, offering a choice only works if the choice is real. The nervous system checks. It can tell the difference between genuine agency and a script that looks like choice. Fake options don't lower the threat response.",
+      "shape": "reframe",
+      "rationale": "Addresses the specific failure mode of 'giving choices' that still don't work — a question parents and partners raise constantly — with precision rather than prescription.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-7-forms-of-autonomy-that-create",
+      "sensitivity_flag": "'The nervous system checks' is community-facing metaphor, not a clinical mechanism claim. Acceptable as written; would need a caveat if language were pushed toward physiological specificity.",
+      "id": "2026-09-07T18-04-01-10",
+      "status": "draft",
+      "char_count": 237,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting and permissive parenting are opposites. Permissive means less support. Low-demand means reducing unnecessary pressure until the nervous system is calm enough to connect, learn, and cooperate.",
+      "shape": "reframe",
+      "rationale": "Gives parents the exact language to answer a critique they face constantly — from family, teachers, clinicians — and explains the underlying logic in two sentences.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-11",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "If you spent decades building an identity around the mask, who are you without it? That's not a rhetorical question. It's the actual work unmasking requires.",
+      "shape": "question",
+      "rationale": "Reframes unmasking as an identity question rather than a behavioral shift — invites genuine reflection without prescribing an answer or closing down the conversation.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-07T18-04-01-12",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    }
+  ]
+}
