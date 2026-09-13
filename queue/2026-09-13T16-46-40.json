@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-13T16:46:40.464Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't just exhaustion. Research is finally naming what the community already knew: it's an identity collapse. You don't just run out of energy — you lose track of who you are.",
+      "shape": "validation",
+      "rationale": "Opens with the community's existing knowledge, then adds the research layer without being clinical. 'Identity collapse' is the specific undernamed finding from the 2026 qualitative study — more precise and landing than 'burnout is real.'",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-01",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "New research on autistic burnout finds that what makes it devastating isn't tiredness — it's shame. The sense that you've failed at being a person, not just at keeping up.",
+      "shape": "micro-insight",
+      "rationale": "Leads directly with the research finding. 'Failed at being a person' names the specific texture of the shame layer the 2026 study identifies — visceral and recognizable without clinical language.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-02",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Nobody warned me that getting diagnosed would mean grieving. Not the autism — the years I spent calling myself lazy, broken, too much.",
+      "shape": "validation",
+      "rationale": "First-person 'I' voice makes this direct and human. Names the specific grief objects (lazy, broken, too much) that resonate for late-diagnosed adults. Short, sharp, no setup needed.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-03",
+      "status": "draft",
+      "char_count": 134,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis brings relief and grief at the same time. They're not opposites. You can be grateful for finally understanding yourself and be devastated for the kid who didn't know.",
+      "shape": "reframe",
+      "rationale": "Challenges the dominant 'relief' narrative by naming the coexistence — drawn from the Grief/Relief/Belief cycle study. 'The kid who didn't know' is specific and lands harder than 'your younger self.'",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41933478/",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-04",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "Using AI to write emails that sound neurotypical. Noise-cancelling to survive the office. Useful — until it makes you invisible to the people who could actually support you.",
+      "shape": "micro-insight",
+      "rationale": "Opens with concrete, recognizable behavior before landing the counterintuitive cost. The 'useful — until' pivot is the whole insight, delivered fast. Drawn directly from the 2026 Wiley study on neurodivergent workers and AT.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/ntwe.70025",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-05",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Assistive tech at work can help neurodivergent people pass. That's both the win and the trap. The people who could accommodate you can't support what they can't see.",
+      "shape": "reframe",
+      "rationale": "Reframes the tool as double-edged without being preachy. 'Pass' is a deliberately loaded word the community will recognize. Ends on the systemic tension, not a personal failing. Observational, not prescriptive about disclosure.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/ntwe.70025",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-06",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't a child choosing to refuse. It's a nervous system already on fire, responding to one more spark. The demand isn't the problem — the threat signal is.",
+      "shape": "reframe",
+      "rationale": "Clean three-sentence structure: old frame, new frame, implication. 'Already on fire' is visceral and specific. Centers the nervous system response rather than naming the child as broken.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-07",
+      "status": "draft",
+      "char_count": 159,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't letting your child run the house. It's deciding the relationship and their nervous system matter more right now than winning the sock argument.",
+      "shape": "practical",
+      "rationale": "'The sock argument' is specific and faintly funny — instantly recognizable to any parent who's been there. Draws the distinction cleanly without requiring the reader to know the research or the terminology.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-08",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "Nobody talks about what it costs to hold low-demand space for your PDA kid when your own nervous system is also screaming. You're not failing at the approach. You're doing it empty.",
+      "shape": "validation",
+      "rationale": "Speaks directly to the AuDHD parent experience with almost no content representation elsewhere. 'Doing it empty' is the right note — not a verdict on failure, but an acknowledgment of real, compounded depletion.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-09",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD executive dysfunction isn't a willpower problem. It's a fit problem. The question isn't 'why can't I just do this?' — it's 'what would the right conditions look like?'",
+      "shape": "reframe",
+      "rationale": "Moves past the worn 'not laziness' framing into the actionable next step: design over self-blame. The contrast between the two questions carries the whole insight and gives readers something to actually do with it.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-10",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "'Why can't I just do this?' is a moral question. 'What conditions would make this possible?' is a design question. For ADHD minds, one of those is worth asking.",
+      "shape": "practical",
+      "rationale": "Aphoristic companion to the prior ADHD reframe but structurally different — paired sentences, dryer tone. The final line respects the reader's intelligence by not spelling out the obvious conclusion.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-11",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "For those who've come back from autistic burnout — not just managing but actually rebuilt some capacity — what actually helped? Not the advice. What worked for you, specifically?",
+      "shape": "question",
+      "rationale": "'Not the advice' signals this is a genuine ask, not a setup for a listicle. 'Specifically' does the same work. Open-ended, non-prescriptive, and invites the kind of discussion that builds community rather than collecting passive likes.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-recovery-signs-timelines-and-how-to-rebuild-capacity",
+      "sensitivity_flag": null,
+      "id": "2026-09-13T16-46-40-12",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    }
+  ]
+}
