@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-15T17:27:17.300Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Rest is the floor, not the cure. Autistic burnout needs more than stopping — it needs demands to drop below current capacity and sensory safety to be rebuilt. Resting without that can deepen the inertia. Not a willpower problem. A different prescription.",
+      "shape": "reframe",
+      "rationale": "Opens with the two-part punch the briefing calls for: why rest alone fails, then the mechanism. 'A different prescription' closes cleanly without overpromising.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": "'A different prescription' is figurative but sits adjacent to clinical language — confirm it reads as metaphor, not treatment guidance, in context.",
+      "id": "2026-09-15T17-27-17-01",
+      "status": "draft",
+      "char_count": 254,
+      "over_limit": false
+    },
+    {
+      "text": "What actually helps in autistic burnout: reduce demands below your current (low) capacity, restore sensory safety, then slowly reintroduce meaningful activity. Rest is step one. It is not the whole plan.",
+      "shape": "practical",
+      "rationale": "The 'what instead' companion post. Concrete steps drawn from the source, no hedging inflation. Self-contained and immediately usable without the reframe post.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-02",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "The structure was holding you together. Then university, a promotion, parenthood rewired that structure and everything collapsed. That's not you falling apart. That's scaffolding giving way. The two things look identical from inside.",
+      "shape": "validation",
+      "rationale": "Names the masking-cliff mechanism in a way that replaces shame with a structural explanation. High recognition factor for late-diagnosed adults without generalizing to 'all autistic people'.",
+      "source_url": "https://www.scienceworkshealth.com/post/masking-burnout-understanding-autistic-camouflaging",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-03",
+      "status": "draft",
+      "char_count": 233,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis often makes sense in retrospect — not because something changed, but because the external structure that was secretly compensating finally gave way.",
+      "shape": "micro-insight",
+      "rationale": "Single-idea compression of the masking-cliff mechanism. The tightness is the point — no explanation needed, which itself is validating for anyone who's lived it.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-04",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "Pathological Demand Avoidance tells you what the behaviour looks like from outside. Persistent Drive for Autonomy tells you what's happening inside. The name you use shapes what kind of support you think to offer.",
+      "shape": "reframe",
+      "rationale": "Frames the naming debate as consequential, not cosmetic. Invites discussion without dismissing clinicians still using the older term — genuinely opens the conversation.",
+      "source_url": "https://www.spectrumlife.org/blog/pathological-demand-avoidance-pda-reframed",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-05",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "For AuDHD adults, urgency and accountability partners can trigger the exact avoidance they're trying to overcome. Perceived pressure can activate threat, not motivation. 'Just do it' isn't neutral advice. It's a lit match near dry wood.",
+      "shape": "reframe",
+      "rationale": "Challenges a specific productivity-culture trope with the mechanism, not just the outcome. 'Can activate' hedges appropriately; the final image earns its force without being hyperbolic.",
+      "source_url": "https://carmenauthenticallyadhd.substack.com/p/demand-avoidance-in-audhd-adults",
+      "sensitivity_flag": "Threat-activation claim is community-sourced and well-supported but not universal — 'can activate' softens adequately; verify source explicitly frames it this way before posting.",
+      "id": "2026-09-15T17-27-17-06",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "Nobody talks about what it costs the AuDHD parent whose nervous system is also wired for safety-seeking. The low-demand strategies that calm a PDA child deplete exactly what the parent needs most. Invisible twice.",
+      "shape": "validation",
+      "rationale": "Names an experience with almost no coverage. 'Invisible twice' lands the emotional truth without melodrama, and the post respects both the parent and the child equally.",
+      "source_url": "https://www.scienceworkshealth.com/post/pda-in-an-audhd-child",
+      "sensitivity_flag": "The parental-depletion framing is inferred from the angle; the cited source covers AuDHD + PDA in children, not the parent's cost specifically. Present as community experience, not a clinical finding.",
+      "id": "2026-09-15T17-27-17-07",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "If returning to office is eroding your ability to function, hybrid or fully remote can be a formal ADA accommodation for ADHD and autism — not a favour, not a special request. That conversation is available to you.",
+      "shape": "practical",
+      "rationale": "Answers both questions the briefing identifies: practical ('can I ask?') and emotional ('why does this feel like special pleading?'). 'Available to you' opens a door without guaranteeing outcomes.",
+      "source_url": "https://triadpsych.org/struggling-with-return-to-office-5-steps-how-to-navigate-ada-accommodations-for-adhd-and-autism/",
+      "sensitivity_flag": "ADA is US law — this post has US-only scope. International readers may not have equivalent rights. No edit needed, but the account should be clear about its primary audience.",
+      "id": "2026-09-15T17-27-17-08",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "Low demand on the child means high demand on the adult. It is not permission structure removal. It is constant, deliberate restraint of your own nervous system's defaults. Harder, not easier.",
+      "shape": "micro-insight",
+      "rationale": "The reversal — high demand on the adult — is the whole insight. Tight enough to be quotable; validates parents who are exhausted trying to explain this to sceptics.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-09",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting and permissive parenting are not synonyms — they're almost opposites. Permissive removes limits. Low-demand removes friction to preserve the connection that makes cooperation possible at all.",
+      "shape": "reframe",
+      "rationale": "Gives parents a clean, defensible distinction they can hand to schools, family, and professionals. Factual, immediately useful, and doesn't require the reader to already know PDA.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-10",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Your demand avoidance isn't the enemy. It's a part of you that learned, usually early, that demands equal loss of self. That's not a character flaw. That's a nervous system that got very good at protecting something real.",
+      "shape": "reframe",
+      "rationale": "Uses IFS framing accessibly without requiring the reader to know IFS. 'A part of you that learned' opens self-inquiry rather than closing it, and avoids the pathology-as-identity trap.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": "Single source backs this angle. IFS is a framework, not clinical consensus for PDA — the post language is appropriately non-clinical, but flag the solo-source dependency before running.",
+      "id": "2026-09-15T17-27-17-11",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    },
+    {
+      "text": "When did you first realize you were masking — or are you still figuring it out? Some of us only caught it in retrospect, after burnout. Both are valid.",
+      "shape": "question",
+      "rationale": "Simple, no right answer built in. The 'still figuring it out' clause does the most work — it validates the most invisible experience and invites people who don't have a tidy story yet.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-15T17-27-17-12",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    }
+  ]
+}
