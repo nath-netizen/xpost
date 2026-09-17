@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-17T17:24:21.664Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "You're not bad at resting. Masking doesn't pause when you take a break. Autistic burnout recovery needs reduced demands, not just downtime.",
+      "shape": "reframe",
+      "rationale": "Leads with the self-blame readers already carry, then redirects it to the structural mismatch — lands as relief, not lecture. Directly contradicts 'just take a break' advice without dismissing the advice-giver.",
+      "source_url": "https://embrace-autism.com/why-rest-alone-may-not-help-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-01",
+      "status": "draft",
+      "char_count": 139,
+      "over_limit": false
+    },
+    {
+      "text": "The problem with 'just rest' advice for autistic burnout: the thing draining you — masking — doesn't stop while you sleep.",
+      "shape": "micro-insight",
+      "rationale": "Tight single-sentence reframe that names the mechanism. Quotable and screenshot-able — exactly the kind of post someone sends to a partner who keeps suggesting 'a holiday would help'.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-02",
+      "status": "draft",
+      "char_count": 122,
+      "over_limit": false
+    },
+    {
+      "text": "'Won't' is a moral judgment. 'Can't' is information. For PDAers, demand avoidance is a threat response — the nervous system is braking, not the person.",
+      "shape": "reframe",
+      "rationale": "The two-sentence opener does the heavy lifting before the explanation lands. 'Braking, not the person' keeps the block with the nervous system, not character — shifts the frame without excusing or minimising.",
+      "source_url": "https://www.autismdigest.com/post/i-cant-is-information",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-03",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis doesn't just bring relief. There's grief too — for the decades spent building an identity around masking. Mourning who you had to be is real.",
+      "shape": "validation",
+      "rationale": "Names a specific, under-articulated grief without collapsing it into relief or anger. 'Mourning who you had to be' gives the feeling a precise container. No pity, no silver lining forced in.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-grief-no-one-warns-you-about",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-04",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD content felt close but not quite. Autistic content did too. If neither box ever fully fit, that's not you failing to fit — that's the boxes.",
+      "shape": "validation",
+      "rationale": "Speaks directly to the pre-AuDHD-identification experience without using the label as a punchline or a sales pitch. Affirms without performing positivity.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/what-is-audhd-autism-adhd-together",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-05",
+      "status": "draft",
+      "char_count": 145,
+      "over_limit": false
+    },
+    {
+      "text": "Which community finally felt like home — ADHD spaces, autistic spaces, or neither until AuDHD clicked? Curious what the turning point was.",
+      "shape": "question",
+      "rationale": "Invites lived-experience sharing without leading the witness. 'Curious what the turning point was' signals genuine interest, not engagement farming. Should surface a wide range of stories.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-06",
+      "status": "draft",
+      "char_count": 138,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work wasn't a perk for a lot of autistic and ADHD people. It was an accommodation. Calling it back without alternatives isn't a culture question — it's an access one.",
+      "shape": "reframe",
+      "rationale": "Timely given live RTO policy news. Shifts the frame from preference/laziness to disability access without being preachy. 'A lot of' avoids universalising. Likely the post with the most reach this week.",
+      "source_url": "https://www.heyasd.com/blogs/autism/return-to-office-autism-accommodation",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-07",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Does 'Persistent Drive for Autonomy' feel more accurate to you — or does removing 'pathological' erase how disabling it can actually be?",
+      "shape": "question",
+      "rationale": "Genuine open question with no clean answer — rare on social media. Holds both sides honestly without steering toward either. Should draw thoughtful replies from across the PDA community spectrum.",
+      "source_url": "https://www.umhan.com/articles/pathological-demand-avoidance-demand-avoidance-or-pervasive-drive-for-autonomy",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-08",
+      "status": "draft",
+      "char_count": 136,
+      "over_limit": false
+    },
+    {
+      "text": "68% of neurodivergent workers don't know what accommodations they can ask for. Not because they don't exist — because nobody told them. Know your options before the next hard conversation at work.",
+      "shape": "practical",
+      "rationale": "Concrete stat, concrete takeaway, no moralising. 'Nobody told them' rather than 'employers won't give them' makes the problem feel solvable rather than just bleak. Good anchor for a follow-up list post.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": "Stat drawn from a 2025 Neurodiversity at Work survey cited in the briefing — confirm exact survey name and public attributability before posting.",
+      "id": "2026-09-17T17-24-21-09",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout doesn't usually hit when life gets busy. It hits at transitions — new job, university, parenthood — when the scaffolding disappears and you have to rebuild everything at once.",
+      "shape": "micro-insight",
+      "rationale": "Answers the unasked question 'why did I fall apart at 23/38/45 when I'd coped fine before?' Reframes burnout timing from personal failure to a predictable systems pattern. Specific examples make it recognisable fast.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-late-diagnosed-mind/202603/the-late-diagnosed-mind-adhd-and-autism-in-adults",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-10",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't giving up on structure. It's reducing the neurological alarm that makes any cooperation impossible. You can't reach a nervous system in threat mode.",
+      "shape": "reframe",
+      "rationale": "Addresses the central shame point for PDA parents — being seen as permissive — and replaces it with a mechanistic explanation. 'You can't reach a nervous system in threat mode' is blunt and memorable enough to repeat to sceptical relatives.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-11",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout recovery needs enough novelty to engage the ADHD brain and enough predictability to settle the autistic nervous system. Those pull in opposite directions. Most recovery advice picks one.",
+      "shape": "micro-insight",
+      "rationale": "Names a genuine internal contradiction that neither ADHD-only nor autistic-only content captures. The last sentence does the work — it's the thing people forward to partners and therapists who keep suggesting advice that only half-fits.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-09-17T17-24-21-12",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    }
+  ]
+}
