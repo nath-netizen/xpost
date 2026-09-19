@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-19T16:13:18.167Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "The thing that keeps autistic burnout going isn't the exhaustion. It's the shame spiral about being exhausted. New research in Autism found shame isn't a side-effect — it's a driver.",
+      "shape": "validation",
+      "rationale": "Names the interior layer most burnout content skips. Directly grounded in Clarey et al. 2026 peer-reviewed paper. 'You're ashamed of burning out' is immediately recognizable to the community and rarely articulated this cleanly.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-01",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout research now has a sharper finding: shame doesn't just arrive with burnout. It actively blocks recovery. The part of you struggling to get back is also being judged for struggling.",
+      "shape": "micro-insight",
+      "rationale": "Extends angle 1 to the recovery phase — a distinct, actionable insight from the same paper. 'The part of you struggling to get back is also being judged for struggling' gives the reader a new frame for why recovery stalls, without repeating post 1.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-02",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis grief isn't 'I'm sad I'm autistic.' It's mourning a self you maintained at enormous cost who was never actually real. The grief is for the performance, not the person underneath.",
+      "shape": "reframe",
+      "rationale": "Corrects the most common misreading of late-diagnosis grief. The reframe is sharp and specific, drawn from community articulation. Self-contained and shareable without prior context. No pity framing — it ends on the person as real and intact.",
+      "source_url": "https://autisticfish.medium.com/late-diagnosis-and-the-grief-that-grows-in-the-gaps-715de385f243",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-03",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "PDAers: your body isn't being difficult. It's doing exactly what it's built to do — register loss of control as threat and respond accordingly. The problem is the threshold, not the response.",
+      "shape": "reframe",
+      "rationale": "Reframes PDA demand avoidance as a nervous-system calibration issue, not a character flaw. 'The problem is the threshold, not the response' is a quotable formulation that redirects blame without minimizing the difficulty.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-04",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting shifted something real in our house. And also — there were weeks it completely stalled and I blamed myself. Can we talk honestly about what actually gets in the way?",
+      "shape": "question",
+      "rationale": "Opens an honest, non-defensive conversation about low-demand parenting failure points without undermining the approach. First-person framing invites peers rather than performing authority. Sourced to Inclusive Teach's March 2026 analysis.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-05",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD. It's two nervous systems with opposite survival strategies — one craves sameness, one demands novelty — both running full-time. Neither wins. That's why it's exhausting.",
+      "shape": "micro-insight",
+      "rationale": "Names the paradox without trying to solve it, which is what the community actually needs articulated. The three short closing sentences land with rhythm and dry precision. Draws on a well-circulated experiential frame from AuDHD community sources.",
+      "source_url": "https://lawofvariance.substack.com/p/when-the-brain-wants-two-opposite",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-06",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout isn't random. Research shows it clusters at the moments external structure drops away: leaving school, career shift, new parenthood. You didn't fall apart. You hit a predictable inflection point without the right support.",
+      "shape": "validation",
+      "rationale": "Reframes personal collapse as a structural and predictable pattern, directly grounded in 2026 qualitative research in Autism. The final sentence is the key validation move: it takes something that felt like failure and names it as a systems problem.",
+      "source_url": "https://doi.org/10.1177/13623613261422117",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-07",
+      "status": "draft",
+      "char_count": 238,
+      "over_limit": false
+    },
+    {
+      "text": "You don't have to name your diagnosis to request a workplace accommodation. You can say: 'I have a medical condition that affects [X]. I'd like to discuss adjustments.' That's often enough to open the door.",
+      "shape": "practical",
+      "rationale": "Bridges the documented knowledge gap (Understood.org: 70% of neurodivergent employees don't know their entitlements). Gives a concrete, actionable script. 'Often enough' is deliberately hedged — jurisdiction and employer vary.",
+      "source_url": "https://careers.wgu.edu/blog/2026/09/18/neurodiversity-accommodation-requests-early-career-workplace-rights/",
+      "sensitivity_flag": "Skirts the edge of legal guidance. 'Often enough to open the door' is appropriately hedged and the post guarantees no outcome, but some readers may take it as universal legal advice. Acceptable as written; worth a second read before posting.",
+      "id": "2026-09-19T16-13-18-08",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of autistic and ADHD people track things obsessively — moods, sleep, energy. It's not anxiety or obsession. It's engineering. We're building an external dashboard because our internal one doesn't give reliable readings.",
+      "shape": "micro-insight",
+      "rationale": "Reframes compulsive self-tracking as adaptive engineering rather than pathology. 'External dashboard / internal one doesn't give reliable readings' is generous, accurate, and quotable. Grounded in the Chasing Shadows arxiv paper's core finding.",
+      "source_url": "https://arxiv.org/pdf/2603.22609",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-09",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "The shame around autistic burnout does something cruel: it makes asking for help feel like proof you've failed. Which delays recovery. Which deepens the shame. It's not a spiral — it's a lock.",
+      "shape": "validation",
+      "rationale": "Extends the Clarey et al. finding to its practical consequence — that shame makes help-seeking feel like self-indictment. 'It's not a spiral — it's a lock' sharpens a familiar metaphor into something more accurate about why people stay stuck.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13623613261444797",
+      "sensitivity_flag": "'Makes asking for help feel like proof you've failed' is a logical inference from the paper's finding that shame blocks recovery, not a direct quote. Flag if the studio requires strict citation fidelity; the extension is reasonable but goes one step beyond the paper.",
+      "id": "2026-09-19T16-13-18-10",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent employees don't know what accommodations they're entitled to — and that number is going up, not down. Awareness has risen. Practical knowledge hasn't kept pace.",
+      "shape": "practical",
+      "rationale": "Leads with a striking, defensible data point (Understood.org 2026 survey, up from 60% in 2024) to create urgency without outrage bait. The final two sentences name the real problem: the gap between cultural visibility and actionable knowledge.",
+      "source_url": "https://www.understood.org/en/press-releases/neurodiversity-at-work-survey-reveals-persistent-stigma-and-role-for-ai-in-the-workplace",
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-11",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "People assume late-diagnosis grief means you're sad about being autistic. For many, it's the opposite — relief, and then grief for the years spent trying to be someone you were never going to be.",
+      "shape": "reframe",
+      "rationale": "A distinct angle from post 3 — this one centers the relief first, then redirects where the grief actually lands (time lost, not identity gained). 'For many' is deliberately not universal. Evergreen and shareable without source dependency.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-19T16-13-18-12",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    }
+  ]
+}
