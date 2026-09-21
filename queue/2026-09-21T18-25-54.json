@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-21T18:25:54.686Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a stamina problem. It's your nervous system filing a formal complaint about an unsustainable situation. Rest alone won't clear it. The situation has to change.",
+      "shape": "reframe",
+      "rationale": "Replaces the 'not coping well' character narrative with an accurate biological frame. Targets late-diagnosed retrospective guilt without any prescriptive or medical-advice language. Short sentences land harder here.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-just-another",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-01",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "The guilt of 'why couldn't I just keep going' lands differently once you understand burnout is physiological. Your nervous system wasn't failing you. It was telling the truth.",
+      "shape": "validation",
+      "rationale": "Directly addresses the retrospective guilt spiral that late-diagnosed adults carry. Grounded in the physiological framing in the source — not a diagnosis claim, a recontextualization of a felt experience.",
+      "source_url": "https://neurodivergentinsights.com/autistic-burnout-recovery/",
+      "sensitivity_flag": "Calling burnout 'physiological' is well-supported in current research but sits adjacent to medical-claim territory. 'Nervous system' framing is community-resonant and defensible; avoid strengthening to 'medical condition' language.",
+      "id": "2026-09-21T18-25-54-02",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosis grief isn't about mourning being autistic. It's mourning the years of not knowing — the support never offered, the coping that cost too much. Relief and grief can both be honest responses to the same moment.",
+      "shape": "reframe",
+      "rationale": "Resolves a specific contradiction late-diagnosed people carry without being saccharine. 'Relief and grief simultaneously' is the quotable — it names the real experience rather than instructing people how to feel.",
+      "source_url": "https://www.tiffany-leung.com/post/late-adhd-autism-diagnosis-adult-relief-grief",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-03",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "'I don't want to not be autistic — so why does this hurt?' Because the grief isn't about who you are now. It's about what your past self never got to know.",
+      "shape": "reframe",
+      "rationale": "Opens with the exact question the community asks themselves, creating instant recognition. Answers it in a way that separates identity from loss — a distinction the source makes clearly but rarely gets this compressed.",
+      "source_url": "https://www.neurodiversecounselingllc.com/post/late-autism-diagnosis-grief",
+      "sensitivity_flag": "Opening with a quoted internal voice puts words in readers' mouths. Framing reflects widely-reported community experience, not a universal claim — the post stops short of 'everyone feels this,' which keeps it defensible.",
+      "id": "2026-09-21T18-25-54-04",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "Same acronym, completely different frame. 'Pathological Demand Avoidance' describes a disorder. 'Persistent Drive for Autonomy' describes an unmet need. That's not a small difference in language.",
+      "shape": "micro-insight",
+      "rationale": "The PDA naming shift is live and consequential. Staying tight and observational — rather than advocating — keeps it useful for both camps and starts conversation without heat.",
+      "source_url": "https://neurodiversitycentre.co.za/pathological-demand-avoidance-2/",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-05",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "82% of neurodivergent workers feel pressure to mask. 79% say it causes extra exhaustion. 64% fear disclosure would hurt them. That's not a personal dilemma. That's a structural trap.",
+      "shape": "validation",
+      "rationale": "The numbers do the lifting — no editorializing needed beyond naming the structure. Validates the experience as systemic, not individual, which is what the community needs to hear and will share.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/what-autistic-and-audhd-employees",
+      "sensitivity_flag": "Stats are from a specific 2026 survey of neurodivergent workers — indicative, not universal. Confirm the survey population and methodology are described in the source before publishing, and don't upgrade the framing to 'most' or 'all.'",
+      "id": "2026-09-21T18-25-54-06",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "What would it actually take for disclosure at work to feel safe? Not theoretically. In your actual workplace, with your actual manager.",
+      "shape": "question",
+      "rationale": "'Not theoretically' does real work — it pulls the question out of the abstract and makes it personal and answerable. Opens genuine discussion rather than collecting agreement.",
+      "source_url": "https://www.simplypsychology.com/articles/neurodivergence-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-07",
+      "status": "draft",
+      "char_count": 135,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD executive dysfunction doesn't just make tasks harder. It generates a trail of unkept promises to yourself — which erodes self-trust, which makes the next task feel harder still.",
+      "shape": "micro-insight",
+      "rationale": "Separates capacity from character without using those words. 'Trail of unkept promises' names the shame-spiral mechanism specifically enough to feel true, and is distinct from generic 'your brain works differently' content.",
+      "source_url": "https://www.favormentalhealthservices.com/post/adhd-in-adulthood-new-research-and-strategies-for-2026",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-08",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Many autistic people don't register hunger, exhaustion, or emotional build-up until it's already a crisis. That's not overreacting. It's receiving the signal too late.",
+      "shape": "validation",
+      "rationale": "Names the interoception mechanism without requiring the reader to know the term. The last sentence does the validation work — reframes 'why did I just explode?' with a non-blaming explanation grounded in the July 2026 PLOS ONE research.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13372161/",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-09",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "If your body's signals arrive late — exhaustion, hunger, overwhelm — externalizing helps. A check-in alarm. A question on a sticky note. Not magic. Just a louder channel.",
+      "shape": "practical",
+      "rationale": "Pairs the interoception naming with a micro-strategy that's actionable without being prescriptive. 'Not magic. Just a louder channel.' keeps the register honest and avoids the one-weird-trick energy that undermines credibility.",
+      "source_url": "https://www.kelly-mahler.com/autistic-burnout-signs-symptoms-recovery/",
+      "sensitivity_flag": "Practical suggestions must not read as medical advice. 'Not magic' framing and the softness of examples (alarm, sticky note) keep this in the lived-experience register rather than clinical recommendation — maintain that tone if editing.",
+      "id": "2026-09-21T18-25-54-10",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting can work at home. Then the school gate opens. If the environment that undoes it every day never changes — what are we actually solving for?",
+      "shape": "question",
+      "rationale": "Validates the approach while naming the structural gap honestly, without dunking on schools or parents. The question form invites discussion rather than declaring an answer the post can't actually back.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": "Could be read as dismissive of low-demand parenting. The positive opening ('can work at home') does protective work; keep it. Don't edit toward 'doesn't work' framing — the point is the structural gap, not the method.",
+      "id": "2026-09-21T18-25-54-11",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "There are autistic people diagnosed at 60, 70, 77 — who then had to reread their entire life through a completely new lens, with almost no support built for them. They exist. They're almost never in this conversation.",
+      "shape": "validation",
+      "rationale": "Pure visibility for an absent demographic. 'They exist. They're almost never in this conversation.' closes without making it about the poster. Will land for older adults and for their adult children who see their parents in it. Grounded in the 2026 Gerontologist paper.",
+      "source_url": "https://academic.oup.com/gerontologist/article/65/10/gnaf181/8255967",
+      "sensitivity_flag": null,
+      "id": "2026-09-21T18-25-54-12",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    }
+  ]
+}
