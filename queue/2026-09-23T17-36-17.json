@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-23T17:36:17.573Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Many autistic people only realise they were burning out after the collapse. Not because they weren't struggling — because they were still performing, and shame convinced them that stopping meant failing.",
+      "shape": "validation",
+      "rationale": "Names the invisible double-layer the 2026 Autism study confirms: performing through burnout AND shame blocking recognition. High recognition hook for late-diagnosed adults who held it together until they couldn't.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42109126/",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-01",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "It's not just that autistic burnout is exhausting. A 2026 study found shame is a core driver — the belief that needing to stop makes you a failure. That's what keeps people going until collapse.",
+      "shape": "reframe",
+      "rationale": "Sharpens the burnout conversation beyond 'sensory overload' to the specific shame-as-blocker mechanism. Different angle from post 1 — more precise about the causal chain for an audience that wants the mechanism, not just the name.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42109126/",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-02",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism + ADHD. It's what happens when those two neurotypes interact: a whole new thing, with contradictions neither diagnosis can explain alone. Craving novelty and needing sameness, simultaneously.",
+      "shape": "micro-insight",
+      "rationale": "The Tie Dye Model gives the interaction language the community has been reaching for. The paired contradiction at the end makes it concrete and immediately recognisable to anyone who has lived it.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-03",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "A lot of AuDHD people describe feeling half-right in autistic spaces and half-right in ADHD spaces. That's not a deficiency in you. It's a third experience that doesn't have its own room yet.",
+      "shape": "validation",
+      "rationale": "Validates the specific alienation of AuDHD people in single-condition communities. 'Third experience' keeps the framing experiential rather than clinical while still making the point.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-04",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    },
+    {
+      "text": "'Drive for autonomy' was a kinder way to talk about PDA. But some in the community are now saying it still misses the point: demands don't just feel unwanted to PDA people — they register as threats to safety.",
+      "shape": "reframe",
+      "rationale": "Accurately represents the live community debate without taking a definitive clinical stance. 'Some in the community are saying' is appropriately hedged and reflects the current discourse the briefing describes.",
+      "source_url": "https://nicolefilippone.substack.com/p/pathological-demand-avoidancewhat",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-05",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't no structure. It's removing unnecessary demands until the nervous system can return to safety — where connection and growth become possible again. Those are very different things.",
+      "shape": "practical",
+      "rationale": "Corrects the failure mode (low demand = no demands at all) without dismissing the approach. A distinction families can act on that also protects the framework from the backlash it invites when misapplied.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-06",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout doesn't always build steadily. Sometimes you hold it together for years — and then one transition strips away the scaffolding you'd quietly built your whole life around. That's not failure.",
+      "shape": "validation",
+      "rationale": "Names the 'why did everything break at this specific moment' experience that gets misread as anxiety or a mid-life crisis. Evergreen framing because it names the structure of the experience, not a specific study finding.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-07",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "The reason burnout often breaks at a new job, or parenthood, or a move: transitions don't just add load. They remove the specific structures you'd quietly built to compensate — often without realising that's what you'd done.",
+      "shape": "micro-insight",
+      "rationale": "Analytical companion to the validation post above — explains the mechanism rather than naming the experience. 'Without realising that's what you'd done' captures the unconscious compensation central to late-diagnosis.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-08",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 survey: 77% of neurodivergent workers still mask at work for fear of retaliation. We have better language now. Better legal frameworks. The gap between knowing your rights and feeling safe to use them hasn't closed.",
+      "shape": "question",
+      "rationale": "Uses the stat to ground the observation, then reframes it as a structural gap rather than an individual failing. Opens genuine conversation without outrage framing.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "Verify the exact 77% figure and 'fear of retaliation' phrasing directly against the Forbes source before posting — the briefing characterises it this way but the survey's own language should be confirmed.",
+      "id": "2026-09-23T17-36-17-09",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "Self-tracking your own masking, alone, can just become another thing to fail at. The same reflection done alongside people who recognise the experience? That's where it turns into something useful.",
+      "shape": "micro-insight",
+      "rationale": "Counterintuitive finding from CHI 2026 — isolation is the variable, not the tool. Leads with the insight, not the study name. Makes an implicit case for community over individual optimisation that this audience will recognise.",
+      "source_url": "https://dl.acm.org/doi/10.1145/3772318.3794641",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-10",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "One of the biggest shifts for PDA families isn't a new strategy — it's a new frame. The nervous system genuinely reads demands as dangerous. Once you see survival instead of defiance, the whole approach changes.",
+      "shape": "reframe",
+      "rationale": "Leads with the cognitive shift the 2026 pilot study identified as the pivotal parent breakthrough. 'Genuinely reads demands as dangerous' is defensible as the study's core framing and gives parents a mechanism, not just a permission slip.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/ped4.70028",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-11",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "For PDA people, demands register as threats — not preferences. That's a mechanism, not an excuse. Knowing the mechanism is the only way to work with it instead of against it.",
+      "shape": "practical",
+      "rationale": "Addresses the implicit objection ('that sounds like an excuse') head-on and redirects to actionability. Short and direct. Works equally for PDA people seeking self-understanding and for families or educators.",
+      "source_url": "https://aane.org/autism-info-faqs/library/when-autonomy-feels-like-survival-a-view-of-pda-for-families/",
+      "sensitivity_flag": null,
+      "id": "2026-09-23T17-36-17-12",
+      "status": "draft",
+      "char_count": 174,
+      "over_limit": false
+    }
+  ]
+}
