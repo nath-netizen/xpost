@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-25T17:41:08.250Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Late diagnosis doesn't just bring relief. It brings grief — for the years of self-blame that turned out to have a different explanation. Both things arrive at once. Nobody warns you that's normal.",
+      "shape": "validation",
+      "rationale": "Names the duality the briefing identifies as underserved — relief and grief coexisting — without explaining it away. The final beat ('nobody warns you that's normal') delivers the recognition hit that makes validation posts shareable.",
+      "source_url": "https://natashastavros.substack.com/p/ep-13-grief-and-betrayal-after-a",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-01",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Having a name for what you've experienced doesn't erase the years before it. It means rewriting the story you told yourself about why you struggled — and that's its own kind of work.",
+      "shape": "reframe",
+      "rationale": "Second take on late-diagnosis grief from a different entry point: the active labour of identity reconstruction rather than the simultaneous emotional experience. Pairs with post 1 without repeating it.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-grief-no-one-warns-you-about",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-02",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout isn't weakness. It's what happens when a nervous system has been running an overdraft for years. The body eventually closes the account.",
+      "shape": "reframe",
+      "rationale": "The financial metaphor ('overdraft', 'closes the account') is concrete and shame-free without claiming clinical precision. Delivers the reframe in three short beats that build to a hard stop.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/autistic-burnout-and-the-neurodivergent",
+      "sensitivity_flag": "Nervous-system 'overdraft' is a metaphor — verify it reads as evocative analogy and not a clinical explanation of physiological mechanism.",
+      "id": "2026-09-25T17-41-08-03",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "'I thought I was just lazy.' That sentence shows up in almost every burnout story. It wasn't laziness. It was a nervous system trying to survive conditions it was never built for.",
+      "shape": "validation",
+      "rationale": "Opens with a quoted self-talk phrase for instant recognition, then reframes without lecturing. 'Almost every burnout story' avoids universalising while still conveying this experience is widespread.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-vagus-nerve-the-missing-piece",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-04",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't a quirky abbreviation. It's what people reached for when every existing clinical category described them halfway and left the rest unexplained.",
+      "shape": "validation",
+      "rationale": "Treats the community-coined term with the seriousness it's earned. The 2026 SAGE study makes this defensible — peer-reviewed research is now studying the gap the word was coined to fill.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/13634593251336163",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-05",
+      "status": "draft",
+      "char_count": 155,
+      "over_limit": false
+    },
+    {
+      "text": "'Half-right everywhere' is how a lot of AuDHD people describe life before that word existed. Not fully wrong. Not fully fitting. Just never quite the whole shape of any category.",
+      "shape": "micro-insight",
+      "rationale": "Names a specific felt experience rather than explaining a diagnosis. 'A lot of' rather than 'all' keeps it accurate. The phrase 'whole shape' is distinctive and quotable without being clinical.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/what-is-audhd-autism-adhd-together",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-06",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "Declarative language isn't a script you run. It's what naturally comes out when you've stopped trying to manage someone and started trying to understand them.",
+      "shape": "micro-insight",
+      "rationale": "Captures the briefing's core nuance — it's a relational stance, not a technique — in two sentences. Generous to parents and educators who found it 'didn't work' without blaming them for that.",
+      "source_url": "https://www.kristyforbes.com.au/podcasts/intune-pathways-the-podcast/episodes/2148596801",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-07",
+      "status": "draft",
+      "char_count": 158,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent employees don't feel safe disclosing at work. What would actually have to change — not in theory, in your actual workplace — for that number to move?",
+      "shape": "question",
+      "rationale": "The stat earns the question; 'not in theory, in your actual workplace' pushes past abstract answers to genuine discussion. Avoids naming or dunking on employers. Opens debate without prescribing an answer.",
+      "source_url": "https://www.forbes.com/sites/jenniferpalumbo/2026/06/24/why-neurodivergent-workers-still-fear-disclosure-at-work/",
+      "sensitivity_flag": "Stat is from a single Forbes survey (self-report); post should not upgrade it beyond what the source supports. Current framing ('don't feel safe') maps cleanly to the source's 'fear disclosure' finding.",
+      "id": "2026-09-25T17-41-08-08",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't the absence of structure. It's the absence of adversarial structure. Those are two very different things.",
+      "shape": "reframe",
+      "rationale": "The shortest post in the set — lean by design. The contrast lands harder for being compressed. Directly addresses the misreading that causes PDA families to stall, without blaming them for it.",
+      "source_url": "https://inclusiveteach.com/2026/03/05/pda-why-low-demand-approaches-fail/",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-09",
+      "status": "draft",
+      "char_count": 132,
+      "over_limit": false
+    },
+    {
+      "text": "'Demand avoidance' asks how to stop it. 'Drive for autonomy' asks how to honour it. What you call something shapes every response that follows.",
+      "shape": "micro-insight",
+      "rationale": "Three-beat structure: old frame, new frame, the principle that connects them. Mirrors the identity-first language debate this audience already cares about, making the analogy immediately legible.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/ped4.70028",
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-10",
+      "status": "draft",
+      "char_count": 143,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD doesn't make you unreliable. It creates a consistent gap between intention and follow-through that shame doesn't close — but different scaffolding can.",
+      "shape": "reframe",
+      "rationale": "Moves from moral framing ('unreliable') to structural framing ('scaffolding') in a single sentence. 'Shame doesn't close' names the approach people have already tried and failed with. Evergreen enough to stand without a specific source.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-11",
+      "status": "draft",
+      "char_count": 156,
+      "over_limit": false
+    },
+    {
+      "text": "If you keep setting intentions you can't follow through on, the problem probably isn't willpower. External structure — a timer, a specific place, a body double — does the work the ADHD brain can't generate alone.",
+      "shape": "practical",
+      "rationale": "Concrete and actionable; names three low-barrier strategies without prescribing a regimen. 'Probably' keeps it honest. 'The ADHD brain' is established community shorthand, not a diagnostic claim.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-09-25T17-41-08-12",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    }
+  ]
+}
