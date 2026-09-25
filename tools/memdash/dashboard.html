@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Memory Dash</title>
+<style>
+:root {
+  color-scheme: dark;
+  --page: #050505;
+  --card: #111111;
+  --card-2: #181818;
+  --line: #242424;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --muted: #898781;
+  --app: #3987e5;
+  --wired: #d95926;
+  --compressed: #199e70;
+  --cached: #c98500;
+  --free: #262625;
+  --swapin: #9085e9;
+  --swapout: #d55181;
+  --good: #0ca30c;
+  --warning: #fab219;
+  --serious: #ec835a;
+  --critical: #d03b3b;
+  --info: #898781;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --page: #f9f9f7; --card: #fcfcfb; --card-2: #f3f2ee; --line: #e1e0d9; --grid: #e1e0d9;
+  --axis: #c3c2b7; --ink: #0b0b0b; --ink-2: #52514e; --muted: #6f6d67;
+  --app: #2a78d6; --wired: #eb6834; --compressed: #1baf7a; --cached: #eda100; --free: #ecebe6;
+  --swapin: #4a3aa7; --swapout: #e87ba4;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--page); color: var(--ink);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 20px 16px 48px; }
+header { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+header h1 { font-size: 15px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; margin: 0; }
+header .meta { color: var(--muted); font-size: 13px; display: flex; gap: 14px; flex-wrap: wrap; }
+header .spacer { flex: 1; }
+.live { display: inline-flex; align-items: center; gap: 6px; color: var(--ink-2); font-size: 12px; }
+.live i { width: 7px; height: 7px; border-radius: 50%; background: var(--good); box-shadow: 0 0 8px var(--good); }
+.live.stale i { background: var(--critical); box-shadow: 0 0 8px var(--critical); }
+button.ghost { background: transparent; border: 1px solid var(--line); color: var(--ink-2); border-radius: 8px;
+  padding: 5px 10px; font: inherit; font-size: 12px; cursor: pointer; }
+button.ghost:hover { border-color: var(--muted); color: var(--ink); }
+
+.grid { display: grid; gap: 14px; grid-template-columns: repeat(12, 1fr); }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; min-width: 0; }
+.card h2 { margin: 0 0 14px; font-size: 11px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.span-8 { grid-column: span 8; } .span-4 { grid-column: span 4; } .span-12 { grid-column: span 12; }
+.span-7 { grid-column: span 7; } .span-5 { grid-column: span 5; } .span-6 { grid-column: span 6; }
+@media (max-width: 980px) { .span-8, .span-4, .span-7, .span-5, .span-6 { grid-column: span 12; } }
+
+/* Hero battery */
+.hero { display: grid; grid-template-columns: auto 1fr; gap: 8px 28px; align-items: end; }
+.big { font-size: 88px; font-weight: 200; line-height: .9; letter-spacing: -.03em; }
+.big small { font-size: 32px; font-weight: 300; color: var(--ink-2); margin-left: 2px; }
+.hero .sub { color: var(--ink-2); font-size: 15px; }
+.hero .sub b { color: var(--ink); font-weight: 500; }
+.battery { position: relative; margin: 22px 14px 0 0; height: 68px; border: 2px solid var(--axis); border-radius: 14px; padding: 5px; }
+.battery::after { content: ""; position: absolute; right: -12px; top: 20px; width: 8px; height: 24px;
+  border-radius: 0 5px 5px 0; background: var(--axis); }
+.charge { height: 100%; border-radius: 9px; transition: width .8s ease, background .8s; position: relative; overflow: hidden; }
+.charge::after { content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,.22), rgba(255,255,255,0) 55%); }
+.ticks { display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; margin: 6px 14px 0 0; font-variant-numeric: tabular-nums; }
+.statusline { display: flex; align-items: center; gap: 10px; margin-top: 16px; flex-wrap: wrap; }
+.chip { display: inline-flex; align-items: center; gap: 7px; padding: 4px 11px 4px 9px; border-radius: 999px;
+  border: 1px solid var(--line); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+.chip svg { width: 14px; height: 14px; }
+.range { color: var(--ink-2); font-size: 13px; }
+
+/* composition bar */
+.comp { display: flex; gap: 2px; height: 14px; margin-top: 22px; border-radius: 4px; overflow: hidden; }
+.comp div { height: 100%; transition: flex-grow .8s ease; min-width: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 10px; font-size: 12px; color: var(--ink-2); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+.legend b { color: var(--ink); font-weight: 500; font-variant-numeric: tabular-nums; }
+
+/* gauge */
+.gauge-wrap { display: flex; flex-direction: column; align-items: center; }
+.gauge-wrap svg { width: 100%; max-width: 320px; }
+.gauge-val { font-size: 40px; font-weight: 200; margin-top: -62px; }
+.gauge-lbl { color: var(--muted); font-size: 12px; letter-spacing: .1em; text-transform: uppercase; }
+.gauge-foot { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%; margin-top: 18px; }
+.mini { background: var(--card-2); border-radius: 10px; padding: 10px 12px; }
+.mini .k { color: var(--muted); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.mini .v { font-size: 18px; font-weight: 400; margin-top: 2px; }
+
+/* tiles */
+.tiles { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; grid-column: span 12; }
+@media (max-width: 980px) { .tiles { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 560px) { .tiles { grid-template-columns: repeat(2, 1fr); } }
+.tile { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; position: relative; overflow: hidden; }
+.tile .k { color: var(--muted); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; display: flex; align-items: center; gap: 7px; }
+.tile .k i { width: 8px; height: 8px; border-radius: 2px; }
+.tile .v { font-size: 26px; font-weight: 300; margin-top: 4px; }
+.tile .v small { font-size: 14px; color: var(--ink-2); }
+.tile .d { color: var(--ink-2); font-size: 12px; margin-top: 2px; }
+.tile .spark { position: absolute; left: 0; right: 0; bottom: 0; height: 26px; opacity: .55; }
+
+/* charts */
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; }
+.chart .tip { position: absolute; pointer-events: none; background: var(--card-2); border: 1px solid var(--line);
+  border-radius: 10px; padding: 8px 10px; font-size: 12px; white-space: nowrap; display: none; z-index: 5;
+  box-shadow: 0 8px 24px rgba(0,0,0,.35); }
+.tip .row { display: flex; align-items: center; gap: 7px; }
+.tip .row i { width: 8px; height: 8px; border-radius: 2px; }
+.tip .row b { margin-left: auto; padding-left: 12px; font-weight: 500; font-variant-numeric: tabular-nums; }
+.tip .t { color: var(--muted); margin-bottom: 4px; }
+.head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+.head h2 { margin: 0; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { background: transparent; border: 0; color: var(--muted); padding: 4px 10px; font: inherit; font-size: 12px; cursor: pointer; }
+.seg button.on { background: var(--card-2); color: var(--ink); }
+
+/* insights */
+.ins { display: flex; flex-direction: column; gap: 10px; }
+.insight { display: grid; grid-template-columns: 22px 1fr auto; gap: 4px 12px; padding: 13px 14px; background: var(--card-2);
+  border-radius: 12px; border-left: 3px solid var(--sev, var(--info)); }
+.insight svg { width: 18px; height: 18px; margin-top: 1px; color: var(--sev, var(--info)); }
+.insight .ti { font-weight: 600; }
+.insight .de { grid-column: 2 / 4; color: var(--ink-2); font-size: 13px; }
+.insight .ac { grid-column: 2 / 4; font-size: 13px; }
+.insight .ac::before { content: "→ "; color: var(--muted); }
+.insight .sv { color: var(--good); font-size: 12px; font-weight: 600; white-space: nowrap; }
+.insight .btns { grid-column: 2 / 4; display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+.insight code { background: var(--card); padding: 1px 5px; border-radius: 4px; font-size: 12px; }
+
+/* cells */
+.cells { display: flex; flex-direction: column; gap: 7px; }
+.cell { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 3px 10px; align-items: center; }
+.cell .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; }
+.cell .nm .tag { font-size: 10px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; margin-left: 6px; letter-spacing: .04em; text-transform: uppercase; }
+.cell .mb { font-variant-numeric: tabular-nums; font-size: 13px; text-align: right; }
+.cell .bar { grid-column: 1 / 3; height: 6px; background: var(--free); border-radius: 3px; overflow: hidden; }
+.cell .bar div { height: 100%; border-radius: 3px; background: var(--app); transition: width .8s ease; }
+.cell .sub { grid-column: 1 / 3; display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; margin-top: -2px; }
+button.quit { background: transparent; border: 1px solid var(--line); color: var(--ink-2); border-radius: 6px; padding: 1px 8px;
+  font: inherit; font-size: 11px; cursor: pointer; }
+button.quit:hover { border-color: var(--critical); color: var(--critical); }
+
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; color: var(--muted); font-weight: 500; font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  padding: 6px 8px; border-bottom: 1px solid var(--line); }
+td { padding: 6px 8px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+td.r, th.r { text-align: right; }
+td.nm { max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tablewrap { overflow-x: auto; }
+.note { color: var(--muted); font-size: 12px; margin-top: 10px; }
+.toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--card-2); border: 1px solid var(--line);
+  padding: 10px 16px; border-radius: 10px; display: none; z-index: 20; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Memory</h1>
+    <div class="meta" id="meta"></div>
+    <div class="spacer"></div>
+    <span class="live" id="live"><i></i><span id="liveTxt">connecting</span></span>
+    <button class="ghost" id="themeBtn" title="Toggle light/dark">◐</button>
+  </header>
+
+  <div class="grid">
+    <section class="card span-8">
+      <h2>Available memory</h2>
+      <div class="hero">
+        <div class="big" id="pct">–<small>%</small></div>
+        <div class="sub" id="heroSub"></div>
+      </div>
+      <div class="battery"><div class="charge" id="charge" style="width:0"></div></div>
+      <div class="ticks"><span>0</span><span>25</span><span>50</span><span>75</span><span>100%</span></div>
+      <div class="statusline"><span id="chip"></span><span class="range" id="range"></span></div>
+      <div class="comp" id="comp" role="img" aria-label="Memory composition"></div>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <section class="card span-4">
+      <h2>Memory pressure</h2>
+      <div class="gauge-wrap">
+        <svg viewBox="0 0 240 140" id="gauge" aria-hidden="true"></svg>
+        <div class="gauge-val" id="gaugeVal">–</div>
+        <div class="gauge-lbl">pressure</div>
+        <div class="gauge-foot">
+          <div class="mini"><div class="k">Swap out</div><div class="v" id="swOut">–</div></div>
+          <div class="mini"><div class="k">Swap in</div><div class="v" id="swIn">–</div></div>
+          <div class="mini"><div class="k">Compress</div><div class="v" id="cmpR">–</div></div>
+          <div class="mini"><div class="k">Decompress</div><div class="v" id="dcmpR">–</div></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="tiles" id="tiles"></div>
+
+    <section class="card span-8">
+      <div class="head"><h2>Memory over time</h2>
+        <div class="seg" id="rangeSeg"><button data-s="300">5 min</button><button data-s="900" class="on">15 min</button><button data-s="1800">30 min</button></div>
+      </div>
+      <div class="chart" id="stackChart"></div>
+      <div class="legend" id="stackLegend"></div>
+    </section>
+
+    <section class="card span-4">
+      <div class="head"><h2>Swap activity</h2></div>
+      <div class="chart" id="swapChart"></div>
+      <div class="legend"><span><i style="background:var(--swapout)"></i>Swap out</span><span><i style="background:var(--swapin)"></i>Swap in</span></div>
+      <div class="head" style="margin-top:18px"><h2>Available %</h2></div>
+      <div class="chart" id="pctChart"></div>
+    </section>
+
+    <section class="card span-7">
+      <h2>Insights &amp; actions</h2>
+      <div class="ins" id="insights"></div>
+    </section>
+
+    <section class="card span-5">
+      <h2>Apps by memory</h2>
+      <div class="cells" id="cells"></div>
+      <div class="note">Helper processes are grouped under the app bundle that owns them. The figure is the physical footprint, the same number as Activity Monitor's Memory column. It includes shared pages, so groups can add up to more than Memory Used.</div>
+    </section>
+
+    <section class="card span-12">
+      <h2>Top processes</h2>
+      <div class="tablewrap"><table id="procs"><thead><tr><th>Process</th><th>App</th><th class="r">PID</th><th class="r">CPU %</th><th class="r">Memory</th></tr></thead><tbody></tbody></table></div>
+    </section>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const TOKEN = "__MEMDASH_TOKEN__";
+const GB = 1024 ** 3, MB = 1024 ** 2;
+const $ = (id) => document.getElementById(id);
+const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const fmt = (b) => b >= GB ? (b / GB).toFixed(b >= 10 * GB ? 1 : 2) + " GB" : Math.round(b / MB) + " MB";
+const fmtRate = (b) => b < 0.05 * MB ? "0 MB/s" : b >= GB ? (b / GB).toFixed(1) + " GB/s" : (b / MB).toFixed(b < 10 * MB ? 1 : 0) + " MB/s";
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const SEV = { critical: "Critical", serious: "Serious", warning: "Warning", good: "Good", info: "Info" };
+const ICON = {
+  good: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10" cy="10" r="8"/><path d="M6 10.5l2.5 2.5L14 7.5"/></svg>',
+  warning: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 2.5L18.5 17h-17z"/><path d="M10 8v4M10 14.5v.5"/></svg>',
+  serious: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 2.5L18.5 17h-17z"/><path d="M10 8v4M10 14.5v.5"/></svg>',
+  critical: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><path d="M6.5 2h7L18 6.5v7L13.5 18h-7L2 13.5v-7z"/><path d="M10 6v5M10 13.5v.5"/></svg>',
+  info: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10" cy="10" r="8"/><path d="M10 9v5M10 6.5v.5"/></svg>',
+};
+const LEVEL = { normal: ["good", "Normal"], warn: ["warning", "Elevated"], critical: ["critical", "Critical"] };
+const SERIES = [
+  { k: "wired", label: "Wired", c: "--wired", desc: "Kernel & GPU, never compressible" },
+  { k: "app", label: "App", c: "--app", desc: "Memory apps are actively using" },
+  { k: "compressed", label: "Compressed", c: "--compressed", desc: "App memory squeezed to save RAM" },
+  { k: "cached", label: "Cached files", c: "--cached", desc: "Reclaimable instantly" },
+];
+
+let windowSec = 900, last = null;
+
+// ---------- theme ----------
+try { const t = localStorage.getItem("memdash-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+$("themeBtn").onclick = () => {
+  const next = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("memdash-theme", next); } catch (e) {}
+  if (last) render(last);
+};
+document.querySelectorAll("#rangeSeg button").forEach((b) => b.onclick = () => {
+  document.querySelectorAll("#rangeSeg button").forEach((x) => x.classList.toggle("on", x === b));
+  windowSec = +b.dataset.s; if (last) render(last);
+});
+
+// ---------- gauge ----------
+function arc(cx, cy, r, a0, a1) {
+  const p = (a) => [cx + r * Math.cos(a), cy + r * Math.sin(a)];
+  const [x0, y0] = p(a0), [x1, y1] = p(a1);
+  return `M${x0.toFixed(1)} ${y0.toFixed(1)} A${r} ${r} 0 ${a1 - a0 > Math.PI ? 1 : 0} 1 ${x1.toFixed(1)} ${y1.toFixed(1)}`;
+}
+function drawGauge(pressurePct, sev) {
+  const A0 = Math.PI, A1 = 2 * Math.PI, cx = 120, cy = 124, r = 96;
+  const at = (v) => A0 + (A1 - A0) * Math.max(0, Math.min(1, v / 100));
+  const zones = [[0, 60, "--good"], [60, 85, "--warning"], [85, 100, "--critical"]];
+  let s = zones.map(([a, b, c]) => `<path d="${arc(cx, cy, r, at(a) + .01, at(b) - .01)}" stroke="${css(c)}" stroke-opacity=".28" stroke-width="12" fill="none"/>`).join("");
+  s += `<path d="${arc(cx, cy, r, at(0), at(Math.max(0.5, pressurePct)))}" stroke="${css("--" + sev)}" stroke-width="12" fill="none" stroke-linecap="round"/>`;
+  for (let v = 0; v <= 100; v += 10) {
+    const a = at(v), r0 = v % 50 === 0 ? r - 20 : r - 16;
+    s += `<line x1="${cx + r0 * Math.cos(a)}" y1="${cy + r0 * Math.sin(a)}" x2="${cx + (r - 11) * Math.cos(a)}" y2="${cy + (r - 11) * Math.sin(a)}" stroke="${css("--muted")}" stroke-width="1.5"/>`;
+  }
+  $("gauge").innerHTML = s;
+}
+
+// ---------- generic time chart ----------
+function timeChart(el, rows, opts) {
+  const W = el.clientWidth || 600, H = opts.h, L = 44, R = 8, T = 8, B = 22;
+  const t1 = rows.length ? rows[rows.length - 1].t : Date.now() / 1000, t0 = t1 - windowSec;
+  const data = rows.filter((r) => r.t >= t0);
+  const x = (t) => L + (W - L - R) * (t - t0) / windowSec;
+  const ymax = opts.ymax(data) || 1;
+  const y = (v) => T + (H - T - B) * (1 - v / ymax);
+  let s = `<svg viewBox="0 0 ${W} ${H}" height="${H}">`;
+  opts.ticks(ymax).forEach(([v, lab]) => {
+    s += `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="${css("--grid")}" stroke-width="1"/>`;
+    s += `<text x="${L - 6}" y="${y(v) + 4}" fill="${css("--muted")}" font-size="11" text-anchor="end">${lab}</text>`;
+  });
+  const span = windowSec;
+  for (let k = 0; k <= 3; k++) {
+    const t = t0 + span * k / 3;
+    const ago = Math.round((t1 - t) / 60);
+    s += `<text x="${x(t)}" y="${H - 5}" fill="${css("--muted")}" font-size="11" text-anchor="${k === 0 ? "start" : k === 3 ? "end" : "middle"}">${ago ? "−" + ago + " min" : "now"}</text>`;
+  }
+  s += `<line x1="${L}" x2="${W - R}" y1="${y(0)}" y2="${y(0)}" stroke="${css("--axis")}" stroke-width="1"/>`;
+  if (data.length > 1) s += opts.draw(data, x, y);
+  if (opts.overlay) s += opts.overlay(x, y, W, L, R);
+  s += `<line class="xh" x1="0" x2="0" y1="${T}" y2="${H - B}" stroke="${css("--muted")}" stroke-width="1" style="display:none"/>`;
+  s += `<rect x="${L}" y="0" width="${W - L - R}" height="${H}" fill="transparent" class="hit"/></svg><div class="tip"></div>`;
+  el.innerHTML = s;
+  const hit = el.querySelector(".hit"), xh = el.querySelector(".xh"), tip = el.querySelector(".tip");
+  const show = (ev) => {
+    if (!data.length) return;
+    const bx = el.getBoundingClientRect(), px = (ev.clientX - bx.left) * (W / bx.width);
+    const t = t0 + (px - L) / (W - L - R) * windowSec;
+    let best = data[0];
+    for (const d of data) if (Math.abs(d.t - t) < Math.abs(best.t - t)) best = d;
+    xh.setAttribute("x1", x(best.t)); xh.setAttribute("x2", x(best.t)); xh.style.display = "";
+    tip.innerHTML = `<div class="t">${new Date(best.t * 1000).toLocaleTimeString()}</div>` + opts.tip(best);
+    tip.style.display = "block";
+    const left = (x(best.t) / W) * bx.width;
+    tip.style.left = Math.min(Math.max(0, left + 12), bx.width - tip.offsetWidth) + "px";
+    tip.style.top = "6px";
+  };
+  hit.addEventListener("pointermove", show);
+  hit.addEventListener("pointerleave", () => { xh.style.display = "none"; tip.style.display = "none"; });
+}
+const gbTicks = (m) => { const step = m > 64 * GB ? 32 * GB : m > 24 * GB ? 8 * GB : m > 8 * GB ? 4 * GB : 2 * GB; const o = []; for (let v = 0; v <= m + 1; v += step) o.push([v, v / GB + " GB"]); return o; };
+const tipRow = (c, l, v) => `<div class="row"><i style="background:${css(c)}"></i>${l}<b>${v}</b></div>`;
+
+function stackChart(snap) {
+  const total = snap.total;
+  timeChart($("stackChart"), snap.history, {
+    h: 250, ymax: () => total, ticks: gbTicks,
+    draw: (data, x, y) => {
+      let base = data.map(() => 0), s = "";
+      SERIES.forEach((se) => {
+        const top = data.map((d, i) => base[i] + d[se.k]);
+        let p = `M${x(data[0].t)} ${y(top[0])}`;
+        data.forEach((d, i) => p += ` L${x(d.t).toFixed(1)} ${y(top[i]).toFixed(1)}`);
+        for (let i = data.length - 1; i >= 0; i--) p += ` L${x(data[i].t).toFixed(1)} ${y(base[i]).toFixed(1)}`;
+        s += `<path d="${p}Z" fill="${css(se.c)}" fill-opacity="${se.k === "cached" ? .35 : .85}" stroke="${css("--card")}" stroke-width="1.5"/>`;
+        base = top;
+      });
+      return s;
+    },
+    overlay: (x, y, W, L, R) => `<line x1="${L}" x2="${W - R}" y1="${y(total)}" y2="${y(total)}" stroke="${css("--ink-2")}" stroke-dasharray="4 4"/><text x="${W - R - 4}" y="${y(total) + 14}" fill="${css("--ink-2")}" font-size="11" text-anchor="end">Physical RAM ${fmt(total)}</text>`,
+    tip: (d) => SERIES.slice().reverse().map((se) => tipRow(se.c, se.label, fmt(d[se.k]))).join("") + tipRow("--free", "Swap used", fmt(d.swap_used)),
+  });
+  $("stackLegend").innerHTML = SERIES.map((s) => `<span><i style="background:var(${s.c});${s.k === "cached" ? "opacity:.5" : ""}"></i>${s.label}</span>`).join("");
+}
+function swapChart(snap) {
+  timeChart($("swapChart"), snap.history, {
+    h: 130, ymax: (d) => Math.max(1 * MB, ...d.map((r) => Math.max(r.swapin, r.swapout))) * 1.15,
+    ticks: (m) => [[0, "0"], [m / 2, fmtRate(m / 2).replace(" MB/s", "M").replace(" GB/s", "G")], [m, fmtRate(m).replace(" MB/s", "M").replace(" GB/s", "G")]],
+    draw: (data, x, y) => ["swapout", "swapin"].map((k) =>
+      `<path d="${data.map((d, i) => (i ? "L" : "M") + x(d.t).toFixed(1) + " " + y(d[k]).toFixed(1)).join(" ")}" stroke="${css("--" + k)}" stroke-width="2" fill="none"/>`).join(""),
+    tip: (d) => tipRow("--swapout", "Swap out", fmtRate(d.swapout)) + tipRow("--swapin", "Swap in", fmtRate(d.swapin)),
+  });
+}
+function pctChart(snap) {
+  timeChart($("pctChart"), snap.history, {
+    h: 110, ymax: () => 100, ticks: () => [[0, "0%"], [50, "50%"], [100, "100%"]],
+    draw: (data, x, y) => {
+      let p = data.map((d, i) => (i ? "L" : "M") + x(d.t).toFixed(1) + " " + y(d.free_pct).toFixed(1)).join(" ");
+      const area = p + ` L${x(data[data.length - 1].t)} ${y(0)} L${x(data[0].t)} ${y(0)}Z`;
+      return `<path d="${area}" fill="${css("--app")}" fill-opacity=".15"/><path d="${p}" stroke="${css("--app")}" stroke-width="2" fill="none"/>`;
+    },
+    tip: (d) => tipRow("--app", "Available", d.free_pct.toFixed(0) + "%") + `<div class="row" style="color:${css("--muted")}">Pressure: ${LEVEL[d.level][1]}</div>`,
+  });
+}
+
+function spark(rows, key, color) {
+  const d = rows.slice(-150); if (d.length < 2) return "";
+  const vals = d.map((r) => r[key]); const mx = Math.max(...vals), mn = Math.min(...vals), rg = (mx - mn) || 1;
+  const p = vals.map((v, i) => `${(i / (vals.length - 1) * 100).toFixed(2)},${(24 - (v - mn) / rg * 20).toFixed(2)}`).join(" ");
+  return `<svg class="spark" viewBox="0 0 100 26" preserveAspectRatio="none"><polyline points="${p}" fill="none" stroke="${css(color)}" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg>`;
+}
+
+// ---------- render ----------
+function render(snap) {
+  const n = snap.now, total = snap.total;
+  const up = snap.uptime ? (snap.uptime > 86400 ? Math.floor(snap.uptime / 86400) + "d " : "") + Math.floor(snap.uptime % 86400 / 3600) + "h" : "–";
+  $("meta").innerHTML = [snap.host, snap.chip, snap.os, fmt(total) + " RAM", "up " + up].map(esc).map((s) => `<span>${s}</span>`).join("");
+  const [sev, lvlLabel] = LEVEL[n.level] || LEVEL.normal;
+
+  // hero
+  const pct = Math.max(0, Math.min(100, n.free_pct));
+  $("pct").innerHTML = Math.round(pct) + "<small>%</small>";
+  const avail = total - n.used;
+  $("heroSub").innerHTML = `<b>${fmt(avail)}</b> of ${fmt(total)} available for apps<br>${fmt(n.used)} in use · ${fmt(n.swap_used)} in swap`;
+  $("charge").style.width = pct + "%";
+  $("charge").style.background = css("--" + sev);
+  $("chip").innerHTML = `<span class="chip" style="color:var(--${sev});border-color:var(--${sev})">${ICON[sev]}Pressure ${lvlLabel}</span>`;
+  const tr = snap.trend;
+  $("range").textContent = tr.state === "climbing"
+    ? `Growing ${Math.round(tr.slope_mb_min)} MB/min · ≈ ${tr.minutes_to_pressure < 1 ? "<1" : Math.round(tr.minutes_to_pressure)} min to 90% full at this rate`
+    : tr.state === "recovering" ? `Recovering: ${Math.round(-tr.slope_mb_min)} MB/min being freed`
+    : tr.state === "stable" ? "Stable over the last 5 min" : "Building the 5-minute trend…";
+
+  const parts = [...SERIES.map((s) => ({ ...s, v: n[s.k] })), { k: "free", label: "Free", c: "--free", v: n.free }];
+  const sum = parts.reduce((a, p) => a + p.v, 0) || 1;
+  $("comp").innerHTML = parts.map((p) => `<div title="${p.label}: ${fmt(p.v)}" style="flex-grow:${p.v / sum};background:var(${p.c});${p.k === "cached" ? "opacity:.6" : ""}"></div>`).join("");
+  $("legend").innerHTML = parts.map((p) => `<span><i style="background:var(${p.c});${p.k === "cached" ? "opacity:.6" : ""}"></i>${p.label} <b>${fmt(p.v)}</b></span>`).join("");
+
+  // gauge
+  const pressure = 100 - pct;
+  drawGauge(pressure, sev);
+  $("gaugeVal").textContent = Math.round(pressure) + "%";
+  $("swOut").textContent = fmtRate(n.rates.swapout);
+  $("swIn").textContent = fmtRate(n.rates.swapin);
+  $("cmpR").textContent = fmtRate(n.rates.compress);
+  $("dcmpR").textContent = fmtRate(n.rates.decompress);
+
+  // tiles
+  const ratio = n.compressed ? (n.compressed_stored / n.compressed) : 0;
+  const tiles = [
+    ["App memory", "--app", n.app, `${Math.round(100 * n.app / total)}% of RAM`, "app"],
+    ["Wired", "--wired", n.wired, "Kernel, drivers, GPU", "wired"],
+    ["Compressed", "--compressed", n.compressed, ratio ? `${fmt(n.compressed_stored)} stored · ${ratio.toFixed(1)}:1` : "Nothing compressed", "compressed"],
+    ["Cached files", "--cached", n.cached, "Free the moment apps need it", "cached"],
+    ["Swap used", "--swapout", n.swap_used, n.swap_total ? `of ${fmt(n.swap_total)} swap files` : "No swap in use", "swap_used"],
+    ["Memory used", "--ink-2", n.used, "App + Wired + Compressed", "used"],
+  ];
+  $("tiles").innerHTML = tiles.map(([k, c, v, d, key]) => {
+    const [num, unit] = fmt(v).split(" ");
+    return `<div class="tile"><div class="k"><i style="background:var(${c})"></i>${k}</div><div class="v">${num} <small>${unit}</small></div><div class="d">${esc(d)}</div>${spark(snap.history, key, c)}</div>`;
+  }).join("");
+
+  stackChart(snap); swapChart(snap); pctChart(snap);
+
+  // insights
+  const quitSet = new Set(snap.groups.filter((g) => g.quittable).map((g) => g.name));
+  $("insights").innerHTML = snap.insights.map((i) => {
+    const btns = snap.quittable ? i.apps.filter((a) => quitSet.has(a)).map((a) => `<button class="quit" data-app="${esc(a)}">Quit ${esc(a)}</button>`).join("") : "";
+    const action = i.action ? esc(i.action).replace(/`([^`]+)`/g, "<code>$1</code>") : "";
+    return `<div class="insight" style="--sev:var(--${i.severity})">${ICON[i.severity]}<div class="ti">${esc(i.title)}</div>
+      <div class="sv">${i.savings > 100 * MB ? "up to " + fmt(i.savings) : ""}</div>
+      <div class="de">${esc(i.detail)}</div>${action ? `<div class="ac">${action}</div>` : ""}${btns ? `<div class="btns">${btns}</div>` : ""}</div>`;
+  }).join("");
+
+  // cells
+  const maxB = snap.groups.length ? snap.groups[0].bytes : 1;
+  $("cells").innerHTML = snap.groups.slice(0, 14).map((g) => {
+    const tags = g.tags.filter((t) => t !== "system" || g.bytes > GB).map((t) => `<span class="tag">${t}</span>`).join("");
+    const color = g.tags.includes("browser") ? "--app" : g.tags.includes("electron") ? "--compressed" : g.tags.includes("vm") || g.tags.includes("llm") ? "--wired" : g.tags.includes("system") ? "--muted" : "--app";
+    return `<div class="cell"><div class="nm" title="${esc(g.bundle || g.name)}">${esc(g.name)}${tags}</div><div class="mb">${fmt(g.bytes)}</div>
+      <div class="bar"><div style="width:${(100 * g.bytes / maxB).toFixed(1)}%;background:var(${color})"></div></div>
+      <div class="sub"><span>${g.procs} process${g.procs > 1 ? "es" : ""} · ${g.cpu.toFixed(1)}% CPU · ${(100 * g.bytes / total).toFixed(1)}% of RAM</span>
+      ${snap.quittable && g.quittable ? `<button class="quit" data-app="${esc(g.name)}">Quit</button>` : ""}</div></div>`;
+  }).join("");
+
+  // processes
+  $("procs").querySelector("tbody").innerHTML = snap.top.map((p) =>
+    `<tr><td class="nm" title="${esc(p.path)}">${esc(p.name)}</td><td>${esc(p.group)}</td><td class="r">${p.pid}</td><td class="r">${p.cpu.toFixed(1)}</td><td class="r">${fmt(p.bytes)}</td></tr>`).join("");
+}
+
+// ---------- actions ----------
+function toast(msg) { const t = $("toast"); t.textContent = msg; t.style.display = "block"; clearTimeout(toast.h); toast.h = setTimeout(() => t.style.display = "none", 3500); }
+document.addEventListener("click", async (e) => {
+  const b = e.target.closest("button.quit"); if (!b) return;
+  const app = b.dataset.app;
+  if (!confirm(`Quit ${app}?\n\nThis is a normal quit: the app will ask you to save any unsaved work.`)) return;
+  try {
+    const r = await fetch("/api/quit", { method: "POST", headers: { "Content-Type": "application/json", "X-Memdash-Token": TOKEN }, body: JSON.stringify({ name: app }) });
+    const j = await r.json();
+    toast(j.ok ? `Asked ${app} to quit` : `Couldn't quit ${app}: ${j.error || "unknown error"}`);
+  } catch (err) { toast("Request failed: " + err); }
+});
+
+// ---------- loop ----------
+let failures = 0;
+async function tick() {
+  try {
+    const r = await fetch("/api/stats", { cache: "no-store" });
+    last = await r.json(); failures = 0;
+    render(last);
+    $("live").classList.remove("stale"); $("liveTxt").textContent = "live · 2 s";
+  } catch (e) {
+    if (++failures > 1) { $("live").classList.add("stale"); $("liveTxt").textContent = "disconnected"; }
+  }
+  setTimeout(tick, 2000);
+}
+window.addEventListener("resize", () => last && render(last));
+tick();
+</script>
+</body>
+</html>
