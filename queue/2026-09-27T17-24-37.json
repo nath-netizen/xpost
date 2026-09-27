@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-09-27T17:24:37.259Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a character flaw. It's a ledger that stopped balancing — too many demands, not enough capacity left to cover them. Math, not morality.",
+      "shape": "reframe",
+      "rationale": "Delivers the core reframe in two short sentences. 'Math, not morality' is the quotable anchor. No advice given; no claim made beyond what the source supports.",
+      "source_url": "https://www.tosharollins.com/autism-ally-blog/1441718-burnout-isnt-laziness-its-a-nervous-system-limit",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-01",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    },
+    {
+      "text": "You slept. You took time off. You did everything right. And you still feel broken. That's not failure — rest restores energy. It doesn't rebuild the capacity that masking eroded over years.",
+      "shape": "validation",
+      "rationale": "Names the specific frustration: doing every recommended thing and still not recovering. Gives it a mechanistic frame (energy vs. capacity) without diagnosing or advising. Speaks to an experience, not the whole community.",
+      "source_url": "https://autisticamber.substack.com/p/burnout-vs-autistic-burnout-why-rest",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-02",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't defiance. It's an involuntary threat response — the nervous system firing an alarm it can't override. 'Can't, not won't' isn't a workaround. It's what's actually happening.",
+      "shape": "reframe",
+      "rationale": "Challenges the defiance/manipulation narrative directly using language current in the community. 'Can't, not won't' is the quotable shorthand. No diagnostic claims; frames a mechanism, not a diagnosis.",
+      "source_url": "https://aane.org/autism-info-faqs/library/do-i-have-a-pervasive-drive-for-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-03",
+      "status": "draft",
+      "char_count": 182,
+      "over_limit": false
+    },
+    {
+      "text": "Still grieving your late diagnosis months — or years — later? Research tracks this. Identity reconstruction isn't linear, and it doesn't respond to being hurried. You're not behind.",
+      "shape": "validation",
+      "rationale": "Directly addresses the secondary shame of 'still' grieving, anchored to the 2026 systematic review finding that the process is non-linear by design. 'You're not behind' is the payoff line.",
+      "source_url": "https://www.heyasd.com/blogs/autism/grieving-your-late-autism-diagnosis",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-04",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking isn't 'just be yourself.' After decades of performing, there's a self to find first. And you mostly find it through other autistic people — not alone in a journal.",
+      "shape": "micro-insight",
+      "rationale": "Single sharp idea: unmasking is relational, not individual. Pushes back against hollow self-help framing without dismissing it. Speaks to late-diagnosed adults specifically without generalising to all.",
+      "source_url": "https://neurosparkhealth.com/masking/unmasking-autism-as-a-late-identified-autistic-adult",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-05",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "61% of employers say they're actively recruiting neurodivergent candidates. 42% of neurodivergent employees receive no workplace adjustments at all. What exactly is being supported here?",
+      "shape": "question",
+      "rationale": "Juxtaposes the two data points to surface institutional hypocrisy without editorialising. Closing question invites genuine conversation rather than collecting outrage. Stats drawn directly from briefing sources.",
+      "source_url": "https://careers.wgu.edu/blog/2026/09/18/neurodiversity-accommodation-requests-early-career-workplace-rights/",
+      "sensitivity_flag": "Verify exact stat figures against the WGU and Simply Psychology sources before posting — numbers drawn from briefing summary, not a direct source read.",
+      "id": "2026-09-27T17-24-37-06",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD/PDA parenting frame: keep the sequence stable (autistic nervous system needs structure for safety) and vary the surface details (ADHD nervous system needs the novelty). Both, not either.",
+      "shape": "practical",
+      "rationale": "Single actionable frame that names both nervous-system needs without privileging one neurotype over the other. Concrete enough to apply immediately. No rewards/consequences framing that would worsen PDA avoidance.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-07",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD task initiation: the goal isn't to complete the task. Make the first five minutes so small that refusing them feels slightly ridiculous. The nervous system needs a ramp, not a runway.",
+      "shape": "micro-insight",
+      "rationale": "Reframes the initiation problem in one sentence and gives a one-sentence strategy that works with the neurotype. 'A ramp, not a runway' is the quotable close. No 'this will definitely work for you' overclaim.",
+      "source_url": "https://sachscenter.com/adhd-strategies-for-adults/",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-08",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "It's not that autistic people 'need control.' There are distinct types of autonomy that create nervous-system safety — sensory, temporal, informational. Knowing which one is under threat changes the whole response.",
+      "shape": "practical",
+      "rationale": "Moves the conversation from a reductive 'control' framing to a more specific and actionable map of autonomy types. Opens door to self-reflection and practical application for individuals and families alike.",
+      "source_url": "https://theautismdoctor.substack.com/p/the-7-forms-of-autonomy-that-create",
+      "sensitivity_flag": "Briefing flags this source's publish date as unverified — read the piece before posting to confirm it is current and the autonomy taxonomy is accurately characterised here.",
+      "id": "2026-09-27T17-24-37-09",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "The demand-avoidant response isn't the enemy. It's a protective part running an old programme — one it learned under real pressure. That's not the same as being broken.",
+      "shape": "reframe",
+      "rationale": "Applies the IFS 'protective part' frame from the Psychology Today May 2026 piece in plain language. Compassionate without being saccharine; gives the avoidance a reason without pathologising the person.",
+      "source_url": "https://www.psychologytoday.com/us/blog/the-complex-ptsd-chronicles/202605/pathological-demand-avoidance-and-the-parts-that-learned-to",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-10",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout tends to hit hardest at transition points — career escalation, becoming a parent, major life change. That's not weakness at the worst moment. It's a nervous system that was already at its limit.",
+      "shape": "validation",
+      "rationale": "Complements the 'math not morality' reframe by naming specific trigger contexts. Gives people a concrete reason why burnout arrived when it did — reducing self-blame precisely when it's most acute.",
+      "source_url": "https://mythrivecollective.com/autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-09-27T17-24-37-11",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "68% of neurodivergent employees don't know what workplace adjustments they can request. If the company 'supports neurodiversity' but never told you that — what did support actually look like?",
+      "shape": "question",
+      "rationale": "Uses the 68% stat to reframe the accommodation gap as an institutional accountability question rather than individual failure. Invites real conversation without targeting individuals. Distinct angle from the 61/42% post.",
+      "source_url": "https://careers.wgu.edu/blog/2026/09/18/neurodiversity-accommodation-requests-early-career-workplace-rights/",
+      "sensitivity_flag": "Verify the 68% figure directly against the WGU source before posting.",
+      "id": "2026-09-27T17-24-37-12",
+      "status": "draft",
+      "char_count": 191,
+      "over_limit": false
+    }
+  ]
+}
