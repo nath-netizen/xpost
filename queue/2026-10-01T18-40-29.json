@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-01T18:40:29.393Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a motivation problem. It's a capacity problem. The executive system isn't refusing — it literally cannot generate the action. That's not character. That's a nervous system at its limit.",
+      "shape": "reframe",
+      "rationale": "Names the motivation/capacity distinction precisely — the sharpest version of a feeling the community holds but rarely sees articulated this clearly. Short, declarative sentences suit the reframe shape.",
+      "source_url": "https://autisticamber.substack.com/p/burnout-vs-autistic-burnout-why-rest",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-01",
+      "status": "draft",
+      "char_count": 208,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis does something specific to your history. Events you filed as personal failures get re-filed as: experiences of someone nobody had told about themselves. Same events. Different folder. That reframe is enormous.",
+      "shape": "validation",
+      "rationale": "Draws directly from the 2026 PMC study's identity re-filing finding. 'Same events. Different folder.' is quotable shorthand for a genuinely complex psychological process.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087149/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-02",
+      "status": "draft",
+      "char_count": 224,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' names a survival response as a defect. 'Persistent Drive for Autonomy' names the actual need. Same nervous system. Very different story about what kind of person you are.",
+      "shape": "reframe",
+      "rationale": "Puts both terms side by side so the contrast does the work. Earns engagement from PDA adults and parents of PDA kids alike — without reducing it to pedantry.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-03",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "In ADHD spaces you're partially seen. In autistic spaces you're partially seen. You carry both, but neither community quite fits. AuDHD isn't a trendy label — it's the end of feeling half-right everywhere you go.",
+      "shape": "validation",
+      "rationale": "Names the 'half-right problem' that many AuDHD people haven't seen plainly stated. Grounded in the Sept 2026 seminar discourse; the rhythm of the opening parallelism earns the landing.",
+      "source_url": "https://whws.org.au/beyond-the-mask-audhd-neurodivergent-womens-seminar-2026-blog-round-up/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-04",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Regular burnout lifts with rest. Autistic burnout often doesn't — because the cost isn't from overwork. It's from the chronic ambient load of existing in a world calibrated for a different nervous system. Two weeks off doesn't pause that.",
+      "shape": "micro-insight",
+      "rationale": "Reframes 'why am I still exhausted after my break?' in a single paragraph. 'Chronic ambient load' is precise and new to most readers; 'Two weeks off doesn't pause that' is the sentence people will screenshot.",
+      "source_url": "https://mythrivecollective.com/autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-05",
+      "status": "draft",
+      "char_count": 238,
+      "over_limit": false
+    },
+    {
+      "text": "82% of neurodivergent employees feel pressure to mask at work. Only 51% have ever asked for an accommodation. What fills that gap — and who does it actually protect?",
+      "shape": "question",
+      "rationale": "The gap between the toll and the ask is the real story. Closing with 'who does it actually protect?' nudges toward systemic thinking without telling readers what to think.",
+      "source_url": "https://mma.prnewswire.com/media/2688007/Understood_2025_Neurodiversity_at_Work_Survey_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-06",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting with PDA kids isn't 'giving up on boundaries.' It's a deliberate nervous-system intervention. Every unnecessary demand adds load to an already-overwhelmed threat-detection system. Reducing demand creates the conditions where connection becomes possible.",
+      "shape": "reframe",
+      "rationale": "Directly addresses the 'you're just giving in' criticism PDA parents hear constantly. Backed by the 2026 Wiley clinical pilot. Gives parents language to defend the approach to people who don't understand it.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/ped4.70028",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-07",
+      "status": "draft",
+      "char_count": 274,
+      "over_limit": false
+    },
+    {
+      "text": "The ADHD bottleneck isn't motivation — it's initiation. Once started, most ADHD adults can sustain. Body doubling works because presence, even a simulated one, is often what the nervous system needs to begin.",
+      "shape": "practical",
+      "rationale": "Explains *why* body doubling works, not just that it does. The initiation/motivation distinction is the real insight; body doubling is the practical application. Grounded in the Sept 2026 VR/arXiv study.",
+      "source_url": "https://arxiv.org/pdf/2509.12153",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-08",
+      "status": "draft",
+      "char_count": 208,
+      "over_limit": false
+    },
+    {
+      "text": "One autistic woman described it exactly: 'I'm doing all of that feeling like an alien in a human suit.' Two layers of masking — as a woman, as an autistic person — running simultaneously. That's not overthinking. That's the actual cost.",
+      "shape": "validation",
+      "rationale": "The participant quote is vivid and immediately recognizable. Attribution to lived experience rather than clinical framing matches the voice guide's values; 'That's not overthinking' is the validation payoff.",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/09593535261445110",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-09",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "The word 'lazy' has probably done more damage to undiagnosed neurodivergent people than almost any other word. It mistakes a capacity limit for a character flaw. Those aren't the same thing.",
+      "shape": "micro-insight",
+      "rationale": "Evergreen reframe that names a shared injury precisely. High recognition value across ADHD, autistic, and AuDHD communities. 'Those aren't the same thing' lands hard because everyone already knows it.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-10",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "If you got your diagnosis as an adult: did you go back through old memories and see them differently? Not 'I failed' but 'that happened to someone nobody had told about themselves yet'?",
+      "shape": "question",
+      "rationale": "Turns the PMC study's identity re-filing finding into a direct community question. Invites genuine personal replies rather than passive engagement; the second 'not/but' framing models the reframe without lecturing.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13087149/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-11",
+      "status": "draft",
+      "char_count": 185,
+      "over_limit": false
+    },
+    {
+      "text": "For PDAers and people parenting them: the demand isn't just the task itself. It's the implicit expectation attached to it. Even 'do you want a snack?' can register as a demand. Knowing that changes how you communicate.",
+      "shape": "practical",
+      "rationale": "Concrete and immediately usable. Addresses a PDA-familiar audience directly without being prescriptive or diagnostic. The snack example is specific enough to be recognizable, mundane enough to be believed.",
+      "source_url": "https://iepfocus.com/low-demand-parenting-pda/",
+      "sensitivity_flag": null,
+      "id": "2026-10-01T18-40-29-12",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    }
+  ]
+}
