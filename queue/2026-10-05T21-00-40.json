@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-05T21:00:40.574Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a motivation problem. It's a capacity problem. Demands exceeded what the nervous system could carry. That distinction matters — because the fix isn't 'try harder.'",
+      "shape": "reframe",
+      "rationale": "Delivers the core reframe from Angle 1 in the briefing's own quotable phrasing. Self-contained, no medical prescription, no cure framing. The closing line does the work without moralising.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-isn-t-laziness-how-autistic-burnout-therapy-can-help-you-recover-without-more-pres",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-01",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "If you spent years being treated for depression while in autistic burnout, that's not your failure. The screeners weren't built to tell the difference. New measures finally are.",
+      "shape": "validation",
+      "rationale": "Validates the misidentification experience from Angle 1 without making a diagnosis claim — frames it as a systemic tool gap, not individual error. Ends on a note of progress, not just grievance.",
+      "source_url": "https://www.tosharollins.com/autism-ally-blog/1441718-burnout-isnt-laziness-its-a-nervous-system-limit",
+      "sensitivity_flag": "Mentions depression treatment in passing; framed as a screener gap, not a clinical claim. Does not say 'you were misdiagnosed' — only that the tools couldn't distinguish. Acceptable, but confirm the AASPIRE Burnout Measure distinction holds before posting.",
+      "id": "2026-10-05T21-00-40-02",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic inertia — can't start, can't stop, can't switch — was named by the community long before research caught up. A 2026 peer-reviewed study used community language as its primary data. That's not nothing.",
+      "shape": "validation",
+      "rationale": "Credits the community's epistemic authority (Angle 2) and cites a specific, verifiable source. The plain closing phrase earns warmth without sentimentality.",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12873400/",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-03",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "The same mechanism that makes starting hard is what makes deep immersion possible. Autistic inertia isn't only a deficit. It's also how flow works.",
+      "shape": "micro-insight",
+      "rationale": "Pulls the positive flip side from Angle 2 as a standalone observation. Brief, reframes without erasing the difficulty. No inspiration porn — it doesn't say the struggle is secretly a gift, only that the mechanism has two faces.",
+      "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12873400/",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-04",
+      "status": "draft",
+      "char_count": 147,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD. Red and blue don't sit side by side — they blend. The result is a third colour. That's why neither framework on its own quite fits the experience.",
+      "shape": "micro-insight",
+      "rationale": "Packages the tie-dye model from Angle 3 in a single, quotable image. Directly useful to AuDHD people who feel seen by neither community fully. No functioning labels.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-05",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "For AuDHD burnout: rest alone isn't the answer. The autism side needs low demand. The ADHD side needs stimulation to regulate. Total withdrawal hits both wrong. The goal is selective input, not zero.",
+      "shape": "practical",
+      "rationale": "Names the specific gap from Angle 4 and pivots immediately to the reframe — selective stimulation over total withdrawal. Avoids generic burnout advice. Respects the reader's intelligence by being direct.",
+      "source_url": "https://neurodivergentinsights.substack.com/p/audhd-burnout-recovery-why-rest-alone",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-06",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "A PDA child's nervous system reads a demand the way yours reads physical danger. That's not defiance. It's threat detection. Adding consequences adds more threat — which is why that approach reliably backfires.",
+      "shape": "reframe",
+      "rationale": "Delivers the core PDA reframe from Angle 5: mechanism over morality. Redirects parent energy from compliance to environment without blaming them. No cure language, no pity.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": "Mechanism claim about threat detection and neuroception is grounded in current PDA literature; does not constitute diagnostic advice. Uses 'a PDA child' consistent with community framing. Acceptable, but avoid adding any language in replies that could read as a diagnosis claim.",
+      "id": "2026-10-05T21-00-40-07",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis can feel like finally getting the key to your own life — and also like the ground falling out. Both at once. If the self you built was mostly performance, the grief that follows is real.",
+      "shape": "validation",
+      "rationale": "Validates the dual emotional experience from Angle 6 without telling people how to feel. No toxic positivity, no pity. The final line names the grief specifically, which is what the community rarely sees acknowledged.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-08",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "If the diagnostic criteria were built on research that excluded you — if you scored too low because you'd learned to mask — what does it mean when someone tells you you 'don't seem autistic enough'?",
+      "shape": "question",
+      "rationale": "Drawn directly from the Springer systematic review (Angle 7). Poses a genuine question rather than outrage bait — the infuriating logic is self-evident without needing a punchline. Invites a real conversation.",
+      "source_url": "https://link.springer.com/article/10.1007/s10882-026-10055-x",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-09",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "You don't have to say 'autism' to ask for what you need at work. Written over verbal. Async over real-time. A fixed desk. These are workflow preferences. You can ask for them that way.",
+      "shape": "practical",
+      "rationale": "Addresses disclosure anxiety directly (Angle 8). Concrete, list-style, self-contained. Leaves the reader with an immediate action, not just validation.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-10",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "Up to 97% of autistic adults over 40 are unidentified, per a 2026 systematic review. Not because autism is rare in that group. Because the tools were built to find one kind of presentation.",
+      "shape": "reframe",
+      "rationale": "Uses the striking stat from Angle 7 to reframe the scale of the gap as structural, not epidemiological. The number earns the reach honestly — it comes from a peer-reviewed source.",
+      "source_url": "https://link.springer.com/article/10.1007/s10882-026-10055-x",
+      "sensitivity_flag": "The '97%' figure appears in the briefing as 'up to 97%' — that qualifier is load-bearing. The post preserves it. Verify against the primary Springer source before posting; do not drop or round the qualifier in any caption or reply.",
+      "id": "2026-10-05T21-00-40-11",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Simultaneously under- and overstimulated. Rule-bound and impulsive. Routine-seeking and novelty-hungry. If you're AuDHD, you hold these at the same time. Neither framework alone was built to name that.",
+      "shape": "validation",
+      "rationale": "Validates the internal contradiction of AuDHD (Angle 3) using the community's own lived description. No functioning labels, no cure framing. Closes by crediting the framework gap rather than pathologising the person.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-05T21-00-40-12",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    }
+  ]
+}
