@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-07T19:12:17.878Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "More than half of neurodivergent employees facing RTO mandates have reconsidered leaving, per a new NiB/Birkbeck report. This isn't a culture fit problem. It's a disability access problem.",
+      "shape": "reframe",
+      "rationale": "Opens with a concrete, defensible stat from a fresh 2026 source, then pivots the frame from culture discourse to access rights — the anger-without-outrage-bait quality the briefing flags as the angle's strength.",
+      "source_url": "https://neurodiversity.org/?p=11570",
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-01",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work was never just a perk for a lot of neurodivergent workers. It was the accommodation they quietly built for themselves when no one offered a formal one. RTO doesn't change where you sit. It takes that away.",
+      "shape": "reframe",
+      "rationale": "Companion to the stat post — same angle, editorial register instead of data-led. Speaks directly to the lived experience rather than the policy layer, different emotional entry point.",
+      "source_url": "https://inquirer.com/health/return-to-office-mandates-neurodivergent-workers-20250424.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-02",
+      "status": "draft",
+      "char_count": 217,
+      "over_limit": false
+    },
+    {
+      "text": "One reason late diagnoses cluster around perimenopause: estrogen may support the scaffolding that makes decades of masking possible. When it drops, that scaffolding can too. The diagnosis wasn't late.",
+      "shape": "validation",
+      "rationale": "Names a specific biological mechanism behind a widely felt but rarely explained experience. The final sentence reframes 'lateness' as compensation rather than failure — the key relief the briefing identifies.",
+      "source_url": "https://www.itv.com/news/granada/2026-09-23/how-perimenopause-is-leading-to-adhd-diagnosis-in-women",
+      "sensitivity_flag": "Makes a mechanistic claim about estrogen and neurochemical scaffolding. 'May support' hedge is present, but this is emerging science — verify the source directly supports this framing before posting.",
+      "id": "2026-10-07T19-12-17-03",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "They named the ADHD. The rest got filed under 'personality' or 'mood disorder.' Then the autism diagnosis arrives — sometimes decades later — and you realize: you weren't half-explained. You were half-seen.",
+      "shape": "validation",
+      "rationale": "'Half-seen' is the quotable frame — names the emotional weight of the AuDHD diagnostic sequence without any clinical claim. Targets the specific grief of years spent partially understood.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-04",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "Getting an ADHD diagnosis at 10 and an autism diagnosis at 35 isn't two separate things happening to you. It's one thing being slowly uncovered. ADHD is visible. Autism hides in its shadow.",
+      "shape": "validation",
+      "rationale": "Distinct from post 4 — reframes the sequence as a single narrative rather than a failure of medicine. More analytical; speaks to adults looking back on the pattern rather than sitting in the immediate aftermath.",
+      "source_url": "https://neurodivergentinsights.com/adhd-hides-autism/",
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-05",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'giving kids everything they want.' It's recognizing that for a PDAer, a request can register as a threat signal before the words are finished. You're not removing limits — you're removing the alarm.",
+      "shape": "reframe",
+      "rationale": "Directly rebuts the most common misread of low-demand approaches using the PDA community's own nervous-system framing. The alarm metaphor makes the physiological mechanism accessible without clinical language.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-06",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "A late autism diagnosis can hold relief and grief at the same time. Not one then the other — both at once. Grief for the years you explained yourself wrong. The support that never came. You don't have to just be grateful.",
+      "shape": "validation",
+      "rationale": "Names the duality explicitly and grants permission to hold both feelings. The final line counters the 'but shouldn't you be relieved?' dismissal the briefing identifies as a recurring harm to late-diagnosed people.",
+      "source_url": "https://embrace-autism.com/the-rise-of-late-autism-diagnoses/",
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-07",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    },
+    {
+      "text": "Unmasking isn't a switch. It's a temperature you adjust in rooms where you're actually safe. Partial counts. Contextual counts. It doesn't have to be total to be real.",
+      "shape": "micro-insight",
+      "rationale": "Tight and quotable. Replaces the binary 'you're either unmasking or not' frame with something graduated. The temperature metaphor earns the insight without over-explaining — designed to circulate.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-08",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout isn't proof you're too sensitive. It's what happens when your nervous system has been running at threat-response levels for years and finally hits its limit. That's not failure. It's a system doing its job.",
+      "shape": "reframe",
+      "rationale": "Leads with the shame-reduction framing the briefing ranks highest-leverage. Ends on the key pivot: the burnout was a correct response, not a malfunction. No clinical overclaim; the polyvagal framing is implied, not stated.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-09",
+      "status": "draft",
+      "char_count": 223,
+      "over_limit": false
+    },
+    {
+      "text": "Chronic masking keeps the body in a sustained stress state. The crash that follows isn't weakness. It's the nervous system's appropriate, protective response. It was doing its job the whole time.",
+      "shape": "micro-insight",
+      "rationale": "Companion to post 9 — mechanism-first structure rather than negation-first, slightly more biological framing for readers who think that way. Different opening, same landing.",
+      "source_url": "https://divergentdialogues.substack.com/p/navigating-autism-understanding-emotional",
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-10",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "When did you realize you'd been masking — and who was it for? Not asking rhetorically. The 'for whom' part changes the whole story.",
+      "shape": "question",
+      "rationale": "Clean, direct, no right answer. The 'for whom' frame is the genuine insight — it shifts masking from a trait to a relational act, opening space for responses across autism, ADHD, gender, and cultural identity without siloing.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-07T19-12-17-11",
+      "status": "draft",
+      "char_count": 131,
+      "over_limit": false
+    },
+    {
+      "text": "If you're neurodivergent and facing an RTO mandate: remote work may qualify as a reasonable accommodation even if you never formally requested it. That's a conversation worth having with HR before you start job-hunting.",
+      "shape": "practical",
+      "rationale": "Translates the access-rollback reframe into something immediately actionable. Bridges awareness to utility — the most distinct shape in the set.",
+      "source_url": "https://www.hrmagazine.co.uk/articles/return-to-office-policies-must-work-for-neurodivergent-staff",
+      "sensitivity_flag": "Edges toward practical employment guidance ('worth having with HR'). Not medical advice, but accommodation law varies by jurisdiction — if the audience is international, the framing may not hold universally.",
+      "id": "2026-10-07T19-12-17-12",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    }
+  ]
+}
