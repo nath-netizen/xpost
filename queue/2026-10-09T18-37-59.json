@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-09T18:37:59.374Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "For many late-diagnosed autistic adults, burnout wasn't what happened after the diagnosis. It was what finally made the traits visible enough to get one.",
+      "shape": "reframe",
+      "rationale": "Reframes 'why didn't I know sooner?' as a systemic failure rather than a personal one — directly validating without straying into clinical territory. Opens recognition without requiring any specific backstory from the reader.",
+      "source_url": "https://www.audhduk.org/knowledge-base/burnout-in-late-diagnosed-neurodivergent-adults",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-01",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "Women and AFAB people tend to mask in more contexts, for longer. 'Why didn't anyone catch it sooner?' isn't a personal failing — it's a pattern the diagnostic system kept creating.",
+      "shape": "validation",
+      "rationale": "Names the gendered diagnostic gap directly; 'tend to' framing is load-bearing and matches source language — validates without overgeneralising to every individual.",
+      "source_url": "https://www.scienceworkshealth.com/post/masking-burnout-understanding-autistic-camouflaging",
+      "sensitivity_flag": "Population-level claim supported by cited sources — 'tend to' framing is essential and must not be strengthened. Review before posting to confirm phrasing is preserved exactly.",
+      "id": "2026-10-09T18-37-59-02",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Swapping 'Pathological Demand Avoidance' for 'Persistent Drive for Autonomy' isn't cosmetic. It's a decision about whose framework gets to name a neurotype.",
+      "shape": "reframe",
+      "rationale": "Gets to the political and therapeutic heart of the naming debate in one sentence; quotable and discussion-opening without requiring the reader to already know the controversy.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-03",
+      "status": "draft",
+      "char_count": 156,
+      "over_limit": false
+    },
+    {
+      "text": "Which framing do you use: Pathological Demand Avoidance or Persistent Drive for Autonomy? The one you reach for tends to show you which framework you're already working inside.",
+      "shape": "question",
+      "rationale": "Opens the live naming debate without declaring a winner; invites genuine reflection rather than performance agreement, and will surface a real range of views from across the community.",
+      "source_url": "https://lifeskillsadvocate.com/blog/pathological-demand-avoidance-in-adults-guide/",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-04",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study suggests social anxiety — not masking itself — may be doing more harm to autistic adults' mental health. Which shifts the target: it's psychological safety, not suppression.",
+      "shape": "micro-insight",
+      "rationale": "Accurately represents a preliminary but genuinely surprising finding; gives language for an ambivalence many autistic people already feel about masking without dismissing real costs.",
+      "source_url": "https://www.psypost.org/social-anxiety-not-masking-may-drive-mental-health-struggles-in-autistic-adults/",
+      "sensitivity_flag": "Single study, preliminary — 'may' framing is non-negotiable. Do not flatten to 'masking is harmless'; that would misrepresent the finding and the field.",
+      "id": "2026-10-09T18-37-59-05",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "If the harm is coming from social threat rather than suppression, then psychological safety isn't a soft ask. It's the actual intervention.",
+      "shape": "reframe",
+      "rationale": "Draws the practical implication of Angle 3 in plain language — useful for autistic people who want to name concretely what they need from workplaces, schools, and relationships.",
+      "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1701615/full",
+      "sensitivity_flag": "Strong practical conclusion drawn from preliminary research — verify it reads as one defensible inference, not settled clinical guidance. Consider softening to 'points toward' if the source language is hedged.",
+      "id": "2026-10-09T18-37-59-06",
+      "status": "draft",
+      "char_count": 139,
+      "over_limit": false
+    },
+    {
+      "text": "Exec function strategies don't land on a dysregulated nervous system. 'Nothing ever sticks for me' is usually a sequencing problem, not a discipline problem.",
+      "shape": "reframe",
+      "rationale": "Directly names the cycle many ADHD adults are exhausted by; 'sequencing problem' is a non-shaming frame that invites curiosity rather than self-blame and earns saves.",
+      "source_url": "https://www.additudemag.com/nervous-system-regulation-techniques-adhd/",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-07",
+      "status": "draft",
+      "char_count": 157,
+      "over_limit": false
+    },
+    {
+      "text": "Regulate before you strategise: drink water, move, lower sensory inputs. Exec function tools need a calm baseline. They were never designed to run on overwhelm.",
+      "shape": "practical",
+      "rationale": "Gives the concrete next step after the Angle 4 reframe; tight enough to save and act on without being overwhelming — practical without prescriptive or clinical framing.",
+      "source_url": "https://www.additudemag.com/nervous-system-regulation-techniques-adhd/",
+      "sensitivity_flag": "General wellness suggestions, not medical advice — current framing is sufficiently evergreen. Confirm it does not read as a clinical treatment protocol.",
+      "id": "2026-10-09T18-37-59-08",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting can genuinely help PDA kids and still be relentless, isolating, and brutal. The approach working doesn't mean the parent is okay. Both are true.",
+      "shape": "validation",
+      "rationale": "Names the gap most PDA content skips; validates the exhaustion without undermining the approach or framing parents as martyrs — stays in the lived experience rather than observing it from outside.",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/ped4.70028",
+      "sensitivity_flag": "This angle is prone to martyrdom or pity drift in replies — the post itself holds the line, but monitor thread tone. Ensure 'the parent is okay' does not read as catastrophising; current framing is balanced.",
+      "id": "2026-10-09T18-37-59-09",
+      "status": "draft",
+      "char_count": 165,
+      "over_limit": false
+    },
+    {
+      "text": "Low demand prevents meltdowns and can drift into complete paralysis. The AuDHD question most explainers skip: how does anything get started when starting itself registers as a demand?",
+      "shape": "micro-insight",
+      "rationale": "Names the specific live edge of AuDHD inertia that follows from low-demand framing; goes beyond 'low demand is good' to the honest next problem the community is actually asking about privately.",
+      "source_url": "https://www.scienceworkshealth.com/post/pda-in-an-audhd-child",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-10",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "What was the first thing you let yourself drop when you started unmasking? That moment almost never gets talked about honestly.",
+      "shape": "question",
+      "rationale": "Invites genuine first-person reflection without framing unmasking as either a triumph or a tragedy; earns engagement through recognition rather than performance — short enough to feel safe to answer.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42435102/",
+      "sensitivity_flag": null,
+      "id": "2026-10-09T18-37-59-11",
+      "status": "draft",
+      "char_count": 127,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD workplace accommodations worth actually asking for: written agendas before meetings, async check-ins instead of surprise calls, protected deep-work blocks. Specific, reasonable, askable.",
+      "shape": "practical",
+      "rationale": "Immediately actionable; moves beyond 'quiet space' to concrete, nameable requests — generates saves and shares to managers, meets the community where many of them are right now.",
+      "source_url": "https://brettwhitmarsh.substack.com/p/10-audhd-workplace-accommodations",
+      "sensitivity_flag": "Frame as 'worth asking for' not 'you are legally entitled to' — entitlements vary by jurisdiction. Current framing is appropriately general but flag if edited toward rights language.",
+      "id": "2026-10-09T18-37-59-12",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    }
+  ]
+}
