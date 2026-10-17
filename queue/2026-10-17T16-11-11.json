@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-17T16:11:11.760Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Behavioural activation — do more, engage more, get out — is standard depression treatment. For autistic burnout, it often makes things worse. The mechanism is different. Most frameworks don't account for that yet.",
+      "shape": "reframe",
+      "rationale": "Names a concrete misalignment between depression protocols and autistic burnout without blaming clinicians or the person. Non-prescriptive ending keeps it defensible.",
+      "source_url": "https://embrace-autism.com/autistic-burnout-is-not-depression/",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-01",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis often follows burnout, not coincidentally. Masking takes enormous cognitive resources. When those run out, autistic traits that were invisible suddenly aren't. That's not failure — that's a predictable structural pattern.",
+      "shape": "validation",
+      "rationale": "Reframes 'why didn't anyone notice sooner?' as structural rather than personal. High recognition value for late-diagnosed adults; no overclaiming.",
+      "source_url": "https://embrace-autism.com/the-rise-of-late-autism-diagnoses/",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-02",
+      "status": "draft",
+      "char_count": 236,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD the way you'd add two numbers. Think tie-dye: the neurotypes blend into entirely new colours. That's why AuDHD people often don't quite fit either diagnosis — they weren't supposed to.",
+      "shape": "micro-insight",
+      "rationale": "Borrows the tie-dye analogy directly from the Thinking Autism Guide source. Gives language to a widely-felt experience without over-claiming. Fully self-contained.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-03",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "For PDA-profile people, demand avoidance isn't defiance. Clinicians describe it as closer to a panic response when autonomy feels threatened. Reward-and-consequence approaches escalate the nervous system — which is why they tend to make things worse.",
+      "shape": "reframe",
+      "rationale": "Challenges the most damaging misconception about PDA without blaming parents or educators. Grounded in current clinical framing per Psychology Today and ReachLink sources.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": "'Escalate the nervous system' is colloquial clinical language — accurate to the source framing but slightly causal. Acceptable given source support; avoid strengthening the claim further.",
+      "id": "2026-10-17T16-11-11-04",
+      "status": "draft",
+      "char_count": 250,
+      "over_limit": false
+    },
+    {
+      "text": "\"Pathological Demand Avoidance\" vs. \"Pervasive Drive for Autonomy\" — this isn't just semantics. \"Pathological\" locates the problem inside the person. The alternative names a need. Which framing do you think shapes better responses?",
+      "shape": "question",
+      "rationale": "Opens genuine conversation without requiring anyone to take a harmful position. The contrast between the two names is clear. Invites community voice rather than declaring a winner.",
+      "source_url": "https://divergentdialogues.substack.com/p/understanding-pervasive-drive-for",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-05",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent workers don't know their accommodation rights. 51% don't know who to ask. That's not failure to advocate — it's a knowledge gap workplaces are not filling. (Understood 2026)",
+      "shape": "practical",
+      "rationale": "Specific sourced stats that remove self-blame and redirect to structural failure. Parenthetical citation keeps it honest. Leaves room for practical follow-on sharing.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-06",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "72% of neurodivergent workers mask at work. Research finds they do it in response to documented workplace hostility — not as a neurotic habit. In affirming environments, masking drops. The problem isn't the masking.",
+      "shape": "reframe",
+      "rationale": "Shifts responsibility from individuals to environment. Punch line is quotable. Accurately summarises the UCL/Macquarie finding via Scimex alongside the Understood stat.",
+      "source_url": "https://www.scimex.org/newsfeed/autistic-and-neurodivergent-people-feel-under-pressure-to-hide-their-true-self-at-work",
+      "sensitivity_flag": "The 72% stat comes from Understood; the UCL/Macquarie hostility finding comes via Scimex. Combining both in one post is accurate but readers won't see two sources — defensible as written, but don't merge them more tightly.",
+      "id": "2026-10-17T16-11-11-07",
+      "status": "draft",
+      "char_count": 215,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout recovery isn't about adding better habits. It's about subtraction — fewer demands, protected rest, lowered expectations. Almost every standard wellbeing framework gets this backwards.",
+      "shape": "practical",
+      "rationale": "Permission-granting and counterintuitive. 'Subtraction' as the operative word is clean and memorable. Not prescriptive — describes what recovery looks like, not what someone must do.",
+      "source_url": "https://embrace-autism.com/what-is-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-08",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "Years of depression treatment that helped a little but never quite worked. That's a common late-diagnosis story. Not because clinicians were careless — because autistic burnout and depression aren't the same thing.",
+      "shape": "validation",
+      "rationale": "Names a specific, widely-shared experience without blaming anyone. Structure mirrors the validation shape: experience → not your fault → structural reason.",
+      "source_url": "https://embrace-autism.com/autistic-burnout-is-not-depression/",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-09",
+      "status": "draft",
+      "char_count": 214,
+      "over_limit": false
+    },
+    {
+      "text": "Of neurodivergent workers who actually received an accommodation, 56% said it meaningfully changed their experience. The barrier isn't willingness. It's that most people never got that far — because they didn't know where to start.",
+      "shape": "micro-insight",
+      "rationale": "Flips the narrative from 'accommodations don't work' to 'most people never reach them.' The 56% stat is accurate per Understood 2026. Approaches the same angle as post 6 from a different direction.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-10",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "What if the hardest part of autistic burnout recovery is that it looks like giving up? Less, quieter, slower. Not the 'getting better' story anyone around you will recognise or praise.",
+      "shape": "question",
+      "rationale": "Evergreen reframe that opens genuine reflection without prescribing anything. The tension between what recovery actually requires and what others expect is real and under-named.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-11",
+      "status": "draft",
+      "char_count": 184,
+      "over_limit": false
+    },
+    {
+      "text": "If you've been told you're too permissive with a demand-avoidant child — the standard approach probably made things worse. That's not your failure. It's a mismatch between the framework and how this nervous system works.",
+      "shape": "validation",
+      "rationale": "Addresses a common harm done to PDA parents without being preachy. 'Mismatch between the framework and the nervous system' is accurate and non-blaming. Validates without overclaiming.",
+      "source_url": "https://www.reachlink.com/fr/conseils/parenting/why-normal-parenting-backfires-with-demand-avoidant-children/",
+      "sensitivity_flag": null,
+      "id": "2026-10-17T16-11-11-12",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    }
+  ]
+}
