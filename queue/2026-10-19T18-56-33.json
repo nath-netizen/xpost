@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-19T18:56:33.895Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't depression. It has its own definition: chronic exhaustion, loss of skills, sharply reduced tolerance. They don't respond to the same treatment. That distinction isn't minor.",
+      "shape": "reframe",
+      "rationale": "Names the clinical distinction precisely without prescribing anything — validates years of 'treatment-resistant' experiences by pointing at the wrong frame, not the person.",
+      "source_url": "https://www.sondermind.com/resources/articles-and-content/autistic-burnout-recovery/",
+      "sensitivity_flag": "'They don't respond to the same treatment' edges toward treatment guidance. Defensible from Raymaker et al. but recommend editorial sign-off before posting.",
+      "id": "2026-10-19T18-56-33-01",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Years of anxiety and depression diagnoses that never quite fit. For many late-diagnosed autistic people, what was actually happening was burnout — a nervous system mismatch with a world not built for them.",
+      "shape": "validation",
+      "rationale": "Mirrors the exact narrative late-diagnosed autistic people tell about their diagnostic history. Recognition-heavy without medicalizing or advising.",
+      "source_url": "https://www.sondermind.com/resources/articles-and-content/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-02",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism stacked on top of ADHD. It's more like tie-dye — the two blend into something with its own patterns that neither label fully predicts.",
+      "shape": "micro-insight",
+      "rationale": "The tie-dye metaphor is memorable and accurate — it replaces a clunky additive model with something that matches lived experience. Short enough to share intact.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-03",
+      "status": "draft",
+      "char_count": 153,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent employees don't know what workplace accommodations they can request. 56% of those who got them say it improved their experience. The gap isn't ambition. It's information.",
+      "shape": "practical",
+      "rationale": "Leading with the stat makes the information gap concrete and systemic. The closing line reframes struggling at work as an information problem, not a personal failure.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-04",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "If you've been struggling at work and telling yourself you just need to try harder — 70% of neurodivergent employees don't even know what accommodations they can request. That's not a character issue.",
+      "shape": "validation",
+      "rationale": "Addresses imposter syndrome directly by naming the 'just try harder' internal monologue before delivering the stat. Meets people where they already are.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-05",
+      "status": "draft",
+      "char_count": 200,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' → 'Persistent Drive for Autonomy.' The debate isn't settled — PDA isn't in the DSM or ICD. But the direction matters: one treats a need as a flaw. The other doesn't.",
+      "shape": "reframe",
+      "rationale": "Acknowledges the live clinical dispute honestly — PDA outside DSM/ICD — while still landing the core reframe. Gives both sides of the community something genuine to respond to.",
+      "source_url": "https://autismspectrumnews.org/reframing-pathological-demand-avoidance-a-neurodiversity-affirming-perspective/",
+      "sensitivity_flag": "Post names PDA's absence from DSM/ICD, but check that 'the direction matters' framing doesn't read as clinical endorsement of a contested label.",
+      "id": "2026-10-19T18-56-33-06",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't no expectations. It's removing the threat around demands so connection is possible first. Expectations become workable from connection — not the other way around.",
+      "shape": "reframe",
+      "rationale": "Gives PDA parents a quotable defense against 'you're just letting them do whatever.' The logic holds up in a conversation with a skeptical pediatrician or teacher.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-07",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "The ADHD app graveyard is real. Complex productivity systems require executive function to maintain — often more than they save. The setup becomes its own avoidance task.",
+      "shape": "micro-insight",
+      "rationale": "Names a widely shared ADHD experience with precision. 'The setup becomes its own avoidance task' is the kind of line people screenshot. The naming is the whole value here.",
+      "source_url": "https://habi.app/insights/adhd-executive-dysfunction/",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-08",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "If your productivity system needs maintenance, it's too heavy. For ADHD brains, setup becomes procrastination. One list. One tool. Radical simplification usually wins.",
+      "shape": "practical",
+      "rationale": "Pairs with the micro-insight post but delivers the counter-move directly — concrete, actionable, nothing to download. The rhythm of the last three sentences is punchy and copy-paste-ready.",
+      "source_url": "https://habi.app/insights/adhd-executive-dysfunction/",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-09",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "72% of neurodivergent employees feel pressure to mask or perform neurotypicality at work. Not a fringe experience. A documented, systemic one. What would workplaces look like if that number dropped?",
+      "shape": "validation",
+      "rationale": "The stat transforms a private, isolating experience into a verifiable pattern. The closing question opens genuine conversation without demanding a particular answer or framing.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-10",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance isn't defiance. It's a threat response — the same fight/flight/freeze the nervous system runs on any perceived danger. That shifts the question from 'why won't you' to 'what do you need first?'",
+      "shape": "reframe",
+      "rationale": "The pivot from moral failing to nervous-system wiring is the most validating move available for this topic. The question shift at the end is immediately usable by parents, teachers, and managers.",
+      "source_url": "https://stylist.co.uk/health/mental-health/demand-avoidance-autism-adhd-neurodivergent/917080",
+      "sensitivity_flag": null,
+      "id": "2026-10-19T18-56-33-11",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "What does 'feeling safe' actually feel like for you — and did you have to learn it from scratch? For a lot of autistic adults, calm was so elusive for so long it stopped feeling like something that belonged to them.",
+      "shape": "question",
+      "rationale": "Opens reflection without demanding vulnerability. Specific enough to feel real — not generic wellness content. The second sentence validates the experience without speaking for anyone.",
+      "source_url": null,
+      "sensitivity_flag": "Polyvagal framing underpinning this angle has thin 2026 peer-reviewed anchors per briefing note. Post as written is evergreen enough to stand without citation, but avoid adding specific polyvagal claims in replies.",
+      "id": "2026-10-19T18-56-33-12",
+      "status": "draft",
+      "char_count": 215,
+      "over_limit": false
+    }
+  ]
+}
