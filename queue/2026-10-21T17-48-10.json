@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-21T17:48:10.981Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "AuDHD isn't autism plus ADHD. It's what happens when the two traits bleed into each other — new colors neither diagnosis was built to name.",
+      "shape": "reframe",
+      "rationale": "Names the community-born AuDHD identity by challenging the additive model; the 'tie-dye' framing is fresh and specific, giving late-diagnosed adults language for an experience the clinical world hasn't caught up to.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-01",
+      "status": "draft",
+      "char_count": 139,
+      "over_limit": false
+    },
+    {
+      "text": "Craving routine AND novelty at the same time isn't a contradiction. For a lot of AuDHD people, it's just the texture of how they're built.",
+      "shape": "micro-insight",
+      "rationale": "Offers one concrete example of the AuDHD blend — instantly recognizable to the community, gentle enough to invite outsider curiosity rather than debate. Complements the reframe post without repeating it.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-02",
+      "status": "draft",
+      "char_count": 138,
+      "over_limit": false
+    },
+    {
+      "text": "When an autistic person loses skills they used to have, that's not them giving up. It's their nervous system giving out. A new systematic review of 48 studies confirms autistic burnout is distinct from depression.",
+      "shape": "reframe",
+      "rationale": "Reframes the 'lazy/avoidant' narrative with the capacity-crash mechanism and anchors it to a large, recent systematic review. The two-sentence setup earns the third.",
+      "source_url": "https://researchers.mq.edu.au/en/publications/burnout-as-experienced-by-autistic-people-a-systematic-review/",
+      "sensitivity_flag": "Mild: 'distinct from depression' simplifies the review's finding that burnout is distinct even when depression co-occurs. No clinical advice implied, but any caption should preserve that nuance.",
+      "id": "2026-10-21T17-48-10-03",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "'Lazy' and 'not trying' were the words many late-diagnosed autistic adults heard for years. Often, the better word was burnout — a capacity crash, not a character flaw.",
+      "shape": "validation",
+      "rationale": "Speaks directly to the history-rewriting experience of late-diagnosed adults. No current claim is staked, so no source is needed — this is an evergreen validation that earns its own weight.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-04",
+      "status": "draft",
+      "char_count": 168,
+      "over_limit": false
+    },
+    {
+      "text": "'Just unmask' advice skips a step: does this environment actually warrant it? Selective masking isn't failure. It's reading your room and protecting yourself. That's a skill, not a compromise.",
+      "shape": "validation",
+      "rationale": "Names the oversimplification in mainstream unmasking discourse without dismissing unmasking itself; validates the intelligence of autistic people assessing their own safety before acting.",
+      "source_url": "https://quietlyautisticatlast.buzzsprout.com/2526714/episodes/19698323-52-unmasking-is-not-safe-everywhere",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-05",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 preprint reviewed 54 disclosure studies. When psychological safety was low, disclosure often triggered stereotyping and hollow accommodations. Autistic people running that risk calculation aren't paranoid.",
+      "shape": "reframe",
+      "rationale": "Backs the risk-calculation frame with a concrete, recent source; moves the conversation from community assertion to evidenced claim and opens the door to discussing system design rather than individual decisions.",
+      "source_url": "https://www.preprints.org/manuscript/202506.0893/v1",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-06",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting looks, from the outside, like doing nothing. It costs, from the inside, something nobody's keeping track of. Parents of PDA kids are some of the most isolated people in the neurodivergent community.",
+      "shape": "validation",
+      "rationale": "Names the invisible cost of PDA parenting without centering the parent as patient or the child as burden. Fills a genuine gap — this audience rarely sees this named without judgment.",
+      "source_url": "https://attunedspectrum.buzzsprout.com/2518512/episodes/19370804-the-burnout-nobody-talks-about-what-pda-parenting-actually-costs-you",
+      "sensitivity_flag": "Mild: 'some of the most isolated' is strong. Supported by qualitative data showing simultaneous blame from schools, family, and professionals — defensible — but watch for audiences who may read it as centering parents over PDA kids.",
+      "id": "2026-10-21T17-48-10-07",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic employees aren't failing to access accommodations. They're calculating whether it's safe to ask. That's a rational response to a system that requires disclosure before it helps.",
+      "shape": "reframe",
+      "rationale": "Shifts the frame from individual deficit to system design. Grounded in IES findings on line-manager variance and the structural burden of disclosure-first accommodation models.",
+      "source_url": "https://www.employment-studies.co.uk/resource/future-work-behind-masks-–-good-work-autistic-women",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-08",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "For PDA kids, the demand itself becomes the problem — regardless of the reward. Reducing demands isn't giving up. It takes more deliberateness, not less. Connection before compliance is the mechanism, not the compromise.",
+      "shape": "practical",
+      "rationale": "Reframes low-demand parenting as skilled and intentional; gives parents a phrase they can hold onto and use to explain their approach to skeptical schools and relatives.",
+      "source_url": "https://attunedspectrum.buzzsprout.com/2518512/episodes/18684684-pda-low-demand-parenting-vs-lazy-parenting-the-truth-about-pda-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-09",
+      "status": "draft",
+      "char_count": 220,
+      "over_limit": false
+    },
+    {
+      "text": "For some autistic adults, co-regulation — a calm person nearby, predictable structure — works better than any technique. Not as a stepping stone to self-regulation. Just as the way it works.",
+      "shape": "micro-insight",
+      "rationale": "Challenges the individualistic default of regulation advice and validates people who feel 'broken' by breathing exercises while naming what actually helps them.",
+      "source_url": null,
+      "sensitivity_flag": "Moderate: background sources draw on polyvagal theory, which is contested in academic neuroscience. Post deliberately avoids mechanistic claims and stays at the practical/relational level — the right call. Flag if a commenter pushes on the science.",
+      "id": "2026-10-21T17-48-10-10",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "Every PubMed study on autistic burnout was published in the last five years. Most sampled white, late-diagnosed women. Whose burnout are we actually describing — and who's still invisible in the framework?",
+      "shape": "question",
+      "rationale": "Opens a genuine community conversation about research representation without being defeatist. Invites the community to extend and complicate the burnout framework rather than simply trust or reject it.",
+      "source_url": "https://researchers.mq.edu.au/en/publications/burnout-as-experienced-by-autistic-people-a-systematic-review/",
+      "sensitivity_flag": null,
+      "id": "2026-10-21T17-48-10-11",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "What would workplaces look like if they didn't wait for autistic employees to disclose? If the infrastructure was already there? That's not a hypothetical — it's what some research is starting to argue.",
+      "shape": "question",
+      "rationale": "Reframes the disclosure debate from personal decision to systemic design question; opens a practical conversation about what proactive, universal inclusion would actually look like.",
+      "source_url": "https://www.employment-studies.co.uk/resource/future-work-behind-masks-–-good-work-autistic-women",
+      "sensitivity_flag": "Mild: 'what some research is starting to argue' was chosen deliberately over 'where research is pointing' to avoid implying broader consensus than one IES report and one Aspect study can support.",
+      "id": "2026-10-21T17-48-10-12",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    }
+  ]
+}
