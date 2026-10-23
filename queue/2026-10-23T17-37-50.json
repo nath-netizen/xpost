@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-23T17:37:50.895Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout and depression look alike. Key difference: burnout often leaves special interests intact. Depression tends to blunt everything. Same presentation, different engine — different fix.",
+      "shape": "reframe",
+      "rationale": "Names the single most practically useful diagnostic tell — the special-interests clue — without overstating it as a formal criterion. Earns recognition from anyone who's wondered why depression treatment wasn't landing.",
+      "source_url": "https://quietlyautisticatlast.buzzsprout.com/2526714/episodes/18604333-23-the-cost-of-mislabeling-autistic-burnout-as-depression",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-01",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Years of therapy that didn't work might not have been bad therapy. It might have been the wrong problem. Autistic burnout treated as depression can deepen rather than resolve.",
+      "shape": "validation",
+      "rationale": "Reframes years of treatment failure as a mislabeling problem rather than a broken person — high recognition for late-diagnosed adults who blamed themselves for not improving.",
+      "source_url": "https://www.sondermind.com/resources/articles-and-content/autistic-burnout-recovery/",
+      "sensitivity_flag": "Edges toward medical claim territory: 'can deepen rather than resolve' is defensible per sources but should not be expanded in replies to name specific modalities as harmful without clinical qualification.",
+      "id": "2026-10-23T17-37-50-02",
+      "status": "draft",
+      "char_count": 175,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis: everyone expects the relief. Nobody warns you about the grief. Research puts it in a cycle — grief, relief, belief — and it rarely moves in a straight line.",
+      "shape": "validation",
+      "rationale": "Draws directly on Mair et al. 2026 to name the grief-relief cycle for late-diagnosed adults. The insight that grief is the surprise, not relief, is the moment of recognition this community rarely sees named.",
+      "source_url": "https://behavioristbookclub.com/aba-research/service-delivery/grief--relief--and-belief--a-social-media-study-on-late-identification/",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-03",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "There's a name for it now: neurogrief. The reckoning that follows late diagnosis — not just lost time, but an identity that was built on the wrong foundation.",
+      "shape": "micro-insight",
+      "rationale": "Introduces the term 'neurogrief' and captures the existential dimension of late diagnosis in one concrete image. Short enough to be screenshot-shareable; specific enough to start a real conversation.",
+      "source_url": "https://behavioristbookclub.com/aba-research/service-delivery/grief--relief--and-belief--a-social-media-study-on-late-identification/",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-04",
+      "status": "draft",
+      "char_count": 158,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD running simultaneously. When the traits combine, they sometimes produce experiences neither condition alone predicts. A new colour, not a double dose.",
+      "shape": "micro-insight",
+      "rationale": "Uses the tie-dye model's sharpest line to push back on the 'just both at once' simplification — resonant for a community actively grappling with what AuDHD as an identity actually means.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-05",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found autistic people often notice body signals more than average — but read them less accurately and with more dread. 'Just tune into your body' lands differently on a nervous system wired this way.",
+      "shape": "reframe",
+      "rationale": "Cites the peer-reviewed interoception study directly to explain why standard body-awareness advice misfires — gives a credible mechanism to a frustration many autistic people have felt but couldn't name.",
+      "source_url": "https://journals.sagepub.com/doi/reader/10.1177/13623613261434431",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-06",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "If body scans leave you more anxious than grounded, that's not failure — it may be the format. Many autistic people detect body signals loudly but appraise them as threat. Different tools exist.",
+      "shape": "practical",
+      "rationale": "Practical pivot from the interoception research: names the mechanism, removes self-blame, and points toward alternatives without prescribing specific ones — leaves room for individual difference.",
+      "source_url": "https://journals.sagepub.com/doi/reader/10.1177/13623613261434431",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-07",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting keeps expectations. It changes the how and when — reducing the chronic ambient anxiety that makes engagement impossible. Permissive parenting removes expectations entirely. Not the same thing.",
+      "shape": "reframe",
+      "rationale": "Draws the structural distinction PDA families need to counter school and family misreading of their approach. Offers crisp language for a real, painful misidentification without editorializing.",
+      "source_url": null,
+      "sensitivity_flag": "Draws on advocacy and practitioner framing, not peer-reviewed evidence — consistent with the actual evidence base for PDA interventions. Do not frame as clinically established.",
+      "id": "2026-10-23T17-37-50-08",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "A PDA kid who holds it together at school and falls apart at home isn't manipulating anyone. The nervous system saves its limited capacity for the safest person. Home is where it's safe enough to crash.",
+      "shape": "reframe",
+      "rationale": "Reframes the 'fine at school, explodes at home' pattern — one of the most isolating and misread PDA experiences — as threat-load management. Directly addresses the parental blame without being defensive.",
+      "source_url": "https://www.vermontfamilynetwork.org/wp-content/uploads/2026/04/Pervasive-Drive-for-Autonomy-PDA-and-the-Need-for-Safety.pdf",
+      "sensitivity_flag": "Source is a practitioner/advocacy handout, not peer-reviewed research. Nervous-system framing is consistent with the literature but should not be cited as clinically proven.",
+      "id": "2026-10-23T17-37-50-09",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "Disclosure helps autistic employees — but only when the org is already psychologically safe. Without that, it can backfire. What if inclusion didn't require you to gamble your career to access it?",
+      "shape": "question",
+      "rationale": "Shifts the disclosure conversation from individual risk management to systemic responsibility, grounded in a 54-study synthesis. The closing question invites genuine discussion without manufacturing outrage.",
+      "source_url": "https://www.edinburghnews.scotsman.com/business/call-for-workplaces-to-adapt-amid-reluctance-by-autistic-employees-to-share-diagnosis-3463972",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-10",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Standard ADHD productivity advice — just start, break it down, use a timer — skips a step. Executive function degrades when the nervous system is dysregulated. Regulation comes first.",
+      "shape": "micro-insight",
+      "rationale": "Names the missing prerequisite in a body of advice ADHD adults are drowning in. 'Regulation comes first' is short enough to be the actual takeaway — not buried in a thread.",
+      "source_url": "https://www.additudemag.com/nervous-system-regulation-techniques-adhd/",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-11",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "Before the task list: movement, a sensory reset, or five minutes with someone safe. For ADHD brains, regulation isn't a warmup — it's the prerequisite for everything else to land.",
+      "shape": "practical",
+      "rationale": "Gives a concrete, actionable version of 'regulate first' without being prescriptive about which tools — respects individual difference while still being genuinely useful to someone staring at an undone to-do list.",
+      "source_url": "https://add.org/product/webinar-regulation-before-performance-a-self-regulation-toolbox-for-adhd-with-dana-crews/",
+      "sensitivity_flag": null,
+      "id": "2026-10-23T17-37-50-12",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    }
+  ]
+}
