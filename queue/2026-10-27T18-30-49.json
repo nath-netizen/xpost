@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-27T18:30:49.438Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Your doctor saw depression. You were in burnout. These aren't variations of the same thing — they need different responses. That's partly why you didn't get better.",
+      "shape": "reframe",
+      "rationale": "Opens with the misidentification moment most late-diagnosed adults recognise. Stays in second person to feel personal, not clinical. Doesn't name a treatment or give advice — just names the harm of the wrong frame.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-just-another",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-01",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout isn't failing to push through. It's a neurological state that pushing through actively makes worse. That's not a character flaw — it's how recovery works.",
+      "shape": "validation",
+      "rationale": "Addresses the shame angle rather than the misdiagnosis angle — different emotional entry point to the same topic. Names the exact thing people beat themselves up for and reframes it without lecturing.",
+      "source_url": "https://embrace-autism.com/the-ultimate-guide-to-autistic-burnout/",
+      "sensitivity_flag": "'Neurological state' is supported by the 2025 systematic review framing but keep it as descriptive, not mechanistic — don't imply a specific known pathology.",
+      "id": "2026-10-27T18-30-49-02",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "There's a word for the grief that comes after a late diagnosis: neurogrief. It's not ingratitude. It's mourning every year you spent trying to fix something that was never broken the way you thought.",
+      "shape": "validation",
+      "rationale": "The word does the work. Naming the experience is the entire value of this post — readers who feel this already know it, they just haven't had language for it. Closes with the reframe so it lands kindly.",
+      "source_url": "https://www.pesi.com/item/neurogrief-unseen-loss-170974",
+      "sensitivity_flag": "'Neurogrief' is emerging professional/community language, not a DSM/ICD category — frame it as experiential naming, not a diagnosis.",
+      "id": "2026-10-27T18-30-49-03",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't following two rulebooks at once. When autistic and ADHD traits combine, they don't stack — they blend into something neither community fully mapped.",
+      "shape": "micro-insight",
+      "rationale": "The 'blend not stack' line is the sharpest compression of the tie-dye model. Self-contained, doesn't require knowing the source concept. Speaks directly to the experience of getting advice that only half-fits.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": "Tie-dye model is community/advocacy framing from a single 2026 piece — present as a resonant frame, not peer-reviewed taxonomy.",
+      "id": "2026-10-27T18-30-49-04",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "Autism pulls toward routine and depth. ADHD pulls toward novelty and stimulation. Both in the same nervous system. How has AuDHD advice actually worked for you when it was designed for only one?",
+      "shape": "question",
+      "rationale": "Sets up the internal tension concisely, then hands it to the reader. Invites genuine experience-sharing rather than just recognition. Doesn't presuppose a bad outcome — opens genuine conversation.",
+      "source_url": "https://thinkingautismguide.com/2026/05/audhd-isnt-just-autism-plus-adhd-the-tie-dye-model.html",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-05",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "Call it 'pathological demand avoidance' and you're treating defiance. Call it 'persistent drive for autonomy' and you're co-regulating a nervous system in survival mode. Same child. Completely different intervention.",
+      "shape": "reframe",
+      "rationale": "The parallel structure does the argument — no explanation needed. 'Same child' is the pivot that makes the stakes clear without being preachy. Directly relevant to parents and educators making live decisions.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-06",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting doesn't mean zero expectations. It means: which demands are worth the fight today? Triage your asks so there's capacity left for the ones that actually matter.",
+      "shape": "practical",
+      "rationale": "Addresses the biggest misconception about the approach head-on, then gives the actual operating principle in one sentence. Useful to exhausted parents immediately — not philosophy, not theory.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-07",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand isn't permissiveness. It's demand prioritisation — saving the family's regulatory budget for the expectations that genuinely count.",
+      "shape": "micro-insight",
+      "rationale": "More compressed than the practical post; pairs 'regulatory budget' as a fresh framing that makes the resource-scarcity logic concrete without jargon. Different entry point — suited to people who already know the term.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-08",
+      "status": "draft",
+      "char_count": 142,
+      "over_limit": false
+    },
+    {
+      "text": "Understood's 2026 survey: 70% of neurodivergent employees are afraid to disclose at work — up from 59% in 2024. A decade of 'neuroinclusion' messaging and the number is going the wrong way.",
+      "shape": "question",
+      "rationale": "The stat earns the sharp close. Framing it as movement in the wrong direction is an honest observation from the data, not outrage bait. Implicit question ('what would change this?') opens conversation without manufacturing a cliffhanger.",
+      "source_url": "https://understood.org/en/press-releases/neurodiversity-at-work-survey-reveals-persistent-stigma-and-role-for-ai-in-the-workplace",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-09",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD isn't 'can't focus.' It's 'can't access focus from a dysregulated nervous system.' Trying harder skips the step that makes trying possible.",
+      "shape": "reframe",
+      "rationale": "The quote-structure contrast is clean and memorable. The final sentence is the practical punchline that makes this feel immediately useful, not just validating. Stays tight.",
+      "source_url": "https://add.org/product/webinar-regulation-before-performance-a-self-regulation-toolbox-for-adhd-with-dana-crews/",
+      "sensitivity_flag": "Dysregulation framing is practitioner-education language circulating in 2026 — don't imply it's an established neurological mechanism with RCT backing. The post stays descriptive, which is fine.",
+      "id": "2026-10-27T18-30-49-10",
+      "status": "draft",
+      "char_count": 144,
+      "over_limit": false
+    },
+    {
+      "text": "Most ADHD productivity advice assumes a regulated nervous system. It doesn't build one. That's why the tips work for everyone except the people they're aimed at.",
+      "shape": "micro-insight",
+      "rationale": "Different angle to post 10 — focuses on the failure of the advice industry rather than the individual experience. Dry, a little wry, and pinpoints something the community has felt but rarely heard named this cleanly.",
+      "source_url": "https://add.org/product/webinar-regulation-before-performance-a-self-regulation-toolbox-for-adhd-with-dana-crews/",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-11",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "An accommodation fixes the exception. Neuroinclusive design asks why the default was built for one kind of brain and everyone else has to apply for a workaround.",
+      "shape": "micro-insight",
+      "rationale": "The contrast between 'fixes the exception' and 'asks why' shifts moral weight without being preachy. Self-contained argument — no context needed. Lands the design-vs-accommodation distinction in one breath.",
+      "source_url": "https://fortune.com/2025/12/22/as-more-workers-request-accommodations-how-should-workplaces-react",
+      "sensitivity_flag": null,
+      "id": "2026-10-27T18-30-49-12",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    }
+  ]
+}
