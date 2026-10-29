@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-29T18:46:19.920Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Grief and relief after a late diagnosis don't take turns. They arrive together. Feeling devastated about lost years and grateful for answers — sometimes in the same hour — isn't regression. That's exactly what the research shows.",
+      "shape": "validation",
+      "rationale": "Names the core finding of the Mair et al. 2026 'grief, relief, and belief' study in plain language; validates an experience many late-diagnosed adults describe but rarely see named anywhere.",
+      "source_url": "https://www.metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-01",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "There's pressure to skip straight to gratitude after a late diagnosis. But grief for your younger self isn't going backward. It's the processing. It's what actually moves you forward.",
+      "shape": "reframe",
+      "rationale": "Distinct companion to the validation post — reframes grief as a necessary phase rather than a problem to overcome; works as an evergreen reframe without repeating the study statistic.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-02",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "For many autistic and ADHD workers, remote work wasn't a perk. It was the accommodation. RTO mandates withdrew it without process, without conversation, without even using the word 'accommodation.'",
+      "shape": "reframe",
+      "rationale": "Reframes a structural policy story as a personal one using the Fortune May 2026 reporting; gives neurodivergent workers precise language for what happened to them.",
+      "source_url": "https://fortune.com/2026/05/20/neurodivergent-workers-in-typical-workplace-like-polar-bear-in-desert/",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-03",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "If your company is calling people back in and you're neurodivergent: remote work can be a formal accommodation, not just a preference. HR may not mention that unprompted. You're allowed to ask.",
+      "shape": "practical",
+      "rationale": "Translates the RTO-as-accommodation-withdrawal reframe into a concrete step workers may not know is available to them; actionable rather than just validating.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": "Accommodation rights vary by jurisdiction and employer size — broadly accurate under US ADA and UK Equality Act 2010 but not universal. Readers should verify locally.",
+      "id": "2026-10-29T18-46-19-04",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance in PDA isn't defiance. A 2026 study found it tracks anxiety directly — the harder demands push, the worse the nervous system loop gets. That's not a willpower failure. It's a threat response.",
+      "shape": "reframe",
+      "rationale": "Addresses the most common and damaging misread of PDA using 2026 Rai et al. findings; speaks to parents, educators, and PDA adults who were punished for what was a nervous system response.",
+      "source_url": "https://embrace-autism.com/?p=225435",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-05",
+      "status": "draft",
+      "char_count": 208,
+      "over_limit": false
+    },
+    {
+      "text": "72% of neurodivergent workers mask at work. That's a second job — invisible, uncompensated, exhausting — running parallel to the actual job. Nobody clocks out of it at 5pm.",
+      "shape": "micro-insight",
+      "rationale": "The 'second job' framing converts a private exhaustion into a structural injustice; the Understood 2026 survey statistic grounds the claim precisely without overstating it.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-06",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "What would it feel like to actually clock out of masking — not someday, not in some ideal job, but just once this week, in one conversation, with someone safe enough?",
+      "shape": "question",
+      "rationale": "Follows the masking micro-insight with an inviting, low-stakes question rather than leaving it as pure critique; specificity ('this week', 'one conversation') makes it genuinely answerable.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-07",
+      "status": "draft",
+      "char_count": 166,
+      "over_limit": false
+    },
+    {
+      "text": "Regulation starts with recognition. If someone can't accurately sense their own internal state, 'just calm down' isn't bad advice — it's the wrong tool entirely. You can't regulate what you can't feel.",
+      "shape": "micro-insight",
+      "rationale": "Translates the interoception concept into a punchy, non-clinical insight; moves regulation conversations from behaviour management to body literacy in two sentences.",
+      "source_url": "https://www.audible.co.uk/podcast/Interoception-Changes-How-We-Teach-Regulation-for-PDA-Autistic-and-Neurodivergent-Kids-Guest-Kelly-Mahler/B0H44JMS8M",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-08",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD burnout often doesn't look like collapse. It looks like fine. A slow narrowing — less capacity, less tolerance, less joy — months before anything appears wrong from the outside.",
+      "shape": "validation",
+      "rationale": "Validates the quiet-erosion pattern that gets dismissed precisely because it looks okay externally; 'it looks like fine' is the recognition many AuDHD adults have been waiting to see named.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-09",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'no rules.' It's removing threat from structure. Safety isn't indulgence — it's the prerequisite for everything else.",
+      "shape": "reframe",
+      "rationale": "Condenses the live PDA parenting debate into a single distinction that separates 'removing threat' from 'removing all structure'; directly addresses the 'permissiveness' criticism without being defensive.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-10",
+      "status": "draft",
+      "char_count": 144,
+      "over_limit": false
+    },
+    {
+      "text": "What's one demand you could offer as a choice this week instead? Not a trick, not a reward chart. Just: here are two ways this could happen — which works for you?",
+      "shape": "question",
+      "rationale": "Bridges the low-demand reframe into a practical, genuinely accessible invitation for parents and adults alike; the concreteness lowers the barrier to actually trying it.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-11",
+      "status": "draft",
+      "char_count": 162,
+      "over_limit": false
+    },
+    {
+      "text": "Accommodation requests jumped from 24% to 33% in two years. And 60% of neurodivergent employees still don't know who to ask — up from 49% last year. The need is growing faster than the path.",
+      "shape": "micro-insight",
+      "rationale": "Two numbers moving in opposite directions surface a structural irony that invites both personal stories and systemic commentary; the closing line names the tension without editorializing.",
+      "source_url": "https://cdn-assets.understood.org/p0qf7j048i0q/69ryrXAcGuX0jtVw7hiXyn/dbbfedb9b7d42ee5f362a3c4fb754af6/Understood_Neurodiversity_at_work_survey_2026_Accessible.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-10-29T18-46-19-12",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    }
+  ]
+}
