@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-31T17:29:20.141Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Late diagnosis doesn't end the grief — it starts it. Mourning lost years, an identity that was always off, futures that never quite fit. And it cycles back. That's not a failure to heal. That's what this kind of loss does.",
+      "shape": "validation",
+      "rationale": "Names neurogrief as legitimate and cyclical without clinical jargon. Directly addresses the pressure to 'just be grateful.' Anchored in Mair et al. 2026 peer-reviewed study documenting the repeating grief-relief-burnout pattern.",
+      "source_url": "https://www.metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-01",
+      "status": "draft",
+      "char_count": 222,
+      "over_limit": false
+    },
+    {
+      "text": "'Just be grateful you finally know.' Sure. And also: you're allowed to grieve the years that went unexplained. Both things. Neither cancels the other.",
+      "shape": "validation",
+      "rationale": "Second neurogrief angle — tighter and more conversational. Directly mirrors the specific dismissal late-diagnosed adults hear, then names the permission they rarely receive. Distinct shape from Post 1 on the same angle.",
+      "source_url": "https://www.metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-02",
+      "status": "draft",
+      "char_count": 150,
+      "over_limit": false
+    },
+    {
+      "text": "The standard burnout advice: rest more. What practitioners and autistic adults report actually driving recovery: reducing ongoing demands, gaining back autonomy, changing the conditions. Rest is necessary. On its own, it's not enough.",
+      "shape": "reframe",
+      "rationale": "Shifts responsibility from individual effort to systemic conditions. Validates that 'rest more' is insufficient without blaming the person for resting. Draws on Attwood & Garnett and Embrace Autism 2026 practitioner pieces.",
+      "source_url": "https://embrace-autism.com/autistic-burnout-recovery-requires-autonomy/",
+      "sensitivity_flag": "Sources are practitioner-level and community, not peer-reviewed. Original draft said 'what actually drives recovery' — softened to 'what practitioners and autistic adults report' to match sourcing level.",
+      "id": "2026-10-31T17-29-20-03",
+      "status": "draft",
+      "char_count": 234,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't defiance. The nervous system registers a demand as a threat before the thinking brain is even involved. More pressure escalates that signal. It's not a behaviour problem — it's a physiology problem.",
+      "shape": "reframe",
+      "rationale": "Gives parents and educators a mechanistic frame that shifts from 'won't' to 'can't consciously override.' Also validates PDA adults told they're simply choosing not to comply. Source is a May 2026 practitioner explainer.",
+      "source_url": "https://www.therapistsinbaltimore.com/therapy-insights-blog/2026/5/15/95qdegjnqph4d37jmiwsqti9zgxajv",
+      "sensitivity_flag": "Mechanistic framing ('physiology problem') draws from a practitioner blog and podcast, not peer-reviewed clinical literature. Defensible as a working model and widely used in PDA practitioner contexts, but should not be stated as settled neuroscience.",
+      "id": "2026-10-31T17-29-20-04",
+      "status": "draft",
+      "char_count": 225,
+      "over_limit": false
+    },
+    {
+      "text": "Return-to-office has a masking cost that doesn't show up in most productivity metrics. If you come home more depleted than your colleagues, and in a different way, you're probably right about why.",
+      "shape": "validation",
+      "rationale": "Names the RTO masking tax without framing as employer outrage bait. Validates the lived exhaustion against productivity-framed RTO debates. Timely peg to May 2026 accommodation surge coverage.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-05",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "What changed for you when return-to-office kicked in? Not the commute logistics — the actual daily cost of it.",
+      "shape": "question",
+      "rationale": "Opens discussion on RTO impact without prescribing how people should feel. Invites specific, real experiences rather than generic venting. Designed to generate genuine replies from neurodivergent workers navigating this right now.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-06",
+      "status": "draft",
+      "char_count": 110,
+      "over_limit": false
+    },
+    {
+      "text": "'Just be yourself' — the advice that skips the hard part. Unmasking isn't a decision. It's an identity rebuilt slowly, in conditions safe enough to try. Intention doesn't get you there. Safety does.",
+      "shape": "micro-insight",
+      "rationale": "Names the gap between 'just unmask' advice and lived experience with precision and without self-pity. Draws on Attwood & Garnett 2026 research review framing unmasking as identity reconstruction tied to safety evaluation.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-07",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't just two diagnoses. Your brain craves novelty and needs routine. It wants stimulation and low-surprise environments. The coping strategies are in direct conflict. That tension is real — not something you're doing wrong.",
+      "shape": "validation",
+      "rationale": "Names the internal conflict specific to AuDHD that single-diagnosis content consistently misses. Targets the recognition response in a community where 'neither label quite fits' is a perennial frustration. Draws on community discourse and 2026 practitioner piece.",
+      "source_url": "https://www.pulse.bot/wellness/news/audhd-means-being-autistic-and-having-adhd-and-it-can-look-very-different-to-a-single-diagnosis-b07c94f3-8d3e-4f53-b926-115cc1b54138/",
+      "sensitivity_flag": "Draws from community discourse and a wellness practitioner piece, not formal research. The internal conflict framing is well-supported by community evidence but has not been formally studied as a distinct phenomenon.",
+      "id": "2026-10-31T17-29-20-08",
+      "status": "draft",
+      "char_count": 231,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD motivation runs on interest, novelty, urgency, challenge — not importance or reward. Worth knowing. Also worth knowing: urgency can burn out too. The goal isn't more pressure. It's working with the fuel you actually have.",
+      "shape": "micro-insight",
+      "rationale": "Goes past the standard 'you're not lazy' reassurance to add the urgency-exhaustion caveat — making it more honest and more useful than typical interest-based nervous system content. Draws on Dodson's clinical heuristic via Neurodivergent Insights and Life Skills Advocate.",
+      "source_url": "https://neurodivergentinsights.com/adhd-motivation/",
+      "sensitivity_flag": "Interest-based nervous system is a clinical heuristic (Dodson), not a formal neuroscience category. The lived-experience framing here is appropriate, but the post should not be presented as describing established neuroscience.",
+      "id": "2026-10-31T17-29-20-09",
+      "status": "draft",
+      "char_count": 226,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't 'giving in.' Limits still exist — they're built on relational safety and co-regulation rather than authority. That's not the easy path. It's a harder, different one.",
+      "shape": "reframe",
+      "rationale": "Gives parents defending this approach clear language to distinguish relational safety from permissiveness. Corrects the enablement misread without sounding defensive. Draws on PDA North America review of a 2025 Edith Cowan University study.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-10",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "For a lot of late-diagnosed autistic people, burnout wasn't what happened after diagnosis. It was what made the pattern finally undeniable — the thing that led them to answers. Was burnout doing the diagnostic work the system failed to do?",
+      "shape": "question",
+      "rationale": "Reverses the implied 'earlier diagnosis prevents burnout' narrative and opens a reflective question rather than an outrage hook. Anchored in Mair et al. 2026 and late-diagnosis community stories. Sparks thoughtful engagement.",
+      "source_url": "https://reframingautism.org.au/retirement-plans-scuppered-by-burnout-a-late-diagnosis-autism-tale/",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-11",
+      "status": "draft",
+      "char_count": 239,
+      "over_limit": false
+    },
+    {
+      "text": "If a system costs more working memory to maintain than it actually offloads, it nets negative. The question isn't 'is this a good system?' It's 'does this work for the brain I have today — not the idealized version?'",
+      "shape": "practical",
+      "rationale": "Validates the ADHD productivity-tool graveyard experience and flips 'I failed the tool' to 'the tool wasn't calibrated for my brain.' Delivers an immediately actionable heuristic without moralizing. Draws on Habi 2026 executive function review.",
+      "source_url": "https://habi.app/insights/adhd-executive-dysfunction/",
+      "sensitivity_flag": null,
+      "id": "2026-10-31T17-29-20-12",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    }
+  ]
+}
