@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-03T19:57:16.493Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout recovery isn't about getting back to your old baseline. That baseline is what caused the crash. The goal is a different life — not the same one at a lower speed.",
+      "shape": "reframe",
+      "rationale": "Names the fear directly (never returning to normal) and reframes the destination rather than the person. 'Lower speed' makes the failing model vivid without being cruel.",
+      "source_url": "https://embrace-autism.com/autistic-burnout-recovery-requires-autonomy/",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-01",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "One question worth asking during autistic burnout recovery: not 'when do I bounce back?' but 'what demands can I actually remove permanently?' Those lead to very different outcomes.",
+      "shape": "practical",
+      "rationale": "Gives readers a concrete cognitive reframe they can apply immediately. Sidesteps rehabilitation framing by offering a different question rather than a prescription or pep talk.",
+      "source_url": "https://www.simplypsychology.org/a-review-of-autistic-burnout-exhaustion-and-recovery.html",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-02",
+      "status": "draft",
+      "char_count": 181,
+      "over_limit": false
+    },
+    {
+      "text": "'I used to be able to do that.' If burnout has taken skills from you, that fear is real — and almost no one names it plainly. The ambiguity about whether they come back is genuinely hard to sit with.",
+      "shape": "validation",
+      "rationale": "Opens with the internal sentence many readers are already carrying. Holds the ambiguity honestly — no false reassurance, no catastrophizing — which is precisely what the community rarely gets.",
+      "source_url": "https://tiffanylandry.substack.com/p/is-burnout-recovery-possible",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-03",
+      "status": "draft",
+      "char_count": 199,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis comes with pressure to feel relief and gratitude. But there's also grief — for decades lived without the right map, for a past self who deserved to know. You don't have to skip to the silver lining.",
+      "shape": "validation",
+      "rationale": "Names the dominant narrative (relief) and makes room for what it crowds out without dismissing the relief. 'Deserved to know' reframes grief as legitimate, not ungrateful.",
+      "source_url": "https://www.pesi.com/item/neurogrief-unseen-loss-170974/",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-04",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "There's a word gaining traction for it: neurogrief. The mourning that comes with realizing you've been neurodivergent your whole life and nobody knew. That's not ingratitude. It's a legitimate loss.",
+      "shape": "reframe",
+      "rationale": "Leads with the naming — giving language to something previously unlabeled is high-value for this audience. Closes by undoing the most common self-accusation (ingratitude) in one beat.",
+      "source_url": "https://www.pesi.com/item/neurogrief-unseen-loss-170974/",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-05",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "For a PDA nervous system, a demand doesn't read as 'do this thing.' It reads as 'your safety is no longer in your hands.' That's not defiance. That's a threat-detection system firing exactly as designed.",
+      "shape": "reframe",
+      "rationale": "The safety reframe is the paradigm shift that cuts through years of behavioral framing. 'Exactly as designed' removes blame without softening the argument.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": "PDA is not in DSM. 'PDA nervous system' uses community/experience language rather than a diagnostic label, which is appropriate — but worth confirming this register lands as intended for PDAers in the audience.",
+      "id": "2026-11-03T19-57-16-06",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting looks effortless from outside — no visible rules, no standoffs. What it actually requires: constant environmental scanning, demand-reduction in real time, absorbing a child's distress without reaching for control.",
+      "shape": "reframe",
+      "rationale": "Corrects the 'permissive' misread by naming what's happening beneath the visible surface. Stays concrete rather than emotional, which keeps it from tipping into martyrdom.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": "Approaches the 'look how hard this is' edge. Stays on the right side by staying descriptive rather than emotional — worth a final read to confirm it doesn't land as performance of difficulty.",
+      "id": "2026-11-03T19-57-16-07",
+      "status": "draft",
+      "char_count": 234,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD means two nervous systems with competing regulatory needs. The routine that keeps the autistic side stable can starve the ADHD side. The novelty that fires ADHD can overwhelm everything else. It's a structural tension, not a personal failure.",
+      "shape": "micro-insight",
+      "rationale": "Gives the community's most quotable explanation for an experience many describe but few can articulate. 'Structural tension, not personal failure' is the line people screenshot.",
+      "source_url": "https://danieldashnawcouplestherapy.com/blog/audhd-nervous-system-wants-opposite-things",
+      "sensitivity_flag": "This frame has thin peer-reviewed backing — it's a clinical blog and community model, not established neuroscience. Presented as an experience frame, not a research finding, but 'means' reads as definitive. Consider softening to 'one way to understand AuDHD' if that concern is live.",
+      "id": "2026-11-03T19-57-16-08",
+      "status": "draft",
+      "char_count": 248,
+      "over_limit": false
+    },
+    {
+      "text": "UK data: 36% of neurodivergent women report significant masking-related strain at work, vs. 25% of men. The extra invisible weight has been real for a lot of people. Does this match what you've experienced?",
+      "shape": "question",
+      "rationale": "Leads with a fresh, specific number most readers won't have seen. The question converts a stat into a conversation starter without manufacturing outrage. UK attribution is in the post.",
+      "source_url": "https://www.reed.com/articles/understanding-the-gender-differences-in-neurodivergent-workplace-experiences",
+      "sensitivity_flag": "Survey is UK-specific (Reed/OnePoll, n=1,000). Post correctly attributes 'UK data' — but replies may treat it as universal. Acceptable as written; worth monitoring thread for overgeneralization.",
+      "id": "2026-11-03T19-57-16-09",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "The double performance: mask your neurodivergence, then also perform competence, warmth, ease. UK survey data backs what many neurodivergent women already know — the strain is heavier, and mostly invisible.",
+      "shape": "validation",
+      "rationale": "Names the layering most single-axis masking posts miss. 'Already know' positions the data as confirmation of lived experience rather than revelation — warmer register than 'studies show.'",
+      "source_url": "https://www.reed.com/articles/understanding-the-gender-differences-in-neurodivergent-workplace-experiences",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-10",
+      "status": "draft",
+      "char_count": 206,
+      "over_limit": false
+    },
+    {
+      "text": "The accommodation model asks: disclose, document, request. Neuroinclusive design asks: what if we just built it better? One puts the burden on the person already carrying the most.",
+      "shape": "reframe",
+      "rationale": "Three-beat contrast makes the structural argument quickly. 'Already carrying the most' names the irony without lecturing. Written from worker/community POV, not employer advocacy.",
+      "source_url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/06/inclusive-wellness-initiative-trends-for-2026/",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-11",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "What would your workplace look like if sensory defaults, meeting structures, and communication norms were designed to work for more nervous systems — not as accommodations, but as the baseline?",
+      "shape": "question",
+      "rationale": "Invites imaginative engagement rather than grievance, which makes the conversation more generative. 'Baseline' is doing the structural work — it's the crux of design vs. accommodation and earns the click-through.",
+      "source_url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/06/inclusive-wellness-initiative-trends-for-2026/",
+      "sensitivity_flag": null,
+      "id": "2026-11-03T19-57-16-12",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    }
+  ]
+}
