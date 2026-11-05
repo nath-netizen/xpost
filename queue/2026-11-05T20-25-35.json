@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-05T20:25:35.614Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Masking isn't free. Every performance borrows from a reserve that doesn't automatically refill. Autistic burnout isn't a breakdown — it's an overdraft.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the overdraft image directly — vivid, non-blaming, and portable. Gives people vocabulary for something they've lived but couldn't name or hand to someone else.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-01",
+      "status": "draft",
+      "char_count": 151,
+      "over_limit": false
+    },
+    {
+      "text": "From the outside: unmotivated, checked out, refusing to try.\nFrom the inside: a nervous system that has hit its capacity and is protecting itself.\nThese are not the same thing.",
+      "shape": "reframe",
+      "rationale": "Classic two-panel structure — surfaces the gap between external read and internal reality without lecturing. The final line lands as a quiet correction, not an argument.",
+      "source_url": "https://www.kelly-mahler.com/wp-content/uploads/2026/01/Is-This-Autistic-Burnout-.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-02",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout is not a motivation problem. It is a capacity problem. Worth saying clearly every time someone hears 'just push through.'",
+      "shape": "micro-insight",
+      "rationale": "Quote-shaped and screenshot-ready. Draws directly on Kelly Mahler's January 2026 framing. The final clause turns it toward action without being prescriptive.",
+      "source_url": "https://www.kelly-mahler.com/wp-content/uploads/2026/01/Is-This-Autistic-Burnout-.pdf",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-03",
+      "status": "draft",
+      "char_count": 138,
+      "over_limit": false
+    },
+    {
+      "text": "Late-identified autistic and ADHD adults describe the same loop: grief it took this long, relief at finally having a name, then burnout from processing both. A 2026 study confirmed what the community already knew.",
+      "shape": "validation",
+      "rationale": "Names the loop in community language and anchors it to current research — earns the 'this is exactly it' response while crediting the community for getting there first.",
+      "source_url": "https://www.metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": "Mair et al. is a thematic social-media analysis, not an experimental study — 'confirmed' is defensible but could be softened to 'found' for maximum accuracy.",
+      "id": "2026-11-05T20-25-35-04",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't defiance. For PDAers, losing control over choices triggers the nervous system the same way a physical threat does. 'Won't' and 'can't' look identical from outside. Only one is a choice.",
+      "shape": "reframe",
+      "rationale": "The core PDA reframe in minimal characters — separates behaviour from intent without requiring clinical explanation, and validates 'can't' without dismissing real-world impact.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-05",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "The hardest part of PDA parenting: you can't co-regulate from empty. Your nervous system is the intervention. Parental burnout doesn't just affect you — it shuts down the one thing that helps.",
+      "shape": "validation",
+      "rationale": "Names the catch-22 without assigning blame. Validates parental burnout as structural, not personal failure. Opens the door to self-care framing without making it another task.",
+      "source_url": "https://www.buzzsprout.com/2518512/episodes/18612539-pda-autism-parenting-co-regulation-explained-with-low-demand-parenting-and-nervous-system-safety",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-06",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD often means being too much of one thing for each community and not enough of the other. Too ADHD for autism spaces. Too autistic for ADHD spaces. Neither diagnosis alone explains you.",
+      "shape": "validation",
+      "rationale": "Hits the double-invisibility experience cleanly. High recognition and share potential. No clinical framing, no functioning labels — just the lived gap named plainly.",
+      "source_url": "https://neurodivergentinsights.com/what-is-audhd/",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-07",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD isn't autism plus ADHD. The two interact and create experiences neither diagnosis accounts for on its own. If a diagnosis ever felt half-right, you weren't missing something — the description was.",
+      "shape": "validation",
+      "rationale": "Reframes AuDHD as its own distinct experience rather than an additive one. The final line redirects missed-diagnosis frustration from self-doubt toward a structural critique.",
+      "source_url": "https://www.neurosparkhealth.com/blog/audhd-navigating-life-as-autistic-and-adhd.html",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-08",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "ADHD time blindness isn't disrespect. It's a neurological difference in how time is felt — not read on a clock, but experienced in the body. The impact on others is real. The intent isn't.",
+      "shape": "reframe",
+      "rationale": "Separates impact from intent — the essential move for repairing relationships around lateness. Validates both parties without dismissing downstream effect on others.",
+      "source_url": "https://chadd.org/adhd-news/adhd-news-adults/attention-time-unbound-managing-time-blindness-at-work/",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-09",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Most regulation tools — deep breathing, body scans, mindfulness — require accurate body-signal awareness. Many autistic people don't have that access. The tools aren't failing them. They were built for a different nervous system.",
+      "shape": "practical",
+      "rationale": "Delivers the interoception insight as a single validating reframe. Names why the most-recommended strategies fail without suggesting yet another failure belongs to the person.",
+      "source_url": "https://www.kelly-mahler.com/interoception-and-co-regulation/",
+      "sensitivity_flag": "'Many autistic people' is appropriately qualified — not 'all'. Worth keeping that word load-bearing so it doesn't read as a universal claim about autistic interoception.",
+      "id": "2026-11-05T20-25-35-10",
+      "status": "draft",
+      "char_count": 229,
+      "over_limit": false
+    },
+    {
+      "text": "What's one accommodation that people assume should help you, but doesn't? A UK expert panel just confirmed: neurodivergent accommodations can't be one-size-fits-diagnosis. Individual variation is the whole point.",
+      "shape": "question",
+      "rationale": "Opens genuine discussion while anchoring to a current policy report. Gives people permission to push back on standard checklists without feeling ungrateful or like they're being difficult.",
+      "source_url": "https://vinciworks.com/blog/neurodiversity-at-work-what-the-governments-new-report-means-for-employers/",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-11",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "The masking question isn't 'why did I crash?' It's 'what was the balance before the last demand cleared?' The overdraft doesn't announce itself.",
+      "shape": "micro-insight",
+      "rationale": "Reframes post-burnout self-blame as an accounting problem — practical, concrete, non-pathologising. The question pivot does the work without needing any explanation attached.",
+      "source_url": "https://embrace-autism.com/the-hidden-cost-of-masking-in-adulthood/",
+      "sensitivity_flag": null,
+      "id": "2026-11-05T20-25-35-12",
+      "status": "draft",
+      "char_count": 144,
+      "over_limit": false
+    }
+  ]
+}
