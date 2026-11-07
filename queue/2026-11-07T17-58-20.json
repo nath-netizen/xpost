@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-07T17:58:20.348Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Relief. Then grief. Then burnout. Then it starts again. Research now has a name for this. If you got a late diagnosis and thought you were doing something wrong — you weren't. The cycle is real.",
+      "shape": "validation",
+      "rationale": "Names the loop using quotable shorthand from Mair et al. 2026. Reframes a repeating pattern as documented and systemic, not personal failure. High save-and-share potential for late-diagnosed readers who recognize the sequence immediately.",
+      "source_url": "https://behavioristbookclub.com/aba-research/service-delivery/grief--relief--and-belief--a-social-media-study-on-late-identification/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-01",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    },
+    {
+      "text": "The question isn't whether you're ready to unmask. It's whether the environment is safe enough. Those are very different problems with very different solutions.",
+      "shape": "reframe",
+      "rationale": "Moves responsibility from the individual to the environment in one clean pivot. Directly counters the 'just unmask' advice the community has flagged as harmful. Self-contained and discussion-opening without being prescriptive.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-02",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't defiance. It's a threat response. Standard tools — rewards, charts, consequences — don't fail because you're doing them wrong. They fail because they increase perceived threat.",
+      "shape": "reframe",
+      "rationale": "Delivers relief to exhausted parents who have been told to try harder. Naming specific tools (rewards, charts, consequences) matches lived experience precisely. Backed by PDA North America research on threat-perception framing; claim is PDA-specific and the post signals that clearly.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-03",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "For a lot of autistic and ADHD workers, remote work wasn't a perk. It was the accommodation that finally made work possible. RTO mandates are a disability access rollback. That framing matters.",
+      "shape": "reframe",
+      "rationale": "Live-stakes post naming an ongoing structural harm. Shifts the frame from productivity debate to access issue — more accurate and more actionable for people navigating RTO transitions right now. 'That framing matters' is a quiet but firm call to hold the line.",
+      "source_url": "https://ratracerebellion.com/remote-work-opened-doors-for-workers-with-disabilities-rto-is-closing-them/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-04",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and desperately want the routine but physically can't follow through — that's not laziness. That's two sets of needs directly in conflict with each other.",
+      "shape": "validation",
+      "rationale": "Names a specific, rarely-articulated experience that falls through the gaps of both communities. The 'want it but can't do it' tension is immediately recognizable and addressed by neither the autism nor ADHD community's typical advice.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-05",
+      "status": "draft",
+      "char_count": 170,
+      "over_limit": false
+    },
+    {
+      "text": "The 'breathe and feel into your body' advice assumes interoception works as advertised. For many autistic people, it doesn't. That's not a mindfulness failure. It's a signal mismatch.",
+      "shape": "micro-insight",
+      "rationale": "Answers a question thousands of people have had but couldn't articulate — why grounding exercises left them feeling worse or nothing. 'Signal mismatch' is a sharp, memorable reframe that earns saves. Claim is qualified with 'many' and grounded in Maguire's interoception work.",
+      "source_url": "https://www.eomega.org/articles/why-feel-your-feelings-isnt-enough-nervous-system-regulation",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-06",
+      "status": "draft",
+      "char_count": 183,
+      "over_limit": false
+    },
+    {
+      "text": "If you've tried every strategy for your PDA kid and nothing sticks — it's not the strategies. No strategy works without nervous system safety first. Trust, co-regulation, low demand come before the chart.",
+      "shape": "practical",
+      "rationale": "Directly addresses the strategy-collection exhaustion PDA families recognize immediately. The closing three-word sequence is actionable and quotable. Removes blame while giving a clear reorientation point grounded in the Attuned Spectrum 'three foundations' framing.",
+      "source_url": "https://www.buzzsprout.com/2518512/episodes/18249824-attuned-parenting-for-autistic-pda-kids-stop-collecting-strategies-build-these-3-foundations",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-07",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    },
+    {
+      "text": "61% of workplace accommodations cost employers nothing. So why is it still entirely on the ADHD worker to know what to ask for, build the case, and risk their career to ask?",
+      "shape": "question",
+      "rationale": "Uses a concrete stat to anchor a discussion-opening question that holds the system accountable rather than the individual. Invites people who have navigated accommodation requests — or haven't yet — to respond honestly. Earns engagement through legitimacy, not outrage bait.",
+      "source_url": "https://blog.saner.ai/adhd-at-work-statistics/",
+      "sensitivity_flag": "The 61% figure is widely attributed to the Job Accommodation Network (JAN) / US Dept of Labor but is here sourced via Saner.ai. Recommend confirming the current figure directly at askjan.org before posting.",
+      "id": "2026-11-07T17-58-20-08",
+      "status": "draft",
+      "char_count": 173,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis shouldn't be the finish line of support. If you got diagnosed and then handed a leaflet and shown the door — that's a system failure, not your resilience.",
+      "shape": "practical",
+      "rationale": "Pairs with the grief-relief-burnout loop post but lands differently: it names the systemic failure and gives people language to advocate for more. The 'leaflet and shown the door' image is specific enough to be recognizable without being hyperbolic.",
+      "source_url": "https://behavioristbookclub.com/aba-research/service-delivery/grief--relief--and-belief--a-social-media-study-on-late-identification/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-09",
+      "status": "draft",
+      "char_count": 169,
+      "over_limit": false
+    },
+    {
+      "text": "If your autistic or ADHD colleague is suddenly struggling after RTO — before you assume anything, ask: what accommodation did they just lose?",
+      "shape": "question",
+      "rationale": "Reframes a common workplace misread as an access question, addressed to managers and colleagues rather than to the neurodivergent person. Short and sharp; lands as an aha moment for people on both sides of that dynamic.",
+      "source_url": "https://ratracerebellion.com/remote-work-opened-doors-for-workers-with-disabilities-rto-is-closing-them/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-10",
+      "status": "draft",
+      "char_count": 141,
+      "over_limit": false
+    },
+    {
+      "text": "PDA framing helps some autistic adults make retrospective sense of why demands — even gentle ones — triggered a full threat response, not just reluctance.",
+      "shape": "micro-insight",
+      "rationale": "Opens a door for autistic adults who may recognize PDA traits in their own history, without positioning it as a checklist or implicit diagnosis prompt. 'Some' is intentional. Keeps this as an informational reframe, well clear of the 'if you do X you might be autistic' rule.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-11",
+      "status": "draft",
+      "char_count": 154,
+      "over_limit": false
+    },
+    {
+      "text": "Before trying another strategy for your PDA kid: when did they last feel genuinely safe — not managed, not rewarded, not redirected. Just safe.",
+      "shape": "question",
+      "rationale": "A single reflective question that reorients the entire parenting frame. The rhythm of 'not managed, not rewarded, not redirected' builds to the final two words with quiet force. Invites a pause rather than a scroll-past. No claim that requires sourcing; evergreen reframe.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-11-07T17-58-20-12",
+      "status": "draft",
+      "char_count": 143,
+      "over_limit": false
+    }
+  ]
+}
