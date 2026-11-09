@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-09T22:50:04.622Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Recovery from autistic burnout shouldn't mean getting better at masking. If 'doing well' means hiding it more convincingly, the crash is already being scheduled.",
+      "shape": "reframe",
+      "rationale": "Challenges the default equation of 'functioning again' with recovery. Draws on Clarey et al. 2026 finding that people mask their burnout itself — a second layer rarely named in a single frame.",
+      "source_url": "https://www.sondermind.com/resources/articles-and-content/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-01",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis gives you relief and grief at the same time. You're allowed to sit in both. The years spent not knowing were real, and the grief about them is too.",
+      "shape": "validation",
+      "rationale": "Validates the grief stage of the grief-relief-belief cycle (Mair et al. 2026) without rushing readers toward gratitude. Gives language and legitimacy to an experience the late-diagnosed community knows but rarely sees named.",
+      "source_url": "https://metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-02",
+      "status": "draft",
+      "char_count": 162,
+      "over_limit": false
+    },
+    {
+      "text": "One thing nobody warns you about after late diagnosis: the relief can quickly become a drive to catch up on everything you missed. That energy is real. So is the crash waiting at the end of it.",
+      "shape": "micro-insight",
+      "rationale": "Names the catch-up phase as a fresh burnout trigger — the fourth stage Mair et al. document. Pairs recognition with a quiet caution without being prescriptive or alarmist.",
+      "source_url": "https://metatoc.com/papers/127775-grief-relief-and-belief-a-social-media-study-on-late-identification-of-neurodivergence",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-03",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "'Pathological Demand Avoidance' pathologises. 'Pervasive Drive for Autonomy' might romanticise. PDAers — does either name actually capture the anxiety and distress underneath it?",
+      "shape": "question",
+      "rationale": "Opens the live naming debate without taking a side or dunking on either camp. Surfaces the specific critique (autonomy framing loses the debilitating anxiety) and invites PDAers to reflect — a genuine discussion-starter, not outrage bait.",
+      "source_url": "https://breakingtheframe.substack.com/p/why-pdas-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-04",
+      "status": "draft",
+      "char_count": 178,
+      "over_limit": false
+    },
+    {
+      "text": "Return-to-office is being framed as a productivity debate. For neurodivergent workers it's more specific: remote work was an accommodation that worked. Rolling it back without process is accessibility regression.",
+      "shape": "reframe",
+      "rationale": "Reframes RTO from preference to accessibility issue — grounded in the 2026 Neurodiversity in Business/Birkbeck finding that RTO increases burnout specifically for neurodivergent employees. Avoids vague generalisation by naming the mechanism.",
+      "source_url": "https://fortune.com/2026/05/20/neurodivergent-workers-in-typical-workplace-like-polar-bear-in-desert/",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-05",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "If your company is rolling out RTO, the question to push on isn't just 'can I get an exemption?' — it's whether an accommodation process exists at all. A 2026 survey found 30% of managers weren't confident having those conversations.",
+      "shape": "practical",
+      "rationale": "Gives neurodivergent workers a concrete framing for their situation, grounded in the 30% manager confidence stat from AllWork.space's 2026 survey coverage. Practical without being prescriptive.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": "The 30% stat is from a 2026 survey cited in AllWork.space — verify exact methodology and jurisdiction (UK 'reasonable adjustments' vs. US 'reasonable accommodations') before posting.",
+      "id": "2026-11-09T22-50-04-06",
+      "status": "draft",
+      "char_count": 233,
+      "over_limit": false
+    },
+    {
+      "text": "If your productivity system only works when you're already functioning, it's not an accommodation. It's just more tasks. The test is your worst day, not your best.",
+      "shape": "micro-insight",
+      "rationale": "Distills the executive-function cost problem into a single quotable frame. Validates both the person and their frustration with standard ADHD advice without diagnosing or prescribing.",
+      "source_url": "https://habi.app/insights/adhd-executive-dysfunction/",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-07",
+      "status": "draft",
+      "char_count": 163,
+      "over_limit": false
+    },
+    {
+      "text": "The thing that helps your ADHD brain focus might be exactly what tips your autistic nervous system into overload. If standard advice keeps failing you, that's not weakness — it's a real conflict.",
+      "shape": "validation",
+      "rationale": "Names the AuDHD contradiction drawing on active community discourse. Validates without diagnosing or prescribing, removes self-blame, and opens conversation for practical follow-up. Identity-first throughout.",
+      "source_url": "https://gettherapybirmingham.com/blog/audhd-when-autism-and-adhd-collide-in-one-brain/",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-08",
+      "status": "draft",
+      "char_count": 195,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting doesn't mean no expectations. It means your child's nervous system is the starting point, not their compliance. Those aren't the same thing.",
+      "shape": "reframe",
+      "rationale": "Clears up the most common misconception about low-demand approaches without shaming the people who hold it. Removes the 'giving up' framing for PDA families. Tight, self-contained, removes shame.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-09",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "Parenting a PDA child can feel different even from other neurodivergent parenting — which leaves a lot of these families isolated within the already-niche neurodivergent parent community.",
+      "shape": "validation",
+      "rationale": "Names the isolation-within-isolation PDA families describe. Drawn from 2026 research via PDA North America. Validates without pity; invites community recognition and connection.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": "Hedged to 'can feel different' rather than categorical — the distinction comes from one 2026 study; keep the hedge in place.",
+      "id": "2026-11-09T22-50-04-10",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "Some autistic adults get a diagnosis and are then turned away from mental health services because of it. Autism services assume mental health is covered. Mental health assumes autism services do. The gap is real.",
+      "shape": "validation",
+      "rationale": "Names a specific, painful systemic failure documented in Attwood & Garnett's 2026 lived-experience study. 'The gap is real' is both defensible and an invitation to share experience without sensationalising.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/the-lived-experience-of-receiving-a-diagnosis-of-autism-in-adulthood",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-11",
+      "status": "draft",
+      "char_count": 212,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout doesn't just mean hiding your traits. Research is naming a second layer: hiding the burnout itself. You manage so well at looking okay that the people who could help don't see it.",
+      "shape": "reframe",
+      "rationale": "Second take on the re-masking trap, foregrounding the double-masking mechanism (Clarey et al. 2026) rather than the recovery framing. Distinct from Post 1 — this names the trap's structure, not its endpoint. Validates without prescribing recovery.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": null,
+      "id": "2026-11-09T22-50-04-12",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    }
+  ]
+}
