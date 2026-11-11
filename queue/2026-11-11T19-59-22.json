@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-11T19:59:22.865Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout and clinical depression can look similar. But they have different roots — and treating burnout like depression can actively make it worse. The distinction matters.",
+      "shape": "reframe",
+      "rationale": "Names a consequential misconception and states the stakes clearly. The AASPIRE 2026 study gives this a live research peg. Avoids prescribing treatment while making the clinical risk concrete.",
+      "source_url": "https://theautisticscientist.substack.com/p/autistic-burnout-is-not-clinical",
+      "sensitivity_flag": "\"Can actively make it worse\" is directional about treatment — defensible via the AASPIRE study but should not appear alongside any implied instruction to avoid specific clinical interventions.",
+      "id": "2026-11-11T19-59-22-01",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "The autistic community has been saying burnout and depression are different for years. A 2026 study just gave it research legs. Community knowledge is knowledge.",
+      "shape": "micro-insight",
+      "rationale": "Credits the community as the original source rather than positioning research as the revelation. The 2026 AASPIRE citation (379 participants, Autism journal) anchors the specific claim defensibly.",
+      "source_url": "https://neurodivergentinsights.com/autism-and-burnout/",
+      "sensitivity_flag": "Specific study claim (AASPIRE, 379 participants) drawn from briefing — confirm publication and participant count directly before posting.",
+      "id": "2026-11-11T19-59-22-02",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "Non-autistic people run most social interactions on autopilot. Many autistic people are manually piloting every exchange. Same destination. Completely different fuel burn.",
+      "shape": "micro-insight",
+      "rationale": "Translates masking's cognitive cost into a frame immediately legible to people who don't experience it. 'Fuel burn' makes cumulative depletion visceral without clinical language.",
+      "source_url": "https://community.autism.org.uk/f/adults-on-the-autistic-spectrum/47881/the-cost-of-masking-learning-the-script-vs-automatic-processing",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-03",
+      "status": "draft",
+      "char_count": 171,
+      "over_limit": false
+    },
+    {
+      "text": "Masking isn't pretending to be someone else. It's running a learned script in real time, every conversation. The exhaustion people on the outside don't see is the evidence.",
+      "shape": "reframe",
+      "rationale": "Shifts masking from a performance framing to a cognitive-load framing — which is both more accurate and more compassionate. The last sentence validates the hidden effort without sentimentality.",
+      "source_url": "https://www.audhdpsychiatry.co.uk/insights/autistic-masking/",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-04",
+      "status": "draft",
+      "char_count": 172,
+      "over_limit": false
+    },
+    {
+      "text": "Remote work was the best accommodation many neurodivergent workers ever had. Nobody called it that at the time. What are we actually asking people to give up with RTO mandates?",
+      "shape": "question",
+      "rationale": "The question form invites genuine reflection rather than performing outrage. 'Nobody called it that' does the reframe economically. Anchored in a live policy moment with real community stakes.",
+      "source_url": "https://allwork.space/2026/05/tips-hr-teams-need-to-better-support-neurodiversity-accommodation-requests-during-return-to-office-transitions/",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-05",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "What looks like 'won't' in a PDAer is usually a nervous system in threat mode — not a choice, not manipulation. Strategies that assume choice tend to make it worse.",
+      "shape": "reframe",
+      "rationale": "The won't-vs-can't reframe is the single most consequential shift in PDA understanding. 'PDAer' is correct identity-first usage. 'Tend to' hedges the outcome claim appropriately.",
+      "source_url": "https://www.buzzsprout.com/2518512/episodes/18457089-pda-parenting-explained-why-pda-isn-t-behaviour-it-s-a-nervous-system-response",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-06",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis can arrive as two things at once: 'that explains everything' and 'I'm mourning the years I didn't have this.' Both are real. You don't have to pick one.",
+      "shape": "validation",
+      "rationale": "Names the dual experience late-diagnosed people describe constantly but rarely see articulated together. Direct second-person feels like recognition, not clinical description.",
+      "source_url": "https://www.buzzsprout.com/2564573/episodes/18986826-late-diagnosis-grief-relief-anger-and-learning-to-be-on-your-own-side",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-07",
+      "status": "draft",
+      "char_count": 167,
+      "over_limit": false
+    },
+    {
+      "text": "Getting a late autism diagnosis doesn't just explain the past. It rewrites it. That rewrite takes time. It's supposed to.",
+      "shape": "validation",
+      "rationale": "Four short sentences, each doing distinct work. The last one is the validation — reframing the slowness of integration as correct rather than a personal failure. Tight and quotable.",
+      "source_url": "https://mindclinic.substack.com/p/the-identity-earthquake",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-08",
+      "status": "draft",
+      "char_count": 121,
+      "over_limit": false
+    },
+    {
+      "text": "If you have ADHD and autism, your brain might crave novelty to feel alive and need routine to feel safe — at the same time. That's not a contradiction. That's the AuDHD experience.",
+      "shape": "validation",
+      "rationale": "Names the internal paradox precisely. 'Might' avoids speaking for everyone. The final sentence offers belonging rather than a fix, which is exactly what this angle calls for.",
+      "source_url": "https://gettherapybirmingham.com/blog/the-internal-civil-war-understanding-and-treating-the-audhd-brain/",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-09",
+      "status": "draft",
+      "char_count": 180,
+      "over_limit": false
+    },
+    {
+      "text": "The test for any ADHD productivity system isn't 'does it work on a good day.' It's 'can I actually use it on my worst one.' Complex systems consume executive function. They don't save it.",
+      "shape": "practical",
+      "rationale": "Flips standard productivity advice in a way that is both actionable and validating. The last two sentences carry the core insight: a system that requires capacity to operate is not a system.",
+      "source_url": "https://habi.app/insights/adhd-executive-dysfunction/",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-10",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "Co-regulation isn't something you switch on when your PDA kid is in meltdown. It's something you've already been building — through your own regulation, the relationship, the small moments before the hard ones.",
+      "shape": "reframe",
+      "rationale": "Meets parents at the point of guilt and reframes the problem without dismissing the difficulty. The list at the end is concrete without being prescriptive.",
+      "source_url": "https://www.buzzsprout.com/2518512/episodes/18612539-pda-autism-parenting-co-regulation-explained-with-low-demand-parenting-and-nervous-system-safety",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-11",
+      "status": "draft",
+      "char_count": 210,
+      "over_limit": false
+    },
+    {
+      "text": "In a heightened moment with a PDA child, the work of co-regulation was done before it was needed. That's not failure when it doesn't appear on demand. That's how nervous system safety actually gets built.",
+      "shape": "practical",
+      "rationale": "Companion to the co-regulation reframe — speaks to the parent's in-the-moment experience of 'I'm failing right now.' Converts that failure framing into a process framing, which is both accurate and compassionate.",
+      "source_url": "https://neurodivergentinsights.com/low-demand-parenting/",
+      "sensitivity_flag": null,
+      "id": "2026-11-11T19-59-22-12",
+      "status": "draft",
+      "char_count": 204,
+      "over_limit": false
+    }
+  ]
+}
