@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-13T20:12:19.842Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "We talk about masking as exhausting. The sharper finding: it may not be draining you so much as replacing you. A 2025 study found identity distress — not fatigue — is the mechanism linking masking to poor mental health.",
+      "shape": "reframe",
+      "rationale": "Names the deeper mechanism (identity erosion) rather than the well-known claim (fatigue), creating genuine new insight from the Burns & Botha finding rather than restating what the community already knows.",
+      "source_url": "https://www.attwoodandgarnettevents.com/blogs/news/masking-and-unmasking-what-recent-research-suggests",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-01",
+      "status": "draft",
+      "char_count": 219,
+      "over_limit": false
+    },
+    {
+      "text": "46% of autistic adults in a 2025 study met thresholds for severe identity distress. For non-autistic adults: 13%. If masking is a performance, it may be one that gradually hollows out the performer.",
+      "shape": "micro-insight",
+      "rationale": "Leads with the data rather than narrative — lands the number's significance via metaphor without over-explaining; works as a standalone or companion to the narrative reframe.",
+      "source_url": "https://autismanswersback.bearblog.dev/when-the-mask-eats-the-self/",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-02",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "If 'just unmask' advice makes you feel like you're failing your own liberation — you're not failing. Unmasking requires genuinely safe spaces that many people don't have yet. The timeline is yours.",
+      "shape": "validation",
+      "rationale": "Validates the gap between the aspirational unmasking narrative and conditional reality; meets people sitting in that gap without dismissing the goal or pathologising caution.",
+      "source_url": "https://quietlyautisticatlast.buzzsprout.com/2526714/episodes/19698323-52-unmasking-is-not-safe-everywhere",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-03",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Return-to-office mandates aren't a productivity debate. For many autistic and ADHD workers, they're dismantling the one accommodation that actually worked. That's an accessibility crisis.",
+      "shape": "reframe",
+      "rationale": "Reframes RTO as an accessibility issue rather than a culture-of-work debate — a genuinely fresh frame that opens a different conversation than the typical remote-work discourse.",
+      "source_url": "https://neurodiversity.org/?p=11570",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-04",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "Should remote work be treated as a reasonable adjustment by default for neurodivergent workers? A 2026 Birkbeck/NiB report links RTO mandates to higher burnout and lower career satisfaction. The data is there.",
+      "shape": "question",
+      "rationale": "Opens a concrete policy question the community can engage with and push into HR/employer spaces; anchors it to live research so it reads as argument, not grievance.",
+      "source_url": "https://neurodiversity.org/?p=11570",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-05",
+      "status": "draft",
+      "char_count": 209,
+      "over_limit": false
+    },
+    {
+      "text": "PDA isn't a behavior problem. It's a nervous system doing exactly what a nervous system does when it perceives threat. The refusal isn't defiance. It's survival.",
+      "shape": "reframe",
+      "rationale": "Strips moral valence from PDA refusal in the fewest possible words; every strategy question changes once the frame shifts from willful defiance to involuntary threat response.",
+      "source_url": "https://attunedspectrum.buzzsprout.com/2518512/episodes/18457089-pda-parenting-explained-why-pda-isn-t-behaviour-it-s-a-nervous-system-response",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-06",
+      "status": "draft",
+      "char_count": 161,
+      "over_limit": false
+    },
+    {
+      "text": "An autistic shutdown isn't the silent treatment. It's a freeze response — not a choice, not passive aggression, not emotional withdrawal. Treating it like the latter makes recovery harder for everyone.",
+      "shape": "validation",
+      "rationale": "Corrects a specific, common misread that damages autistic people's relationships; equally useful to the autistic person being misread and the people around them.",
+      "source_url": "https://neurodivergentrebel.com/2026/08/31/the-terrifying-reality-of-an-autistic-shutdown-its-not-the-silent-treatment/",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-07",
+      "status": "draft",
+      "char_count": 201,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis relief is real. But the sequence usually goes: confusion, then grief, then rage — and then relief. If you're in the harder stages and not yet feeling free, you're not doing it wrong.",
+      "shape": "validation",
+      "rationale": "Validates the emotional arc that precedes relief; directly addresses AuDHD/autistic people sitting in grief or rage who may feel they're failing at their own late diagnosis.",
+      "source_url": "https://neurodivergentrebel.com/2026/07/29/the-rage-that-saved-me-the-pain-before-the-pride-what-success-looks-like-when-youre-late-diagnosed-a-late-identified-audhd-autistic-and-adhd-story/",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-08",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "Most regulation strategies assume you can feel yourself escalating before it's too late. Many autistic people can't — the internal signal system is genuinely unreliable. That's not a personal failure. That's neurology.",
+      "shape": "micro-insight",
+      "rationale": "Names the structural reason standard dysregulation advice fails; reframes 'I can't catch myself in time' from character flaw to neurological difference in one move.",
+      "source_url": "https://blog.soton.ac.uk/edpsych/2026/02/23/understanding-anxiety-in-autistic-adolescents-the-predictive-role-of-interoceptive-beliefs-and-insight-2026/",
+      "sensitivity_flag": "The Southampton study focuses on autistic adolescents; applying the interoception finding to autistic people generally is a reasonable extension but slightly outruns the specific source — 'many autistic people' appropriately limits the scope.",
+      "id": "2026-11-13T20-12-19-09",
+      "status": "draft",
+      "char_count": 218,
+      "over_limit": false
+    },
+    {
+      "text": "Late-diagnosed autistic burnout isn't just overwork. It's decades of trying to be someone you weren't, with no explanation for why it cost so much. The shame layer is specific to this. Worth naming.",
+      "shape": "validation",
+      "rationale": "Distinguishes late-diagnosed autistic burnout from mainstream burnout discourse by naming the shame layer specifically — a distinction rarely made that lands with immediate recognition.",
+      "source_url": "https://markdurgee.substack.com/p/late-identified-burnout-chronicles-cff",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-10",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "'Low-demand parenting' isn't 'no rules.' It's reducing the things a nervous system reads as threats. Fewer demands ≠ no structure. It means less activation, more capacity, more connection.",
+      "shape": "reframe",
+      "rationale": "Addresses the dominant objection to low-demand approaches head-on; reframes apparent permissiveness as nervous-system accuracy rather than parenting failure, which helps parents defend it to schools and family.",
+      "source_url": null,
+      "sensitivity_flag": "Per the briefing, the formal evidence base for low-demand outcomes is thin — this draws on practitioner and community consensus rather than established research; phrasing is kept descriptive rather than prescriptive to reflect that.",
+      "id": "2026-11-13T20-12-19-11",
+      "status": "draft",
+      "char_count": 188,
+      "over_limit": false
+    },
+    {
+      "text": "Declarative language: 'I notice the shoes are still by the door' instead of 'Put your shoes away.' One is an observation. One is a demand. For a PDA nervous system, that difference is not small.",
+      "shape": "practical",
+      "rationale": "Gives a concrete, immediately usable example a parent can try today without reading a book first; the contrast between observation and demand does the explaining so the post doesn't have to.",
+      "source_url": "https://adhdparentandteacherexpert.substack.com/p/using-declarative-language-with-kids",
+      "sensitivity_flag": null,
+      "id": "2026-11-13T20-12-19-12",
+      "status": "draft",
+      "char_count": 194,
+      "over_limit": false
+    }
+  ]
+}
