@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-19T21:07:36.839Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Masking debt doesn't work like tiredness. It compounds like interest — invisible until it isn't. The crash that felt sudden has been building for years.",
+      "shape": "micro-insight",
+      "rationale": "The debt/interest metaphor makes a confusing timeline legible. It explains the 'I was fine and then suddenly I wasn't' pattern without self-blame — a moment of recognition for many late-diagnosed autistic adults.",
+      "source_url": "https://embrace-autism.com/masking-debt-and-autistic-burnout/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-01",
+      "status": "draft",
+      "char_count": 152,
+      "over_limit": false
+    },
+    {
+      "text": "Rest doesn't cure autistic burnout if the conditions that caused it haven't changed. You're not failing to recover. You're recovering into the same situation.",
+      "shape": "reframe",
+      "rationale": "Directly challenges the 'just rest' advice most autistic people actually receive. Reframes stalled recovery as a structural problem rather than a personal failing — which is both truer and kinder.",
+      "source_url": "https://www.unsw.edu.au/newsroom/news/2026/01/what-is-autistic-burnout-and-what-can-you-do-about-it",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-02",
+      "status": "draft",
+      "char_count": 158,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD: you build the most detailed plan you've ever written. Then your brain refuses to start it. That's not laziness or failure. It's two incompatible operating modes living in one body.",
+      "shape": "validation",
+      "rationale": "Names a highly specific, recognizable AuDHD experience backed by community-scale survey data. The 'two incompatible operating modes' framing converts a common self-criticism into a neurological explanation.",
+      "source_url": "https://www.psychotherapynetworker.org/article/the-audhd-paradox/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-03",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "For many neurodivergent workers, remote work wasn't a flexibility perk. It was the accommodation making the job doable. RTO mandates removed it — without calling it what it was.",
+      "shape": "reframe",
+      "rationale": "Shifts the frame from 'neurodivergent people are struggling' to 'a working accommodation was quietly revoked.' Names who holds accountability without telling anyone how to feel about it.",
+      "source_url": "https://www.itpro.com/business/careers-and-training/neurodivergent-workers-are-burning-out-at-record-pace-heres-what-employers-can-do-to-improve-support",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-04",
+      "status": "draft",
+      "char_count": 177,
+      "over_limit": false
+    },
+    {
+      "text": "Late autism diagnosis: relief is real. So is grief — for the years, the misread, the self-blame. Nobody tells you that anger and confusion are equally normal. Rushing past the grief often backfires.",
+      "shape": "validation",
+      "rationale": "Addresses a genuine gap in late-diagnosis content. The internet skews heavily toward gratitude narratives; naming grief as valid fills something quietly missing for a large and growing cohort.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-05",
+      "status": "draft",
+      "char_count": 198,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting isn't permissive parenting. It's structure designed around capacity rather than compliance. Conflating the two compounds shame for families already under enormous pressure.",
+      "shape": "reframe",
+      "rationale": "Provides specific, usable language to distinguish the two approaches. Validates PDA families without attacking those who misread the approach — treats it as a category error, not malice.",
+      "source_url": "https://pdanorthamerica.org/when-conventional-parenting-wisdom-doesnt-work-for-pda-kids/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-06",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't defiance or manipulation. It's a nervous system registering perceived loss of autonomy as a threat. The child isn't choosing this — which is why consequence-based approaches don't reach it.",
+      "shape": "reframe",
+      "rationale": "Compassionate to child and parent simultaneously: removes blame from the child while explaining why well-intentioned conventional approaches fail, without condemning parents for having tried them.",
+      "source_url": "https://www.additudemag.com/pathological-demand-avoidance-pda-overview/",
+      "sensitivity_flag": "The claim that consequence-based approaches categorically 'don't reach it' is strong. Defensible within PDA literature but could read as absolute — may draw pushback from practitioners using blended models.",
+      "id": "2026-11-19T21-07-36-07",
+      "status": "draft",
+      "char_count": 216,
+      "over_limit": false
+    },
+    {
+      "text": "Mask and burn out, or disclose and risk your career. That's the bind neurodivergent workers describe. The question isn't 'should I disclose?' — it's why those are still the only two options.",
+      "shape": "question",
+      "rationale": "Asks the structural question rather than the personal one. Opens genuine discussion without prescribing an answer — which is more honest and more likely to generate meaningful conversation than a tips thread.",
+      "source_url": "https://fortune.com/2024/05/15/neurodivergent-employees-arent-disclosing-their-conditions-at-work-because-they-worry-it-will-hurt-their-career/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-08",
+      "status": "draft",
+      "char_count": 190,
+      "over_limit": false
+    },
+    {
+      "text": "'Unmask' has become a rallying word in neurodivergent spaces. For many, that's genuinely freeing. For some, unmasking isn't safe or possible right now. The push to unmask can quietly become its own demand.",
+      "shape": "micro-insight",
+      "rationale": "Protects people who can't yet safely unmask from new community pressure while honoring the broader unmasking conversation. Models the kind of nuance this community values and rarely sees modeled publicly.",
+      "source_url": "https://www.simplypsychology.org/why-unmasking-as-a-late-diagnosed-autistic-adult-is-harder-than-it-sounds.html",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-09",
+      "status": "draft",
+      "char_count": 205,
+      "over_limit": false
+    },
+    {
+      "text": "If you're AuDHD and you make detailed plans you can't start: that gap isn't a character flaw. It's a recognized neurological mismatch. Naming it correctly changes what kind of help makes sense.",
+      "shape": "practical",
+      "rationale": "Moves the AuDHD planning-initiation validation toward action — naming the experience accurately is itself a step toward actually useful support. Ends with direction without prescribing a specific intervention.",
+      "source_url": "https://www.psychotherapynetworker.org/article/the-audhd-paradox/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-10",
+      "status": "draft",
+      "char_count": 193,
+      "over_limit": false
+    },
+    {
+      "text": "Autistic burnout recovery means looking at what created the burnout — the demands, the masking requirements, the inaccessible environments. Rest is part of it. Removing the cause is the other part.",
+      "shape": "practical",
+      "rationale": "Moves the burnout reframe into actionable territory without being prescriptive. The parallel final sentences keep it memorable and give people something concrete to hold onto rather than just a critique of 'just rest' advice.",
+      "source_url": "https://www.sondermind.com/resources/articles-and-content/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-11",
+      "status": "draft",
+      "char_count": 197,
+      "over_limit": false
+    },
+    {
+      "text": "If your company issued an RTO mandate, did anyone discuss it as an accessibility decision? For many neurodivergent workers, it was — just one made without them.",
+      "shape": "question",
+      "rationale": "Short and pointed. Asks whether neurodivergent workers were at the table when RTO decisions were made — reframes the accommodation question from individual hardship to collective decision-making, which is a sharper and more accurate frame.",
+      "source_url": "https://www.itpro.com/business/careers-and-training/neurodivergent-workers-are-burning-out-at-record-pace-heres-what-employers-can-do-to-improve-support",
+      "sensitivity_flag": null,
+      "id": "2026-11-19T21-07-36-12",
+      "status": "draft",
+      "char_count": 160,
+      "over_limit": false
+    }
+  ]
+}
