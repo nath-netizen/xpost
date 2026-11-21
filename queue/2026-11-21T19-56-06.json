@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-21T19:56:06.856Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Autistic burnout isn't a motivation failure. It's what happens when demands exceed capacity for long enough. The pivot that matters: not 'why can't I just do it?' but 'what has been eroding my capacity for years?'",
+      "shape": "reframe",
+      "rationale": "Directly counters the self-blame narrative late-diagnosed adults carry most. The pivot question is the shareable moment — precise enough to screenshot, honest enough to land.",
+      "source_url": "https://www.unsw.edu.au/newsroom/news/2026/01/what-is-autistic-burnout-and-what-can-you-do-about-it",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-01",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "If you rested and still feel like nothing came back — the missing piece might be the environment. 2026 research is consistent: recovery stalls when the conditions that caused burnout are still in place.",
+      "shape": "practical",
+      "rationale": "Pairs with the burnout reframe but shifts to the concrete missing step. Speaks directly to people who tried rest and stayed depleted — a bewildering, common experience that rarely gets named this cleanly.",
+      "source_url": "https://embrace-autism.com/autistic-burnout-recovery/",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-02",
+      "status": "draft",
+      "char_count": 202,
+      "over_limit": false
+    },
+    {
+      "text": "Late diagnosis often brings relief — and then, later, grief. For the childhood that went unnamed. For the younger self who had to manage alone. That grief is real. You don't have to skip it to get to acceptance.",
+      "shape": "validation",
+      "rationale": "Names the 'relief then grief' sequence that's widely recognized in community spaces but rarely stated this plainly. Gently pushes back on the pressure to perform immediate gratitude.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-03",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "Re-reading your whole life through a new lens is disorienting in a way that rarely gets named. It isn't just insight — it's also the specific grief of realising how much harder everything was than it needed to be.",
+      "shape": "validation",
+      "rationale": "A second take on post-diagnosis grief with a different emotional register — less enumerative, more visceral. The 'harder than it needed to be' line is the recognition moment.",
+      "source_url": "https://mindclinic.substack.com/p/the-identity-earthquake",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-04",
+      "status": "draft",
+      "char_count": 213,
+      "over_limit": false
+    },
+    {
+      "text": "The diagnosis names the mask. It doesn't remove it. Unmasking is effortful, disorienting, and slow — and the world around you doesn't become safer just because you now know you're autistic.",
+      "shape": "micro-insight",
+      "rationale": "The opening line is quotable on its own. Validates the disappointment many people feel when diagnosis doesn't feel like the liberation they expected. Evergreen and grounded.",
+      "source_url": "https://www.simplypsychology.org/why-unmasking-as-a-late-diagnosed-autistic-adult-is-harder-than-it-sounds.html",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-05",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    },
+    {
+      "text": "Demand avoidance doesn't only hit things you don't want to do. It can block the hobby you chose, the project you were excited about, the thing that was supposed to be yours. That's not inconsistency. That's how PDA works.",
+      "shape": "validation",
+      "rationale": "Names one of the most shame-inducing adult PDA experiences. The final two sentences hand the community language for something they've felt unable to explain.",
+      "source_url": "https://www.pdasociety.org.uk/?p=3418",
+      "sensitivity_flag": "Uses 'PDA' as community/self-identification language, grounded in PDA Society source. 'That's how PDA works' is a broad claim — defensible within PDA-identified community but should not be read as a universal clinical definition.",
+      "id": "2026-11-21T19-56-06-06",
+      "status": "draft",
+      "char_count": 221,
+      "over_limit": false
+    },
+    {
+      "text": "The most shame-inducing part of demand avoidance: it hits things you actually want. Your own goals. Your own projects. This isn't about preference or willpower — it's about autonomy threat, which doesn't check whether you're the one who made the plan.",
+      "shape": "validation",
+      "rationale": "Second take on demand avoidance — different structure and emphasis. Where the first post ends with naming, this one explains the mechanism (autonomy threat), which serves a slightly more analytical reader.",
+      "source_url": "https://dznz.substack.com/p/what-is-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-07",
+      "status": "draft",
+      "char_count": 251,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting for PDA kids gets dismissed as permissive. What it actually requires: constant nervous-system regulation from the parent, creative problem-solving, and deliberate relational repair. It's rigorous. Just rigorous differently.",
+      "shape": "reframe",
+      "rationale": "Validates exhausted PDA parents facing dismissal from schools and relatives. 'Rigorous differently' is the reframe — accurate, non-defensive, and respects the parent's intelligence.",
+      "source_url": "https://www.psychologytoday.com/us/blog/your-quality-of-life/202604/parenting-a-child-with-pathological-demand-avoidance",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-08",
+      "status": "draft",
+      "char_count": 244,
+      "over_limit": false
+    },
+    {
+      "text": "AuDHD masking wasn't just autism masking plus ADHD masking. For many late-diagnosed women, each condition's coping style helped conceal the other — often for decades. The double-invisible load was always doing two jobs at once.",
+      "shape": "validation",
+      "rationale": "Names the interaction effect rather than the additive model — the sharper, less-covered angle. 'Women' is research-grounded (Birmingham City University qualitative study, Psychotherapy Networker 2026).",
+      "source_url": "https://www.psychotherapynetworker.org/article/trauma-and-audhd-in-women/",
+      "sensitivity_flag": "Specifies 'women' because the named research peg focuses there. Does not claim the pattern is exclusive to women, but some readers may feel excluded. Consider broadening to 'many late-diagnosed AuDHD adults' if that trade-off matters for this account.",
+      "id": "2026-11-21T19-56-06-09",
+      "status": "draft",
+      "char_count": 227,
+      "over_limit": false
+    },
+    {
+      "text": "A 2026 study found autistic people were often more attuned to internal body signals, not less — but more likely to read those signals as threatening. 'I don't know what my body is doing' and 'I know but it frightens me' are different problems.",
+      "shape": "micro-insight",
+      "rationale": "Reframes a common assumption with a specific research finding. The two-sentence contrast at the end is the shareable moment — it gives language for something people experience but haven't been able to describe.",
+      "source_url": "https://www.simplypsychology.org/news/how-autistic-people-interpret-internal-body-signals/",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-10",
+      "status": "draft",
+      "char_count": 243,
+      "over_limit": false
+    },
+    {
+      "text": "70% of neurodivergent workers don't know what accommodations they can request. 79% say stigma stops them from asking anyway. The most common asks — flexible scheduling, written instructions, quiet space — cost employers nothing.",
+      "shape": "practical",
+      "rationale": "Fresh May 2026 numbers from Understood/Harris Poll. Quietly enraging in the right way — not outrage bait. The final sentence pivots from problem to implication without overpromising.",
+      "source_url": "https://www.understood.org/en/press-releases/neurodiversity-at-work-survey-reveals-persistent-stigma-and-role-for-ai-in-the-workplace",
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-11",
+      "status": "draft",
+      "char_count": 228,
+      "over_limit": false
+    },
+    {
+      "text": "What did masking cost you that you're still looking for? A hobby you dropped because it felt too weird. A way of being in a room. A kind of friendship. Curious what you're still rebuilding.",
+      "shape": "question",
+      "rationale": "Specific and emotionally real. Forward-looking rather than grief-stuck. Generates varied, non-competitive responses and low demand on respondents. Synthesises the late-diagnosis and unmasking conversation across the briefing.",
+      "source_url": null,
+      "sensitivity_flag": null,
+      "id": "2026-11-21T19-56-06-12",
+      "status": "draft",
+      "char_count": 189,
+      "over_limit": false
+    }
+  ]
+}
