@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-24T00:32:14.915Z",
+  "model": "claude-sonnet-4-6",
+  "items": [
+    {
+      "text": "Unmasking isn't always available. For many autistic people — especially those who are multiply marginalised — safety is a prerequisite, not a byproduct. The goal isn't to mask less. It's to build conditions where less masking is survivable.",
+      "shape": "reframe",
+      "rationale": "Reframes the 'just unmask' narrative by locating the problem in structural conditions, not individual failure. Removes shame from people who cannot safely unmask without dismissing unmasking as a goal.",
+      "source_url": "https://jadefarrington.substack.com/p/delving-into-the-complexity-of-unmasking",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-01",
+      "status": "draft",
+      "char_count": 240,
+      "over_limit": false
+    },
+    {
+      "text": "PDA demand avoidance isn't just about other people's expectations. It fires on your own goals, your own routines — things you genuinely want to do. That's why it can feel like fighting yourself. Because you are.",
+      "shape": "validation",
+      "rationale": "Names a specific, rarely-articulated mechanism that many PDA adults have experienced but attributed to laziness or personal failure. High recognition and relief value; grounded in PDA adult literature.",
+      "source_url": "https://www.scienceworkshealth.com/post/pathological-demand-avoidance-in-adults-adult-pda-profile-signs-at-work-and-in-relationships-and",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-02",
+      "status": "draft",
+      "char_count": 211,
+      "over_limit": false
+    },
+    {
+      "text": "What did you lose when RTO came in that you weren't supposed to admit mattered? The quiet. The controlled space. No commute sensory assault. Those weren't perks. They were access.",
+      "shape": "question",
+      "rationale": "Opens a genuine community conversation by naming what RTO stripped away as access, not preference. The question format invites real answers rather than performing a point.",
+      "source_url": "https://fortune.com/2026/05/20/neurodivergent-workers-in-typical-workplace-like-polar-bear-in-desert/",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-03",
+      "status": "draft",
+      "char_count": 179,
+      "over_limit": false
+    },
+    {
+      "text": "The first step of autistic burnout recovery isn't adding rest. It's removing things. More strategies on top of an overloaded system isn't recovery — it's more load.",
+      "shape": "practical",
+      "rationale": "Delivers a counterintuitive micro-insight that directly reframes the 'try harder' instinct. Shareable and actionable without being prescriptive or clinical. Punchline lands in the last five words.",
+      "source_url": "https://www.scienceworkshealth.com/post/autistic-burnout-recovery-signs-timelines-and-how-to-rebuild-capacity",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-04",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    },
+    {
+      "text": "You're allowed to grieve after a late autism diagnosis. The relief is real. So is the anger at all the years you weren't supported. Both can be true. You don't have to rush to the relief part.",
+      "shape": "validation",
+      "rationale": "Pushes back on the dominant 'diagnosis set me free' narrative by explicitly holding space for grief and anger. Names an experience the community rarely sees validated outside of private forums.",
+      "source_url": "https://psyche.co/ideas/late-autism-diagnosis-its-a-relief-but-whos-behind-the-mask",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-05",
+      "status": "draft",
+      "char_count": 192,
+      "over_limit": false
+    },
+    {
+      "text": "Not disclosing your diagnosis at work isn't hiding. It's a safety calculation. 79% of neurodivergent employees feel stigma around accommodation requests. Silence can be self-protection, not shame.",
+      "shape": "reframe",
+      "rationale": "Removes guilt from non-disclosure by reframing it as strategic self-protection, grounded in a defensible 2026 survey figure. Challenges the moral framing that equates silence with dishonesty.",
+      "source_url": "https://www.understood.org/en/press-releases/neurodiversity-at-work-survey-reveals-persistent-stigma-and-role-for-ai-in-the-workplace",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-06",
+      "status": "draft",
+      "char_count": 196,
+      "over_limit": false
+    },
+    {
+      "text": "Years in ADHD spaces where the autistic piece wasn't seen. Years in autistic spaces where the ADHD piece was missed. 'AuDHD' isn't just a label. It's the first time both parts showed up in the same room.",
+      "shape": "validation",
+      "rationale": "Captures the specific loneliness of AuDHD experience — belonging partially in multiple spaces — and frames the combined term as recognition rather than a clinical category. Very high comment-magnet potential.",
+      "source_url": "https://www.psychotherapynetworker.org/article/the-audhd-paradox/",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-07",
+      "status": "draft",
+      "char_count": 203,
+      "over_limit": false
+    },
+    {
+      "text": "Low-demand parenting for PDA kids isn't permissiveness. A PDA nervous system reads demands as threats. Reducing demands isn't giving up on structure — it's the actual approach.",
+      "shape": "reframe",
+      "rationale": "Gives PDA parents language to push back against judgment by grounding low-demand approaches in an anxiety-first mechanism rather than parenting weakness. Addresses a beleaguered, isolated community.",
+      "source_url": "https://pdanorthamerica.org/new-research-on-parenting-pdaers-what-it-really-feels-like-and-why-low-demand-parenting-is-the-path-forward/",
+      "sensitivity_flag": "'Reads demands as threats' is a mechanistic claim about PDA neurology — defensible per current PDA literature but could attract medical debate. Worth monitoring replies.",
+      "id": "2026-11-24T00-32-14-08",
+      "status": "draft",
+      "char_count": 176,
+      "over_limit": false
+    },
+    {
+      "text": "You're not behind. You were on a course nobody gave you a map for, being measured against milestones designed for someone else entirely.",
+      "shape": "micro-insight",
+      "rationale": "Reframes 'being behind' as a category error — the milestones never applied. Clean, quotable, self-contained. Strong as a standalone post or as a graphic pull-quote.",
+      "source_url": "https://theautisticcoach.substack.com/p/you-are-not-behind-you-are-rebuilding",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-09",
+      "status": "draft",
+      "char_count": 136,
+      "over_limit": false
+    },
+    {
+      "text": "The autistic part writes the perfect plan. The ADHD part loses it immediately. AuDHD isn't just 'both' — it's the internal friction of two systems pulling in opposite directions at once.",
+      "shape": "micro-insight",
+      "rationale": "Uses the AuDHD paradox punchline to crystallise an experience that's hard to explain. Earns recognition through specificity; likely to generate 'this is exactly it' replies.",
+      "source_url": "https://www.psychotherapynetworker.org/article/the-audhd-paradox/",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-10",
+      "status": "draft",
+      "char_count": 186,
+      "over_limit": false
+    },
+    {
+      "text": "If you've felt guilt about not being able to unmask, it might not be that you're stuck. It might be that the conditions aren't safe. That's not your failure — that's a structural problem.",
+      "shape": "validation",
+      "rationale": "Companion to the structural unmasking reframe but enters from felt shame rather than concept. Different emotional entry point, different audience reach — speaks directly to the guilt experience.",
+      "source_url": "https://thereframediaries.substack.com/p/before-the-mask-why-unmasking-feels",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-11",
+      "status": "draft",
+      "char_count": 187,
+      "over_limit": false
+    },
+    {
+      "text": "Did disclosing your diagnosis at work help you — or did it complicate things? Genuine question. The community deserves an honest answer more than an optimistic one.",
+      "shape": "question",
+      "rationale": "Opens a real community conversation about disclosure without steering toward an answer. 'Genuine question' signals this isn't rhetorical — it invites mixed, honest responses and surfaces lived experience over narrative.",
+      "source_url": "https://thetransmitter.org/spectrum/disclosure-autism-work-holds-risks-benefits",
+      "sensitivity_flag": null,
+      "id": "2026-11-24T00-32-14-12",
+      "status": "draft",
+      "char_count": 164,
+      "over_limit": false
+    }
+  ]
+}
